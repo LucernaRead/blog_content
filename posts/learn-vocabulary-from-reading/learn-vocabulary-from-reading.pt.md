@@ -1,7 +1,7 @@
 ---
 title: "Como aprender vocabulário lendo (e parar de moer flashcards)"
 excerpt: "Flashcards ensinam palavras no vácuo; a leitura ensina onde elas vivem. Como transformar os livros que você já quer ler no único sistema de vocabulário de que precisa."
-publishedAt: ""
+publishedAt: "2026-07-12"
 draft: false
 ---
 

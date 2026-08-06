@@ -1,7 +1,7 @@
 ---
 title: "Combien de mots faut-il pour lire un livre en langue étrangère ?"
 excerpt: "Les chiffres honnêtes : environ 5 000 familles de mots pour comprendre grossièrement, 8 000 à 9 000 pour lire seul confortablement. Mais surtout : inutile d'attendre — lire est la façon d'y arriver."
-publishedAt: ""
+publishedAt: "2026-07-15"
 draft: false
 ---
 

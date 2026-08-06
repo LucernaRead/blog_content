@@ -1,7 +1,7 @@
 ---
 title: "Leia um livro que você já conhece: o atalho para o primeiro romance em outro idioma"
 excerpt: "O mais difícil do primeiro romance num idioma novo não é a gramática — é não saber o que vai acontecer. Tire esse problema da mesa: leia um livro que você já leu."
-publishedAt: ""
+publishedAt: "2026-07-14"
 draft: false
 ---
 

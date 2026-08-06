@@ -1,7 +1,7 @@
 ---
 title: "Woordenschat leren door te lezen (en stoppen met flashcards malen)"
 excerpt: "Flashcards leren je woorden in een vacuüm; lezen leert ze waar ze wonen. Hoe je de boeken die je toch al wilt lezen tot je enige woordenschatsysteem maakt."
-publishedAt: ""
+publishedAt: "2026-07-12"
 draft: false
 ---
 

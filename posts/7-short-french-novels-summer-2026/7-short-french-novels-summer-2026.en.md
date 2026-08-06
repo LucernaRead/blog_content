@@ -1,7 +1,7 @@
 ---
 title: "Read like a Parisian: 7 short French novels to start this summer"
 excerpt: "A reading ladder from A2 to C1, all of them on Project Gutenberg for free, none of them long enough to ruin your June."
-publishedAt: ""
+publishedAt: "2026-06-15"
 draft: false
 ---
 

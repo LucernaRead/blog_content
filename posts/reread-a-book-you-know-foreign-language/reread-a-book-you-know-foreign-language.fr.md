@@ -1,7 +1,7 @@
 ---
 title: "Relisez un livre que vous connaissez : le raccourci vers votre premier roman en langue étrangère"
 excerpt: "Le plus dur dans un premier roman en langue étrangère n'est pas la grammaire, c'est de ne pas savoir la suite. Retirez ce problème : lisez un livre que vous avez déjà lu."
-publishedAt: ""
+publishedAt: "2026-07-14"
 draft: false
 ---
 

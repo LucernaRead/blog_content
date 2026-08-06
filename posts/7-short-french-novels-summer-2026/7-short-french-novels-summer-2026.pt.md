@@ -1,7 +1,7 @@
 ---
 title: "Ler como um parisiense: 7 romances franceses curtos para este verão"
 excerpt: "Uma escada de leitura de A2 a C1, todos gratuitos no Projeto Gutenberg, nenhum longo o bastante para estragar o seu junho."
-publishedAt: ""
+publishedAt: "2026-06-15"
 draft: false
 ---
 

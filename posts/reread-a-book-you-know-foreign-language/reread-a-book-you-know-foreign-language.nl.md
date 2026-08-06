@@ -1,7 +1,7 @@
 ---
 title: "Lees een boek dat je al kent: de sluiproute naar je eerste anderstalige roman"
 excerpt: "Het moeilijkste aan je eerste roman in een nieuwe taal is niet de grammatica, maar niet weten wat er gaat gebeuren. Haal dat probleem weg: lees een boek dat je al gelezen hebt."
-publishedAt: ""
+publishedAt: "2026-07-14"
 draft: false
 ---
 

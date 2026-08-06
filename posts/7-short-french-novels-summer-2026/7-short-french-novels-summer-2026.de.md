@@ -1,7 +1,7 @@
 ---
 title: "Lesen wie in Paris: 7 kurze französische Romane für diesen Sommer"
 excerpt: "Eine Leseleiter von A2 bis C1, alle kostenlos im Project Gutenberg, und keiner lang genug, um deinen Juni zu ruinieren."
-publishedAt: ""
+publishedAt: "2026-06-15"
 draft: false
 ---
 

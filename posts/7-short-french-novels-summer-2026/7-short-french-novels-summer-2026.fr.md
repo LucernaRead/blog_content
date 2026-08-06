@@ -1,7 +1,7 @@
 ---
 title: "Lire comme un Parisien : 7 romans français courts à commencer cet été"
 excerpt: "Une échelle de lecture de A2 à C1, tous gratuits sur le Projet Gutenberg, aucun assez long pour gâcher votre mois de juin."
-publishedAt: ""
+publishedAt: "2026-06-15"
 draft: false
 ---
 

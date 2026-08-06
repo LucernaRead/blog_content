@@ -1,7 +1,7 @@
 ---
 title: "Leer como un parisino: 7 novelas francesas breves para este verano"
 excerpt: "Una escalera de lectura de A2 a C1, todas gratis en el Proyecto Gutenberg, ninguna lo bastante larga como para arruinarte junio."
-publishedAt: ""
+publishedAt: "2026-06-15"
 draft: false
 ---
 

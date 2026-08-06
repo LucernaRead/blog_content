@@ -1,7 +1,7 @@
 ---
 title: "Lies ein Buch, das du schon kennst: die Abkürzung in deinen ersten fremdsprachigen Roman"
 excerpt: "Das Schwerste am ersten Roman in einer neuen Sprache ist nicht die Grammatik, sondern nicht zu wissen, wie es weitergeht. Also nimm das Problem vom Tisch: lies ein Buch, das du schon gelesen hast."
-publishedAt: ""
+publishedAt: "2026-07-14"
 draft: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Read a book you already know: the shortcut into your first foreign-language novel"
 excerpt: "The hardest part of your first novel in a new language isn't the grammar — it's not knowing what happens next. So take that problem off the table: read a book you've already read."
-publishedAt: ""
+publishedAt: "2026-07-14"
 draft: false
 ---
 

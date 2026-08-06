@@ -1,7 +1,7 @@
 ---
 title: "Wie du Vokabeln durch Lesen lernst (und endlich mit Karteikarten aufhörst)"
 excerpt: "Karteikarten lehren Wörter im luftleeren Raum, Lesen lehrt sie dort, wo sie leben. Wie du die Bücher, die du ohnehin lesen willst, zum einzigen Vokabelsystem machst, das du brauchst."
-publishedAt: ""
+publishedAt: "2026-07-12"
 draft: false
 ---
 

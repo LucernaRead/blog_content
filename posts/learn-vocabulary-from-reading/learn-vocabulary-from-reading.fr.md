@@ -1,7 +1,7 @@
 ---
 title: "Apprendre du vocabulaire en lisant (et arrêter enfin les cartes)"
 excerpt: "Les cartes enseignent les mots dans le vide ; la lecture les enseigne là où ils vivent. Comment faire des livres que vous voulez déjà lire le seul système de vocabulaire dont vous ayez besoin."
-publishedAt: ""
+publishedAt: "2026-07-12"
 draft: false
 ---
 

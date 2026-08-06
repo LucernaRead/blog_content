@@ -2,6 +2,207 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "how-many-words-to-read-a-book-foreign-language",
+      "publishedAt": "2026-07-15",
+      "cover": null,
+      "locales": {
+        "de": {
+          "slug": "how-many-words-to-read-a-book-foreign-language",
+          "title": "Wie viele Wörter braucht man für ein Buch in einer Fremdsprache?",
+          "excerpt": "Die ehrlichen Zahlen: etwa 5.000 Wortfamilien für grobes Verständnis, 8.000–9.000 für bequemes, selbstständiges Lesen. Nützlicher aber: Du musst nicht warten — Lesen ist der Weg dorthin.",
+          "draft": false
+        },
+        "en": {
+          "slug": "how-many-words-to-read-a-book-foreign-language",
+          "title": "How many words do you need to read a book in a foreign language?",
+          "excerpt": "The honest numbers: about 5,000 word families for rough comprehension, 8,000-9,000 to read comfortably on your own. But the more useful answer is that you don't have to wait until you get there — reading is how you get there.",
+          "draft": false
+        },
+        "es": {
+          "slug": "how-many-words-to-read-a-book-foreign-language",
+          "title": "¿Cuántas palabras hacen falta para leer un libro en otro idioma?",
+          "excerpt": "Los números honestos: unas 5.000 familias de palabras para entender a grandes rasgos, 8.000–9.000 para leer cómodo por tu cuenta. Pero lo útil es que no hace falta esperar: leer es cómo se llega.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "how-many-words-to-read-a-book-foreign-language",
+          "title": "Combien de mots faut-il pour lire un livre en langue étrangère ?",
+          "excerpt": "Les chiffres honnêtes : environ 5 000 familles de mots pour comprendre grossièrement, 8 000 à 9 000 pour lire seul confortablement. Mais surtout : inutile d'attendre — lire est la façon d'y arriver.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "how-many-words-to-read-a-book-foreign-language",
+          "title": "外国語で本を読むには何語必要?",
+          "excerpt": "正直な数字:おおまかな理解に約5,000語族、快適に自力で読むには8,000〜9,000語族。ただし、もっと役立つ答えは「そこに着くまで待たなくていい」—— 読むことがそこへ着く方法だから。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "how-many-words-to-read-a-book-foreign-language",
+          "title": "외국어로 책을 읽으려면 단어가 몇 개 필요할까?",
+          "excerpt": "솔직한 숫자: 대략적 이해에 약 5,000 어족, 편안한 독립 읽기에 8,000~9,000. 하지만 더 유용한 답은 거기 도달할 때까지 기다릴 필요가 없다는 것 — 읽는 것이 곧 도달하는 방법이다.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "how-many-words-to-read-a-book-foreign-language",
+          "title": "Hoeveel woorden heb je nodig voor een boek in een vreemde taal?",
+          "excerpt": "De eerlijke cijfers: zo'n 5.000 woordfamilies voor ruw begrip, 8.000–9.000 om zelfstandig comfortabel te lezen. Maar nuttiger: je hoeft niet te wachten — lezen is hoe je er komt.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "how-many-words-to-read-a-book-foreign-language",
+          "title": "Quantas palavras são precisas para ler um livro em outro idioma?",
+          "excerpt": "Os números honestos: cerca de 5.000 famílias de palavras para entender grosso modo, 8.000–9.000 para ler confortavelmente sozinho. Mas o útil é: não precisa esperar — ler é como se chega lá.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "how-many-words-to-read-a-book-foreign-language",
+          "title": "讀一本外語書需要認識多少詞?",
+          "excerpt": "老實的數字:大致理解約 5000 個詞族,舒服地獨立閱讀 8000–9000。但更有用的答案是:你不必等到那時候 —— 閱讀本身就是到那兒的方式。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "how-many-words-to-read-a-book-foreign-language",
+          "title": "读一本外语书需要认识多少词?",
+          "excerpt": "老实的数字:大致理解约 5000 个词族,舒服地独立阅读 8000–9000。但更有用的答案是:你不必等到那时候 —— 阅读本身就是到那儿的方式。",
+          "draft": false
+        }
+      }
+    },
+    {
+      "dir": "reread-a-book-you-know-foreign-language",
+      "publishedAt": "2026-07-14",
+      "cover": null,
+      "locales": {
+        "de": {
+          "slug": "reread-a-book-you-know-foreign-language",
+          "title": "Lies ein Buch, das du schon kennst: die Abkürzung in deinen ersten fremdsprachigen Roman",
+          "excerpt": "Das Schwerste am ersten Roman in einer neuen Sprache ist nicht die Grammatik, sondern nicht zu wissen, wie es weitergeht. Also nimm das Problem vom Tisch: lies ein Buch, das du schon gelesen hast.",
+          "draft": false
+        },
+        "en": {
+          "slug": "reread-a-book-you-know-foreign-language",
+          "title": "Read a book you already know: the shortcut into your first foreign-language novel",
+          "excerpt": "The hardest part of your first novel in a new language isn't the grammar — it's not knowing what happens next. So take that problem off the table: read a book you've already read.",
+          "draft": false
+        },
+        "es": {
+          "slug": "reread-a-book-you-know-foreign-language",
+          "title": "Lee un libro que ya conoces: el atajo a tu primera novela en otro idioma",
+          "excerpt": "Lo más difícil de tu primera novela en un idioma nuevo no es la gramática: es no saber qué va a pasar. Quita ese problema: lee un libro que ya hayas leído.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "reread-a-book-you-know-foreign-language",
+          "title": "Relisez un livre que vous connaissez : le raccourci vers votre premier roman en langue étrangère",
+          "excerpt": "Le plus dur dans un premier roman en langue étrangère n'est pas la grammaire, c'est de ne pas savoir la suite. Retirez ce problème : lisez un livre que vous avez déjà lu.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "reread-a-book-you-know-foreign-language",
+          "title": "知っている本を読む:最初の原書への近道",
+          "excerpt": "新しい言語での最初の小説で難しいのは文法ではなく、次に何が起こるか分からないこと。ならその問題を消そう:すでに読んだ本を読めばいい。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "reread-a-book-you-know-foreign-language",
+          "title": "이미 아는 책을 읽자: 첫 외국어 소설로 가는 지름길",
+          "excerpt": "첫 외국어 소설에서 가장 어려운 건 문법이 아니라 다음에 무슨 일이 일어날지 모른다는 것. 그러니 그 문제를 치우자: 이미 읽은 책을 읽자.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "reread-a-book-you-know-foreign-language",
+          "title": "Lees een boek dat je al kent: de sluiproute naar je eerste anderstalige roman",
+          "excerpt": "Het moeilijkste aan je eerste roman in een nieuwe taal is niet de grammatica, maar niet weten wat er gaat gebeuren. Haal dat probleem weg: lees een boek dat je al gelezen hebt.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "reread-a-book-you-know-foreign-language",
+          "title": "Leia um livro que você já conhece: o atalho para o primeiro romance em outro idioma",
+          "excerpt": "O mais difícil do primeiro romance num idioma novo não é a gramática — é não saber o que vai acontecer. Tire esse problema da mesa: leia um livro que você já leu.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "reread-a-book-you-know-foreign-language",
+          "title": "讀一本你已經知道的書:通往第一本外語小說的捷徑",
+          "excerpt": "第一本外語小說最難的不是語法,是不知道接下來會發生甚麼。那就把這個問題拿掉:讀一本你已經讀過的書。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "reread-a-book-you-know-foreign-language",
+          "title": "读一本你已经知道的书:通往第一本外语小说的捷径",
+          "excerpt": "第一本外语小说最难的不是语法,是不知道接下来会发生什么。那就把这个问题拿掉:读一本你已经读过的书。",
+          "draft": false
+        }
+      }
+    },
+    {
+      "dir": "learn-vocabulary-from-reading",
+      "publishedAt": "2026-07-12",
+      "cover": null,
+      "locales": {
+        "de": {
+          "slug": "learn-vocabulary-from-reading",
+          "title": "Wie du Vokabeln durch Lesen lernst (und endlich mit Karteikarten aufhörst)",
+          "excerpt": "Karteikarten lehren Wörter im luftleeren Raum, Lesen lehrt sie dort, wo sie leben. Wie du die Bücher, die du ohnehin lesen willst, zum einzigen Vokabelsystem machst, das du brauchst.",
+          "draft": false
+        },
+        "en": {
+          "slug": "learn-vocabulary-from-reading",
+          "title": "How to learn vocabulary from reading (and finally stop grinding flashcards)",
+          "excerpt": "Flashcards teach you words in a vacuum. Reading teaches you words where they live. Here is how to turn the books you already want to read into the only vocabulary system you need.",
+          "draft": false
+        },
+        "es": {
+          "slug": "learn-vocabulary-from-reading",
+          "title": "Cómo aprender vocabulario leyendo (y dejar de machacar tarjetas)",
+          "excerpt": "Las tarjetas enseñan palabras en el vacío; la lectura las enseña donde viven. Cómo convertir los libros que ya quieres leer en el único sistema de vocabulario que necesitas.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "learn-vocabulary-from-reading",
+          "title": "Apprendre du vocabulaire en lisant (et arrêter enfin les cartes)",
+          "excerpt": "Les cartes enseignent les mots dans le vide ; la lecture les enseigne là où ils vivent. Comment faire des livres que vous voulez déjà lire le seul système de vocabulaire dont vous ayez besoin.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "learn-vocabulary-from-reading",
+          "title": "読書から語彙を学ぶ方法(フラッシュカード地獄の終わり)",
+          "excerpt": "フラッシュカードは真空で語を教え、読書は語が生きる場所で教える。もともと読みたい本を、必要な唯一の語彙システムに変える方法。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "learn-vocabulary-from-reading",
+          "title": "읽으면서 어휘를 배우는 법(플래시카드 갈기 끝내기)",
+          "excerpt": "플래시카드는 진공에서, 독서는 단어가 사는 곳에서 단어를 가르친다. 어차피 읽고 싶은 책을 당신에게 필요한 유일한 어휘 시스템으로 바꾸는 법.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "learn-vocabulary-from-reading",
+          "title": "Woordenschat leren door te lezen (en stoppen met flashcards malen)",
+          "excerpt": "Flashcards leren je woorden in een vacuüm; lezen leert ze waar ze wonen. Hoe je de boeken die je toch al wilt lezen tot je enige woordenschatsysteem maakt.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "learn-vocabulary-from-reading",
+          "title": "Como aprender vocabulário lendo (e parar de moer flashcards)",
+          "excerpt": "Flashcards ensinam palavras no vácuo; a leitura ensina onde elas vivem. Como transformar os livros que você já quer ler no único sistema de vocabulário de que precisa.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "learn-vocabulary-from-reading",
+          "title": "怎樣從閱讀裡學詞彙(終於不用再刷閃卡)",
+          "excerpt": "閃卡在真空裡教你詞,閱讀在詞生活的地方教你詞。怎麼把你本來就想讀的書,變成你唯一需要的詞彙系統。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "learn-vocabulary-from-reading",
+          "title": "怎样从阅读里学词汇(终于不用再刷闪卡)",
+          "excerpt": "闪卡在真空里教你词,阅读在词生活的地方教你词。怎么把你本来就想读的书,变成你唯一需要的词汇系统。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "intensive-vs-extensive-reading",
       "publishedAt": "2026-07-02",
       "cover": null,
@@ -332,6 +533,73 @@
           "slug": "read-like-a-berliner-7-short-german-books",
           "title": "像柏林人一样读书:今夏可以开读的 7 本德语短书",
           "excerpt": "一道从 A2 到 C1 的阅读阶梯,全部在古腾堡计划上免费,没有一本长到能耗光你的耐心。",
+          "draft": false
+        }
+      }
+    },
+    {
+      "dir": "7-short-french-novels-summer-2026",
+      "publishedAt": "2026-06-15",
+      "cover": null,
+      "locales": {
+        "de": {
+          "slug": "7-short-french-novels-summer-2026",
+          "title": "Lesen wie in Paris: 7 kurze französische Romane für diesen Sommer",
+          "excerpt": "Eine Leseleiter von A2 bis C1, alle kostenlos im Project Gutenberg, und keiner lang genug, um deinen Juni zu ruinieren.",
+          "draft": false
+        },
+        "en": {
+          "slug": "7-short-french-novels-summer-2026",
+          "title": "Read like a Parisian: 7 short French novels to start this summer",
+          "excerpt": "A reading ladder from A2 to C1, all of them on Project Gutenberg for free, none of them long enough to ruin your June.",
+          "draft": false
+        },
+        "es": {
+          "slug": "7-short-french-novels-summer-2026",
+          "title": "Leer como un parisino: 7 novelas francesas breves para este verano",
+          "excerpt": "Una escalera de lectura de A2 a C1, todas gratis en el Proyecto Gutenberg, ninguna lo bastante larga como para arruinarte junio.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "7-short-french-novels-summer-2026",
+          "title": "Lire comme un Parisien : 7 romans français courts à commencer cet été",
+          "excerpt": "Une échelle de lecture de A2 à C1, tous gratuits sur le Projet Gutenberg, aucun assez long pour gâcher votre mois de juin.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "7-short-french-novels-summer-2026",
+          "title": "パリジャンのように読む:この夏に始める短いフランス語小説7冊",
+          "excerpt": "A2からC1までの読書のはしご。すべてプロジェクト・グーテンベルクで無料、どれもあなたの六月を台無しにするほど長くない。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "7-short-french-novels-summer-2026",
+          "title": "파리지앵처럼 읽기: 이번 여름에 시작할 짧은 프랑스어 소설 7권",
+          "excerpt": "A2에서 C1까지 올라가는 독서 사다리. 전부 구텐베르크 프로젝트에 무료로 있고, 어느 것도 6월을 망칠 만큼 길지 않다.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "7-short-french-novels-summer-2026",
+          "title": "Lezen als een Parijzenaar: 7 korte Franse romans voor deze zomer",
+          "excerpt": "Een leesladder van A2 tot C1, allemaal gratis op Project Gutenberg, geen ervan lang genoeg om je juni te verpesten.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "7-short-french-novels-summer-2026",
+          "title": "Ler como um parisiense: 7 romances franceses curtos para este verão",
+          "excerpt": "Uma escada de leitura de A2 a C1, todos gratuitos no Projeto Gutenberg, nenhum longo o bastante para estragar o seu junho.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "7-short-french-novels-summer-2026",
+          "title": "像巴黎人一樣讀書:今夏可以開讀的 7 本法語短篇小說",
+          "excerpt": "一道從 A2 到 C1 的閱讀階梯,全部在古騰堡計劃上免費,沒有一本長到能毀掉你的六月。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "7-short-french-novels-summer-2026",
+          "title": "像巴黎人一样读书:今夏可以开读的 7 本法语短篇小说",
+          "excerpt": "一道从 A2 到 C1 的阅读阶梯,全部在古腾堡计划上免费,没有一本长到能毁掉你的六月。",
           "draft": false
         }
       }
@@ -801,274 +1069,6 @@
           "slug": "quit-duolingo-30-day-german-plan",
           "title": "我退出了多邻国。这是真正让我把德语学流利的 30 天计划。",
           "excerpt": "一套以阅读为先的成人学习法,核心是 AI 生成的课程替代不了的可理解输入。",
-          "draft": false
-        }
-      }
-    },
-    {
-      "dir": "7-short-french-novels-summer-2026",
-      "publishedAt": "",
-      "cover": null,
-      "locales": {
-        "de": {
-          "slug": "7-short-french-novels-summer-2026",
-          "title": "Lesen wie in Paris: 7 kurze französische Romane für diesen Sommer",
-          "excerpt": "Eine Leseleiter von A2 bis C1, alle kostenlos im Project Gutenberg, und keiner lang genug, um deinen Juni zu ruinieren.",
-          "draft": false
-        },
-        "en": {
-          "slug": "7-short-french-novels-summer-2026",
-          "title": "Read like a Parisian: 7 short French novels to start this summer",
-          "excerpt": "A reading ladder from A2 to C1, all of them on Project Gutenberg for free, none of them long enough to ruin your June.",
-          "draft": false
-        },
-        "es": {
-          "slug": "7-short-french-novels-summer-2026",
-          "title": "Leer como un parisino: 7 novelas francesas breves para este verano",
-          "excerpt": "Una escalera de lectura de A2 a C1, todas gratis en el Proyecto Gutenberg, ninguna lo bastante larga como para arruinarte junio.",
-          "draft": false
-        },
-        "fr": {
-          "slug": "7-short-french-novels-summer-2026",
-          "title": "Lire comme un Parisien : 7 romans français courts à commencer cet été",
-          "excerpt": "Une échelle de lecture de A2 à C1, tous gratuits sur le Projet Gutenberg, aucun assez long pour gâcher votre mois de juin.",
-          "draft": false
-        },
-        "ja": {
-          "slug": "7-short-french-novels-summer-2026",
-          "title": "パリジャンのように読む:この夏に始める短いフランス語小説7冊",
-          "excerpt": "A2からC1までの読書のはしご。すべてプロジェクト・グーテンベルクで無料、どれもあなたの六月を台無しにするほど長くない。",
-          "draft": false
-        },
-        "ko": {
-          "slug": "7-short-french-novels-summer-2026",
-          "title": "파리지앵처럼 읽기: 이번 여름에 시작할 짧은 프랑스어 소설 7권",
-          "excerpt": "A2에서 C1까지 올라가는 독서 사다리. 전부 구텐베르크 프로젝트에 무료로 있고, 어느 것도 6월을 망칠 만큼 길지 않다.",
-          "draft": false
-        },
-        "nl": {
-          "slug": "7-short-french-novels-summer-2026",
-          "title": "Lezen als een Parijzenaar: 7 korte Franse romans voor deze zomer",
-          "excerpt": "Een leesladder van A2 tot C1, allemaal gratis op Project Gutenberg, geen ervan lang genoeg om je juni te verpesten.",
-          "draft": false
-        },
-        "pt": {
-          "slug": "7-short-french-novels-summer-2026",
-          "title": "Ler como um parisiense: 7 romances franceses curtos para este verão",
-          "excerpt": "Uma escada de leitura de A2 a C1, todos gratuitos no Projeto Gutenberg, nenhum longo o bastante para estragar o seu junho.",
-          "draft": false
-        },
-        "zh-HK": {
-          "slug": "7-short-french-novels-summer-2026",
-          "title": "像巴黎人一樣讀書:今夏可以開讀的 7 本法語短篇小說",
-          "excerpt": "一道從 A2 到 C1 的閱讀階梯,全部在古騰堡計劃上免費,沒有一本長到能毀掉你的六月。",
-          "draft": false
-        },
-        "zh": {
-          "slug": "7-short-french-novels-summer-2026",
-          "title": "像巴黎人一样读书:今夏可以开读的 7 本法语短篇小说",
-          "excerpt": "一道从 A2 到 C1 的阅读阶梯,全部在古腾堡计划上免费,没有一本长到能毁掉你的六月。",
-          "draft": false
-        }
-      }
-    },
-    {
-      "dir": "how-many-words-to-read-a-book-foreign-language",
-      "publishedAt": "",
-      "cover": null,
-      "locales": {
-        "de": {
-          "slug": "how-many-words-to-read-a-book-foreign-language",
-          "title": "Wie viele Wörter braucht man für ein Buch in einer Fremdsprache?",
-          "excerpt": "Die ehrlichen Zahlen: etwa 5.000 Wortfamilien für grobes Verständnis, 8.000–9.000 für bequemes, selbstständiges Lesen. Nützlicher aber: Du musst nicht warten — Lesen ist der Weg dorthin.",
-          "draft": false
-        },
-        "en": {
-          "slug": "how-many-words-to-read-a-book-foreign-language",
-          "title": "How many words do you need to read a book in a foreign language?",
-          "excerpt": "The honest numbers: about 5,000 word families for rough comprehension, 8,000-9,000 to read comfortably on your own. But the more useful answer is that you don't have to wait until you get there — reading is how you get there.",
-          "draft": false
-        },
-        "es": {
-          "slug": "how-many-words-to-read-a-book-foreign-language",
-          "title": "¿Cuántas palabras hacen falta para leer un libro en otro idioma?",
-          "excerpt": "Los números honestos: unas 5.000 familias de palabras para entender a grandes rasgos, 8.000–9.000 para leer cómodo por tu cuenta. Pero lo útil es que no hace falta esperar: leer es cómo se llega.",
-          "draft": false
-        },
-        "fr": {
-          "slug": "how-many-words-to-read-a-book-foreign-language",
-          "title": "Combien de mots faut-il pour lire un livre en langue étrangère ?",
-          "excerpt": "Les chiffres honnêtes : environ 5 000 familles de mots pour comprendre grossièrement, 8 000 à 9 000 pour lire seul confortablement. Mais surtout : inutile d'attendre — lire est la façon d'y arriver.",
-          "draft": false
-        },
-        "ja": {
-          "slug": "how-many-words-to-read-a-book-foreign-language",
-          "title": "外国語で本を読むには何語必要?",
-          "excerpt": "正直な数字:おおまかな理解に約5,000語族、快適に自力で読むには8,000〜9,000語族。ただし、もっと役立つ答えは「そこに着くまで待たなくていい」—— 読むことがそこへ着く方法だから。",
-          "draft": false
-        },
-        "ko": {
-          "slug": "how-many-words-to-read-a-book-foreign-language",
-          "title": "외국어로 책을 읽으려면 단어가 몇 개 필요할까?",
-          "excerpt": "솔직한 숫자: 대략적 이해에 약 5,000 어족, 편안한 독립 읽기에 8,000~9,000. 하지만 더 유용한 답은 거기 도달할 때까지 기다릴 필요가 없다는 것 — 읽는 것이 곧 도달하는 방법이다.",
-          "draft": false
-        },
-        "nl": {
-          "slug": "how-many-words-to-read-a-book-foreign-language",
-          "title": "Hoeveel woorden heb je nodig voor een boek in een vreemde taal?",
-          "excerpt": "De eerlijke cijfers: zo'n 5.000 woordfamilies voor ruw begrip, 8.000–9.000 om zelfstandig comfortabel te lezen. Maar nuttiger: je hoeft niet te wachten — lezen is hoe je er komt.",
-          "draft": false
-        },
-        "pt": {
-          "slug": "how-many-words-to-read-a-book-foreign-language",
-          "title": "Quantas palavras são precisas para ler um livro em outro idioma?",
-          "excerpt": "Os números honestos: cerca de 5.000 famílias de palavras para entender grosso modo, 8.000–9.000 para ler confortavelmente sozinho. Mas o útil é: não precisa esperar — ler é como se chega lá.",
-          "draft": false
-        },
-        "zh-HK": {
-          "slug": "how-many-words-to-read-a-book-foreign-language",
-          "title": "讀一本外語書需要認識多少詞?",
-          "excerpt": "老實的數字:大致理解約 5000 個詞族,舒服地獨立閱讀 8000–9000。但更有用的答案是:你不必等到那時候 —— 閱讀本身就是到那兒的方式。",
-          "draft": false
-        },
-        "zh": {
-          "slug": "how-many-words-to-read-a-book-foreign-language",
-          "title": "读一本外语书需要认识多少词?",
-          "excerpt": "老实的数字:大致理解约 5000 个词族,舒服地独立阅读 8000–9000。但更有用的答案是:你不必等到那时候 —— 阅读本身就是到那儿的方式。",
-          "draft": false
-        }
-      }
-    },
-    {
-      "dir": "learn-vocabulary-from-reading",
-      "publishedAt": "",
-      "cover": null,
-      "locales": {
-        "de": {
-          "slug": "learn-vocabulary-from-reading",
-          "title": "Wie du Vokabeln durch Lesen lernst (und endlich mit Karteikarten aufhörst)",
-          "excerpt": "Karteikarten lehren Wörter im luftleeren Raum, Lesen lehrt sie dort, wo sie leben. Wie du die Bücher, die du ohnehin lesen willst, zum einzigen Vokabelsystem machst, das du brauchst.",
-          "draft": false
-        },
-        "en": {
-          "slug": "learn-vocabulary-from-reading",
-          "title": "How to learn vocabulary from reading (and finally stop grinding flashcards)",
-          "excerpt": "Flashcards teach you words in a vacuum. Reading teaches you words where they live. Here is how to turn the books you already want to read into the only vocabulary system you need.",
-          "draft": false
-        },
-        "es": {
-          "slug": "learn-vocabulary-from-reading",
-          "title": "Cómo aprender vocabulario leyendo (y dejar de machacar tarjetas)",
-          "excerpt": "Las tarjetas enseñan palabras en el vacío; la lectura las enseña donde viven. Cómo convertir los libros que ya quieres leer en el único sistema de vocabulario que necesitas.",
-          "draft": false
-        },
-        "fr": {
-          "slug": "learn-vocabulary-from-reading",
-          "title": "Apprendre du vocabulaire en lisant (et arrêter enfin les cartes)",
-          "excerpt": "Les cartes enseignent les mots dans le vide ; la lecture les enseigne là où ils vivent. Comment faire des livres que vous voulez déjà lire le seul système de vocabulaire dont vous ayez besoin.",
-          "draft": false
-        },
-        "ja": {
-          "slug": "learn-vocabulary-from-reading",
-          "title": "読書から語彙を学ぶ方法(フラッシュカード地獄の終わり)",
-          "excerpt": "フラッシュカードは真空で語を教え、読書は語が生きる場所で教える。もともと読みたい本を、必要な唯一の語彙システムに変える方法。",
-          "draft": false
-        },
-        "ko": {
-          "slug": "learn-vocabulary-from-reading",
-          "title": "읽으면서 어휘를 배우는 법(플래시카드 갈기 끝내기)",
-          "excerpt": "플래시카드는 진공에서, 독서는 단어가 사는 곳에서 단어를 가르친다. 어차피 읽고 싶은 책을 당신에게 필요한 유일한 어휘 시스템으로 바꾸는 법.",
-          "draft": false
-        },
-        "nl": {
-          "slug": "learn-vocabulary-from-reading",
-          "title": "Woordenschat leren door te lezen (en stoppen met flashcards malen)",
-          "excerpt": "Flashcards leren je woorden in een vacuüm; lezen leert ze waar ze wonen. Hoe je de boeken die je toch al wilt lezen tot je enige woordenschatsysteem maakt.",
-          "draft": false
-        },
-        "pt": {
-          "slug": "learn-vocabulary-from-reading",
-          "title": "Como aprender vocabulário lendo (e parar de moer flashcards)",
-          "excerpt": "Flashcards ensinam palavras no vácuo; a leitura ensina onde elas vivem. Como transformar os livros que você já quer ler no único sistema de vocabulário de que precisa.",
-          "draft": false
-        },
-        "zh-HK": {
-          "slug": "learn-vocabulary-from-reading",
-          "title": "怎樣從閱讀裡學詞彙(終於不用再刷閃卡)",
-          "excerpt": "閃卡在真空裡教你詞,閱讀在詞生活的地方教你詞。怎麼把你本來就想讀的書,變成你唯一需要的詞彙系統。",
-          "draft": false
-        },
-        "zh": {
-          "slug": "learn-vocabulary-from-reading",
-          "title": "怎样从阅读里学词汇(终于不用再刷闪卡)",
-          "excerpt": "闪卡在真空里教你词,阅读在词生活的地方教你词。怎么把你本来就想读的书,变成你唯一需要的词汇系统。",
-          "draft": false
-        }
-      }
-    },
-    {
-      "dir": "reread-a-book-you-know-foreign-language",
-      "publishedAt": "",
-      "cover": null,
-      "locales": {
-        "de": {
-          "slug": "reread-a-book-you-know-foreign-language",
-          "title": "Lies ein Buch, das du schon kennst: die Abkürzung in deinen ersten fremdsprachigen Roman",
-          "excerpt": "Das Schwerste am ersten Roman in einer neuen Sprache ist nicht die Grammatik, sondern nicht zu wissen, wie es weitergeht. Also nimm das Problem vom Tisch: lies ein Buch, das du schon gelesen hast.",
-          "draft": false
-        },
-        "en": {
-          "slug": "reread-a-book-you-know-foreign-language",
-          "title": "Read a book you already know: the shortcut into your first foreign-language novel",
-          "excerpt": "The hardest part of your first novel in a new language isn't the grammar — it's not knowing what happens next. So take that problem off the table: read a book you've already read.",
-          "draft": false
-        },
-        "es": {
-          "slug": "reread-a-book-you-know-foreign-language",
-          "title": "Lee un libro que ya conoces: el atajo a tu primera novela en otro idioma",
-          "excerpt": "Lo más difícil de tu primera novela en un idioma nuevo no es la gramática: es no saber qué va a pasar. Quita ese problema: lee un libro que ya hayas leído.",
-          "draft": false
-        },
-        "fr": {
-          "slug": "reread-a-book-you-know-foreign-language",
-          "title": "Relisez un livre que vous connaissez : le raccourci vers votre premier roman en langue étrangère",
-          "excerpt": "Le plus dur dans un premier roman en langue étrangère n'est pas la grammaire, c'est de ne pas savoir la suite. Retirez ce problème : lisez un livre que vous avez déjà lu.",
-          "draft": false
-        },
-        "ja": {
-          "slug": "reread-a-book-you-know-foreign-language",
-          "title": "知っている本を読む:最初の原書への近道",
-          "excerpt": "新しい言語での最初の小説で難しいのは文法ではなく、次に何が起こるか分からないこと。ならその問題を消そう:すでに読んだ本を読めばいい。",
-          "draft": false
-        },
-        "ko": {
-          "slug": "reread-a-book-you-know-foreign-language",
-          "title": "이미 아는 책을 읽자: 첫 외국어 소설로 가는 지름길",
-          "excerpt": "첫 외국어 소설에서 가장 어려운 건 문법이 아니라 다음에 무슨 일이 일어날지 모른다는 것. 그러니 그 문제를 치우자: 이미 읽은 책을 읽자.",
-          "draft": false
-        },
-        "nl": {
-          "slug": "reread-a-book-you-know-foreign-language",
-          "title": "Lees een boek dat je al kent: de sluiproute naar je eerste anderstalige roman",
-          "excerpt": "Het moeilijkste aan je eerste roman in een nieuwe taal is niet de grammatica, maar niet weten wat er gaat gebeuren. Haal dat probleem weg: lees een boek dat je al gelezen hebt.",
-          "draft": false
-        },
-        "pt": {
-          "slug": "reread-a-book-you-know-foreign-language",
-          "title": "Leia um livro que você já conhece: o atalho para o primeiro romance em outro idioma",
-          "excerpt": "O mais difícil do primeiro romance num idioma novo não é a gramática — é não saber o que vai acontecer. Tire esse problema da mesa: leia um livro que você já leu.",
-          "draft": false
-        },
-        "zh-HK": {
-          "slug": "reread-a-book-you-know-foreign-language",
-          "title": "讀一本你已經知道的書:通往第一本外語小說的捷徑",
-          "excerpt": "第一本外語小說最難的不是語法,是不知道接下來會發生甚麼。那就把這個問題拿掉:讀一本你已經讀過的書。",
-          "draft": false
-        },
-        "zh": {
-          "slug": "reread-a-book-you-know-foreign-language",
-          "title": "读一本你已经知道的书:通往第一本外语小说的捷径",
-          "excerpt": "第一本外语小说最难的不是语法,是不知道接下来会发生什么。那就把这个问题拿掉:读一本你已经读过的书。",
           "draft": false
         }
       }

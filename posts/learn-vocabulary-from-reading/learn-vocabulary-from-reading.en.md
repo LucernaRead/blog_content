@@ -1,7 +1,7 @@
 ---
 title: "How to learn vocabulary from reading (and finally stop grinding flashcards)"
 excerpt: "Flashcards teach you words in a vacuum. Reading teaches you words where they live. Here is how to turn the books you already want to read into the only vocabulary system you need."
-publishedAt: ""
+publishedAt: "2026-07-12"
 draft: false
 ---
 

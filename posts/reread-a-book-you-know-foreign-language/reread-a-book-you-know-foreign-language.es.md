@@ -1,7 +1,7 @@
 ---
 title: "Lee un libro que ya conoces: el atajo a tu primera novela en otro idioma"
 excerpt: "Lo más difícil de tu primera novela en un idioma nuevo no es la gramática: es no saber qué va a pasar. Quita ese problema: lee un libro que ya hayas leído."
-publishedAt: ""
+publishedAt: "2026-07-14"
 draft: false
 ---
 

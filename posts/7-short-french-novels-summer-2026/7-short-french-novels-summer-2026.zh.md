@@ -1,7 +1,7 @@
 ---
 title: "像巴黎人一样读书:今夏可以开读的 7 本法语短篇小说"
 excerpt: "一道从 A2 到 C1 的阅读阶梯,全部在古腾堡计划上免费,没有一本长到能毁掉你的六月。"
-publishedAt: ""
+publishedAt: "2026-06-15"
 draft: false
 ---
 

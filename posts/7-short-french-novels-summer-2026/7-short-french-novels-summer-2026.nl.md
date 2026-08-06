@@ -1,7 +1,7 @@
 ---
 title: "Lezen als een Parijzenaar: 7 korte Franse romans voor deze zomer"
 excerpt: "Een leesladder van A2 tot C1, allemaal gratis op Project Gutenberg, geen ervan lang genoeg om je juni te verpesten."
-publishedAt: ""
+publishedAt: "2026-06-15"
 draft: false
 ---
 

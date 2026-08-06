@@ -1,7 +1,7 @@
 ---
 title: "¿Cuántas palabras hacen falta para leer un libro en otro idioma?"
 excerpt: "Los números honestos: unas 5.000 familias de palabras para entender a grandes rasgos, 8.000–9.000 para leer cómodo por tu cuenta. Pero lo útil es que no hace falta esperar: leer es cómo se llega."
-publishedAt: ""
+publishedAt: "2026-07-15"
 draft: false
 ---
 
