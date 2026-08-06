@@ -1,6 +1,18 @@
 #!/usr/bin/env node
 /**
- * 内容仓的结构校验。零依赖,`node lint.mjs` 直接跑。
+ * 内容仓的结构校验 **兼索引生成器**。零依赖,`node lint.mjs` 直接跑。
+ *
+ *     node lint.mjs            校验 + 检查 index.json 是否最新(CI 用,不写盘)
+ *     node lint.mjs --write    校验 + 写出 index.json(本地写完文章用)
+ *
+ * 为什么索引由 lint 生成,而不是站点构建时算:
+ * 站点是**运行时**从 GitHub 取内容的。没有索引的话,渲染一页列表要把每篇文章的
+ * md 都拉下来才知道标题和日期 —— 上游请求是 O(文章数),而 GitHub 未鉴权 API
+ * 只有 60 次/小时/IP。有了索引,列表页只取 **1 个文件**。
+ *
+ * ⚠️ 索引会**漂移**:有人改了 md 却没跑 lint,index 里还是旧标题旧顺序,
+ * 站点列表和实际内容对不上,而且不报任何错。所以默认模式会**比对**重新生成的
+ * 结果和仓库里的 index.json,不一致直接红 —— 让"忘了跑"在 PR 上被拦住。
  *
  * 这个仓只有一种形态,校验的就是它:
  *
@@ -19,19 +31,32 @@
  * 为什么值得有这个 lint:这三条一旦破了,坏处都是**构建时才炸或者根本不炸**
  * (图片 404 上线了才发现)。结构约束在写的时候拦住最便宜。
  */
-import { readdirSync, readFileSync, statSync, existsSync } from 'node:fs';
+import { readdirSync, readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { join, extname } from 'node:path';
 
 /** 与 app 的 UI 语言一致(payload/locales.ts 的 BLOG_LOCALES)。 */
 const LOCALES = ['en', 'zh', 'zh-HK', 'ja', 'ko', 'de', 'fr', 'es', 'pt', 'nl'];
 const DEFAULT_LOCALE = 'en';
 /** 仓根允许出现的非 posts 条目。 */
-const ROOT_ALLOW = new Set(['posts', 'lint.mjs', 'README.md', '.git', '.github', '.gitignore']);
+const ROOT_ALLOW = new Set([
+  'posts',
+  'lint.mjs',
+  'index.json',
+  'README.md',
+  '.git',
+  '.github',
+  '.gitignore',
+]);
 const SLUG_RE = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
+const INDEX_FILE = 'index.json';
 const REQUIRED_FM = ['title', 'excerpt', 'publishedAt', 'draft'];
 
 const problems = [];
 const fail = (where, msg) => problems.push(`${where}: ${msg}`);
+
+/** 索引条目:站点渲染列表 / 分页所需的**全部**字段。
+ * 原则是"列表页不需要再取任何 md" —— 少一个字段就会退回 O(N) 的取数。 */
+const index = [];
 
 /** frontmatter 的极简解析 —— 只认 `key: value`,足够校验存在性和格式。 */
 function frontmatter(raw, where) {
@@ -59,6 +84,16 @@ function localRefs(body) {
   return refs.filter(
     (r) => !/^(https?:|mailto:|#|tel:)/i.test(r), // 外链不管
   );
+}
+
+/** 读某个语言文件的 frontmatter。读不到就返回空对象 —— 缺文件的情况
+ * 上面的规则 2 已经报过了,这里不重复报。 */
+function readFrontmatterOf(dir, locale) {
+  try {
+    return frontmatter(readFileSync(join('posts', dir, `${dir}.${locale}.md`), 'utf8'), '') ?? {};
+  } catch {
+    return {};
+  }
 }
 
 function checkPost(dir) {
@@ -98,6 +133,8 @@ function checkPost(dir) {
 
   // 规则 3:引用的附件必须在本目录内 + frontmatter 完整
   const referenced = new Set();
+  /** 这篇文章各语言的元数据,收集起来进索引。 */
+  const byLocale = {};
   for (const md of mds) {
     const w = `${where}/${md}`;
     const raw = readFileSync(join('posts', dir, md), 'utf8');
@@ -121,6 +158,16 @@ function checkPost(dir) {
           fail(w, `cover \`${fm.cover}\` 不在本目录里`);
         }
       }
+      const loc = md.slice(dir.length + 1, -3);
+      if (LOCALES.includes(loc)) {
+        byLocale[loc] = {
+          // slug 默认就是目录名;只有 frontmatter 覆盖过才不同。
+          slug: fm.slug || dir,
+          title: fm.title ?? '',
+          excerpt: fm.excerpt ?? '',
+          draft: fm.draft === 'true',
+        };
+      }
     }
     for (const ref of localRefs(raw)) {
       const decoded = decodeURIComponent(ref);
@@ -134,6 +181,15 @@ function checkPost(dir) {
       }
     }
   }
+
+  // 收进索引。publishedAt / cover 不随语言变,取默认语言那份。
+  const base = readFrontmatterOf(dir, DEFAULT_LOCALE);
+  index.push({
+    dir,
+    publishedAt: base.publishedAt ?? '',
+    cover: base.cover || null,
+    locales: byLocale,
+  });
 
   // 没人引用的附件 = 白占仓库体积,而且多半是忘了删
   for (const a of assets) {
@@ -166,8 +222,35 @@ function main() {
     for (const p of problems) console.error('  ' + p);
     process.exit(1);
   }
-  const n = existsSync('posts') ? readdirSync('posts').length : 0;
-  console.log(`✓ ${n} 篇文章,结构合规`);
+
+  // ── 索引 ──────────────────────────────────────────────────────────
+  // 站点靠这个文件渲染列表和分页,所以**排序在这里定死**,而不是留给站点。
+  // 按 publishedAt 倒序;同一天的用目录名兜底 —— 没有 tiebreak 的话,
+  // 同日发布两篇时顺序会随目录列表的返回顺序漂,列表页时不时换位置。
+  index.sort((a, b) =>
+    a.publishedAt === b.publishedAt
+      ? a.dir.localeCompare(b.dir)
+      : a.publishedAt < b.publishedAt
+        ? 1
+        : -1,
+  );
+  const json = JSON.stringify({ generatedBy: 'lint.mjs', posts: index }, null, 2) + '\n';
+
+  if (process.argv.includes('--write')) {
+    writeFileSync(INDEX_FILE, json);
+    console.log(`✓ ${index.length} 篇文章,结构合规;已写出 ${INDEX_FILE}`);
+    return;
+  }
+
+  const current = existsSync(INDEX_FILE) ? readFileSync(INDEX_FILE, 'utf8') : null;
+  if (current !== json) {
+    console.error(
+      `✗ ${INDEX_FILE} 不是最新的 —— 改完 md 要跑 \`node lint.mjs --write\`。\n` +
+        '  (不拦住的话:站点列表读的是旧标题旧顺序,而且不会报任何错。)',
+    );
+    process.exit(1);
+  }
+  console.log(`✓ ${index.length} 篇文章,结构合规;${INDEX_FILE} 最新`);
 }
 
 main();
