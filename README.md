@@ -9,8 +9,10 @@ Lucerna 博客的内容仓。**只放内容,不放代码** —— 站点在 `Lan
 
 ```
 posts/how-to-choose-your-first-book/
-  how-to-choose-your-first-book.md      ← 正文,文件名和目录名一样
-  hero.jpg                              ← 附件,和正文放在一起
+  how-to-choose-your-first-book.en.md   ← 英文正文(en 也带后缀,没有裸 .md)
+  how-to-choose-your-first-book.zh.md   ← 中文
+  ...                                   ← 支持的 10 个语言,一个都不能少
+  hero.jpg                              ← 附件,所有语言共用
   chart.png
 ```
 
@@ -34,16 +36,14 @@ cover: hero.jpg          # 可选,必须是本目录里的文件
 
 ## 翻译
 
-同一个目录里加后缀文件,**共用同一批附件**:
+同一个目录里一个语言一个文件,**共用同一批附件**。
 
-```
-posts/how-to-choose-your-first-book/
-  how-to-choose-your-first-book.md      ← 英文(默认)
-  how-to-choose-your-first-book.zh.md   ← 中文
-  hero.jpg
-```
+支持的语言,**一篇文章 10 个全都必须有**:
 
-支持的语言:`en`(默认,不写后缀) `zh` `zh-HK` `ja` `ko` `de` `fr` `es` `pt` `nl`。
+`en` `zh` `zh-HK` `ja` `ko` `de` `fr` `es` `pt` `nl`
+
+`en` 也要写 `.en.md` —— **没有裸 `<slug>.md`**。这条是 lint 硬拦的:
+声明支持某个语言,就不允许出现"这篇没翻"的空洞。缺一个就提交不了。
 
 某个语言想要自己的网址,在那个文件的 frontmatter 里写 `slug:`:
 
@@ -58,7 +58,7 @@ slug: "tongguo-yuedu-xue-yingyu"
 `node lint.mjs` 会挡住,CI 也会:
 
 1. **只有一层目录** —— 文章目录里不能再有子目录。
-2. **语言用后缀**,不是子目录、不是并列目录。
+2. **语言用后缀,而且一个都不能少** —— 没有裸 `<slug>.md`;支持列表里有的语言,每篇都必须有。
 3. **引用的附件必须在本目录内** —— 不许 `../`、不许绝对路径、不许引别的文章的图。
 
 第三条的意思是:**一篇文章连同它的图,搬走或删掉都只是一个目录的事。**
@@ -74,5 +74,13 @@ slug: "tongguo-yuedu-xue-yingyu"
 ## 本地检查
 
 ```bash
-node lint.mjs      # 零依赖,不用 npm install
+node lint.mjs            # 零依赖,不用 npm install。校验 + 检查 index.json 是否最新
+node lint.mjs --write    # 校验 + 写出 index.json(改完 md 必须跑这个)
 ```
+
+`index.json` 是站点渲染列表/分页读的那一个文件 —— 有它,列表页只取 1 次上游请求;
+没它就得把每篇 md 都拉下来(而 GitHub 未鉴权 API 是 60 次/小时/IP)。
+排序也在 lint 里定死(publishedAt 倒序,同日按目录名),不留给站点算。
+
+**改完 md 忘了跑 `--write` 的话**,默认模式会比对出来并报错 —— 因为漂了的索引
+会让站点显示旧标题旧顺序,而且不报任何错。
