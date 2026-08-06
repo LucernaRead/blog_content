@@ -5,13 +5,14 @@
  * 这个仓只有一种形态,校验的就是它:
  *
  *     posts/<slug>/
- *       <slug>.md          默认语言正文(必须有,文件名 = 目录名)
- *       <slug>.<loc>.md    其它语言,可选
+ *       <slug>.<loc>.md    每个支持的语言**都必须有一个**,en 也不例外
  *       任意附件            必须被本目录的 md 引用到
  *
  * 三条硬规则(其余都是从它们派生的):
  *   1. **只有一层目录** —— 文章目录里不能再有子目录。
- *   2. **语言用后缀** —— 不是子目录、不是并列目录。
+ *   2. **语言用后缀,且一个都不能少** —— 没有裸 `<slug>.md`;
+ *      支持列表里有的语言,每篇文章都必须有对应文件。
+ *      这条是**内容承诺**:声明支持某个语言,就不允许出现"这篇没翻"的空洞。
  *   3. **引用的附件必须在本目录内** —— 不许 `../`、不许绝对路径、
  *      不许指向别的文章目录。一篇文章连同它的图,搬走/删除都是一个目录的事。
  *
@@ -76,22 +77,23 @@ function checkPost(dir) {
   const mds = files.filter((f) => f.endsWith('.md'));
   const assets = files.filter((f) => !f.endsWith('.md'));
 
-  // 规则 2:正文文件名 = 目录名;其它语言用后缀
-  if (!mds.includes(`${dir}.md`)) {
-    fail(where, `缺少默认语言正文 \`${dir}.md\`(文件名必须和目录名一致)`);
-  }
+  // 规则 2:每个语言一个文件,后缀命名,一个都不能少
+  const seen = new Set();
   for (const md of mds) {
-    if (md === `${dir}.md`) continue;
     const m = new RegExp(`^${dir.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\.([\\w-]+)\\.md$`).exec(
       md,
     );
     if (!m) {
-      fail(where, `\`${md}\` 命名不合法 —— 只能是 \`${dir}.md\` 或 \`${dir}.<locale>.md\``);
+      fail(where, `\`${md}\` 命名不合法 —— 必须是 \`${dir}.<locale>.md\`(没有裸 \`${dir}.md\`)`);
     } else if (!LOCALES.includes(m[1])) {
       fail(where, `\`${md}\` 的语言 \`${m[1]}\` 不在支持列表:${LOCALES.join(', ')}`);
-    } else if (m[1] === DEFAULT_LOCALE) {
-      fail(where, `默认语言不要写后缀 —— 用 \`${dir}.md\`,不是 \`${md}\``);
+    } else {
+      seen.add(m[1]);
     }
+  }
+  const missing = LOCALES.filter((l) => !seen.has(l));
+  if (missing.length) {
+    fail(where, `缺 ${missing.length} 个语言:${missing.join(', ')}`);
   }
 
   // 规则 3:引用的附件必须在本目录内 + frontmatter 完整
