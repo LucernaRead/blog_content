@@ -1,5 +1,5 @@
 ---
-title: "Where to Find Free Books TODAY in Any Language to Learn From"
+title: "Where to Find Free Books in Any Language to Learn From"
 excerpt: "Build a free library in your target language. Project Gutenberg, Wikisource, graded readers and more — a field guide to reading without spending a cent."
 publishedAt: "2026-05-30"
 draft: false
