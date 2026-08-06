@@ -1,0 +1,16 @@
+name: lint
+
+# 结构坏掉的代价在**构建时**才显现(图片 404 上线才发现),所以在 PR 就拦。
+on:
+  push:
+    branches: [dev, master]
+  pull_request:
+    branches: [dev, master]
+
+jobs:
+  structure:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      # lint.mjs 零依赖,用 runner 自带的 node 就够 —— 内容仓不引入 npm 生态。
+      - run: node lint.mjs
