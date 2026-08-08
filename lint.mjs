@@ -44,6 +44,15 @@ const ROOT_ALLOW = new Set([
   'index.json',
   'README.md',
   '.git',
+  // husky 的钩子 + 它要的 package.json / lockfile / node_modules。
+  //
+  // 这个仓的 CI 刻意不跑 `npm install`(lint.mjs 零依赖,runner 自带的 node
+  // 就够)。那说的是 **CI 不需要 npm**,不是「仓里不许有 package.json」——
+  // 本地提交时跑 husky 和 CI 里裸跑 node 互不冲突。
+  '.husky',
+  'package.json',
+  'package-lock.json',
+  'node_modules',
   '.github',
   '.gitignore',
 ]);

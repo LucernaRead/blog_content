@@ -1,0 +1,17 @@
+#!/usr/bin/env sh
+
+# 提交前重算 index.json,并把结果带进本次提交。
+#
+# index.json 是站点列表页唯一要取的那个文件(有它,列表页只发 1 次上游请求
+# 而不是 16 次)。改完 md 忘了重算的话,CI 会比对出来报红 —— 但那时已经推
+# 上去了。这一步把它提前到提交那一刻。
+#
+# `--write` 既校验也写盘;结构不合规时它自己会非零退出,提交就被拦下。
+node lint.mjs --write
+
+# 只有真变了才 add。否则每次提交都会带上一个内容相同的 index.json,
+# 把 diff 弄脏。
+if ! git diff --quiet -- index.json; then
+  echo "[pre-commit] index.json 有更新,加入本次提交"
+  git add index.json
+fi

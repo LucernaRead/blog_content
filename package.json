@@ -1,0 +1,14 @@
+{
+  "name": "lucerna-blog-content",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Blog content (markdown + generated index). Not a published package.",
+  "scripts": {
+    "lint": "node lint.mjs",
+    "index": "node lint.mjs --write",
+    "prepare": "husky"
+  },
+  "devDependencies": {
+    "husky": "^9.1.7"
+  }
+}
