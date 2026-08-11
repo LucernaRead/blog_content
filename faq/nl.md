@@ -8,7 +8,7 @@ Lucerna is een meertalige ebook-reader om talen te leren met echte boeken. Tik o
 
 ## Is Lucerna gratis?
 
-Ja. Je kunt het proberen zonder account (1 boek, 5 opgeslagen woorden), en met een gratis account worden die limieten verhoogd (5 boeken, 200 opgeslagen woorden) en synchroniseert alles tussen apparaten. AI-vertaling en zinsanalyse draaien op je eigen LLM API key (OpenAI, Anthropic of Google) — hun gratis tiers zijn meestal genoeg om te lezen.
+Ja. Je kunt het proberen zonder account (1 boek, 5 opgeslagen woorden), en met een gratis account worden die limieten verhoogd (5 boeken, 200 opgeslagen woorden) en synchroniseert alles tussen apparaten. AI-vertaling en zinsanalyse draaien op je eigen LLM API key (OpenAI, Anthropic of Google) — hun gratis tiers zijn meestal genoeg om te lezen. Of helemaal zonder cloud: de desktop-app werkt met lokale modellen (Ollama, LM Studio, llama.cpp…), offline en gratis, en boeken blijven op je eigen apparaat — zonder accountlimieten.
 
 ## In welke talen kan ik lezen?
 

@@ -8,7 +8,7 @@ Lucerna is a multilingual ebook reader for learning languages through real books
 
 ## Is Lucerna free?
 
-Yes. You can try it without an account (1 book, 5 saved words), and a free account raises those limits (5 books, 200 saved words) and syncs across devices. AI translation and sentence analysis run on your own LLM API key (OpenAI, Anthropic, or Google) — their free tiers are usually enough for reading.
+Yes. You can try it without an account (1 book, 5 saved words), and a free account raises those limits (5 books, 200 saved words) and syncs across devices. AI translation and sentence analysis run on your own LLM API key (OpenAI, Anthropic, or Google) — their free tiers are usually enough for reading. Or skip the cloud entirely: the desktop app works with local models (Ollama, LM Studio, llama.cpp…), runs offline, costs nothing, and keeps books on your device — no account limits.
 
 ## Which languages can I read in?
 

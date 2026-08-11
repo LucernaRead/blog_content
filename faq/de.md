@@ -8,7 +8,7 @@ Lucerna ist ein mehrsprachiger E-Book-Reader, mit dem du durch echte Bücher Spr
 
 ## Ist Lucerna kostenlos?
 
-Ja. Du kannst es ohne Konto ausprobieren (1 Buch, 5 gespeicherte Wörter), und ein kostenloses Konto erhöht diese Limits (5 Bücher, 200 gespeicherte Wörter) und synchronisiert über Geräte hinweg. KI-Übersetzung und Satzanalyse laufen über deinen eigenen LLM API key (OpenAI, Anthropic oder Google) — deren kostenlose Kontingente reichen zum Lesen meist aus.
+Ja. Du kannst es ohne Konto ausprobieren (1 Buch, 5 gespeicherte Wörter), und ein kostenloses Konto erhöht diese Limits (5 Bücher, 200 gespeicherte Wörter) und synchronisiert über Geräte hinweg. KI-Übersetzung und Satzanalyse laufen über deinen eigenen LLM API key (OpenAI, Anthropic oder Google) — deren kostenlose Kontingente reichen zum Lesen meist aus. Oder ganz ohne Cloud: Die Desktop-App funktioniert mit lokalen Modellen (Ollama, LM Studio, llama.cpp …), läuft offline, kostet nichts, und die Bücher bleiben auf deinem Gerät — ohne Konto-Limits.
 
 ## In welchen Sprachen kann ich lesen?
 

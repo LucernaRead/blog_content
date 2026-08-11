@@ -8,7 +8,7 @@ Lucerna es un lector de ebooks multilingüe para aprender idiomas con libros de 
 
 ## ¿Lucerna es gratis?
 
-Sí. Puedes probarlo sin cuenta (1 libro, 5 palabras guardadas), y una cuenta gratuita amplía esos límites (5 libros, 200 palabras guardadas) y sincroniza entre dispositivos. La traducción con IA y el análisis de oraciones funcionan con tu propia LLM API key (OpenAI, Anthropic o Google) — sus planes gratuitos suelen bastar para leer.
+Sí. Puedes probarlo sin cuenta (1 libro, 5 palabras guardadas), y una cuenta gratuita amplía esos límites (5 libros, 200 palabras guardadas) y sincroniza entre dispositivos. La traducción con IA y el análisis de oraciones funcionan con tu propia LLM API key (OpenAI, Anthropic o Google) — sus planes gratuitos suelen bastar para leer. O sin nube en absoluto: la app de escritorio funciona con modelos locales (Ollama, LM Studio, llama.cpp…), sin conexión y gratis, y los libros quedan en tu dispositivo, sin límites de cuenta.
 
 ## ¿En qué idiomas puedo leer?
 
