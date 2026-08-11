@@ -2,6 +2,73 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "the-world-is-never-just-one-version",
+      "publishedAt": "2026-08-11",
+      "cover": null,
+      "locales": {
+        "de": {
+          "slug": "the-world-is-never-just-one-version",
+          "title": "Die Welt ist nie nur eine Version",
+          "excerpt": "Wozu lesen wir? Wozu eine Fremdsprache lernen? Lange hatte ich das Gefühl, es ist dieselbe Frage — beide holen dich aus deiner eigenen Welt und lassen dich mit etwas Fremdem zurückkehren. Darum bauen wir Lucerna.",
+          "draft": false
+        },
+        "en": {
+          "slug": "the-world-is-never-just-one-version",
+          "title": "The world is never just one version",
+          "excerpt": "Why do we read? Why learn a foreign language? For a long time I've felt they are the same question — both take you out of your own world, and let you come back carrying something unfamiliar. This is why we're building Lucerna.",
+          "draft": false
+        },
+        "es": {
+          "slug": "the-world-is-never-just-one-version",
+          "title": "El mundo nunca tiene una sola versión",
+          "excerpt": "¿Para qué leemos? ¿Para qué aprender un idioma extranjero? Llevo mucho tiempo sintiendo que son la misma pregunta: ambas te sacan de tu propio mundo y te dejan volver cargando algo extraño. Por eso estamos construyendo Lucerna.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "the-world-is-never-just-one-version",
+          "title": "Le monde n'a jamais qu'une seule version",
+          "excerpt": "Pourquoi lire ? Pourquoi apprendre une langue étrangère ? Depuis longtemps, j'ai le sentiment qu'il s'agit de la même question : toutes deux nous arrachent à notre propre monde, et nous laissent revenir chargés de quelque chose d'étranger. C'est pour cela que nous construisons Lucerna.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "the-world-is-never-just-one-version",
+          "title": "世界は決して一つだけのバージョンではない",
+          "excerpt": "読書とは何のためか?外国語を学ぶとは何のためか?長いあいだ、この二つは実は同じ問いだと感じてきた——どちらも人を自分の世界の外へ連れ出し、何か見知らぬものを抱えて帰らせる。これが Lucerna を作りたい理由だ。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "the-world-is-never-just-one-version",
+          "title": "세상은 결코 하나의 버전이 아니다",
+          "excerpt": "독서는 무엇을 위해 하는가? 외국어를 배우는 것은 또 무엇을 위해 하는가? 오랫동안 나는 이 두 질문이 사실 같은 질문이라고 느껴 왔다 — 둘 다 한 사람을 자기 세계 밖으로 데려가, 낯선 무언가를 품고 돌아오게 한다. 이것이 우리가 Lucerna를 만드는 이유다.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "the-world-is-never-just-one-version",
+          "title": "De wereld heeft nooit maar één versie",
+          "excerpt": "Waarom lezen we? Waarom leren we een vreemde taal? Ik heb lang het gevoel gehad dat het dezelfde vraag is — allebei nemen ze je mee uit je eigen wereld, en laten ze je terugkomen met iets onbekends. Daarom bouwen we Lucerna.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "the-world-is-never-just-one-version",
+          "title": "O mundo nunca tem uma versão só",
+          "excerpt": "Para que ler? Para que aprender uma língua estrangeira? Há muito tempo sinto que são a mesma pergunta — as duas tiram você do seu próprio mundo e deixam você voltar carregando algo estranho. É por isso que estamos construindo o Lucerna.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "the-world-is-never-just-one-version",
+          "title": "世界從來不只有一個版本",
+          "excerpt": "讀書是為了什麼?學外語又是為了什麼?很長一段時間裡,我都覺得這兩個問題其實是同一個問題——它們都在把一個人帶離他自己的世界。這也是我想做 Lucerna 的原因。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "the-world-is-never-just-one-version",
+          "title": "世界不是只有一个版本",
+          "excerpt": "读书是为了什么？学外语又是为了什么？我很长时间都觉得，这两个问题其实是同一个问题——它们都在把一个人带离他自己的世界。这也是我想做 Lucerna 的原因。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "how-many-words-to-read-a-book-foreign-language",
       "publishedAt": "2026-07-15",
       "cover": null,
