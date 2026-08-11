@@ -40,6 +40,9 @@ const DEFAULT_LOCALE = 'en';
 /** 仓根允许出现的非 posts 条目。 */
 const ROOT_ALLOW = new Set([
   'posts',
+  // 落地页的 FAQ 文案 —— 站点文案和文章一样,push 即发布,不进前端 bundle。
+  // 形态:faq/<locale>.md,frontmatter 带 section 标题,`## ` 是问题,下面是答案。
+  'faq',
   'lint.mjs',
   'index.json',
   'README.md',
@@ -208,6 +211,41 @@ function checkPost(dir) {
   }
 }
 
+/** FAQ 目录:只许 `<locale>.md`,10 个语言一个都不能少(和 posts 同一条
+ *  内容承诺)。每个文件:frontmatter 带 `title`(板块标题),正文里
+ *  `## ` 开头的是问题,到下一个 `## ` 之间是答案。 */
+function checkFaq() {
+  const where = 'faq';
+  if (!existsSync('faq')) {
+    fail(where, '缺少 faq/ 目录');
+    return;
+  }
+  const entries = readdirSync('faq', { withFileTypes: true });
+  const seen = new Set();
+  for (const e of entries) {
+    if (e.isDirectory()) {
+      fail(where, `不允许子目录 \`${e.name}/\``);
+      continue;
+    }
+    const m = /^([\w-]+)\.md$/.exec(e.name);
+    if (!m || !LOCALES.includes(m[1])) {
+      fail(where, `\`${e.name}\` 命名不合法 —— 必须是 \`<locale>.md\``);
+      continue;
+    }
+    seen.add(m[1]);
+    const raw = readFileSync(join('faq', e.name), 'utf8');
+    const fm = frontmatter(raw, `${where}/${e.name}`);
+    if (fm && !fm.title) fail(`${where}/${e.name}`, 'frontmatter 缺 `title`(板块标题)');
+    const bodyStart = raw.indexOf('\n---');
+    const body = bodyStart === -1 ? raw : raw.slice(bodyStart);
+    if (!/^## .+/m.test(body)) {
+      fail(`${where}/${e.name}`, '没有任何 `## ` 问题 —— FAQ 至少一问');
+    }
+  }
+  const missing = LOCALES.filter((l) => !seen.has(l));
+  if (missing.length) fail(where, `缺 ${missing.length} 个语言:${missing.join(', ')}`);
+}
+
 function main() {
   if (!existsSync('posts')) {
     fail('.', '仓根缺少 `posts/` 目录');
@@ -225,6 +263,7 @@ function main() {
     }
     for (const e of entries.filter((x) => x.isDirectory())) checkPost(e.name);
   }
+  checkFaq();
 
   if (problems.length) {
     console.error(`✗ ${problems.length} 处不合规:\n`);
