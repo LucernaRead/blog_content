@@ -1,7 +1,7 @@
 # blog_content
 
 Lucerna 博客的内容仓。**只放内容,不放代码** —— 站点在 `LandingPage` 仓里,
-它在构建时把这里的 md 读进去。
+它在运行时从对应 GitHub 分支读取这里的 Markdown。
 
 ## 写一篇文章
 
@@ -86,3 +86,7 @@ node lint.mjs --write    # 校验 + 写出 index.json(改完 md 必须跑这个)
 会让站点显示旧标题旧顺序,而且不报任何错。
 
 文章有实质内容更新时，在对应语言的 frontmatter 填写 `updatedAt: "YYYY-MM-DD"`（不早于 `publishedAt`），然后运行 `node lint.mjs --write`。站点 sitemap 与 Article 的更新时间均读取这个字段；未填写则沿用发布时间。
+
+## 正文分节装饰
+
+主题章节之间用独立一行 `---`，上下留空行。站点将正文横线渲染为蓝蛾动画分割线。普通段落用空行即可；完整写作要求见 [AGENTS.md](./AGENTS.md)，Claude 入口见 [CLAUDE.md](./CLAUDE.md)。

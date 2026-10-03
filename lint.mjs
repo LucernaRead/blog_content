@@ -46,6 +46,8 @@ const ROOT_ALLOW = new Set([
   'lint.mjs',
   'index.json',
   'README.md',
+  'AGENTS.md',
+  'CLAUDE.md',
   '.git',
   // husky 的钩子 + 它要的 package.json / lockfile / node_modules。
   //

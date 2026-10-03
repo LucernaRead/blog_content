@@ -9,11 +9,15 @@ You open a French novel, recognise the first few words, and spend the rest of th
 
 If you are choosing your first French graded reader, start with **the exact edition, a sample, and a story you want to finish**. A famous title alone tells you little about difficulty. The A2 adaptation and the original can be very different books.
 
+---
+
 ## What is a French graded reader?
 
 Graded readers control language for learners. Some are new stories; others adapt existing works. A1, A2 and B1 labels help you find a starting point, but they are not a guarantee that every book at that level will feel equally easy. Your vocabulary, familiarity with the topic and interest in the story all matter.
 
 A children's book is not automatically a graded reader. A short original novel is not automatically beginner French. Neither length nor intended age tells you how much idiomatic language, unfamiliar grammar or cultural knowledge the text assumes.
+
+---
 
 ## Three editions to start your search
 
@@ -29,6 +33,8 @@ We have deliberately kept the list short. Compare a sample of one book with anot
 
 **Check the collection name, level and ISBN before ordering.** Searching for “Candide” can lead to an original, a translation, a school edition or an adaptation. A level printed on one edition does not apply to every edition of that work. Check current availability with the publisher, your bookseller or your library.
 
+---
+
 ## Use a ten-minute sample test
 
 This is a practical selection method, not a CEFR assessment. Read a sample for ten minutes. Leave the dictionary closed on the first pass, except when a missing word makes the action impossible to follow. Then ask:
@@ -41,6 +47,8 @@ If you can follow the events but miss details, the book may be a useful stretch.
 
 The aim is to preserve a reading thread. You do not need a perfectly understood page to continue, and you do not need a harder book to make a session worthwhile.
 
+---
+
 ## Paper, EPUB or PDF: check before you buy
 
 Choose paper if that is the format you will actually use. For digital reading, ask whether you receive a downloadable file or access inside a seller's app. A digital edition does not necessarily provide an EPUB or PDF you can import elsewhere. Check format and DRM restrictions before buying specifically for Lucerna.
@@ -48,6 +56,8 @@ Choose paper if that is the format you will actually use. For digital reading, a
 Lucerna accepts EPUB, PDF and TXT imports, but it does not supply these commercial graded readers. Use a file you are authorised to obtain and import. For a PDF, check whether its text is selectable; a page image is not the same as searchable text. Do not assume a scanned PDF will offer the same lookup experience as a text-based ebook.
 
 A classic original being out of copyright somewhere does not make a modern adaptation, recording or illustrated edition free to redistribute. Publisher samples and library loans are useful ways to explore a title without confusing a preview with a free complete book.
+
+---
 
 ## Turn one paragraph into a reading session
 
@@ -61,6 +71,8 @@ With a compatible file in [Lucerna](https://lucernaread.com/landing/en), you can
 
 Save a few words that actually helped you understand this passage. Tomorrow, try to recall the scene and reread it before checking definitions. The review should return you to the story, rather than leave you with a long list you never revisit.
 
+---
+
 ## When should you try an original novel?
 
 There is no level at which every original suddenly becomes easy. After finishing an adaptation, sample an original that interests you. Familiarity with the plot can help, but the original still brings its own language and style.
@@ -68,6 +80,8 @@ There is no level at which every original suddenly becomes easy. After finishing
 Keep a comfortable graded reader alongside a more demanding original if that helps you maintain momentum. If the original turns every session into sentence-by-sentence translation, put it aside and return later. That is a choice about the book, not a verdict on your French.
 
 For the next step, see our guide to [choosing your first foreign-language book](https://lucernaread.com/landing/blog/how-to-choose-your-first-book-in-a-foreign-language). If constant dictionary use is interrupting you, read [when to look up a word](https://lucernaread.com/landing/blog/should-you-look-up-every-word-when-reading).
+
+---
 
 ## Questions before you choose
 

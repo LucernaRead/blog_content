@@ -9,9 +9,13 @@ Du öffnest einen französischen Roman, erkennst einige Wörter und verbringst d
 
 Achte zuerst auf **die konkrete Ausgabe, eine Leseprobe und dein Interesse an der Geschichte**. Ein bekannter Titel sagt wenig über die Schwierigkeit aus. Eine A2-Bearbeitung und das Original können sehr unterschiedlich sein.
 
+---
+
 ## Was sind französische Lernlektüren?
 
 Solche Bücher begrenzen die sprachliche Schwierigkeit. Manche erzählen neue Geschichten, andere bearbeiten bestehende Werke. A1, A2 und B1 helfen bei der Orientierung, garantieren aber kein einheitliches Lesegefühl. Wortschatz, Thema und Interesse spielen mit. Kinderbücher sind nicht automatisch Lernlektüren, kurze Originalromane nicht automatisch leicht.
+
+---
 
 ## Drei konkrete Ausgaben
 
@@ -25,17 +29,23 @@ Die Niveaus stammen von den verlinkten Verlagsseiten und gelten nur für diese A
 
 Vergleiche zunächst zwei Leseproben desselben Niveaus. Wähle die Geschichte, zu der du morgen zurückkehren möchtest. **Prüfe Reihe, Niveau und ISBN**: Derselbe Titel kann ein Original, eine Übersetzung, eine Schulausgabe oder eine Bearbeitung bezeichnen. Verfügbarkeit beim Verlag, Buchhandel oder in der Bibliothek prüfen.
 
+---
+
 ## Zehn Minuten probelesen
 
 Das ist eine Auswahlhilfe, kein GER-Test. Lies zehn Minuten, zunächst ohne Wörterbuch, außer wenn ein Wort die Handlung unverständlich macht. Kannst du sagen, wer was tut, den Abschnitt in zwei Sätzen zusammenfassen und möchtest du weiterlesen?
 
 Verstehst du die Handlung, aber nicht jedes Detail, kann das Buch passen. Musst du fast jeden Satz übersetzen, probiere etwas Leichteres. Verstehst du alles, findest die Geschichte aber langweilig, wechsle das Thema. Du musst nicht jede Seite vollständig verstehen, um weiterzulesen.
 
+---
+
 ## Vor dem Kauf das Format prüfen
 
 Papier ist gut, wenn du damit tatsächlich liest. Eine digitale Ausgabe kann nur in der App des Verkäufers zugänglich sein; sie liefert nicht unbedingt eine importierbare EPUB- oder PDF-Datei. Für Lucerna vor dem Kauf Format und DRM-Beschränkungen prüfen.
 
 Lucerna importiert EPUB, PDF und TXT, enthält diese kommerziellen Lernlektüren aber nicht. Nutze Dateien, die du rechtmäßig erhalten und importieren darfst. Prüfe bei PDFs, ob der Text markierbar ist: Ein Scan bietet nicht zwingend dieselbe Such- und Nachschlagefunktion. Ein gemeinfreies Original macht moderne Bearbeitungen, Illustrationen oder Aufnahmen nicht automatisch frei. Verlagsproben und Bibliotheksausleihen helfen bei der Auswahl; eine Probe ist kein kostenloses vollständiges Buch.
+
+---
 
 ## Ein Absatz für deine Lesesitzung
 
@@ -47,11 +57,15 @@ Folge zuerst der Handlung: Léa kommt an, sucht ihre Fahrkarte und findet sie un
 
 Mit einer kompatiblen Datei in [Lucerna](https://lucernaread.com/landing/de) kannst du Wörter nachschlagen, Sätze übersetzen oder analysieren lassen und nützliche Wörter speichern. KI nutzt deinen eigenen API-Schlüssel; Anbietergebühren können anfallen. Die Desktop-App unterstützt auch lokale Modelle. Speichere wenige hilfreiche Wörter. Erinnere dich morgen zuerst an die Szene und lies sie erneut, bevor du Definitionen ansiehst.
 
+---
+
 ## Wann zum Original wechseln?
 
 Kein Niveau macht alle Originale leicht. Teste nach einer Bearbeitung ein Original, das dich interessiert. Die bekannte Handlung kann helfen, die Sprache bleibt anders. Eine angenehme Lernlektüre und ein anspruchsvolleres Original dürfen nebeneinander stehen. Wird jede Sitzung zur Satz-für-Satz-Übersetzung, lege das Original vorerst zurück.
 
 Weiter geht es mit [dem ersten fremdsprachigen Buch](https://lucernaread.com/landing/de/blog/how-to-choose-your-first-book-in-a-foreign-language) und [der Frage, wann du Wörter nachschlagen solltest](https://lucernaread.com/landing/de/blog/should-you-look-up-every-word-when-reading).
+
+---
 
 ## Häufige Fragen
 

@@ -9,9 +9,13 @@ Você abre um romance francês, reconhece algumas palavras e passa o restante do
 
 Comece pela **edição exata, uma amostra e sua vontade de acompanhar a história**. Um título famoso não revela a dificuldade. A adaptação A2 e o original podem exigir esforços muito diferentes.
 
+---
+
 ## O que é uma leitura graduada?
 
 Esses livros controlam a dificuldade linguística. Alguns são histórias novas; outros adaptam obras existentes. A1, A2 e B1 ajudam a encontrar um ponto de partida, mas não garantem experiências iguais. Vocabulário, tema e interesse também contam. Livro infantil não é necessariamente graduado; romance original curto não é necessariamente fácil.
+
+---
 
 ## Três edições para começar
 
@@ -25,17 +29,23 @@ Os níveis vêm das páginas da editora e valem apenas para estas edições. Nã
 
 Compare primeiro duas amostras do mesmo nível. Escolha a história à qual queira voltar amanhã. **Confira coleção, nível e ISBN**: o mesmo título pode ser original, tradução, edição escolar ou adaptação. Consulte disponibilidade na editora, livraria ou biblioteca.
 
+---
+
 ## Um teste de dez minutos
 
 É uma ajuda para escolher, não uma avaliação do QECR. Leia uma amostra por dez minutos, sem dicionário na primeira passagem, exceto se uma palavra impedir que acompanhe a ação. Você consegue explicar quem faz o quê, resumir o trecho e dizer se quer continuar?
 
 Acompanhar a trama e perder detalhes pode ser um desafio adequado. Precisar traduzir quase todas as frases sugere testar algo mais fácil. Entender e não gostar da história é motivo para trocar o tema. Você não precisa compreender perfeitamente cada página para seguir.
 
+---
+
 ## Confira o formato antes da compra
 
 Papel funciona se for o que você usará. Uma edição digital pode oferecer apenas acesso no aplicativo do vendedor, sem EPUB ou PDF importável. Confira formato e restrições DRM antes de comprar para usar no Lucerna.
 
 Lucerna importa EPUB, PDF e TXT, mas não fornece esses livros comerciais. Use um arquivo que possa obter e importar legitimamente. Em PDFs, confira se o texto pode ser selecionado: uma imagem digitalizada não oferece necessariamente a mesma pesquisa e consulta de palavras. Um original em domínio público não torna livres adaptações modernas, ilustrações ou gravações. Amostras da editora e empréstimos em bibliotecas ajudam na escolha; amostra não é livro completo gratuito.
+
+---
 
 ## Um parágrafo para começar
 
@@ -47,11 +57,15 @@ Acompanhe a ação: Léa chega à estação, procura a passagem e a encontra sob
 
 Com um arquivo compatível no [Lucerna](https://lucernaread.com/landing/pt), consulte palavras, peça tradução ou análise de frases e salve vocabulário útil. A IA usa sua chave API; podem existir tarifas do fornecedor. O aplicativo desktop também suporta modelos locais. Salve poucas palavras que ajudaram na compreensão. Amanhã, lembre a cena e releia antes de olhar definições.
 
+---
+
 ## Quando experimentar um original?
 
 Nenhum nível torna todos os originais fáceis. Depois de uma adaptação, teste um original que lhe interesse. Conhecer a trama pode ajudar, mas o estilo muda. Mantenha uma leitura graduada confortável junto de um original mais exigente. Se toda sessão virar tradução frase por frase, deixe-o para depois.
 
 Leia também [como escolher seu primeiro livro em outra língua](https://lucernaread.com/landing/pt/blog/how-to-choose-your-first-book-in-a-foreign-language) e [quando consultar uma palavra](https://lucernaread.com/landing/pt/blog/should-you-look-up-every-word-when-reading).
+
+---
 
 ## Perguntas frequentes
 

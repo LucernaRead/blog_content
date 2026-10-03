@@ -9,9 +9,13 @@ Je opent een Franse roman, herkent enkele woorden en zit de rest van de alinea i
 
 Begin bij **de precieze editie, een leesfragment en je belangstelling voor het verhaal**. Een bekende titel zegt weinig over de moeilijkheid. Een A2-bewerking en het origineel kunnen sterk verschillen.
 
+---
+
 ## Wat zijn leesboeken op niveau?
 
 Deze boeken beperken de taalkundige moeilijkheid. Sommige bevatten nieuwe verhalen, andere bewerkingen. A1, A2 en B1 helpen een beginpunt te vinden, maar garanderen geen gelijke leeservaring. Woordenschat, onderwerp en interesse tellen mee. Een kinderboek is niet automatisch aangepast voor taalleerders; een korte originele roman is niet automatisch eenvoudig.
+
+---
 
 ## Drie concrete edities
 
@@ -25,17 +29,23 @@ De niveaus komen van de gelinkte uitgeverspagina’s en gelden uitsluitend voor 
 
 Vergelijk eerst twee fragmenten van hetzelfde niveau. Kies het verhaal waarvoor je morgen terugkomt. **Controleer reeks, niveau en ISBN**: dezelfde titel kan een origineel, vertaling, schooleditie of bewerking zijn. Vraag uitgever, boekhandel of bibliotheek naar de beschikbaarheid.
 
+---
+
 ## Tien minuten proeflezen
 
 Dit helpt bij de keuze en is geen ERK-toets. Lees tien minuten zonder woordenboek bij de eerste lezing, behalve als een woord de handeling onbegrijpelijk maakt. Kun je uitleggen wie wat doet, het fragment samenvatten en zeggen of je wilt doorlezen?
 
 Volg je het verhaal maar mis je details, dan kan het een passende uitdaging zijn. Moet je bijna iedere zin vertalen, probeer dan iets eenvoudigers. Begrijp je het maar boeit het niet, wissel van verhaal. Volledige kennis van elke pagina is niet nodig om verder te lezen.
 
+---
+
 ## Controleer het formaat vóór aankoop
 
 Papier werkt als je het daadwerkelijk gebruikt. Een digitale editie kan uitsluitend in de app van de verkoper beschikbaar zijn, zonder importeerbare EPUB of PDF. Controleer bestandsformaat en DRM-beperkingen als je voor Lucerna koopt.
 
 Lucerna importeert EPUB, PDF en TXT, maar levert deze commerciële boeken niet. Gebruik bestanden die je rechtmatig kunt verkrijgen en importeren. Controleer bij een PDF of tekst selecteerbaar is: een scan biedt niet vanzelf dezelfde zoek- en opzoekmogelijkheden. Een origineel in het publieke domein maakt een moderne bewerking, illustratie of opname niet automatisch vrij. Uitgeversfragmenten en bibliotheekleningen helpen bij de keuze; een fragment is geen gratis compleet boek.
+
+---
 
 ## Begin met één alinea
 
@@ -47,11 +57,15 @@ Volg de handeling: Léa arriveert op het station, zoekt haar kaartje en vindt he
 
 Met een geschikt bestand in [Lucerna](https://lucernaread.com/landing/nl) zoek je woorden op, vraag je zinsvertaling of analyse aan en bewaar je nuttige woorden. AI gebruikt je eigen API-sleutel; aanbiederstarieven kunnen gelden. De desktop-app ondersteunt ook lokale modellen. Bewaar slechts enkele woorden die hielpen. Haal morgen eerst de scène terug en herlees voordat je definities bekijkt.
 
+---
+
 ## Wanneer een origineel proberen?
 
 Geen niveau maakt alle originelen eenvoudig. Probeer na een bewerking een origineel dat je boeit. Een bekend verhaal kan helpen, maar de stijl verschilt. Houd gerust een prettig leesboek naast een uitdagender origineel. Wordt elke sessie zin voor zin vertalen, leg het dan tijdelijk weg.
 
 Lees ook [je eerste boek in een vreemde taal kiezen](https://lucernaread.com/landing/nl/blog/how-to-choose-your-first-book-in-a-foreign-language) en [wanneer woorden opzoeken zin heeft](https://lucernaread.com/landing/nl/blog/should-you-look-up-every-word-when-reading).
+
+---
 
 ## Veelgestelde vragen
 

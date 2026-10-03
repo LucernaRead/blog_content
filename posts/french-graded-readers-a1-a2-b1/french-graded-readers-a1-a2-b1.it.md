@@ -9,9 +9,13 @@ Apri un romanzo francese, riconosci alcune parole e passi il resto del paragrafo
 
 Comincia da **edizione precisa, estratto e desiderio di sapere come continua**. Un titolo famoso non indica la difficoltà. L’adattamento A2 e l’originale possono essere libri molto diversi.
 
+---
+
 ## Che cos’è una lettura graduata?
 
 Sono testi che controllano la difficoltà linguistica. Alcuni raccontano storie nuove; altri rielaborano opere esistenti. A1, A2 e B1 aiutano a orientarsi, ma non garantiscono la stessa esperienza per ogni libro. Contano lessico, argomento e interesse. Un libro per bambini non è automaticamente graduato; un originale breve non è automaticamente facile.
+
+---
 
 ## Tre edizioni da confrontare
 
@@ -25,17 +29,23 @@ I livelli vengono dalle pagine dell’editore e valgono soltanto per queste ediz
 
 Confronta due estratti dello stesso livello prima di cambiare livello. Scegli la storia a cui vuoi tornare domani. **Controlla collana, livello e ISBN**: uno stesso titolo può essere originale, traduzione, edizione scolastica o adattamento. Verifica la disponibilità con editore, libreria o biblioteca.
 
+---
+
 ## La prova dei dieci minuti
 
 È un metodo per scegliere, non un test QCER. Leggi un estratto per dieci minuti, senza dizionario al primo passaggio, salvo quando una parola rende impossibile seguire l’azione. Sai spiegare chi fa che cosa? Riassumere in due frasi? Vuoi proseguire?
 
 Se segui gli eventi ma perdi dettagli, può essere una buona sfida. Se devi tradurre quasi ogni frase, prova un testo più facile. Se capisci ma ti annoi, cambia storia. Non serve capire perfettamente ogni pagina per continuare.
 
+---
+
 ## Controlla il formato prima dell’acquisto
 
 Scegli carta se è ciò che userai. Un’edizione digitale può offrire soltanto accesso nell’app del venditore, senza EPUB o PDF importabile. Per leggere con Lucerna, verifica formato e restrizioni DRM prima di comprare.
 
 Lucerna importa EPUB, PDF e TXT, ma non fornisce questi libri commerciali. Usa un file che hai diritto di ottenere e importare. In un PDF, controlla che il testo sia selezionabile: una scansione non garantisce la stessa ricerca o consultazione. Un originale di pubblico dominio non rende automaticamente liberi adattamenti moderni, illustrazioni o registrazioni. Estratti dell’editore e prestiti in biblioteca aiutano a scegliere; un estratto non è il libro completo gratuito.
+
+---
 
 ## Un paragrafo per iniziare
 
@@ -47,11 +57,15 @@ Segui l’azione: Léa arriva alla stazione, cerca il biglietto e lo trova sotto
 
 Con un file compatibile in [Lucerna](https://lucernaread.com/landing/en), puoi consultare parole, chiedere traduzione o analisi delle frasi e salvare lessico utile. L’AI usa la tua chiave API; possono applicarsi tariffe del fornitore. L’app desktop supporta anche modelli locali. Salva poche parole che ti hanno aiutato. Domani ricorda la scena e rileggi prima di controllare le definizioni.
 
+---
+
 ## Quando provare un originale?
 
 Nessun livello rende semplici tutti gli originali. Dopo un adattamento, prova un libro che ti interessa. Conoscere la trama può aiutare, ma lo stile cambia. Puoi tenere una lettura graduata comoda accanto a un originale più impegnativo. Se ogni sessione diventa traduzione frase per frase, rimandalo.
 
 Continua con [come scegliere il primo libro straniero](https://lucernaread.com/landing/it/blog/how-to-choose-your-first-book-in-a-foreign-language) e [quando consultare una parola](https://lucernaread.com/landing/it/blog/should-you-look-up-every-word-when-reading).
+
+---
 
 ## Domande frequenti
 
