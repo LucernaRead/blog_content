@@ -2,6 +2,73 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "french-graded-readers-a1-a2-b1",
+      "publishedAt": "2026-10-03",
+      "cover": null,
+      "locales": {
+        "de": {
+          "slug": "french-graded-readers-a1-a2-b1",
+          "title": "Französische Lernlektüren: Das erste Buch von A1 bis B1 auswählen",
+          "excerpt": "Ausgabe und Niveau prüfen, eine Leseprobe testen und mit französischen Lernlektüren den Weg zum ersten Original finden.",
+          "draft": false
+        },
+        "en": {
+          "slug": "french-graded-readers-a1-a2-b1",
+          "title": "French Graded Readers: How to Choose Your First Book, A1–B1",
+          "excerpt": "Choose a French graded reader by edition and level, test a sample before buying, and build a path from A1 stories to your first original novel.",
+          "draft": false
+        },
+        "es": {
+          "slug": "french-graded-readers-a1-a2-b1",
+          "title": "Lecturas graduadas en francés: cómo elegir tu primer libro, de A1 a B1",
+          "excerpt": "Comprueba la edición y el nivel, prueba un fragmento durante diez minutos y encuentra una lectura en francés que quieras terminar.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "french-graded-readers-a1-a2-b1",
+          "title": "Lectures graduées en français : choisir son premier livre, de A1 à B1",
+          "excerpt": "Distinguez adaptation et texte original, vérifiez le niveau de l’édition et utilisez un essai de dix minutes pour choisir une lecture que vous aurez envie de terminer.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "french-graded-readers-a1-a2-b1",
+          "title": "フランス語のレベル別リーダーの選び方：A1からB1、初めての原書へ",
+          "excerpt": "翻案版と原著を区別し、版ごとのレベルを確認。10分の試し読みで、自分が読み続けたいフランス語の本を選びましょう。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "french-graded-readers-a1-a2-b1",
+          "title": "프랑스어 단계별 읽기책 고르기: A1에서 B1, 첫 원서까지",
+          "excerpt": "각 판본의 수준을 확인하고 10분 동안 미리 읽어 보세요. 각색본과 원작을 구분하고 끝까지 읽고 싶은 프랑스어 책을 찾는 방법입니다.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "french-graded-readers-a1-a2-b1",
+          "title": "Franse leesboeken op niveau: je eerste boek kiezen van A1 tot B1",
+          "excerpt": "Controleer de editie en het niveau, lees tien minuten een proeftekst en vind een Frans boek dat je wilt uitlezen.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "french-graded-readers-a1-a2-b1",
+          "title": "Leituras graduadas em francês: como escolher seu primeiro livro, de A1 a B1",
+          "excerpt": "Confira a edição e o nível, teste um trecho por dez minutos e encontre uma leitura em francês que você queira terminar.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "french-graded-readers-a1-a2-b1",
+          "title": "法文分級讀物點揀：由 A1 到 B1，走向第一本原著",
+          "excerpt": "分清改寫版同原著，按 A1、A2、B1 揀法文讀物，用十分鐘試讀搵出適合自己嘅書，再將查詞同複習放返入閱讀。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "french-graded-readers-a1-a2-b1",
+          "title": "法语分级读物怎么选：从 A1 到 B1，走向第一本原著",
+          "excerpt": "分清改写版与原著，按 A1、A2、B1 选择法语读物，用十分钟试读找到适合自己的书，再把查词与复习放回阅读中。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "the-world-is-never-just-one-version",
       "publishedAt": "2026-08-11",
       "cover": null,
