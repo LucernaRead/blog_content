@@ -30,6 +30,12 @@
           "excerpt": "Distinguez adaptation et texte original, vérifiez le niveau de l’édition et utilisez un essai de dix minutes pour choisir une lecture que vous aurez envie de terminer.",
           "draft": false
         },
+        "it": {
+          "slug": "french-graded-readers-a1-a2-b1",
+          "title": "Letture graduate in francese: scegliere il primo libro da A1 a B1",
+          "excerpt": "Distingui adattamento e originale, verifica il livello dell’edizione e prova dieci minuti di lettura prima di scegliere.",
+          "draft": false
+        },
         "ja": {
           "slug": "french-graded-readers-a1-a2-b1",
           "title": "フランス語のレベル別リーダーの選び方：A1からB1、初めての原書へ",
@@ -52,6 +58,12 @@
           "slug": "french-graded-readers-a1-a2-b1",
           "title": "Leituras graduadas em francês: como escolher seu primeiro livro, de A1 a B1",
           "excerpt": "Confira a edição e o nível, teste um trecho por dez minutos e encontre uma leitura em francês que você queira terminar.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "french-graded-readers-a1-a2-b1",
+          "title": "Французские книги по уровням: как выбрать первую, от A1 до B1",
+          "excerpt": "Отличайте адаптацию от оригинала, проверяйте конкретное издание и пробуйте десять минут чтения перед выбором.",
           "draft": false
         },
         "zh-HK": {
@@ -97,6 +109,12 @@
           "excerpt": "Pourquoi lire ? Pourquoi apprendre une langue étrangère ? Depuis longtemps, j'ai le sentiment qu'il s'agit de la même question : toutes deux nous arrachent à notre propre monde, et nous laissent revenir chargés de quelque chose d'étranger. C'est pour cela que nous construisons Lucerna.",
           "draft": false
         },
+        "it": {
+          "slug": "the-world-is-never-just-one-version",
+          "title": "Il mondo non ha mai una sola versione",
+          "excerpt": "Leggere e imparare una lingua ci portano fuori dal nostro mondo. È anche il motivo per cui costruiamo Lucerna.",
+          "draft": false
+        },
         "ja": {
           "slug": "the-world-is-never-just-one-version",
           "title": "世界は決して一つだけのバージョンではない",
@@ -119,6 +137,12 @@
           "slug": "the-world-is-never-just-one-version",
           "title": "O mundo nunca tem uma versão só",
           "excerpt": "Para que ler? Para que aprender uma língua estrangeira? Há muito tempo sinto que são a mesma pergunta — as duas tiram você do seu próprio mundo e deixam você voltar carregando algo estranho. É por isso que estamos construindo o Lucerna.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "the-world-is-never-just-one-version",
+          "title": "У мира никогда не бывает только одной версии",
+          "excerpt": "Чтение и новый язык выводят нас за пределы собственного мира. Поэтому мы и создаём Lucerna.",
           "draft": false
         },
         "zh-HK": {
@@ -164,6 +188,12 @@
           "excerpt": "Les chiffres honnêtes : environ 5 000 familles de mots pour comprendre grossièrement, 8 000 à 9 000 pour lire seul confortablement. Mais surtout : inutile d'attendre — lire est la façon d'y arriver.",
           "draft": false
         },
+        "it": {
+          "slug": "how-many-words-to-read-a-book-foreign-language",
+          "title": "Quante parole devi conoscere per leggere un libro in una lingua straniera?",
+          "excerpt": "Copertura lessicale e famiglie di parole: capire gli ordini di grandezza senza aspettare una soglia per iniziare.",
+          "draft": false
+        },
         "ja": {
           "slug": "how-many-words-to-read-a-book-foreign-language",
           "title": "外国語で本を読むには何語必要?",
@@ -186,6 +216,12 @@
           "slug": "how-many-words-to-read-a-book-foreign-language",
           "title": "Quantas palavras são precisas para ler um livro em outro idioma?",
           "excerpt": "Os números honestos: cerca de 5.000 famílias de palavras para entender grosso modo, 8.000–9.000 para ler confortavelmente sozinho. Mas o útil é: não precisa esperar — ler é como se chega lá.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "how-many-words-to-read-a-book-foreign-language",
+          "title": "Сколько слов нужно знать, чтобы читать книгу на иностранном языке?",
+          "excerpt": "Лексическое покрытие и семейства слов: полезные ориентиры, которые не должны откладывать начало чтения.",
           "draft": false
         },
         "zh-HK": {
@@ -231,6 +267,12 @@
           "excerpt": "Le plus dur dans un premier roman en langue étrangère n'est pas la grammaire, c'est de ne pas savoir la suite. Retirez ce problème : lisez un livre que vous avez déjà lu.",
           "draft": false
         },
+        "it": {
+          "slug": "reread-a-book-you-know-foreign-language",
+          "title": "Rileggi una storia che conosci: un ingresso nel primo romanzo straniero",
+          "excerpt": "Conoscere già la trama libera attenzione per la lingua. Come scegliere una storia familiare e leggerla senza tradurre tutto.",
+          "draft": false
+        },
         "ja": {
           "slug": "reread-a-book-you-know-foreign-language",
           "title": "知っている本を読む:最初の原書への近道",
@@ -253,6 +295,12 @@
           "slug": "reread-a-book-you-know-foreign-language",
           "title": "Leia um livro que você já conhece: o atalho para o primeiro romance em outro idioma",
           "excerpt": "O mais difícil do primeiro romance num idioma novo não é a gramática — é não saber o que vai acontecer. Tire esse problema da mesa: leia um livro que você já leu.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "reread-a-book-you-know-foreign-language",
+          "title": "Перечитайте знакомую книгу: путь к первому иностранному роману",
+          "excerpt": "Знакомый сюжет освобождает внимание для языка. Как выбрать историю и читать её без перевода каждой фразы.",
           "draft": false
         },
         "zh-HK": {
@@ -298,6 +346,12 @@
           "excerpt": "Les cartes enseignent les mots dans le vide ; la lecture les enseigne là où ils vivent. Comment faire des livres que vous voulez déjà lire le seul système de vocabulaire dont vous ayez besoin.",
           "draft": false
         },
+        "it": {
+          "slug": "learn-vocabulary-from-reading",
+          "title": "Imparare parole leggendo, senza vivere dentro un mazzo di flashcard",
+          "excerpt": "Dalla parola isolata alla frase: trasformare le letture che ti interessano in un lessico personale da ripassare.",
+          "draft": false
+        },
         "ja": {
           "slug": "learn-vocabulary-from-reading",
           "title": "読書から語彙を学ぶ方法(フラッシュカード地獄の終わり)",
@@ -320,6 +374,12 @@
           "slug": "learn-vocabulary-from-reading",
           "title": "Como aprender vocabulário lendo (e parar de moer flashcards)",
           "excerpt": "Flashcards ensinam palavras no vácuo; a leitura ensina onde elas vivem. Como transformar os livros que você já quer ler no único sistema de vocabulário de que precisa.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "learn-vocabulary-from-reading",
+          "title": "Как учить слова чтением, а не жить внутри колоды карточек",
+          "excerpt": "От отдельного перевода к предложению: превращаем интересные книги в личный словарь для повторения.",
           "draft": false
         },
         "zh-HK": {
@@ -365,6 +425,12 @@
           "excerpt": "Il y a deux façons de lire dans une langue qu'on apprend, et la plupart pratiquent la lente sans le savoir. Voici la différence — et celle qui rend réellement fluide.",
           "draft": false
         },
+        "it": {
+          "slug": "intensive-vs-extensive-reading",
+          "title": "Lettura intensiva o estensiva: quale aiuta la scioltezza?",
+          "excerpt": "Il microscopio e i chilometri: distinguere due modalità di lettura e usarle senza trasformare ogni pagina in una prova.",
+          "draft": false
+        },
         "ja": {
           "slug": "intensive-vs-extensive-reading",
           "title": "精読と多読:流暢さを作るのはどっち?",
@@ -387,6 +453,12 @@
           "slug": "intensive-vs-extensive-reading",
           "title": "Leitura intensiva vs. extensiva: qual constrói fluência?",
           "excerpt": "Há duas maneiras de ler num idioma que você está aprendendo, e a maioria faz a lenta sem perceber. Aqui está a diferença — e qual realmente deixa você fluente.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "intensive-vs-extensive-reading",
+          "title": "Интенсивное или экстенсивное чтение: что помогает читать свободнее?",
+          "excerpt": "Микроскоп и пройденное расстояние: две цели чтения и способы не превращать каждую страницу в испытание.",
           "draft": false
         },
         "zh-HK": {
@@ -432,6 +504,12 @@
           "excerpt": "La réponse honnête : plus tôt que vous ne le croyez si vous lisez bien, et jamais si vous attendez de vous sentir prêt. Un calendrier réaliste — et la seule variable qui le décide.",
           "draft": false
         },
+        "it": {
+          "slug": "how-long-to-read-a-novel-in-a-new-language",
+          "title": "Quanto tempo serve per leggere un romanzo in una nuova lingua?",
+          "excerpt": "Non esiste una data universale: la scelta del libro, la regolarità e gli ostacoli della lettura contano più del calendario.",
+          "draft": false
+        },
         "ja": {
           "slug": "how-long-to-read-a-novel-in-a-new-language",
           "title": "新しい言語で小説を読めるまで、どのくらいかかる?",
@@ -454,6 +532,12 @@
           "slug": "how-long-to-read-a-novel-in-a-new-language",
           "title": "Quanto tempo até conseguir ler um romance num idioma novo?",
           "excerpt": "A resposta honesta: mais cedo do que você imagina se ler do jeito certo, e nunca se esperar se sentir pronto. Um cronograma realista — e a única variável que o decide.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "how-long-to-read-a-novel-in-a-new-language",
+          "title": "Когда получится прочитать роман на новом языке?",
+          "excerpt": "Универсальной даты нет: выбор книги, регулярность и удобство чтения важнее самого календаря.",
           "draft": false
         },
         "zh-HK": {
@@ -499,6 +583,12 @@
           "excerpt": "Presque tous ceux qui apprennent à lire dans une nouvelle langue l'essaient : l'original d'un côté, la traduction de l'autre. Quand cela aide — et quand cela vous empêche discrètement de lire seul.",
           "draft": false
         },
+        "it": {
+          "slug": "reading-with-a-translation-open",
+          "title": "Leggere con la traduzione aperta: aiuto o stampella?",
+          "excerpt": "Una traduzione può sbloccare una frase oppure sostituire il lavoro di comprenderla. Conta quando la consulti.",
+          "draft": false
+        },
         "ja": {
           "slug": "reading-with-a-translation-open",
           "title": "翻訳を開いたまま読むのは、助けか松葉杖か",
@@ -521,6 +611,12 @@
           "slug": "reading-with-a-translation-open",
           "title": "Ler com a tradução aberta: ajuda ou muleta?",
           "excerpt": "Quase todo mundo que aprende a ler num idioma novo tenta: o original numa mão, a tradução na outra. Quando isso ajuda — e quando impede você de um dia ler sozinho.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "reading-with-a-translation-open",
+          "title": "Чтение с открытым переводом: помощь или костыль?",
+          "excerpt": "Перевод может прояснить предложение или заменить попытку его понять. Важен момент, когда вы к нему обращаетесь.",
           "draft": false
         },
         "zh-HK": {
@@ -566,6 +662,12 @@
           "excerpt": "Commencer est facile — tout le monde a un roman à moitié lu dans sa langue cible. Voici comment passer de l'autre côté : devenir celui qui referme le livre.",
           "draft": false
         },
+        "it": {
+          "slug": "how-to-finish-a-foreign-language-book",
+          "title": "Come finire davvero un libro in una lingua straniera",
+          "excerpt": "Dalla prima pagina all’ultima: cinque abitudini per smettere di ricominciare sempre lo stesso romanzo.",
+          "draft": false
+        },
         "ja": {
           "slug": "how-to-finish-a-foreign-language-book",
           "title": "外国語の本を本当に読み終える方法",
@@ -588,6 +690,12 @@
           "slug": "how-to-finish-a-foreign-language-book",
           "title": "Como realmente terminar um livro em outro idioma",
           "excerpt": "Começar é fácil — todo mundo tem um romance pela metade no idioma que estuda. Aqui vai como estar do outro lado: ser a pessoa que fecha a contracapa.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "how-to-finish-a-foreign-language-book",
+          "title": "Как действительно дочитать книгу на иностранном языке",
+          "excerpt": "Пять привычек, которые помогают дойти до последней страницы вместо бесконечного возвращения к первой.",
           "draft": false
         },
         "zh-HK": {
@@ -633,6 +741,12 @@
           "excerpt": "Une échelle de lecture de A2 à C1, tous gratuits sur le Projet Gutenberg, aucun assez long pour épuiser votre patience.",
           "draft": false
         },
+        "it": {
+          "slug": "read-like-a-berliner-7-short-german-books",
+          "title": "Leggere come a Berlino: sette libri tedeschi per cominciare",
+          "excerpt": "Dalle fiabe a Thomas Mann: sette letture da esplorare, con difficoltà indicative e senza scambiare i classici per testi graduati.",
+          "draft": false
+        },
         "ja": {
           "slug": "read-like-a-berliner-7-short-german-books",
           "title": "ベルリンっ子のように読む:この夏に始める短いドイツ語の本7冊",
@@ -655,6 +769,12 @@
           "slug": "read-like-a-berliner-7-short-german-books",
           "title": "Ler como um berlinense: 7 livros alemães curtos para este verão",
           "excerpt": "Uma escada de leitura de A2 a C1, todos gratuitos no Projeto Gutenberg, nenhum longo o bastante para vencer a sua paciência.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "read-like-a-berliner-7-short-german-books",
+          "title": "Читать как в Берлине: семь немецких книг для начала",
+          "excerpt": "От сказок до Томаса Манна: семь возможных ступеней с ориентировочной сложностью, а не официальными уровнями.",
           "draft": false
         },
         "zh-HK": {
@@ -700,6 +820,12 @@
           "excerpt": "Une échelle de lecture de A2 à C1, tous gratuits sur le Projet Gutenberg, aucun assez long pour gâcher votre mois de juin.",
           "draft": false
         },
+        "it": {
+          "slug": "7-short-french-novels-summer-2026",
+          "title": "Leggere come a Parigi: sette letture francesi per iniziare",
+          "excerpt": "Dai racconti alla prosa più complessa: sette titoli da esplorare, verificando edizione, diritti e difficoltà con un campione.",
+          "draft": false
+        },
         "ja": {
           "slug": "7-short-french-novels-summer-2026",
           "title": "パリジャンのように読む:この夏に始める短いフランス語小説7冊",
@@ -722,6 +848,12 @@
           "slug": "7-short-french-novels-summer-2026",
           "title": "Ler como um parisiense: 7 romances franceses curtos para este verão",
           "excerpt": "Uma escada de leitura de A2 a C1, todos gratuitos no Projeto Gutenberg, nenhum longo o bastante para estragar o seu junho.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "7-short-french-novels-summer-2026",
+          "title": "Читать как в Париже: семь французских книг для начала",
+          "excerpt": "От рассказов к сложной прозе: семь произведений, для которых стоит проверить издание, доступность и отрывок.",
           "draft": false
         },
         "zh-HK": {
@@ -767,6 +899,12 @@
           "excerpt": "Les fiches ne sont pas le seul moyen de faire tenir le vocabulaire. Comment la lecture répétée et contextuelle construit une mémoire durable — et que faire des mots qui refusent de rester.",
           "draft": false
         },
+        "it": {
+          "slug": "how-to-remember-words-you-read",
+          "title": "Ricordare le parole che leggi, senza dipendere dalle flashcard",
+          "excerpt": "Incontri ripetuti e contesto aiutano il lessico a restare. Cosa fare quando una parola continua a sfuggirti.",
+          "draft": false
+        },
         "ja": {
           "slug": "how-to-remember-words-you-read",
           "title": "読んだ単語の覚え方(フラッシュカードなしで)",
@@ -789,6 +927,12 @@
           "slug": "how-to-remember-words-you-read",
           "title": "Como lembrar as palavras que você lê (sem flashcards)",
           "excerpt": "Flashcards não são o único jeito de fixar vocabulário. Como a leitura repetida e contextual constrói uma memória duradoura — e o que fazer com as palavras que não grudam.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "how-to-remember-words-you-read",
+          "title": "Как запоминать прочитанные слова без постоянных карточек",
+          "excerpt": "Повторные встречи и контекст помогают словам остаться в памяти. Что делать с теми, которые всё равно забываются.",
           "draft": false
         },
         "zh-HK": {
@@ -834,6 +978,12 @@
           "excerpt": "L'habitude du dictionnaire qui tue votre lecture à petit feu. Quand chercher un mot, quand le laisser filer, et comment garder l'histoire en mouvement.",
           "draft": false
         },
+        "it": {
+          "slug": "should-you-look-up-every-word-when-reading",
+          "title": "Devi cercare ogni parola quando leggi in una lingua straniera?",
+          "excerpt": "Quando aprire il dizionario, quando proseguire e come non perdere il filo della storia.",
+          "draft": false
+        },
         "ja": {
           "slug": "should-you-look-up-every-word-when-reading",
           "title": "外国語を読むとき、単語は全部調べるべき?",
@@ -856,6 +1006,12 @@
           "slug": "should-you-look-up-every-word-when-reading",
           "title": "Precisa procurar todas as palavras ao ler em outro idioma?",
           "excerpt": "O hábito de dicionário que mata sua leitura em silêncio. Quando procurar uma palavra, quando deixar passar e como manter a história andando.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "should-you-look-up-every-word-when-reading",
+          "title": "Нужно ли проверять каждое слово при чтении на иностранном языке?",
+          "excerpt": "Когда открыть словарь, когда продолжить и как сохранить нить истории.",
           "draft": false
         },
         "zh-HK": {
@@ -901,6 +1057,12 @@
           "excerpt": "Atteindre la fluidité avec une toute petite habitude quotidienne. Pourquoi quinze minutes par soir valent mieux que les séances marathon — et comment installer la routine.",
           "draft": false
         },
+        "it": {
+          "slug": "how-to-learn-a-language-by-reading",
+          "title": "Imparare una lingua leggendo: il metodo delle cinque pagine a sera",
+          "excerpt": "Una piccola abitudine quotidiana può durare più di una maratona di studio: costruire una routine di lettura.",
+          "draft": false
+        },
         "ja": {
           "slug": "how-to-learn-a-language-by-reading",
           "title": "読書で言語を学ぶ(毎晩5ページ法)",
@@ -923,6 +1085,12 @@
           "slug": "how-to-learn-a-language-by-reading",
           "title": "Aprender um idioma lendo (o método das cinco páginas por noite)",
           "excerpt": "Chegue à fluência com um hábito diário minúsculo. Por que quinze minutos por noite ganham das maratonas de estudo — e como montar a rotina.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "how-to-learn-a-language-by-reading",
+          "title": "Как учить язык чтением: пять страниц каждый вечер",
+          "excerpt": "Небольшая ежедневная привычка устойчивее редких учебных марафонов. Как встроить чтение в обычный вечер.",
           "draft": false
         },
         "zh-HK": {
@@ -968,6 +1136,12 @@
           "excerpt": "Il existe un seuil — autour de 1 000 mots — où lire cesse d'être du décodage et redevient de la lecture. Ce qu'il est, et comment l'atteindre plus vite.",
           "draft": false
         },
+        "it": {
+          "slug": "how-many-words-to-read-in-a-new-language",
+          "title": "Quante parole servono prima che leggere diventi più facile?",
+          "excerpt": "Dalla decodifica alla lettura: perché il lessico frequente cambia l’esperienza e come incontrarlo più spesso.",
+          "draft": false
+        },
         "ja": {
           "slug": "how-many-words-to-read-in-a-new-language",
           "title": "新しい言語は何語読めば楽になるのか",
@@ -990,6 +1164,12 @@
           "slug": "how-many-words-to-read-in-a-new-language",
           "title": "Quantas palavras é preciso ler até ficar fácil",
           "excerpt": "Existe um limiar — em torno de 1.000 palavras — em que ler deixa de parecer decodificar e passa a parecer leitura. O que ele é e como chegar lá mais rápido.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "how-many-words-to-read-in-a-new-language",
+          "title": "Сколько слов нужно, чтобы читать стало легче?",
+          "excerpt": "От расшифровки к чтению: как частотная лексика меняет опыт и как встречать её чаще.",
           "draft": false
         },
         "zh-HK": {
@@ -1035,6 +1215,12 @@
           "excerpt": "Le bon premier livre fait la moitié du travail. Un guide pratique et accessible pour choisir, dans votre langue cible, un livre que vous finirez vraiment.",
           "draft": false
         },
+        "it": {
+          "slug": "how-to-choose-your-first-book-in-a-foreign-language",
+          "title": "Come scegliere il primo libro in una lingua straniera",
+          "excerpt": "Il primo libro giusto ti aiuta a fare metà del lavoro: scegliere una lettura che riuscirai davvero a finire.",
+          "draft": false
+        },
         "ja": {
           "slug": "how-to-choose-your-first-book-in-a-foreign-language",
           "title": "最初の外国語の一冊をどう選ぶか",
@@ -1057,6 +1243,12 @@
           "slug": "how-to-choose-your-first-book-in-a-foreign-language",
           "title": "Como escolher seu primeiro livro em outro idioma",
           "excerpt": "O primeiro livro certo faz metade do trabalho por você. Um guia prático e amigável para iniciantes: como escolher, no seu idioma-alvo, um livro que você realmente vai terminar.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "how-to-choose-your-first-book-in-a-foreign-language",
+          "title": "Как выбрать первую книгу на иностранном языке",
+          "excerpt": "Подходящая первая книга облегчает половину работы: выберите текст, который действительно сможете дочитать.",
           "draft": false
         },
         "zh-HK": {
@@ -1102,6 +1294,12 @@
           "excerpt": "Construis une bibliothèque gratuite dans ta langue cible. Project Gutenberg, Wikisource, lectures graduées et plus — un guide pour lire sans dépenser un centime.",
           "draft": false
         },
+        "it": {
+          "slug": "where-to-find-free-books-in-any-language",
+          "title": "Dove trovare libri gratuiti per imparare una lingua",
+          "excerpt": "Biblioteche digitali, classici di pubblico dominio e letture accessibili: costruire una biblioteca nella lingua che studi.",
+          "draft": false
+        },
         "ja": {
           "slug": "where-to-find-free-books-in-any-language",
           "title": "どの言語でも無料の本が見つかる場所",
@@ -1124,6 +1322,12 @@
           "slug": "where-to-find-free-books-in-any-language",
           "title": "Onde encontrar livros grátis em qualquer idioma",
           "excerpt": "Monte uma biblioteca gratuita no seu idioma-alvo. Project Gutenberg, Wikisource, leituras graduadas e mais — um guia para ler sem gastar um centavo.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "where-to-find-free-books-in-any-language",
+          "title": "Где искать бесплатные книги для изучения языка",
+          "excerpt": "Цифровые библиотеки, произведения общественного достояния и более простые тексты: как собрать библиотеку на изучаемом языке.",
           "draft": false
         },
         "zh-HK": {
@@ -1169,6 +1373,12 @@
           "excerpt": "Une méthode centrée sur la lecture pour adultes, bâtie autour de l'input compréhensible que les leçons générées par IA ne peuvent pas remplacer.",
           "draft": false
         },
+        "it": {
+          "slug": "quit-duolingo-30-day-german-plan",
+          "title": "Oltre la serie quotidiana: un piano di lettura in tedesco di 30 giorni",
+          "excerpt": "Un mese per passare da esercizi brevi a una storia continua, senza promettere la padronanza della lingua in trenta giorni.",
+          "draft": false
+        },
         "ja": {
           "slug": "quit-duolingo-30-day-german-plan",
           "title": "Duolingo をやめた。ドイツ語が本当に伸びている30日プランの話。",
@@ -1191,6 +1401,12 @@
           "slug": "quit-duolingo-30-day-german-plan",
           "title": "Larguei o Duolingo. Este é o plano de 30 dias que está me deixando fluente em alemão.",
           "excerpt": "Um método com a leitura em primeiro lugar, para adultos, construído em torno do input compreensível que aulas geradas por IA não substituem.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "quit-duolingo-30-day-german-plan",
+          "title": "За пределами ежедневной серии: план чтения по-немецки на 30 дней",
+          "excerpt": "Месяц, чтобы перейти от коротких заданий к связной истории, без обещания свободного языка за тридцать дней.",
           "draft": false
         },
         "zh-HK": {

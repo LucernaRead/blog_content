@@ -35,7 +35,7 @@ import { readdirSync, readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { join, extname } from 'node:path';
 
 /** 与 app 的 UI 语言一致(payload/locales.ts 的 BLOG_LOCALES)。 */
-const LOCALES = ['en', 'zh', 'zh-HK', 'ja', 'ko', 'de', 'fr', 'es', 'pt', 'nl'];
+const LOCALES = ['en', 'zh', 'zh-HK', 'ja', 'ko', 'de', 'fr', 'es', 'pt', 'nl', 'it', 'ru'];
 const DEFAULT_LOCALE = 'en';
 /** 仓根允许出现的非 posts 条目。 */
 const ROOT_ALLOW = new Set([

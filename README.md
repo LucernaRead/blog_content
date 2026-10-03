@@ -11,7 +11,7 @@ Lucerna 博客的内容仓。**只放内容,不放代码** —— 站点在 `Lan
 posts/how-to-choose-your-first-book/
   how-to-choose-your-first-book.en.md   ← 英文正文(en 也带后缀,没有裸 .md)
   how-to-choose-your-first-book.zh.md   ← 中文
-  ...                                   ← 支持的 10 个语言,一个都不能少
+  ...                                   ← 支持的 12 个语言,一个都不能少
   hero.jpg                              ← 附件,所有语言共用
   chart.png
 ```
@@ -38,9 +38,9 @@ cover: hero.jpg          # 可选,必须是本目录里的文件
 
 同一个目录里一个语言一个文件,**共用同一批附件**。
 
-支持的语言,**一篇文章 10 个全都必须有**:
+支持的语言,**一篇文章 12 个全都必须有**:
 
-`en` `zh` `zh-HK` `ja` `ko` `de` `fr` `es` `pt` `nl`
+`en` `zh` `zh-HK` `ja` `ko` `de` `fr` `es` `pt` `nl` `it` `ru`
 
 `en` 也要写 `.en.md` —— **没有裸 `<slug>.md`**。这条是 lint 硬拦的:
 声明支持某个语言,就不允许出现"这篇没翻"的空洞。缺一个就提交不了。
