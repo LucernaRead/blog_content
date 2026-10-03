@@ -12,7 +12,7 @@ Ja. Du kannst es ohne Konto ausprobieren (1 Buch, 5 gespeicherte Wörter), und e
 
 ## In welchen Sprachen kann ich lesen?
 
-Der Reader funktioniert mit 11 Sprachen: Englisch, Deutsch, Französisch, Spanisch, Italienisch, Portugiesisch, Niederländisch, Russisch, Japanisch, Koreanisch und Chinesisch. KI-Übersetzung und Satzanalyse decken derzeit Englisch, Deutsch und Französisch ab — weitere folgen.
+Der Reader funktioniert mit 12 Sprachoptionen (vereinfachtes und traditionelles Chinesisch separat): Englisch, Deutsch, Französisch, Spanisch, Italienisch, Portugiesisch, Niederländisch, Russisch, Japanisch, Koreanisch und Chinesisch. KI-Übersetzung und Satzanalyse decken derzeit Englisch, Deutsch und Französisch ab — weitere folgen.
 
 ## Kann ich meine eigenen Bücher lesen?
 

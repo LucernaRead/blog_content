@@ -158,6 +158,9 @@ function checkPost(dir) {
       if (fm.publishedAt && !/^\d{4}-\d{2}-\d{2}$/.test(fm.publishedAt)) {
         fail(w, `publishedAt 要写成 YYYY-MM-DD,现在是 \`${fm.publishedAt}\``);
       }
+      if (fm.updatedAt && (!/^\d{4}-\d{2}-\d{2}$/.test(fm.updatedAt) || Number.isNaN(Date.parse(fm.updatedAt)) || fm.updatedAt < fm.publishedAt)) {
+        fail(w, 'updatedAt 必须是有效的 YYYY-MM-DD，且不早于 publishedAt');
+      }
       if (fm.draft && !['true', 'false'].includes(fm.draft)) {
         fail(w, `draft 只能是 true / false,现在是 \`${fm.draft}\``);
       }
@@ -178,6 +181,7 @@ function checkPost(dir) {
           title: fm.title ?? '',
           excerpt: fm.excerpt ?? '',
           draft: fm.draft === 'true',
+          ...(fm.updatedAt ? { updatedAt: fm.updatedAt } : {}),
         };
       }
     }

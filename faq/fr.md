@@ -12,7 +12,7 @@ Oui. Vous pouvez l’essayer sans compte (1 livre, 5 mots enregistrés), et un c
 
 ## Dans quelles langues puis-je lire ?
 
-Le lecteur fonctionne avec 11 langues : anglais, allemand, français, espagnol, italien, portugais, néerlandais, russe, japonais, coréen et chinois. La traduction IA et l’analyse de phrases couvrent actuellement l’anglais, l’allemand et le français, et d’autres langues suivront.
+Le lecteur fonctionne avec 12 options linguistiques (chinois simplifié et traditionnel inclus) : anglais, allemand, français, espagnol, italien, portugais, néerlandais, russe, japonais, coréen et chinois. La traduction IA et l’analyse de phrases couvrent actuellement l’anglais, l’allemand et le français, et d’autres langues suivront.
 
 ## Puis-je lire mes propres livres ?
 

@@ -12,7 +12,7 @@ Ja. Je kunt het proberen zonder account (1 boek, 5 opgeslagen woorden), en met e
 
 ## In welke talen kan ik lezen?
 
-De reader werkt met 11 talen: Engels, Duits, Frans, Spaans, Italiaans, Portugees, Nederlands, Russisch, Japans, Koreaans en Chinees. AI-vertaling en zinsanalyse dekken op dit moment Engels, Duits en Frans, met meer talen onderweg.
+De reader werkt met 12 taalopties (vereenvoudigd en traditioneel Chinees apart): Engels, Duits, Frans, Spaans, Italiaans, Portugees, Nederlands, Russisch, Japans, Koreaans en Chinees. AI-vertaling en zinsanalyse dekken op dit moment Engels, Duits en Frans, met meer talen onderweg.
 
 ## Kan ik mijn eigen boeken lezen?
 

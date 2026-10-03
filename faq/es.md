@@ -12,7 +12,7 @@ Sí. Puedes probarlo sin cuenta (1 libro, 5 palabras guardadas), y una cuenta gr
 
 ## ¿En qué idiomas puedo leer?
 
-El lector funciona con 11 idiomas: inglés, alemán, francés, español, italiano, portugués, neerlandés, ruso, japonés, coreano y chino. La traducción con IA y el análisis de oraciones cubren actualmente inglés, alemán y francés, y hay más en camino.
+El lector funciona con 12 opciones de idioma (chino simplificado y tradicional incluidos): inglés, alemán, francés, español, italiano, portugués, neerlandés, ruso, japonés, coreano y chino. La traducción con IA y el análisis de oraciones cubren actualmente inglés, alemán y francés, y hay más en camino.
 
 ## ¿Puedo leer mis propios libros?
 

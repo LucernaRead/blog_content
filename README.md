@@ -84,3 +84,5 @@ node lint.mjs --write    # 校验 + 写出 index.json(改完 md 必须跑这个)
 
 **改完 md 忘了跑 `--write` 的话**,默认模式会比对出来并报错 —— 因为漂了的索引
 会让站点显示旧标题旧顺序,而且不报任何错。
+
+文章有实质内容更新时，在对应语言的 frontmatter 填写 `updatedAt: "YYYY-MM-DD"`（不早于 `publishedAt`），然后运行 `node lint.mjs --write`。站点 sitemap 与 Article 的更新时间均读取这个字段；未填写则沿用发布时间。

@@ -12,7 +12,7 @@ Yes. You can try it without an account (1 book, 5 saved words), and a free accou
 
 ## Which languages can I read in?
 
-The reader works with 11 languages: English, German, French, Spanish, Italian, Portuguese, Dutch, Russian, Japanese, Korean, and Chinese. AI translation and sentence analysis currently cover English, German, and French, with more on the way.
+The reader works with 12 language options (Simplified and Traditional Chinese counted separately): English, German, French, Spanish, Italian, Portuguese, Dutch, Russian, Japanese, Korean, and Chinese. AI translation and sentence analysis currently cover English, German, and French, with more on the way.
 
 ## Can I read my own books?
 
