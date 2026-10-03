@@ -1,5 +1,5 @@
 ---
-title: "French Graded Readers: How to Choose Your First Book, A1–B1"
+title: "French Graded Readers: How to Choose A1–B1 Books"
 excerpt: "Choose a French graded reader by edition and level, test a sample before buying, and build a path from A1 stories to your first original novel."
 publishedAt: "2026-10-03"
 draft: false
