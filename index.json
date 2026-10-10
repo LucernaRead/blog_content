@@ -81,6 +81,85 @@
       }
     },
     {
+      "dir": "how-to-read-a-book-above-your-level",
+      "publishedAt": "2026-10-09",
+      "cover": null,
+      "locales": {
+        "de": {
+          "slug": "how-to-read-a-book-above-your-level",
+          "title": "Wie man ein Buch über seinem Niveau liest, ohne unterzugehen",
+          "excerpt": "Ein Buch ein oder zwei Stufen über Ihrem Niveau zu lesen kann funktionieren — wenn Sie die Abdeckungslücke kennen, mit Verständnis-fürs-Ganze-Taktiken arbeiten und nach zwei Kapiteln urteilen, nicht nach zwei Seiten.",
+          "draft": false
+        },
+        "en": {
+          "slug": "how-to-read-a-book-above-your-level",
+          "title": "How to Read a Book Above Your Level Without Drowning",
+          "excerpt": "Reading a book one or two levels above you can work — if you know the coverage gap, use gist-first tactics, and judge it after two chapters, not two pages.",
+          "draft": false
+        },
+        "es": {
+          "slug": "how-to-read-a-book-above-your-level",
+          "title": "Cómo leer un libro por encima de tu nivel sin ahogarte",
+          "excerpt": "Leer un libro uno o dos niveles por encima del tuyo puede funcionar, si conoces la brecha de cobertura, usas tácticas de sentido general y lo juzgas tras dos capítulos, no dos páginas.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "how-to-read-a-book-above-your-level",
+          "title": "Comment lire un livre au-dessus de votre niveau sans couler",
+          "excerpt": "Lire un livre un ou deux niveaux au-dessus du vôtre, c'est possible — à condition de connaître l'écart de couverture, d'utiliser des tactiques centrées sur le sens global, et de juger après deux chapitres, pas deux pages.",
+          "draft": false
+        },
+        "it": {
+          "slug": "how-to-read-a-book-above-your-level",
+          "title": "Come leggere un libro sopra il tuo livello senza affogare",
+          "excerpt": "Leggere un libro uno o due livelli sopra il tuo può funzionare — se conosci il divario di copertura, usi tattiche incentrate sul senso generale e giudichi dopo due capitoli, non due pagine.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "how-to-read-a-book-above-your-level",
+          "title": "自分のレベルより難しい本を、溺れずに読む方法",
+          "excerpt": "1〜2レベル上の本を読むことは可能です。大意優先の戦術を知り、2ページではなく2章で判断すれば。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "how-to-read-a-book-above-your-level",
+          "title": "내 수준보다 어려운 책을 익사하지 않고 읽는 법",
+          "excerpt": "한두 단계 위의 책을 읽는 것은 가능합니다. 커버리지 격차를 알고, 요점 우선 전술을 쓰고, 두 페이지가 아니라 두 챕터로 판단한다면 말입니다.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "how-to-read-a-book-above-your-level",
+          "title": "Hoe je een boek boven je niveau leest zonder te verdrinken",
+          "excerpt": "Een boek één of twee niveaus boven je niveau lezen kan werken — als je de dekkingskloof kent, tactieken voor het grote geheel gebruikt, en oordeelt na twee hoofdstukken, niet na twee bladzijden.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "how-to-read-a-book-above-your-level",
+          "title": "Como ler um livro acima do seu nível sem se afogar",
+          "excerpt": "Ler um livro um ou dois níveis acima do seu pode funcionar — se você conhecer a lacuna de cobertura, usar táticas de sentido geral e julgar depois de dois capítulos, não de duas páginas.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "how-to-read-a-book-above-your-level",
+          "title": "Как читать книгу выше своего уровня и не утонуть",
+          "excerpt": "Читать книгу на один-два уровня выше своего можно — если вы знаете разрыв в покрытии, пользуетесь тактиками «сначала общий смысл» и судите по двум главам, а не по двум страницам.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "how-to-read-a-book-above-your-level",
+          "title": "如何讀一本超出你水平的書而不被淹沒",
+          "excerpt": "讀一本高出一至兩個級別的書是可以做到的——前提是了解覆蓋率差距、用先抓大意的方法，並以兩章而不是兩頁來判斷。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "how-to-read-a-book-above-your-level",
+          "title": "如何读一本超出你水平的书而不被淹没",
+          "excerpt": "读一本高出一到两个级别的书是可以做到的——前提是了解覆盖率差距、用先抓大意的方法，并以两章而不是两页来判断。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "learn-spanish-by-reading",
       "publishedAt": "2026-10-09",
       "cover": null,
