@@ -397,6 +397,85 @@
       }
     },
     {
+      "dir": "what-to-read-after-your-first-graded-reader",
+      "publishedAt": "2026-10-09",
+      "cover": null,
+      "locales": {
+        "de": {
+          "slug": "what-to-read-after-your-first-graded-reader",
+          "title": "Was du nach deiner ersten Lektüre in einfacher Sprache lesen solltest",
+          "excerpt": "Die erste Lektüre zu Ende zu lesen ist der eigentliche Meilenstein — das zweite Buch entscheidet, ob Lesen zur Gewohnheit wird, und es gibt drei ehrliche Wege.",
+          "draft": false
+        },
+        "en": {
+          "slug": "what-to-read-after-your-first-graded-reader",
+          "title": "What to Read After Your First Graded Reader",
+          "excerpt": "Finishing your first graded reader is the milestone — the second book decides whether reading becomes a habit, and there are three honest paths to choose from.",
+          "draft": false
+        },
+        "es": {
+          "slug": "what-to-read-after-your-first-graded-reader",
+          "title": "Qué leer después de tu primera lectura graduada",
+          "excerpt": "Terminar tu primera lectura graduada es el verdadero hito: el segundo libro decide si la lectura se convierte en hábito, y hay tres caminos honestos.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "what-to-read-after-your-first-graded-reader",
+          "title": "Que lire après votre première lecture graduée",
+          "excerpt": "Terminer sa première lecture graduée est la vraie étape — le deuxième livre décide si la lecture devient une habitude, et il existe trois voies honnêtes.",
+          "draft": false
+        },
+        "it": {
+          "slug": "what-to-read-after-your-first-graded-reader",
+          "title": "Cosa leggere dopo la tua prima lettura graduata",
+          "excerpt": "Finire la tua prima lettura graduata è il vero traguardo: il secondo libro decide se la lettura diventa un'abitudine, e le vie oneste sono tre.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "what-to-read-after-your-first-graded-reader",
+          "title": "初めてのグレーデッド・リーダーを読み終えたら、次に何を読むか",
+          "excerpt": "初めてのグレーデッド・リーダーを読み切ることこそ本当の節目です——2冊目が読書を習慣にするかどうかを決め、正直な道は3つあります。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "what-to-read-after-your-first-graded-reader",
+          "title": "첫 번째 등급별 리더를 다 읽은 뒤에는 무엇을 읽을까",
+          "excerpt": "첫 번째 등급별 리더를 완독하는 것이 진짜 이정표입니다——두 번째 책이 독서를 습관으로 만들지를 결정하고, 정직한 길은 세 가지입니다.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "what-to-read-after-your-first-graded-reader",
+          "title": "Wat je leest na je eerste graded reader",
+          "excerpt": "Je eerste graded reader uit lezen is de echte mijlpaal — het tweede boek beslist of lezen een gewoonte wordt, en er zijn drie eerlijke routes.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "what-to-read-after-your-first-graded-reader",
+          "title": "O que ler depois do seu primeiro livro de leitura graduada",
+          "excerpt": "Terminar o seu primeiro livro de leitura graduada é o verdadeiro marco — o segundo livro decide se a leitura vira hábito, e há três caminhos honestos.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "what-to-read-after-your-first-graded-reader",
+          "title": "Что читать после первой адаптированной книги",
+          "excerpt": "Дочитать первую адаптированную книгу — вот настоящая веха: вторая книга решает, станет ли чтение привычкой, и честных путей здесь три.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "what-to-read-after-your-first-graded-reader",
+          "title": "讀完第一本分級讀物之後，接下來讀甚麼",
+          "excerpt": "讀完第一本分級讀物才是真正的里程碑——第二本書決定閱讀會不會成為習慣，而誠實的選擇有三條路。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "what-to-read-after-your-first-graded-reader",
+          "title": "读完第一本分级读物之后，接下来读什么",
+          "excerpt": "读完第一本分级读物才是真正的里程碑——第二本书决定阅读会不会成为习惯，而诚实的选择有三条路。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "spanish-graded-readers-a1-a2-b1",
       "publishedAt": "2026-10-08",
       "cover": null,
