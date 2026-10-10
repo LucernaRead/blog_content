@@ -2,6 +2,85 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "short-stories-in-spanish-for-beginners",
+      "publishedAt": "2026-10-10",
+      "cover": null,
+      "locales": {
+        "de": {
+          "slug": "short-stories-in-spanish-for-beginners",
+          "title": "Kurzgeschichten auf Spanisch für Anfänger: Was Sie zuerst lesen sollten",
+          "excerpt": "Beginnen Sie mit spanischen Kurzgeschichten, die Sie wirklich beenden können: ein kostenloser A1-Reader, zwei nach Ausgabe geprüfte Sammlungen für Anfänger und ein Test mit einer ganzen Geschichte.",
+          "draft": false
+        },
+        "en": {
+          "slug": "short-stories-in-spanish-for-beginners",
+          "title": "Short Stories in Spanish for Beginners: What to Read First",
+          "excerpt": "Start with short stories in Spanish you can actually finish: one free A1 reader, two beginner collections checked by edition, and a one-story test to pick the right one.",
+          "draft": false
+        },
+        "es": {
+          "slug": "short-stories-in-spanish-for-beginners",
+          "title": "Cuentos cortos en español para principiantes: qué leer primero",
+          "excerpt": "Empieza con cuentos cortos en español que sí puedas terminar: una lectura A1 gratuita, dos colecciones verificadas por edición y una prueba de un cuento completo para elegir bien.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "short-stories-in-spanish-for-beginners",
+          "title": "Histoires courtes en espagnol pour débutants : par quoi commencer",
+          "excerpt": "Commencez par des histoires courtes en espagnol que vous pouvez vraiment terminer : un lecteur A1 gratuit, deux recueils vérifiés par édition, et un test d'une histoire entière pour bien choisir.",
+          "draft": false
+        },
+        "it": {
+          "slug": "short-stories-in-spanish-for-beginners",
+          "title": "Racconti brevi in spagnolo per principianti: cosa leggere per primo",
+          "excerpt": "Inizia con racconti brevi in spagnolo che puoi davvero finire: una lettura A1 gratuita, due raccolte verificate per edizione e un test di un racconto intero per scegliere bene.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "short-stories-in-spanish-for-beginners",
+          "title": "スペイン語初心者向け短編集：最初に読むべき一冊",
+          "excerpt": "本当に読み終えられるスペイン語の短編から始めましょう。無料のA1リーダー1冊、版で確認した初心者向け短編集2冊、そして1編丸ごと試す選び方を紹介します。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "short-stories-in-spanish-for-beginners",
+          "title": "초보자를 위한 스페인어 단편: 무엇부터 읽을까",
+          "excerpt": "실제로 완독할 수 있는 스페인어 단편부터 시작하세요. 무료 A1 리더 하나, 판본으로 확인한 초보자용 단편집 둘, 그리고 한 편을 통째로 읽어 고르는 방법입니다.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "short-stories-in-spanish-for-beginners",
+          "title": "Korte verhalen in het Spaans voor beginners: wat je eerst leest",
+          "excerpt": "Begin met korte verhalen in het Spaans die je echt kunt uit lezen: een gratis A1-lezer, twee op editie gecontroleerde beginnersbundels, en een test met één heel verhaal om goed te kiezen.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "short-stories-in-spanish-for-beginners",
+          "title": "Contos em espanhol para iniciantes: o que ler primeiro",
+          "excerpt": "Comece com contos em espanhol que consegue mesmo terminar: uma leitura A1 gratuita, duas coleções verificadas por edição e um teste de um conto inteiro para escolher bem.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "short-stories-in-spanish-for-beginners",
+          "title": "Короткие рассказы на испанском для начинающих: что читать первым",
+          "excerpt": "Начните с коротких рассказов на испанском, которые вы действительно сможете дочитать: бесплатная книга уровня A1, два проверенных по изданиям сборника для начинающих и тест одного целого рассказа для выбора.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "short-stories-in-spanish-for-beginners",
+          "title": "西班牙語初學者短篇故事：先讀邊一本",
+          "excerpt": "由你真係讀得完嘅西班牙語短篇開始：一本免費 A1 讀物、兩套按版本核對過嘅初學者故事集，同埋用一整篇故事揀書嘅方法。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "short-stories-in-spanish-for-beginners",
+          "title": "西班牙语初学者短篇故事：先读哪一本",
+          "excerpt": "从你真正能读完的西班牙语短篇开始：一本免费 A1 读物、两套按版本核对过的初学者故事集，以及用一整篇故事选书的方法。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "german-graded-readers-a1-a2-b1",
       "publishedAt": "2026-10-09",
       "cover": null,
