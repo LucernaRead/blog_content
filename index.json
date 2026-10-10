@@ -2,6 +2,85 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "german-graded-readers-a1-a2-b1",
+      "publishedAt": "2026-10-09",
+      "cover": null,
+      "locales": {
+        "de": {
+          "slug": "german-graded-readers-a1-a2-b1",
+          "title": "Deutsche Lernlektüren: Das erste Buch von A1 bis B1 auswählen",
+          "excerpt": "Eine deutsche Lernlektüre nach Ausgabe und Niveau auswählen, vor dem Kauf eine Leseprobe testen und den Weg von A1-Märchen bis zum ersten Originalroman aufbauen.",
+          "draft": false
+        },
+        "en": {
+          "slug": "german-graded-readers-a1-a2-b1",
+          "title": "German Graded Readers: How to Choose A1–B1 Books",
+          "excerpt": "Choose a German graded reader by edition and level, test a sample before buying, and build a path from A1 fairy tales to your first original novel.",
+          "draft": false
+        },
+        "es": {
+          "slug": "german-graded-readers-a1-a2-b1",
+          "title": "Lecturas graduadas en alemán: cómo elegir tu primer libro, de A1 a B1",
+          "excerpt": "Comprueba la edición y el nivel, prueba un fragmento durante diez minutos y encuentra una lectura en alemán que quieras terminar.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "german-graded-readers-a1-a2-b1",
+          "title": "Lectures graduées en allemand : choisir son premier livre, de A1 à B1",
+          "excerpt": "Distinguez adaptation et texte original, vérifiez le niveau de l'édition et utilisez un essai de dix minutes pour choisir une lecture que vous aurez envie de terminer.",
+          "draft": false
+        },
+        "it": {
+          "slug": "german-graded-readers-a1-a2-b1",
+          "title": "Letture graduate in tedesco: scegliere il primo libro da A1 a B1",
+          "excerpt": "Controlla edizione e livello, prova un campione prima di acquistare e costruisci un percorso dalle fiabe A1 fino al tuo primo romanzo originale.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "german-graded-readers-a1-a2-b1",
+          "title": "ドイツ語グレーデッドリーダー：A1〜B1の最初の1冊の選び方",
+          "excerpt": "版とレベルで選び、買う前にサンプルでテスト。A1の童話から、初めての原書小説までの道筋を作ります。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "german-graded-readers-a1-a2-b1",
+          "title": "독일어 단계별 리더: A1–B1 첫 책 고르는 법",
+          "excerpt": "판본과 레벨로 고르고, 사기 전에 샘플로 테스트하세요. A1 동화에서 첫 원서 소설까지 가는 길을 만듭니다.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "german-graded-readers-a1-a2-b1",
+          "title": "Duitse graded readers: zo kies je je eerste boek van A1 tot B1",
+          "excerpt": "Controleer de editie en het niveau, test een fragment voordat je koopt, en bouw een pad van A1-sprookjes naar je eerste originele roman.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "german-graded-readers-a1-a2-b1",
+          "title": "Leituras graduadas em alemão: como escolher o seu primeiro livro, de A1 a B1",
+          "excerpt": "Verifique a edição e o nível, teste uma amostra antes de comprar e construa um caminho dos contos A1 até ao seu primeiro romance original.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "german-graded-readers-a1-a2-b1",
+          "title": "Адаптированные книги на немецком: как выбрать первую книгу от A1 до B1",
+          "excerpt": "Проверьте издание и уровень, протестируйте отрывок перед покупкой и постройте путь от сказок A1 до первого романа в оригинале.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "german-graded-readers-a1-a2-b1",
+          "title": "德語分級讀物：從 A1 到 B1 揀好你的第一本書",
+          "excerpt": "按版本和級別揀一本德語分級讀物，買之前先試讀一段，從 A1 的童話一路讀到第一本原版小說。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "german-graded-readers-a1-a2-b1",
+          "title": "德语分级读物：从 A1 到 B1 挑好你的第一本书",
+          "excerpt": "按版本和级别挑一本德语分级读物，买之前先试读一段，从 A1 的童话一路读到第一本原版小说。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "spanish-graded-readers-a1-a2-b1",
       "publishedAt": "2026-10-08",
       "cover": null,
