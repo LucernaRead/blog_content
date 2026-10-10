@@ -81,6 +81,85 @@
       }
     },
     {
+      "dir": "learn-spanish-by-reading",
+      "publishedAt": "2026-10-09",
+      "cover": null,
+      "locales": {
+        "de": {
+          "slug": "learn-spanish-by-reading",
+          "title": "Spanisch lernen durch Lesen: Ein anfängerfreundlicher Weg",
+          "excerpt": "Beginnen Sie mit gestuften Lektüren, steigen Sie eine einfache Leiter hinauf und lesen Sie jeden Tag ein wenig — mit einem Zehn-Minuten-Test für die richtige Buchwahl.",
+          "draft": false
+        },
+        "en": {
+          "slug": "learn-spanish-by-reading",
+          "title": "How to Learn Spanish by Reading: A Beginner-Friendly Path",
+          "excerpt": "Learn Spanish by reading graded readers first, climbing a simple ladder, and reading a little every day — with a ten-minute test to pick the right book.",
+          "draft": false
+        },
+        "es": {
+          "slug": "learn-spanish-by-reading",
+          "title": "Cómo aprender español leyendo: una ruta amable para principiantes",
+          "excerpt": "Empieza con lecturas graduadas, sube una escalera sencilla y lee un poco cada día, con una prueba de diez minutos para elegir el libro adecuado.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "learn-spanish-by-reading",
+          "title": "Apprendre l'espagnol en lisant : un parcours adapté aux débutants",
+          "excerpt": "Commencez par des lectures graduées, montez un escalier simple et lisez un peu chaque jour — avec un test de dix minutes pour choisir le bon livre.",
+          "draft": false
+        },
+        "it": {
+          "slug": "learn-spanish-by-reading",
+          "title": "Imparare lo spagnolo leggendo: un percorso adatto ai principianti",
+          "excerpt": "Inizia con le letture graduate, sali una semplice scala e leggi un po' ogni giorno — con un test di dieci minuti per scegliere il libro giusto.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "learn-spanish-by-reading",
+          "title": "読書でスペイン語を学ぶ方法：初心者にやさしい道筋",
+          "excerpt": "まずはグレーデッドリーダーから始め、梯子を一段ずつ上り、毎日少しずつ読む——本選びには10分サンプルテストを使います。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "learn-spanish-by-reading",
+          "title": "읽기로 스페인어 배우기: 초보자에게 친근한 경로",
+          "excerpt": "먼저 등급별 리더를 읽고, 사다리를 한 칸씩 오르며, 매일 조금씩 읽으세요. 책 고르기에는 10분 샘플 테스트를 사용합니다.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "learn-spanish-by-reading",
+          "title": "Spaans leren door te lezen: een beginnersvriendelijke route",
+          "excerpt": "Begin met gegradeerde lezers, klim een eenvoudige ladder op en lees elke dag een beetje — met een test van tien minuten om het juiste boek te kiezen.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "learn-spanish-by-reading",
+          "title": "Como aprender espanhol a ler: um caminho acessível para principiantes",
+          "excerpt": "Comece com leituras graduadas, suba uma escada simples e leia um pouco todos os dias — com um teste de dez minutos para escolher o livro certo.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "learn-spanish-by-reading",
+          "title": "Как учить испанский через чтение: путь, дружелюбный к начинающим",
+          "excerpt": "Начните с адаптированных книг, поднимайтесь по простой лестнице и читайте понемногу каждый день — а книгу поможет выбрать десятиминутный тест.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "learn-spanish-by-reading",
+          "title": "如何透過閱讀學西班牙語：一條適合初學者的路徑",
+          "excerpt": "先讀分級讀物，再沿著階梯慢慢往上，每天讀一點，並用十分鐘測試挑到難度剛好的書。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "learn-spanish-by-reading",
+          "title": "如何通过阅读学西班牙语：一条适合初学者的路径",
+          "excerpt": "先读分级读物，再沿着阶梯慢慢往上，每天读一点，并用十分钟测试挑到难度刚好的书。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "spanish-graded-readers-a1-a2-b1",
       "publishedAt": "2026-10-08",
       "cover": null,
