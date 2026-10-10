@@ -160,6 +160,85 @@
       }
     },
     {
+      "dir": "italian-graded-readers-a1-a2-b1",
+      "publishedAt": "2026-10-09",
+      "cover": null,
+      "locales": {
+        "de": {
+          "slug": "italian-graded-readers-a1-a2-b1",
+          "title": "Italienische Lektüren nach Niveau: So wählen Sie A1–B1-Bücher",
+          "excerpt": "Italienische gestufte Lektüren verteilen sich auf zwei Verlage — A1 bei Alma, A2–B1 bei Black Cat. So wählen Sie das richtige Niveau und testen ein Buch in zehn Minuten.",
+          "draft": false
+        },
+        "en": {
+          "slug": "italian-graded-readers-a1-a2-b1",
+          "title": "Italian Graded Readers: How to Choose A1–B1 Books",
+          "excerpt": "Italian graded readers are split across two publishers — A1 from Alma, A2–B1 from Black Cat — so here is how to choose the right level and test it in ten minutes.",
+          "draft": false
+        },
+        "es": {
+          "slug": "italian-graded-readers-a1-a2-b1",
+          "title": "Lecturas graduadas en italiano: cómo elegir libros A1–B1",
+          "excerpt": "Las lecturas graduadas en italiano se reparten entre dos editoriales —A1 en Alma, A2–B1 en Black Cat—. Aquí te explicamos cómo elegir el nivel adecuado y probar un libro en diez minutos.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "italian-graded-readers-a1-a2-b1",
+          "title": "Lectures graduées en italien : comment choisir des livres A1–B1",
+          "excerpt": "Les lectures graduées en italien se répartissent entre deux éditeurs — A1 chez Alma, A2–B1 chez Black Cat. Voici comment choisir le bon niveau et tester un livre en dix minutes.",
+          "draft": false
+        },
+        "it": {
+          "slug": "italian-graded-readers-a1-a2-b1",
+          "title": "Letture graduate in italiano: come scegliere libri A1–B1",
+          "excerpt": "Le letture graduate in italiano sono divise tra due editori — A1 da Alma, A2–B1 da Black Cat. Ecco come scegliere il livello giusto e provare un libro in dieci minuti.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "italian-graded-readers-a1-a2-b1",
+          "title": "イタリア語グレイディッド・リーダー：A1–B1 の本の選び方",
+          "excerpt": "イタリア語のグレイディッド・リーダーは2つの出版社に分かれています。A1 は Alma、A2–B1 は Black Cat。本稿ではレベルの選び方と、10分で本が合うか試す方法を紹介します。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "italian-graded-readers-a1-a2-b1",
+          "title": "이탈리아어 등급 리더: A1–B1 책 고르는 법",
+          "excerpt": "이탈리아어 등급 리더는 두 출판사로 나뉩니다. A1은 Alma, A2–B1은 Black Cat에서 나오죠. 이 글에서는 맞는 레벨을 고르는 법과 10분 테스트로 책이 맞는지 확인하는 법을 소개합니다.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "italian-graded-readers-a1-a2-b1",
+          "title": "Italiaanse leesboeken op niveau: zo kies je A1–B1-boeken",
+          "excerpt": "Italiaanse leesboeken op niveau zijn verdeeld over twee uitgevers — A1 bij Alma, A2–B1 bij Black Cat. Zo kies je het juiste niveau en test je een boek in tien minuten.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "italian-graded-readers-a1-a2-b1",
+          "title": "Leituras graduadas em italiano: como escolher livros A1–B1",
+          "excerpt": "As leituras graduadas em italiano estão divididas entre duas editoras — A1 na Alma, A2–B1 na Black Cat. Veja como escolher o nível certo e testar um livro em dez minutos.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "italian-graded-readers-a1-a2-b1",
+          "title": "Адаптированные книги на итальянском: как выбрать книги A1–B1",
+          "excerpt": "Адаптированные книги на итальянском разделены между двумя издательствами — A1 у Alma, A2–B1 у Black Cat. Рассказываем, как выбрать нужный уровень и проверить книгу за десять минут.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "italian-graded-readers-a1-a2-b1",
+          "title": "意大利語分級讀物：如何選擇 A1–B1 的書",
+          "excerpt": "意大利語分級讀物分屬兩家出版社——A1 來自 Alma，A2–B1 來自 Black Cat——本文教你如何選對級別，並用十分鐘測試一本書是否適合你。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "italian-graded-readers-a1-a2-b1",
+          "title": "意大利语分级读物：如何选择 A1–B1 的书",
+          "excerpt": "意大利语分级读物分属两家出版社——A1 来自 Alma，A2–B1 来自 Black Cat——本文教你如何选对级别，并用十分钟测试一本书是否适合你。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "japanese-graded-readers",
       "publishedAt": "2026-10-09",
       "cover": null,
