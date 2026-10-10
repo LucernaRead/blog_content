@@ -160,6 +160,85 @@
       }
     },
     {
+      "dir": "japanese-graded-readers",
+      "publishedAt": "2026-10-09",
+      "cover": null,
+      "locales": {
+        "de": {
+          "slug": "japanese-graded-readers",
+          "title": "Japanische Graded Readers: Mit Tadoku zu lesen beginnen",
+          "excerpt": "Beginnen Sie mit Tadoku-Graded-Readern Japanisch zu lesen: die eigenen Stufen 0–5 der NPO, Furigana, vier Startreihen und ein Zehn-Minuten-Test.",
+          "draft": false
+        },
+        "en": {
+          "slug": "japanese-graded-readers",
+          "title": "Japanese Graded Readers: How to Start Reading with Tadoku",
+          "excerpt": "Start reading Japanese with tadoku graded readers: the NPO's own Levels 0–5, furigana, four starting series, and a ten-minute sample test.",
+          "draft": false
+        },
+        "es": {
+          "slug": "japanese-graded-readers",
+          "title": "Lecturas graduadas en japonés: cómo empezar a leer con tadoku",
+          "excerpt": "Empieza a leer japonés con las lecturas graduadas de tadoku: los niveles 0–5 propios de la NPO, furigana, cuatro series de inicio y una prueba de muestra de diez minutos.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "japanese-graded-readers",
+          "title": "Lectures graduées japonaises : commencer à lire avec le tadoku",
+          "excerpt": "Commencez à lire le japonais avec les lectures graduées tadoku : les niveaux 0 à 5 propres à la NPO, les furigana, quatre séries de départ et un test d'échantillon de dix minutes.",
+          "draft": false
+        },
+        "it": {
+          "slug": "japanese-graded-readers",
+          "title": "Letture graduate in giapponese: come iniziare a leggere con il tadoku",
+          "excerpt": "Inizia a leggere il giapponese con le letture graduate tadoku: i livelli 0–5 propri della NPO, i furigana, quattro serie di partenza e un test di esempio di dieci minuti.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "japanese-graded-readers",
+          "title": "日本語グレーデッドリーダー：多読で読み始める方法",
+          "excerpt": "多読のグレーデッドリーダーで日本語を読み始めましょう。NPO独自のレベル0〜5、ふりがな、4つの出発点、10分サンプルテストを紹介します。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "japanese-graded-readers",
+          "title": "일본어 등급별 리더: 다독(Tadoku)으로 읽기 시작하는 법",
+          "excerpt": "다독 등급별 리더로 일본어 읽기를 시작하세요: NPO 자체 레벨 0–5, 후리가나, 네 가지 출발 시리즈, 10분 샘플 테스트.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "japanese-graded-readers",
+          "title": "Japanse graded readers: beginnen met lezen met tadoku",
+          "excerpt": "Begin Japans te lezen met tadoku graded readers: de eigen niveaus 0–5 van de NPO, furigana, vier startseries en een voorbeeldtest van tien minuten.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "japanese-graded-readers",
+          "title": "Leituras graduadas em japonês: como começar a ler com tadoku",
+          "excerpt": "Comece a ler japonês com as leituras graduadas tadoku: os níveis 0–5 próprios da NPO, furigana, quatro séries de partida e um teste de amostra de dez minutos.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "japanese-graded-readers",
+          "title": "Японские книги для чтения по уровням: как начать читать с тадоку",
+          "excerpt": "Начните читать по-японски с книгами тадоку по уровням: собственная шкала NPO от 0 до 5, фуригана, четыре стартовые серии и десятиминутный тест на отрывке.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "japanese-graded-readers",
+          "title": "日語分級讀物：如何用多讀（Tadoku）開始閱讀",
+          "excerpt": "用多讀分級讀物開始讀日語：NPO 自有的 0–5 級、振假名、四個入門系列，以及十分鐘試讀法。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "japanese-graded-readers",
+          "title": "日语分级读物：如何用多读（Tadoku）开始阅读",
+          "excerpt": "用多读分级读物开始读日语：NPO 自有的 0–5 级、振假名、四个入门系列，以及十分钟试读法。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "learn-spanish-by-reading",
       "publishedAt": "2026-10-09",
       "cover": null,
