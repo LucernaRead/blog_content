@@ -2,6 +2,85 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "spanish-books-for-beginners",
+      "publishedAt": "2026-10-11",
+      "cover": null,
+      "locales": {
+        "de": {
+          "slug": "spanish-books-for-beginners",
+          "title": "Spanische Bücher für Anfänger: Die ersten Bücher, die sich lohnen",
+          "excerpt": "Wählen Sie Ihr erstes spanisches Buch nach Art, nicht nach Ruhm: eine Lernnovelle, ein zweisprachiger Reader und zwei vertraute Geschichten in Übersetzung — jede Ausgabe geprüft, jede mit einer Aufgabe.",
+          "draft": false
+        },
+        "en": {
+          "slug": "spanish-books-for-beginners",
+          "title": "Spanish Books for Beginners: The First Books Worth Reading",
+          "excerpt": "Choose your first Spanish book by kind, not by fame: a learner novella, a dual-language reader, and two familiar stories in translation — each checked by edition, each with a job to do.",
+          "draft": false
+        },
+        "es": {
+          "slug": "spanish-books-for-beginners",
+          "title": "Libros en español para principiantes: los primeros libros que vale la pena leer",
+          "excerpt": "Elige tu primer libro en español por tipo, no por fama: una novela para estudiantes, un lector bilingüe y dos historias conocidas en traducción, cada edición verificada y cada una con una función.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "spanish-books-for-beginners",
+          "title": "Livres en espagnol pour débutants : les premiers livres qui valent la peine",
+          "excerpt": "Choisissez votre premier livre en espagnol par type, pas par célébrité : un roman pour apprenants, un lecteur bilingue, et deux histoires familières en traduction — chaque édition vérifiée, chacune avec un rôle.",
+          "draft": false
+        },
+        "it": {
+          "slug": "spanish-books-for-beginners",
+          "title": "Libri in spagnolo per principianti: i primi libri che vale la pena leggere",
+          "excerpt": "Scegli il tuo primo libro in spagnolo per tipo, non per fama: un romanzo breve per studenti, un lettore bilingue e due storie familiari in traduzione — ogni edizione verificata, ognuna con un compito.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "spanish-books-for-beginners",
+          "title": "初心者向けスペイン語の本：最初に読む価値のある本",
+          "excerpt": "最初のスペイン語の本は知名度ではなく種類で選ぶ：学習者向け小説、二言語対訳リーダー、そして翻訳で読む馴染みの物語2冊——版を確認し、それぞれ役割を持たせた。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "spanish-books-for-beginners",
+          "title": "초보자를 위한 스페인어 책: 처음 읽을 가치가 있는 책들",
+          "excerpt": "첫 스페인어 책은 유명세가 아니라 종류로 고르세요: 학습자용 소설, 이중 언어 대역 리더, 그리고 번역으로 읽는 익숙한 이야기 두 권 — 판본을 확인했고, 각각 역할이 있습니다.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "spanish-books-for-beginners",
+          "title": "Spaanse boeken voor beginners: de eerste boeken die de moeite waard zijn",
+          "excerpt": "Kies je eerste Spaanse boek op soort, niet op roem: een novelle voor leerders, een tweetalige reader en twee vertrouwde verhalen in vertaling — elke editie gecontroleerd, elk met een eigen taak.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "spanish-books-for-beginners",
+          "title": "Livros em espanhol para iniciantes: os primeiros livros que valem a pena ler",
+          "excerpt": "Escolha o seu primeiro livro em espanhol pelo tipo, não pela fama: uma novela para aprendizes, um leitor bilíngue e duas histórias familiares em tradução — cada edição verificada, cada uma com uma função.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "spanish-books-for-beginners",
+          "title": "Книги на испанском для начинающих: первые книги, которые стоит прочитать",
+          "excerpt": "Выбирайте первую книгу на испанском по типу, а не по известности: повесть для изучающих, двуязычный ридер и две знакомые истории в переводе — каждое издание проверено, у каждой своя задача.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "spanish-books-for-beginners",
+          "title": "初學者西班牙語書籍：第一批值得讀的書",
+          "excerpt": "第一本西班牙語書要按類型選，而不是按名氣選：一本為學習者寫的小說、一本雙語對照讀本，以及兩本你熟悉的故事的譯本——每本都按版本核對過，各有各的用處。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "spanish-books-for-beginners",
+          "title": "初学者西班牙语书籍：第一批值得读的书",
+          "excerpt": "第一本西班牙语书要按类型选，而不是按名气选：一本为学习者写的小说、一本双语对照读本，以及两本你熟悉的故事的译本——每本都按版本核对过，各有各的用处。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "short-stories-in-spanish-for-beginners",
       "publishedAt": "2026-10-10",
       "cover": null,
