@@ -2,6 +2,85 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "learn-japanese-by-reading",
+      "publishedAt": "2026-10-12",
+      "cover": null,
+      "locales": {
+        "de": {
+          "slug": "learn-japanese-by-reading",
+          "title": "Japanisch lernen durch Lesen",
+          "excerpt": "Lernen Sie Japanisch durch Lesen ab dem ersten Kana: erst Furigana und Tadoku-Graded-Reader, dann hinauf zu NHK News Web Easy und vertrauten Manga — und behandeln Sie Kanji als ein Problem, das das Lesen selbst löst.",
+          "draft": false
+        },
+        "en": {
+          "slug": "learn-japanese-by-reading",
+          "title": "How to Learn Japanese by Reading",
+          "excerpt": "Learn Japanese by reading from your first kana: use furigana and tadoku graded readers first, climb to NHK News Web Easy and familiar manga, and treat kanji as a problem reading itself solves.",
+          "draft": false
+        },
+        "es": {
+          "slug": "learn-japanese-by-reading",
+          "title": "Cómo aprender japonés leyendo",
+          "excerpt": "Aprende japonés leyendo desde tus primeros kana: primero furigana y lecturas graduadas tadoku, después NHK News Web Easy y manga conocidos, tratando los kanji como un problema que la propia lectura resuelve.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "learn-japanese-by-reading",
+          "title": "Apprendre le japonais en lisant",
+          "excerpt": "Apprenez le japonais en lisant dès vos premiers kana : furigana et lectures graduées tadoku d'abord, puis NHK News Web Easy et des manga familiers, en traitant les kanji comme un problème que la lecture elle-même résout.",
+          "draft": false
+        },
+        "it": {
+          "slug": "learn-japanese-by-reading",
+          "title": "Come imparare il giapponese leggendo",
+          "excerpt": "Impara il giapponese leggendo fin dai primi kana: prima furigana e letture graduate tadoku, poi NHK News Web Easy e manga familiari, trattando i kanji come un problema che la lettura stessa risolve.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "learn-japanese-by-reading",
+          "title": "読むことで日本語を学ぶ方法",
+          "excerpt": "かなの段階から読むことで日本語を学ぶ：まずふりがなと多読のレベル別リーダーを使い、NHK News Web Easy とおなじみのマンガへ進み、漢字は読書そのものが解決する問題として扱う。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "learn-japanese-by-reading",
+          "title": "읽기로 일본어 배우는 법",
+          "excerpt": "가나 단계부터 읽기로 일본어를 배우세요: 먼저 후리가나와 다독 등급 리더를 쓰고, NHK News Web Easy와 익숙한 만화로 올라가며, 한자는 읽기 자체가 해결할 문제로 다루세요.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "learn-japanese-by-reading",
+          "title": "Japans leren door te lezen",
+          "excerpt": "Leer Japans door te lezen vanaf je eerste kana: eerst furigana en tadoku-graded readers, dan omhoog naar NHK News Web Easy en vertrouwde manga — en behandel kanji als een probleem dat lezen zelf oplost.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "learn-japanese-by-reading",
+          "title": "Como aprender japonês lendo",
+          "excerpt": "Aprenda japonês lendo desde os primeiros kana: primeiro furigana e leituras graduadas tadoku, depois NHK News Web Easy e mangás familiares, tratando os kanji como um problema que a própria leitura resolve.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "learn-japanese-by-reading",
+          "title": "Как учить японский через чтение",
+          "excerpt": "Учите японский через чтение с первых kana: сначала furigana и градуированные книги tadoku, затем NHK News Web Easy и знакомая манга, а кандзи рассматривайте как проблему, которую решает само чтение.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "learn-japanese-by-reading",
+          "title": "如何透過閱讀學日語",
+          "excerpt": "從假名開始透過閱讀學日語：先用振假名和多讀分級讀物，再爬到 NHK 簡易新聞和熟悉的漫畫，把漢字當作閱讀本身會解決的問題。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "learn-japanese-by-reading",
+          "title": "如何通过阅读学日语",
+          "excerpt": "从假名开始通过阅读学日语：先用振假名和多读分级读物，再爬到 NHK 简易新闻和熟悉的漫画，把汉字当作阅读本身会解决的问题。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "spanish-books-for-beginners",
       "publishedAt": "2026-10-11",
       "cover": null,
