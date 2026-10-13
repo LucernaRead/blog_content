@@ -2,6 +2,7 @@
 title: "What to Read After Your First Graded Reader"
 excerpt: "Finishing your first graded reader is the milestone — the second book decides whether reading becomes a habit, and there are three honest paths to choose from."
 publishedAt: "2026-10-09"
+updatedAt: "2026-10-13"
 draft: false
 ---
 
@@ -24,6 +25,7 @@ Start with the guide for your language, which lists level-by-level picks in the 
 - German: https://lucernaread.com/landing/blog/german-graded-readers-a1-a2-b1
 - Italian: https://lucernaread.com/landing/blog/italian-graded-readers-a1-a2-b1
 - Japanese: https://lucernaread.com/landing/blog/japanese-graded-readers
+- Korean: https://lucernaread.com/landing/blog/korean-graded-readers
 
 ---
 

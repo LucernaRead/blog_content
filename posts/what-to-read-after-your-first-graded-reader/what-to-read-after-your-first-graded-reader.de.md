@@ -2,6 +2,7 @@
 title: "Was du nach deiner ersten Lektüre in einfacher Sprache lesen solltest"
 excerpt: "Die erste Lektüre zu Ende zu lesen ist der eigentliche Meilenstein — das zweite Buch entscheidet, ob Lesen zur Gewohnheit wird, und es gibt drei ehrliche Wege."
 publishedAt: "2026-10-09"
+updatedAt: "2026-10-13"
 draft: false
 ---
 
@@ -24,6 +25,7 @@ Beginne mit dem Leitfaden für deine Sprache, der Stufe für Stufe die Reihen au
 - Deutsch: https://lucernaread.com/landing/blog/german-graded-readers-a1-a2-b1
 - Italienisch: https://lucernaread.com/landing/blog/italian-graded-readers-a1-a2-b1
 - Japanisch: https://lucernaread.com/landing/blog/japanese-graded-readers
+- Koreanisch: https://lucernaread.com/landing/blog/korean-graded-readers
 
 ---
 

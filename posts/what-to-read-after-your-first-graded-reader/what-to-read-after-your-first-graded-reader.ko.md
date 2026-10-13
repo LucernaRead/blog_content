@@ -2,6 +2,7 @@
 title: "첫 번째 등급별 리더를 다 읽은 뒤에는 무엇을 읽을까"
 excerpt: "첫 번째 등급별 리더를 완독하는 것이 진짜 이정표입니다——두 번째 책이 독서를 습관으로 만들지를 결정하고, 정직한 길은 세 가지입니다."
 publishedAt: "2026-10-09"
+updatedAt: "2026-10-13"
 draft: false
 ---
 
@@ -24,6 +25,7 @@ draft: false
 - 독일어: https://lucernaread.com/landing/blog/german-graded-readers-a1-a2-b1
 - 이탈리아어: https://lucernaread.com/landing/blog/italian-graded-readers-a1-a2-b1
 - 일본어: https://lucernaread.com/landing/blog/japanese-graded-readers
+- 한국어: https://lucernaread.com/landing/blog/korean-graded-readers
 
 ---
 
