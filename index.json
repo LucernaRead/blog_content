@@ -2,6 +2,85 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "korean-graded-readers",
+      "publishedAt": "2026-10-13",
+      "cover": null,
+      "locales": {
+        "de": {
+          "slug": "korean-graded-readers",
+          "title": "Koreanische Graded Readers: So fangen Sie auf Ihrem Niveau an zu lesen",
+          "excerpt": "Lesen Sie Koreanisch mit Graded Readers: wie sich die Niveausysteme TOPIK, TTMIK und GER unterscheiden, fünf ehrliche Einstiege vom kostenlosen Online-Text bis zur B1-Geschichtensammlung und ein Zehn-Minuten-Probentest.",
+          "draft": false
+        },
+        "en": {
+          "slug": "korean-graded-readers",
+          "title": "Korean Graded Readers: How to Start Reading at Your Level",
+          "excerpt": "Start reading Korean with graded readers: how TOPIK, TTMIK and CEFR levels differ, five honest starting points from free online texts to a B1 story collection, and a ten-minute sample test.",
+          "draft": false
+        },
+        "es": {
+          "slug": "korean-graded-readers",
+          "title": "Lecturas graduadas en coreano: cómo empezar a leer en tu nivel",
+          "excerpt": "Empieza a leer coreano con lecturas graduadas: en qué se diferencian los sistemas de niveles TOPIK, TTMIK y MCER, cinco puntos de partida honestos, desde textos gratuitos en línea hasta una colección B1, y una prueba de muestra de diez minutos.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "korean-graded-readers",
+          "title": "Lectures graduées en coréen : comment commencer à lire à votre niveau",
+          "excerpt": "Commencez à lire le coréen avec des lectures graduées : en quoi les systèmes TOPIK, TTMIK et CECR diffèrent, cinq points de départ honnêtes, des textes gratuits en ligne au recueil de niveau B1, et un test d'échantillon de dix minutes.",
+          "draft": false
+        },
+        "it": {
+          "slug": "korean-graded-readers",
+          "title": "Letture graduate in coreano: come iniziare a leggere al tuo livello",
+          "excerpt": "Inizia a leggere il coreano con le letture graduate: come differiscono i sistemi di livelli TOPIK, TTMIK e QCER, cinque punti di partenza onesti, dai testi gratuiti online a una raccolta B1, e un test di prova di dieci minuti.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "korean-graded-readers",
+          "title": "韓国語グレーデッドリーダー：自分のレベルから読み始める方法",
+          "excerpt": "韓国語グレーデッドリーダーで読み始めましょう。TOPIK、TTMIK、CEFR のレベル体系の違い、無料オンラインテキストから B1 短編集までの正直な5つの出発点、そして10分サンプルテストを紹介します。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "korean-graded-readers",
+          "title": "한국어 등급별 리더: 내 수준에 맞는 책으로 시작하기",
+          "excerpt": "등급별 리더로 한국어 읽기를 시작하세요: TOPIK, TTMIK, CEFR 수준 체계가 어떻게 다른지, 무료 온라인 텍스트부터 B1 이야기 모음집까지 다섯 가지 정직한 출발점, 그리고 10분 샘플 테스트를 소개합니다.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "korean-graded-readers",
+          "title": "Koreaanse graded readers: zo begin je te lezen op je eigen niveau",
+          "excerpt": "Begin Koreaans te lezen met graded readers: hoe de niveausystemen TOPIK, TTMIK en ERK verschillen, vijf eerlijke startpunten van gratis onlineteksten tot een B1-verhalenbundel, en een steekproef van tien minuten.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "korean-graded-readers",
+          "title": "Leituras graduadas em coreano: como começar a ler no seu nível",
+          "excerpt": "Comece a ler coreano com leituras graduadas: como os sistemas de níveis TOPIK, TTMIK e QECR diferem, cinco pontos de partida honestos, de textos gratuitos online a uma coletânea B1, e um teste de amostra de dez minutos.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "korean-graded-readers",
+          "title": "Адаптированные книги на корейском: как начать читать на своём уровне",
+          "excerpt": "Начните читать по-корейски с адаптированных книг: чем различаются системы уровней TOPIK, TTMIK и CEFR, пять честных отправных точек — от бесплатных онлайн-текстов до сборника уровня B1 — и десятиминутный тест на образце.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "korean-graded-readers",
+          "title": "韓語分級讀物：如何從適合自己級別的書開始讀",
+          "excerpt": "從韓語分級讀物開始閱讀：TOPIK、TTMIK 與 CEFR 三種級別體系有何不同，五個真實的起點——由免費線上文本到 B1 短篇集——以及一個十分鐘試讀測試。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "korean-graded-readers",
+          "title": "韩语分级读物：如何从适合自己级别的书开始读",
+          "excerpt": "从韩语分级读物开始阅读：TOPIK、TTMIK 与 CEFR 三种级别体系有何不同，五个真实的起点——从免费在线文本到 B1 短篇集——以及一个十分钟试读测试。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "learn-japanese-by-reading",
       "publishedAt": "2026-10-12",
       "cover": null,
@@ -642,73 +721,85 @@
           "slug": "what-to-read-after-your-first-graded-reader",
           "title": "Was du nach deiner ersten Lektüre in einfacher Sprache lesen solltest",
           "excerpt": "Die erste Lektüre zu Ende zu lesen ist der eigentliche Meilenstein — das zweite Buch entscheidet, ob Lesen zur Gewohnheit wird, und es gibt drei ehrliche Wege.",
-          "draft": false
+          "draft": false,
+          "updatedAt": "2026-10-13"
         },
         "en": {
           "slug": "what-to-read-after-your-first-graded-reader",
           "title": "What to Read After Your First Graded Reader",
           "excerpt": "Finishing your first graded reader is the milestone — the second book decides whether reading becomes a habit, and there are three honest paths to choose from.",
-          "draft": false
+          "draft": false,
+          "updatedAt": "2026-10-13"
         },
         "es": {
           "slug": "what-to-read-after-your-first-graded-reader",
           "title": "Qué leer después de tu primera lectura graduada",
           "excerpt": "Terminar tu primera lectura graduada es el verdadero hito: el segundo libro decide si la lectura se convierte en hábito, y hay tres caminos honestos.",
-          "draft": false
+          "draft": false,
+          "updatedAt": "2026-10-13"
         },
         "fr": {
           "slug": "what-to-read-after-your-first-graded-reader",
           "title": "Que lire après votre première lecture graduée",
           "excerpt": "Terminer sa première lecture graduée est la vraie étape — le deuxième livre décide si la lecture devient une habitude, et il existe trois voies honnêtes.",
-          "draft": false
+          "draft": false,
+          "updatedAt": "2026-10-13"
         },
         "it": {
           "slug": "what-to-read-after-your-first-graded-reader",
           "title": "Cosa leggere dopo la tua prima lettura graduata",
           "excerpt": "Finire la tua prima lettura graduata è il vero traguardo: il secondo libro decide se la lettura diventa un'abitudine, e le vie oneste sono tre.",
-          "draft": false
+          "draft": false,
+          "updatedAt": "2026-10-13"
         },
         "ja": {
           "slug": "what-to-read-after-your-first-graded-reader",
           "title": "初めてのグレーデッド・リーダーを読み終えたら、次に何を読むか",
           "excerpt": "初めてのグレーデッド・リーダーを読み切ることこそ本当の節目です——2冊目が読書を習慣にするかどうかを決め、正直な道は3つあります。",
-          "draft": false
+          "draft": false,
+          "updatedAt": "2026-10-13"
         },
         "ko": {
           "slug": "what-to-read-after-your-first-graded-reader",
           "title": "첫 번째 등급별 리더를 다 읽은 뒤에는 무엇을 읽을까",
           "excerpt": "첫 번째 등급별 리더를 완독하는 것이 진짜 이정표입니다——두 번째 책이 독서를 습관으로 만들지를 결정하고, 정직한 길은 세 가지입니다.",
-          "draft": false
+          "draft": false,
+          "updatedAt": "2026-10-13"
         },
         "nl": {
           "slug": "what-to-read-after-your-first-graded-reader",
           "title": "Wat je leest na je eerste graded reader",
           "excerpt": "Je eerste graded reader uit lezen is de echte mijlpaal — het tweede boek beslist of lezen een gewoonte wordt, en er zijn drie eerlijke routes.",
-          "draft": false
+          "draft": false,
+          "updatedAt": "2026-10-13"
         },
         "pt": {
           "slug": "what-to-read-after-your-first-graded-reader",
           "title": "O que ler depois do seu primeiro livro de leitura graduada",
           "excerpt": "Terminar o seu primeiro livro de leitura graduada é o verdadeiro marco — o segundo livro decide se a leitura vira hábito, e há três caminhos honestos.",
-          "draft": false
+          "draft": false,
+          "updatedAt": "2026-10-13"
         },
         "ru": {
           "slug": "what-to-read-after-your-first-graded-reader",
           "title": "Что читать после первой адаптированной книги",
           "excerpt": "Дочитать первую адаптированную книгу — вот настоящая веха: вторая книга решает, станет ли чтение привычкой, и честных путей здесь три.",
-          "draft": false
+          "draft": false,
+          "updatedAt": "2026-10-13"
         },
         "zh-HK": {
           "slug": "what-to-read-after-your-first-graded-reader",
           "title": "讀完第一本分級讀物之後，接下來讀甚麼",
           "excerpt": "讀完第一本分級讀物才是真正的里程碑——第二本書決定閱讀會不會成為習慣，而誠實的選擇有三條路。",
-          "draft": false
+          "draft": false,
+          "updatedAt": "2026-10-13"
         },
         "zh": {
           "slug": "what-to-read-after-your-first-graded-reader",
           "title": "读完第一本分级读物之后，接下来读什么",
           "excerpt": "读完第一本分级读物才是真正的里程碑——第二本书决定阅读会不会成为习惯，而诚实的选择有三条路。",
-          "draft": false
+          "draft": false,
+          "updatedAt": "2026-10-13"
         }
       }
     },
