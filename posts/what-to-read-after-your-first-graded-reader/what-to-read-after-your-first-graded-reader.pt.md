@@ -2,6 +2,7 @@
 title: "O que ler depois do seu primeiro livro de leitura graduada"
 excerpt: "Terminar o seu primeiro livro de leitura graduada é o verdadeiro marco — o segundo livro decide se a leitura vira hábito, e há três caminhos honestos."
 publishedAt: "2026-10-09"
+updatedAt: "2026-10-13"
 draft: false
 ---
 
@@ -24,6 +25,7 @@ Comece pelo guia do seu idioma, que lista nível por nível as séries que os al
 - Alemão: https://lucernaread.com/landing/blog/german-graded-readers-a1-a2-b1
 - Italiano: https://lucernaread.com/landing/blog/italian-graded-readers-a1-a2-b1
 - Japonês: https://lucernaread.com/landing/blog/japanese-graded-readers
+- Coreano: https://lucernaread.com/landing/blog/korean-graded-readers
 
 ---
 

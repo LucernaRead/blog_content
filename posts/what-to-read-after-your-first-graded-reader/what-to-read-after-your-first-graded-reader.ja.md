@@ -2,6 +2,7 @@
 title: "初めてのグレーデッド・リーダーを読み終えたら、次に何を読むか"
 excerpt: "初めてのグレーデッド・リーダーを読み切ることこそ本当の節目です——2冊目が読書を習慣にするかどうかを決め、正直な道は3つあります。"
 publishedAt: "2026-10-09"
+updatedAt: "2026-10-13"
 draft: false
 ---
 
@@ -24,6 +25,7 @@ draft: false
 - ドイツ語：https://lucernaread.com/landing/blog/german-graded-readers-a1-a2-b1
 - イタリア語：https://lucernaread.com/landing/blog/italian-graded-readers-a1-a2-b1
 - 日本語：https://lucernaread.com/landing/blog/japanese-graded-readers
+- 韓国語：https://lucernaread.com/landing/blog/korean-graded-readers
 
 ---
 

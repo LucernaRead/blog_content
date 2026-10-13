@@ -2,6 +2,7 @@
 title: "Что читать после первой адаптированной книги"
 excerpt: "Дочитать первую адаптированную книгу — вот настоящая веха: вторая книга решает, станет ли чтение привычкой, и честных путей здесь три."
 publishedAt: "2026-10-09"
+updatedAt: "2026-10-13"
 draft: false
 ---
 
@@ -24,6 +25,7 @@ draft: false
 - Немецкий: https://lucernaread.com/landing/blog/german-graded-readers-a1-a2-b1
 - Итальянский: https://lucernaread.com/landing/blog/italian-graded-readers-a1-a2-b1
 - Японский: https://lucernaread.com/landing/blog/japanese-graded-readers
+- Корейский: https://lucernaread.com/landing/blog/korean-graded-readers
 
 ---
 

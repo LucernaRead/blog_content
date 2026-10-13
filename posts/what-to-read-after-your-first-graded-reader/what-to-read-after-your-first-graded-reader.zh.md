@@ -2,6 +2,7 @@
 title: "读完第一本分级读物之后，接下来读什么"
 excerpt: "读完第一本分级读物才是真正的里程碑——第二本书决定阅读会不会成为习惯，而诚实的选择有三条路。"
 publishedAt: "2026-10-09"
+updatedAt: "2026-10-13"
 draft: false
 ---
 
@@ -24,6 +25,7 @@ draft: false
 - 德语：https://lucernaread.com/landing/blog/german-graded-readers-a1-a2-b1
 - 意大利语：https://lucernaread.com/landing/blog/italian-graded-readers-a1-a2-b1
 - 日语：https://lucernaread.com/landing/blog/japanese-graded-readers
+- 韩语：https://lucernaread.com/landing/blog/korean-graded-readers
 
 ---
 
