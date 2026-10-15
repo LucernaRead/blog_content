@@ -2,6 +2,85 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "chinese-graded-readers",
+      "publishedAt": "2026-10-15",
+      "cover": null,
+      "locales": {
+        "de": {
+          "slug": "chinese-graded-readers",
+          "title": "Chinesische Graded Readers: Bücher nach Ihrem HSK-Niveau wählen",
+          "excerpt": "Wählen Sie einen chinesischen Graded Reader, den Sie wirklich beenden: wie sich HSK-Stufen, Zeichenanzahl und Wortanzahl unterscheiden, fünf Reihen vom ersten Buch mit 150 Zeichen bis zu klassischen Romanen, und ein Zehn-Minuten-Probetest.",
+          "draft": false
+        },
+        "en": {
+          "slug": "chinese-graded-readers",
+          "title": "Chinese Graded Readers: How to Choose Books at Your HSK Level",
+          "excerpt": "Choose a Chinese graded reader you can finish: how HSK levels, character counts and word counts differ, five series from a 150-character first book to classical novels, and a ten-minute sample test.",
+          "draft": false
+        },
+        "es": {
+          "slug": "chinese-graded-readers",
+          "title": "Lecturas graduadas en chino: cómo elegir libros según tu nivel HSK",
+          "excerpt": "Elige una lectura graduada en chino que puedas terminar: en qué se diferencian los niveles HSK, el conteo de caracteres y el de palabras, cinco series desde un primer libro de 150 caracteres hasta las novelas clásicas, y una prueba de muestra de diez minutos.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "chinese-graded-readers",
+          "title": "Lectures graduées en chinois : choisir des livres à votre niveau HSK",
+          "excerpt": "Choisissez une lecture graduée en chinois que vous pouvez terminer : différences entre niveaux HSK, nombre de caractères et nombre de mots, cinq collections du premier livre à 150 caractères aux romans classiques, et un test d'échantillon de dix minutes.",
+          "draft": false
+        },
+        "it": {
+          "slug": "chinese-graded-readers",
+          "title": "Letture graduali in cinese: come scegliere libri al tuo livello HSK",
+          "excerpt": "Scegli una lettura graduale in cinese che puoi finire: come differiscono livelli HSK, conteggio dei caratteri e conteggio delle parole, cinque serie dal primo libro da 150 caratteri ai romanzi classici, e un test di prova di dieci minuti.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "chinese-graded-readers",
+          "title": "中国語グレーデッドリーダー：HSKレベルに合った本の選び方",
+          "excerpt": "最後まで読める中国語グレーデッドリーダーを選ぶ：HSKレベル、漢字数、語彙数の違い、150字の最初の1冊から古典名作の翻案まで5つのシリーズと、10分サンプルテスト。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "chinese-graded-readers",
+          "title": "중국어 등급 리더: HSK 수준에 맞는 책 고르기",
+          "excerpt": "끝까지 읽을 수 있는 중국어 등급 리더를 고르세요. HSK 등급, 한자 수와 단어 수의 차이, 150자로 된 첫 책부터 고전 명작 각색까지 다섯 시리즈, 그리고 10분 샘플 테스트를 소개합니다.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "chinese-graded-readers",
+          "title": "Chinese graded readers: boeken kiezen op jouw HSK-niveau",
+          "excerpt": "Kies een Chinese graded reader die je echt uit kunt lezen: hoe HSK-niveaus, tekentelling en woordtelling verschillen, vijf series van een eerste boek met 150 tekens tot klassieke romans, en een proeftest van tien minuten.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "chinese-graded-readers",
+          "title": "Leituras graduadas em chinês: como escolher livros para o seu nível HSK",
+          "excerpt": "Escolha uma leitura graduada em chinês que consiga terminar: como diferem os níveis HSK, a contagem de caracteres e a de palavras, cinco séries do primeiro livro de 150 caracteres aos romances clássicos, e um teste de amostra de dez minutos.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "chinese-graded-readers",
+          "title": "Адаптированные книги на китайском: как выбрать книги по вашему уровню HSK",
+          "excerpt": "Выберите адаптированную книгу на китайском, которую сможете дочитать: чем различаются уровни HSK, подсчёт иероглифов и подсчёт слов, пять серий от первой книги на 150 иероглифов до классических романов, и десятиминутный тест на отрывке.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "chinese-graded-readers",
+          "title": "中文分級讀物：按你的 HSK 水平選書",
+          "excerpt": "選一本能讀完的中文分級讀物：HSK 等級、漢字量與詞彙量有何不同，從 150 個漢字的第一本書到古典名著改編的五套叢書，以及十分鐘試讀法。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "chinese-graded-readers",
+          "title": "中文分级读物：按你的 HSK 水平选书",
+          "excerpt": "选一本能读完的中文分级读物：HSK 等级、汉字量与词汇量有何不同，从 150 个汉字的第一本书到古典名著改编的五套丛书，以及十分钟试读法。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "short-stories-in-french-for-beginners",
       "publishedAt": "2026-10-14",
       "cover": null,
@@ -801,84 +880,84 @@
           "title": "Was du nach deiner ersten Lektüre in einfacher Sprache lesen solltest",
           "excerpt": "Die erste Lektüre zu Ende zu lesen ist der eigentliche Meilenstein — das zweite Buch entscheidet, ob Lesen zur Gewohnheit wird, und es gibt drei ehrliche Wege.",
           "draft": false,
-          "updatedAt": "2026-10-13"
+          "updatedAt": "2026-10-15"
         },
         "en": {
           "slug": "what-to-read-after-your-first-graded-reader",
           "title": "What to Read After Your First Graded Reader",
           "excerpt": "Finishing your first graded reader is the milestone — the second book decides whether reading becomes a habit, and there are three honest paths to choose from.",
           "draft": false,
-          "updatedAt": "2026-10-13"
+          "updatedAt": "2026-10-15"
         },
         "es": {
           "slug": "what-to-read-after-your-first-graded-reader",
           "title": "Qué leer después de tu primera lectura graduada",
           "excerpt": "Terminar tu primera lectura graduada es el verdadero hito: el segundo libro decide si la lectura se convierte en hábito, y hay tres caminos honestos.",
           "draft": false,
-          "updatedAt": "2026-10-13"
+          "updatedAt": "2026-10-15"
         },
         "fr": {
           "slug": "what-to-read-after-your-first-graded-reader",
           "title": "Que lire après votre première lecture graduée",
           "excerpt": "Terminer sa première lecture graduée est la vraie étape — le deuxième livre décide si la lecture devient une habitude, et il existe trois voies honnêtes.",
           "draft": false,
-          "updatedAt": "2026-10-13"
+          "updatedAt": "2026-10-15"
         },
         "it": {
           "slug": "what-to-read-after-your-first-graded-reader",
           "title": "Cosa leggere dopo la tua prima lettura graduata",
           "excerpt": "Finire la tua prima lettura graduata è il vero traguardo: il secondo libro decide se la lettura diventa un'abitudine, e le vie oneste sono tre.",
           "draft": false,
-          "updatedAt": "2026-10-13"
+          "updatedAt": "2026-10-15"
         },
         "ja": {
           "slug": "what-to-read-after-your-first-graded-reader",
           "title": "初めてのグレーデッド・リーダーを読み終えたら、次に何を読むか",
           "excerpt": "初めてのグレーデッド・リーダーを読み切ることこそ本当の節目です——2冊目が読書を習慣にするかどうかを決め、正直な道は3つあります。",
           "draft": false,
-          "updatedAt": "2026-10-13"
+          "updatedAt": "2026-10-15"
         },
         "ko": {
           "slug": "what-to-read-after-your-first-graded-reader",
           "title": "첫 번째 등급별 리더를 다 읽은 뒤에는 무엇을 읽을까",
           "excerpt": "첫 번째 등급별 리더를 완독하는 것이 진짜 이정표입니다——두 번째 책이 독서를 습관으로 만들지를 결정하고, 정직한 길은 세 가지입니다.",
           "draft": false,
-          "updatedAt": "2026-10-13"
+          "updatedAt": "2026-10-15"
         },
         "nl": {
           "slug": "what-to-read-after-your-first-graded-reader",
           "title": "Wat je leest na je eerste graded reader",
           "excerpt": "Je eerste graded reader uit lezen is de echte mijlpaal — het tweede boek beslist of lezen een gewoonte wordt, en er zijn drie eerlijke routes.",
           "draft": false,
-          "updatedAt": "2026-10-13"
+          "updatedAt": "2026-10-15"
         },
         "pt": {
           "slug": "what-to-read-after-your-first-graded-reader",
           "title": "O que ler depois do seu primeiro livro de leitura graduada",
           "excerpt": "Terminar o seu primeiro livro de leitura graduada é o verdadeiro marco — o segundo livro decide se a leitura vira hábito, e há três caminhos honestos.",
           "draft": false,
-          "updatedAt": "2026-10-13"
+          "updatedAt": "2026-10-15"
         },
         "ru": {
           "slug": "what-to-read-after-your-first-graded-reader",
           "title": "Что читать после первой адаптированной книги",
           "excerpt": "Дочитать первую адаптированную книгу — вот настоящая веха: вторая книга решает, станет ли чтение привычкой, и честных путей здесь три.",
           "draft": false,
-          "updatedAt": "2026-10-13"
+          "updatedAt": "2026-10-15"
         },
         "zh-HK": {
           "slug": "what-to-read-after-your-first-graded-reader",
           "title": "讀完第一本分級讀物之後，接下來讀甚麼",
           "excerpt": "讀完第一本分級讀物才是真正的里程碑——第二本書決定閱讀會不會成為習慣，而誠實的選擇有三條路。",
           "draft": false,
-          "updatedAt": "2026-10-13"
+          "updatedAt": "2026-10-15"
         },
         "zh": {
           "slug": "what-to-read-after-your-first-graded-reader",
           "title": "读完第一本分级读物之后，接下来读什么",
           "excerpt": "读完第一本分级读物才是真正的里程碑——第二本书决定阅读会不会成为习惯，而诚实的选择有三条路。",
           "draft": false,
-          "updatedAt": "2026-10-13"
+          "updatedAt": "2026-10-15"
         }
       }
     },
