@@ -2,7 +2,7 @@
 title: "Que lire après votre première lecture graduée"
 excerpt: "Terminer sa première lecture graduée est la vraie étape — le deuxième livre décide si la lecture devient une habitude, et il existe trois voies honnêtes."
 publishedAt: "2026-10-09"
-updatedAt: "2026-10-13"
+updatedAt: "2026-10-15"
 draft: false
 ---
 
@@ -26,6 +26,7 @@ Commencez par le guide de votre langue, qui répertorie niveau par niveau les co
 - Italien : https://lucernaread.com/landing/blog/italian-graded-readers-a1-a2-b1
 - Japonais : https://lucernaread.com/landing/blog/japanese-graded-readers
 - Coréen: https://lucernaread.com/landing/blog/korean-graded-readers
+- Chinois: https://lucernaread.com/landing/blog/chinese-graded-readers
 
 ---
 
