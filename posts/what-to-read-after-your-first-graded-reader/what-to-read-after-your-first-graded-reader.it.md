@@ -2,7 +2,7 @@
 title: "Cosa leggere dopo la tua prima lettura graduata"
 excerpt: "Finire la tua prima lettura graduata è il vero traguardo: il secondo libro decide se la lettura diventa un'abitudine, e le vie oneste sono tre."
 publishedAt: "2026-10-09"
-updatedAt: "2026-10-13"
+updatedAt: "2026-10-15"
 draft: false
 ---
 
@@ -26,6 +26,7 @@ Parti dalla guida della tua lingua, che elenca livello per livello le collane ch
 - Italiano: https://lucernaread.com/landing/blog/italian-graded-readers-a1-a2-b1
 - Giapponese: https://lucernaread.com/landing/blog/japanese-graded-readers
 - Coreano: https://lucernaread.com/landing/blog/korean-graded-readers
+- Cinese: https://lucernaread.com/landing/blog/chinese-graded-readers
 
 ---
 

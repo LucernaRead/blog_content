@@ -2,7 +2,7 @@
 title: "Wat je leest na je eerste graded reader"
 excerpt: "Je eerste graded reader uit lezen is de echte mijlpaal — het tweede boek beslist of lezen een gewoonte wordt, en er zijn drie eerlijke routes."
 publishedAt: "2026-10-09"
-updatedAt: "2026-10-13"
+updatedAt: "2026-10-15"
 draft: false
 ---
 
@@ -26,6 +26,7 @@ Begin met de gids voor jouw taal, die niveau voor niveau de series opsomt die le
 - Italiaans: https://lucernaread.com/landing/blog/italian-graded-readers-a1-a2-b1
 - Japans: https://lucernaread.com/landing/blog/japanese-graded-readers
 - Koreaans: https://lucernaread.com/landing/blog/korean-graded-readers
+- Chinees: https://lucernaread.com/landing/blog/chinese-graded-readers
 
 ---
 
