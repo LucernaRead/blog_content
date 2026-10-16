@@ -2,6 +2,85 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "comprehensible-input",
+      "publishedAt": "2026-10-16",
+      "cover": null,
+      "locales": {
+        "de": {
+          "slug": "comprehensible-input",
+          "title": "Comprehensible Input: Was es ist und wie Sie es beim Lesen nutzen",
+          "excerpt": "Comprehensible Input ist Sprache, die Sie verstehen und die ein wenig Neues enthält. Was Krashens i+1 in der Praxis bedeutet, wie viel eines Textes Sie kennen müssen und wie Sie beim Lesen Input auf Ihrem Niveau finden und nutzen.",
+          "draft": false
+        },
+        "en": {
+          "slug": "comprehensible-input",
+          "title": "Comprehensible Input: What It Is and How to Use It When You Read",
+          "excerpt": "Comprehensible input is language you can understand with a little that is new. What Krashen's i+1 means in practice, how much of a text you need to know, and how to find and use input at your level when you read.",
+          "draft": false
+        },
+        "es": {
+          "slug": "comprehensible-input",
+          "title": "Input comprensible: qué es y cómo usarlo cuando lees",
+          "excerpt": "El input comprensible es lenguaje que puedes entender y que contiene un poco de novedad. Qué significa el i+1 de Krashen en la práctica, cuánto de un texto necesitas conocer y cómo encontrar y usar input de tu nivel cuando lees.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "comprehensible-input",
+          "title": "Input compréhensible : ce que c'est et comment l'utiliser en lisant",
+          "excerpt": "L'input compréhensible est une langue que vous comprenez et qui contient un peu de neuf. Ce que le i+1 de Krashen signifie en pratique, quelle part d'un texte vous devez connaître, et comment trouver et utiliser en lisant un input à votre niveau.",
+          "draft": false
+        },
+        "it": {
+          "slug": "comprehensible-input",
+          "title": "Input comprensibile: che cos'è e come usarlo quando leggi",
+          "excerpt": "L'input comprensibile è linguaggio che riesci a capire e che contiene un po' di novità. Cosa significa l'i+1 di Krashen in pratica, quanto di un testo devi conoscere e come trovare e usare input del tuo livello quando leggi.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "comprehensible-input",
+          "title": "理解可能なインプット：その意味と、読書での使い方",
+          "excerpt": "理解可能なインプットとは、理解できて、しかも少しだけ新しい要素を含む言語のこと。Krashen の i+1 が実際には何を意味するのか、文章のどれくらいを知っていればよいのか、自分のレベルに合ったインプットを読書でどう見つけ、どう使うか。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "comprehensible-input",
+          "title": "이해 가능한 입력: 무엇이며 읽을 때 어떻게 활용하는가",
+          "excerpt": "이해 가능한 입력은 이해할 수 있으면서 조금은 새로운 요소가 담긴 언어입니다. Krashen의 i+1이 실제로 무엇을 뜻하는지, 글을 얼마나 알아야 하는지, 그리고 읽을 때 내 수준에 맞는 입력을 어떻게 찾고 활용하는지 설명합니다.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "comprehensible-input",
+          "title": "Begrijpelijke input: wat het is en hoe je het gebruikt bij het lezen",
+          "excerpt": "Begrijpelijke input is taal die je kunt begrijpen en die een beetje nieuws bevat. Wat Krashens i+1 in de praktijk betekent, hoeveel van een tekst je moet kennen, en hoe je bij het lezen input op je niveau vindt en gebruikt.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "comprehensible-input",
+          "title": "Input compreensível: o que é e como usá-lo quando você lê",
+          "excerpt": "Input compreensível é linguagem que você entende e que contém um pouco de novidade. O que o i+1 de Krashen significa na prática, quanto de um texto você precisa conhecer e como encontrar e usar input no seu nível ao ler.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "comprehensible-input",
+          "title": "Понятный вход: что это такое и как использовать его при чтении",
+          "excerpt": "Понятный вход — это язык, который вы понимаете и в котором есть немного нового. Что формула i+1 Крэшена означает на практике, какую часть текста нужно знать и как находить и использовать вход своего уровня при чтении.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "comprehensible-input",
+          "title": "可理解輸入：它是甚麼，以及閱讀時如何運用",
+          "excerpt": "可理解輸入是你能聽懂讀懂、又帶一點新東西的語言。Krashen 的 i+1 在實踐中是甚麼意思，一篇文章你需要認識多少詞，以及如何在閱讀時找到並用好適合自己水平的輸入。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "comprehensible-input",
+          "title": "可理解输入：它是什么，以及阅读时如何用它",
+          "excerpt": "可理解输入是你能听懂读懂、又带一点新东西的语言。Krashen 的 i+1 在实践中是什么意思，一篇文章你需要认识多少词，以及如何在阅读时找到并用好适合自己水平的输入。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "chinese-graded-readers",
       "publishedAt": "2026-10-15",
       "cover": null,
