@@ -2,6 +2,85 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "dual-language-books",
+      "publishedAt": "2026-10-17",
+      "cover": null,
+      "locales": {
+        "de": {
+          "slug": "dual-language-books",
+          "title": "Zweisprachige Bücher: Ein Leitfaden für Anfänger zu Paralleltexten",
+          "excerpt": "Ein zweisprachiges Buch druckt Original und Übersetzung zusammen, damit Sie sich selbst prüfen können, ohne die Geschichte zu verlassen. Welche Aufmachung Sie wählen sollten, mit welchen Ausgaben für Erwachsene sich der Einstieg lohnt, wie Sie ein solches Buch lesen, ohne sich darauf zu stützen, und wann es Zeit ist, zu einem Buch ganz ohne Übersetzung überzugehen.",
+          "draft": false
+        },
+        "en": {
+          "slug": "dual-language-books",
+          "title": "Dual Language Books: A Beginner's Guide to Parallel Texts",
+          "excerpt": "A dual language book prints the original and its translation together, so you can check yourself without leaving the story. Which layout to choose, which adult editions are worth starting with, how to read one without leaning on it, and when to graduate to a book with no translation beside it.",
+          "draft": false
+        },
+        "es": {
+          "slug": "dual-language-books",
+          "title": "Libros bilingües: guía de textos paralelos para principiantes",
+          "excerpt": "Un libro bilingüe imprime el original y su traducción juntos, para que puedas comprobar lo que entendiste sin salir de la historia. Qué formato elegir, qué ediciones para adultos merecen ser el primer paso, cómo leer uno sin apoyarte en la traducción y cuándo pasar a un libro sin traducción al lado.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "dual-language-books",
+          "title": "Livres bilingues : guide des textes parallèles pour débutants",
+          "excerpt": "Un livre bilingue imprime l'original et sa traduction ensemble, pour que vous puissiez vous vérifier sans quitter l'histoire. Quelle présentation choisir, quelles éditions pour adultes valent un premier pas, comment lire sans s'appuyer sur la traduction, et quand passer à un livre sans traduction à côté.",
+          "draft": false
+        },
+        "it": {
+          "slug": "dual-language-books",
+          "title": "Libri bilingui: guida ai testi paralleli per principianti",
+          "excerpt": "Un libro bilingue stampa l'originale e la sua traduzione insieme, così puoi verificare ciò che hai capito senza uscire dalla storia. Quale impaginazione scegliere, quali edizioni per adulti meritano il primo passo, come leggerne uno senza appoggiarti alla traduzione e quando passare a un libro senza traduzione a fianco.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "dual-language-books",
+          "title": "対訳本入門：初心者のためのパラレルテキストガイド",
+          "excerpt": "対訳本は原文と翻訳を一緒に印刷し、物語を離れずに自分の理解を確認できるようにした本です。どのレイアウトを選ぶか、大人向けにどこから始めるべきか、翻訳に頼りきらずに読む方法、そして翻訳のない本へ進むタイミングを説明します。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "dual-language-books",
+          "title": "이중 언어 책: 초보자를 위한 병렬 텍스트 가이드",
+          "excerpt": "이중 언어 책은 원문과 번역을 함께 실어, 이야기를 떠나지 않고도 이해를 확인할 수 있게 합니다. 어떤 레이아웃을 고를지, 성인용으로 어디서 시작할지, 번역에 기대지 않고 읽는 법, 그리고 번역 없는 책으로 넘어갈 때를 설명합니다.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "dual-language-books",
+          "title": "Tweetalige boeken: een gids voor beginners over parallelle teksten",
+          "excerpt": "Een tweetalig boek drukt het origineel en de vertaling samen af, zodat je jezelf kunt controleren zonder het verhaal te verlaten. Welke opmaak je kiest, met welke uitgaven voor volwassenen je het beste begint, hoe je er een leest zonder erop te leunen, en wanneer je overstapt naar een boek zonder vertaling ernaast.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "dual-language-books",
+          "title": "Livros bilíngues: um guia de textos paralelos para iniciantes",
+          "excerpt": "Um livro bilíngue imprime o original e a sua tradução juntos, para que você possa conferir o que entendeu sem sair da história. Qual formato escolher, quais edições para adultos valem como primeiro passo, como ler um sem se apoiar na tradução e quando passar para um livro sem tradução ao lado.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "dual-language-books",
+          "title": "Двуязычные книги: руководство по параллельным текстам для начинающих",
+          "excerpt": "Двуязычная книга печатает оригинал и его перевод вместе, чтобы вы могли проверить себя, не покидая истории. Какой формат выбрать, с каких изданий для взрослых стоит начать, как читать такую книгу, не опираясь на перевод, и когда переходить к книге без перевода рядом.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "dual-language-books",
+          "title": "雙語對照書：初學者平行文本指南",
+          "excerpt": "雙語對照書把原文和譯文印在一起，讓你不必離開故事就能核對自己的理解。選哪種版式、哪些成人版本值得先讀、怎樣讀才不依賴譯文，以及甚麼時候該畢業到沒有譯文的書。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "dual-language-books",
+          "title": "双语对照书：初学者平行文本指南",
+          "excerpt": "双语对照书把原文和译文印在一起，让你不必离开故事就能核对自己的理解。选哪种版式、哪些成人版本值得先读、怎样读才不依赖译文，以及什么时候该毕业到没有译文的书。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "comprehensible-input",
       "publishedAt": "2026-10-16",
       "cover": null,
