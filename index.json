@@ -2,6 +2,85 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "free-language-learning-resources",
+      "publishedAt": "2026-10-18",
+      "cover": null,
+      "locales": {
+        "de": {
+          "slug": "free-language-learning-resources",
+          "title": "Kostenlose Ressourcen zum Sprachenlernen, die ein Lesezeichen verdienen",
+          "excerpt": "Eine kuratierte Auswahl wirklich kostenloser Lektüre und Übung: gemeinfreie Bücher, gestufte Lektüre, einfache Nachrichten und Anfängerlektionen. Geprüft am 18.10.2026 und laufend aktualisiert.",
+          "draft": false
+        },
+        "en": {
+          "slug": "free-language-learning-resources",
+          "title": "Free Language Learning Resources Worth Bookmarking",
+          "excerpt": "A curated shelf of genuinely free reading and practice: public-domain books, graded readers, easy news, and beginner lessons, checked on 2026-10-18 and kept up to date.",
+          "draft": false
+        },
+        "es": {
+          "slug": "free-language-learning-resources",
+          "title": "Recursos gratuitos para aprender idiomas que vale la pena guardar",
+          "excerpt": "Una selección de lectura y práctica realmente gratuitas: libros de dominio público, lecturas graduadas, noticias fáciles y lecciones para principiantes. Verificado el 18-10-2026 y mantenido al día.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "free-language-learning-resources",
+          "title": "Des ressources gratuites pour apprendre les langues, à garder en favori",
+          "excerpt": "Une sélection de lectures et d'exercices vraiment gratuits : livres du domaine public, lectures graduées, actualités faciles et leçons pour débutants. Vérifié le 18-10-2026 et tenu à jour.",
+          "draft": false
+        },
+        "it": {
+          "slug": "free-language-learning-resources",
+          "title": "Risorse gratuite per imparare le lingue, da mettere tra i preferiti",
+          "excerpt": "Una selezione di letture ed esercizi davvero gratuiti: libri di pubblico dominio, letture graduate, notizie facili e lezioni per principianti. Verificato il 18-10-2026 e tenuto aggiornato.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "free-language-learning-resources",
+          "title": "ブックマークしておきたい無料の語学学習リソース",
+          "excerpt": "本当に無料で使える読みもの教材を厳選。パブリックドメインの本、多読本、やさしいニュース、初級レッスンまで。2026-10-18に確認済み、随時更新。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "free-language-learning-resources",
+          "title": "북마크해 둘 만한 무료 언어 학습 자료",
+          "excerpt": "진짜 무료인 읽기와 연습 자료를 엄선했다. 퍼블릭 도메인 도서, 단계별 읽기 자료, 쉬운 뉴스, 초급 레슨까지. 2026-10-18에 확인했고 계속 업데이트한다.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "free-language-learning-resources",
+          "title": "Gratis bronnen om talen te leren die een bladwijzer waard zijn",
+          "excerpt": "Een samengestelde plank met echt gratis lees- en oefenmateriaal: publiekdomeinboeken, geleidelijk opgebouwde leesteksten, eenvoudig nieuws en beginnerslessen. Gecheckt op 18-10-2026 en bijgehouden.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "free-language-learning-resources",
+          "title": "Recursos gratuitos para aprender línguas que vale a pena guardar",
+          "excerpt": "Uma seleção de leitura e prática verdadeiramente gratuitas: livros de domínio público, leituras graduadas, notícias fáceis e lições para iniciantes. Verificado em 18-10-2026 e mantido atualizado.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "free-language-learning-resources",
+          "title": "Бесплатные ресурсы для изучения языков, которые стоит сохранить",
+          "excerpt": "Подборка по-настоящему бесплатного чтения и практики: книги из общественного достояния, градуированные тексты, простые новости и уроки для начинающих. Проверено 18.10.2026 и обновляется.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "free-language-learning-resources",
+          "title": "值得收藏的免費語言學習資源",
+          "excerpt": "一份精選的、真正免費的閱讀與練習資源：公版書、分級讀物、簡易新聞與初級課程，已於 2026-10-18 核查並持續更新。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "free-language-learning-resources",
+          "title": "值得收藏的免费语言学习资源",
+          "excerpt": "一份精选的、真正免费的阅读与练习资源：公版书、分级读物、简易新闻与初级课程，已于 2026-10-18 核查并持续更新。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "learn-french-by-reading",
       "publishedAt": "2026-10-18",
       "cover": null,
