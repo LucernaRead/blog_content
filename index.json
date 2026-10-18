@@ -2,6 +2,85 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "learn-french-by-reading",
+      "publishedAt": "2026-10-18",
+      "cover": null,
+      "locales": {
+        "de": {
+          "slug": "learn-french-by-reading",
+          "title": "Französisch lernen durch Lesen",
+          "excerpt": "Französisch durch Lesen lernen, mit einer Leiter, die für diese Sprache gebaut ist: erst Stufenlektüren, Passé simple und Elisionen erklärt, ein Zehn-Minuten-Test und eine Routine, die Seite und Klang verbindet.",
+          "draft": false
+        },
+        "en": {
+          "slug": "learn-french-by-reading",
+          "title": "How to Learn French by Reading",
+          "excerpt": "Learn French by reading with a ladder built for French itself: graded readers first, the passé simple and elided words explained, a ten-minute sample test, and a routine that pairs the page with sound.",
+          "draft": false
+        },
+        "es": {
+          "slug": "learn-french-by-reading",
+          "title": "Cómo aprender francés leyendo",
+          "excerpt": "Aprende francés leyendo con una escalera pensada para esta lengua: primero lecturas graduadas, el passé simple y las elisiones explicados, una prueba de muestra de diez minutos y una rutina que une la página con el sonido.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "learn-french-by-reading",
+          "title": "Apprendre le français en lisant",
+          "excerpt": "Apprendre le français par la lecture, avec une échelle pensée pour cette langue : d'abord les lectures graduées, le passé simple et les élisions expliqués, un test d'échantillon de dix minutes et une routine qui associe la page au son.",
+          "draft": false
+        },
+        "it": {
+          "slug": "learn-french-by-reading",
+          "title": "Come imparare il francese leggendo",
+          "excerpt": "Impara il francese leggendo, con una scala costruita per questa lingua: prima le letture graduate, il passé simple e le elisioni spiegati, un test di prova di dieci minuti e una routine che unisce la pagina al suono.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "learn-french-by-reading",
+          "title": "読書でフランス語を学ぶ方法",
+          "excerpt": "フランス語そのものに合わせた読書の階段で学ぶ：まずグレーデッドリーダー、単純過去と省略形の説明、10分サンプルテスト、そしてページと音を組にする読み方。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "learn-french-by-reading",
+          "title": "독서로 프랑스어 배우는 법",
+          "excerpt": "프랑스어 자체에 맞춘 독서 사다리로 배우기: 등급 리더부터 읽고, 단순과거와 축약형을 설명하고, 10분 샘플 테스트로 책을 고르고, 페이지와 소리를 짝짓는 습관으로 나아가기.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "learn-french-by-reading",
+          "title": "Frans leren door te lezen",
+          "excerpt": "Leer Frans door te lezen, met een ladder die voor deze taal is gebouwd: eerst gegradeerde lezers, de passé simple en elisies uitgelegd, een proeftest van tien minuten en een routine die de pagina met klank verbindt.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "learn-french-by-reading",
+          "title": "Como aprender francês a ler",
+          "excerpt": "Aprenda francês a ler com uma escada pensada para esta língua: primeiro leituras graduadas, o passé simple e as elisões explicados, um teste de amostra de dez minutos e uma rotina que junta a página ao som.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "learn-french-by-reading",
+          "title": "Как учить французский чтением",
+          "excerpt": "Учите французский чтением по лестнице, построенной для этого языка: сначала адаптированные книги, объяснение passé simple и эллизий, десятиминутный тест на отрывке и распорядок, соединяющий страницу со звуком.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "learn-french-by-reading",
+          "title": "如何透過閱讀學法語",
+          "excerpt": "按法語自身的特點搭一條閱讀階梯來學法語：先讀分級讀物，講清簡單過去時與省音詞，用十分鐘抽樣測試選書，再用把頁面與聲音配對的日常讀法推進。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "learn-french-by-reading",
+          "title": "如何通过阅读学法语",
+          "excerpt": "按法语自身的特点搭一条阅读阶梯来学法语：先读分级读物，讲清简单过去时与省音词，用十分钟抽样测试选书，再用把页面与声音配对的日常读法推进。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "dual-language-books",
       "publishedAt": "2026-10-17",
       "cover": null,
