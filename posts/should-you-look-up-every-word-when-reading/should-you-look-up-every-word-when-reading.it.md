@@ -5,7 +5,7 @@ publishedAt: "2026-06-13"
 draft: false
 ---
 
-Alla prima parola sconosciuta devi scegliere: fermarti o continuare sperando che il contesto aiuti? Esagerare in entrambe le direzioni rende la lettura faticosa: continue interruzioni oppure frasi che restano nella nebbia. Una regola pratica può aiutare.
+Alla prima parola sconosciuta devi scegliere: fermarti o continuare sperando che il contesto aiuti? Esagerare in entrambe le direzioni rende la lettura faticosa: continue interruzioni oppure frasi che restano nella nebbia. Una regola pratica può aiutare. In fondo stai scegliendo tra due modalità di lettura — quella [intensiva e quella estensiva](https://lucernaread.com/landing/it/blog/intensive-vs-extensive-reading) — e la regola cambia a seconda della modalità in cui sei.
 
 ## Il prezzo di ogni ricerca
 

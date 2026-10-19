@@ -30,7 +30,7 @@ Non devi imparare in anticipo tutta la coda. Puoi chiarire una parola quando arr
 - **Chiarisci gli ostacoli nel testo.** Cerca le parole che servono alla frase, senza preimparare ogni termine raro.
 - **Costruisci una lista personale.** Le parole utili incontrate nel libro mostrano i tuoi bisogni reali e hanno già un contesto.
 
-Più libri offrono più incontri. La crescita non è automatica né lineare, ma non richiede di rimandare ogni lettura fino a una lista perfetta.
+Più libri offrono più incontri. La crescita non è automatica né lineare, ma non richiede di rimandare ogni lettura fino a una lista perfetta. È il principio della [lettura estensiva](https://lucernaread.com/landing/it/blog/intensive-vs-extensive-reading): sotto la soglia formale puoi comunque accumulare pagine comode, ed è quel volume che chiude il divario.
 
 ## Leggi al tuo livello attuale
 
