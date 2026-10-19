@@ -1,7 +1,8 @@
 ---
-title: "Letture graduate in giapponese: come iniziare a leggere con il tadoku"
-excerpt: "Inizia a leggere il giapponese con le letture graduate tadoku: i livelli 0–5 propri della NPO, i furigana, quattro serie di partenza e un test di esempio di dieci minuti."
+title: "Letture graduate tadoku in giapponese: livelli 0–5, libri gratuiti e da dove iniziare"
+excerpt: "Le letture graduate tadoku in giapponese, spiegate: i livelli 0–5 della NPO con furigana, quattro serie da cui partire — inclusi libri PDF gratuiti — e un test di dieci minuti per trovare il tuo livello."
 publishedAt: "2026-10-09"
+updatedAt: "2026-10-19"
 draft: false
 ---
 

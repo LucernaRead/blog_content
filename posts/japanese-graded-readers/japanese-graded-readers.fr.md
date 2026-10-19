@@ -1,7 +1,8 @@
 ---
-title: "Lectures graduées japonaises : commencer à lire avec le tadoku"
-excerpt: "Commencez à lire le japonais avec les lectures graduées tadoku : les niveaux 0 à 5 propres à la NPO, les furigana, quatre séries de départ et un test d'échantillon de dix minutes."
+title: "Lectures graduées tadoku en japonais : niveaux 0 à 5, livres gratuits et par où commencer"
+excerpt: "Les lectures graduées tadoku en japonais, expliquées : les niveaux 0 à 5 de la NPO avec furigana, quatre séries pour débuter — dont des livres PDF gratuits — et un test de dix minutes pour trouver votre niveau."
 publishedAt: "2026-10-09"
+updatedAt: "2026-10-19"
 draft: false
 ---
 
@@ -25,7 +26,7 @@ Un livre pour enfants natifs n'est pas la même chose. Il suppose le vocabulaire
 
 ## Les niveaux tadoku ne sont pas des niveaux du CECR
 
-Les niveaux tadoku sont l'échelle propre à la NPO, les niveaux 0 à 5. Ce ne sont pas des niveaux du CECR et ils ne doivent pas être présentés comme des équivalents officiels d'autre chose.
+Les niveaux tadoku sont l'échelle propre à la NPO, les niveaux 0 à 5. Ce ne sont pas des niveaux du CECR et ils ne doivent pas être présentés comme des équivalents officiels d'autre chose. Le français fait l'inverse : ses lectures graduées suivent directement l'échelle du CECR, de A1 à B1 — c'est le sujet de notre guide des [lectures graduées en français](https://lucernaread.com/landing/fr/blog/french-graded-readers-a1-a2-b1).
 
 À titre d'orientation approximative, le distributeur américain Cheng & Tsui publie un tableau de correspondance approximatif avec le JLPT pour la série ASK. C'est le tableau d'un distributeur, pas une équivalence officielle :
 

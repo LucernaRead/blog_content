@@ -1,7 +1,8 @@
 ---
-title: "Japanse graded readers: beginnen met lezen met tadoku"
-excerpt: "Begin Japans te lezen met tadoku graded readers: de eigen niveaus 0–5 van de NPO, furigana, vier startseries en een voorbeeldtest van tien minuten."
+title: "Japanse tadoku graded readers: niveaus 0–5, gratis boeken en waar te beginnen"
+excerpt: "Tadoku graded readers voor Japans uitgelegd: de niveaus 0–5 van de NPO met furigana, vier startseries — waaronder gratis pdf-boeken — en een voorbeeldtest van tien minuten om uw niveau te vinden."
 publishedAt: "2026-10-09"
+updatedAt: "2026-10-19"
 draft: false
 ---
 

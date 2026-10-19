@@ -1,7 +1,8 @@
 ---
-title: "Japanische Graded Readers: Mit Tadoku zu lesen beginnen"
-excerpt: "Beginnen Sie mit Tadoku-Graded-Readern Japanisch zu lesen: die eigenen Stufen 0–5 der NPO, Furigana, vier Startreihen und ein Zehn-Minuten-Test."
+title: "Japanische Tadoku Graded Readers: Stufen 0–5, kostenlose Bücher & der Einstieg"
+excerpt: "Tadoku Graded Readers für Japanisch erklärt: die Stufen 0–5 der NPO mit Furigana, vier Startreihen — darunter kostenlose PDF-Bücher — und ein Zehn-Minuten-Test für Ihre Stufe."
 publishedAt: "2026-10-09"
+updatedAt: "2026-10-19"
 draft: false
 ---
 
