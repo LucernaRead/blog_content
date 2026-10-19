@@ -34,7 +34,7 @@ La vraie question n'est donc pas « combien de mots me faut-il avant de commence
 
 Si vous êtes à 90–95 % de couverture (là où se trouvent la plupart des intermédiaires), inutile de moudre des fiches jusqu'à 8 000 avant d'ouvrir un livre. Vous lisez, avec trois habitudes :
 
-- **Choisissez d'abord des livres proches du sommet de la courbe de fréquence.** Les romans jeunesse emploient un vocabulaire plus restreint et plus courant : votre couverture actuelle y va plus loin. Un premier livre à 92 % de couverture est bien plus agréable qu'un pavé littéraire à 92 %.
+- **Choisissez d'abord des livres proches du sommet de la courbe de fréquence.** Les romans jeunesse emploient un vocabulaire plus restreint et plus courant : votre couverture actuelle y va plus loin. Un premier livre à 92 % de couverture est bien plus agréable qu'un pavé littéraire à 92 %. Les lectures graduées sont construites exactement pour cela — un vocabulaire contrôlé, niveau par niveau ; pour le français, voyez comment choisir entre A1 et B1 dans notre guide des [lectures graduées en français](https://lucernaread.com/landing/fr/blog/french-graded-readers-a1-a2-b1).
 - **Résolvez les mots de la traîne sur place, ne les mémorisez pas d'avance.** Les mots rares que vous croisez sont précisément ceux qu'il vaut la peine d'apprendre ensuite — et les rencontrer dans une phrase comprise, c'est ce qui les fixe. Cherchez-les sans quitter la page et continuez.
 - **Laissez le livre construire votre liste.** Chaque mot sur lequel vous vous arrêtez est une donnée sur votre écart personnel. Récoltés au fil de la lecture, ces mots *sont* votre paquet de révision — déjà à votre niveau, déjà en contexte.
 

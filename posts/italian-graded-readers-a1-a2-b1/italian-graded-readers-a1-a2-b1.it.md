@@ -45,6 +45,8 @@ Poi chiediti: chi è coinvolto? Che cosa è successo? Che cosa potrebbe succeder
 
 Se segui gli eventi ma perdi dei dettagli, il libro è uno sforzo utile. Se stai traducendo la maggior parte delle frasi parola per parola solo per tenere il passo, scegli qualcosa di più facile — scendi di un livello o prendi un titolo più semplice. Se sei a tuo agio ma annoiato, forse il livello è giusto e la storia no: cambia prima la storia.
 
+Il test funziona perché una lettura graduata è pensata per la lettura estensiva: tante pagine, a un livello comodo, senza fermarsi a ogni parola. Per il confronto completo tra i due modi di leggere — e per capire perché servono entrambi — vedi [lettura intensiva o estensiva](https://lucernaread.com/landing/it/blog/intensive-vs-extensive-reading).
+
 ---
 
 ## Carta, EPUB o PDF: controlla prima di comprare
