@@ -2,6 +2,85 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "french-books-for-beginners",
+      "publishedAt": "2026-10-19",
+      "cover": null,
+      "locales": {
+        "de": {
+          "slug": "french-books-for-beginners",
+          "title": "Französische Bücher für Anfänger: Die ersten Bücher, die sich lohnen",
+          "excerpt": "Wählen Sie Ihr erstes französisches Buch nach Art, nicht nach Ruhm: ein geführter Reader, eine zweisprachige Absicherung, eine bekannte Geschichte, ein Klassiker in kurzen Kapiteln und ein Comic, jede Ausgabe geprüft.",
+          "draft": false
+        },
+        "en": {
+          "slug": "french-books-for-beginners",
+          "title": "French Books for Beginners: The First Books Worth Reading",
+          "excerpt": "Choose your first French book by kind, not by fame: a guided reader, a dual-language safety net, a familiar story, a short-chapter classic and a comic, each checked by edition.",
+          "draft": false
+        },
+        "es": {
+          "slug": "french-books-for-beginners",
+          "title": "Libros en francés para principiantes: los primeros libros que vale la pena leer",
+          "excerpt": "Elige tu primer libro en francés por tipo, no por fama: un lector guiado, una red bilingüe, una historia conocida, un clásico de capítulos cortos y un cómic, cada edición verificada.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "french-books-for-beginners",
+          "title": "Livres en français pour débutants : les premiers livres qui valent la peine",
+          "excerpt": "Choisissez votre premier livre en français par type, pas par célébrité : un lecteur guidé, un filet bilingue, une histoire connue, un classique en chapitres courts et une bande dessinée, chaque édition vérifiée.",
+          "draft": false
+        },
+        "it": {
+          "slug": "french-books-for-beginners",
+          "title": "Libri in francese per principianti: i primi libri che vale la pena leggere",
+          "excerpt": "Scegli il tuo primo libro in francese per tipo, non per fama: un lettore guidato, una rete bilingue, una storia conosciuta, un classico a capitoli brevi e un fumetto, ogni edizione verificata.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "french-books-for-beginners",
+          "title": "初心者のためのフランス語の本：最初に読む価値のある本",
+          "excerpt": "有名かどうかではなく、本の種類で最初のフランス語の本を選ぶ。ガイド付きリーダー、対訳本、知っている物語、短い章の古典、漫画。各本とも版を確認済み。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "french-books-for-beginners",
+          "title": "초보자를 위한 프랑스어 책: 처음 읽을 가치가 있는 책",
+          "excerpt": "유명세가 아니라 책의 종류로 첫 프랑스어 책을 고르세요. 안내가 붙은 리더, 대역본, 아는 이야기, 짧은 장의 고전, 만화 한 권. 모두 판본을 확인했습니다.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "french-books-for-beginners",
+          "title": "Franse boeken voor beginners: de eerste boeken die de moeite waard zijn",
+          "excerpt": "Kies je eerste Franse boek op soort, niet op roem: een begeleide reader, een tweetalig vangnet, een bekend verhaal, een klassieker in korte hoofdstukken en een strip, elke editie gecontroleerd.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "french-books-for-beginners",
+          "title": "Livros em francês para iniciantes: os primeiros livros que vale a pena ler",
+          "excerpt": "Escolha o seu primeiro livro em francês pelo tipo, não pela fama: um leitor guiado, uma rede bilingue, uma história conhecida, um clássico de capítulos curtos e uma banda desenhada, cada edição verificada.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "french-books-for-beginners",
+          "title": "Книги на французском для начинающих: первые книги, которые стоит прочитать",
+          "excerpt": "Выбирайте первую книгу на французском по виду, а не по славе: учебный ридер с поддержкой, двуязычная страховка, знакомая история, классика короткими главами и комикс. Каждое издание проверено.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "french-books-for-beginners",
+          "title": "法語入門書籍：第一批值得讀的書",
+          "excerpt": "按書的種類而不是名氣選你的第一本法語書：一本帶導讀的讀本、一本雙語對照、一本熟悉的故事、一本短章節經典和一本漫畫，每本都核對了版本。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "french-books-for-beginners",
+          "title": "法语入门书籍：第一批值得读的书",
+          "excerpt": "按书的种类而不是名气选你的第一本法语书：一本带导读的读本、一本双语对照、一本熟悉的故事、一本短章节经典和一本漫画，每本都核对了版本。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "free-language-learning-resources",
       "publishedAt": "2026-10-18",
       "cover": null,
