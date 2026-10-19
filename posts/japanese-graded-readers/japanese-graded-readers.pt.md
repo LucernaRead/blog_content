@@ -1,7 +1,8 @@
 ---
-title: "Leituras graduadas em japonês: como começar a ler com tadoku"
-excerpt: "Comece a ler japonês com as leituras graduadas tadoku: os níveis 0–5 próprios da NPO, furigana, quatro séries de partida e um teste de amostra de dez minutos."
+title: "Leituras graduadas tadoku em japonês: níveis 0–5, livros gratuitos e por onde começar"
+excerpt: "As leituras graduadas tadoku em japonês, explicadas: os níveis 0–5 da NPO com furigana, quatro séries para começar — incluindo livros PDF gratuitos — e um teste de dez minutos para encontrar o seu nível."
 publishedAt: "2026-10-09"
+updatedAt: "2026-10-19"
 draft: false
 ---
 

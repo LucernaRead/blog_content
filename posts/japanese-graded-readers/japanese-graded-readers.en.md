@@ -1,7 +1,8 @@
 ---
-title: "Japanese Graded Readers: How to Start Reading with Tadoku"
-excerpt: "Start reading Japanese with tadoku graded readers: the NPO's own Levels 0–5, furigana, four starting series, and a ten-minute sample test."
+title: "Japanese Tadoku Graded Readers: Levels 0–5, Free Books & Where to Start"
+excerpt: "Tadoku graded readers for Japanese, explained: the NPO’s Levels 0–5 with furigana, four series to start with — including free PDF books — and a ten-minute test to find your level."
 publishedAt: "2026-10-09"
+updatedAt: "2026-10-19"
 draft: false
 ---
 
