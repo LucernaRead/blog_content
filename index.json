@@ -2,6 +2,85 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "german-books-for-beginners",
+      "publishedAt": "2026-10-20",
+      "cover": null,
+      "locales": {
+        "de": {
+          "slug": "german-books-for-beginners",
+          "title": "Deutsche Bücher für Anfänger: Die ersten Bücher, die sich lohnen",
+          "excerpt": "Wählen Sie Ihr erstes deutsches Buch nach Art, nicht nach Ruhm: eine Lerngeschichte in Berlin, eine zweisprachige Absicherung, eine bekannte Geschichte, ein Klassiker in kurzen Kapiteln und eine gestufte Geschichtensammlung, jede Ausgabe geprüft.",
+          "draft": false
+        },
+        "en": {
+          "slug": "german-books-for-beginners",
+          "title": "German Books for Beginners: The First Books Worth Reading",
+          "excerpt": "Choose your first German book by kind, not by fame: a learner story set in Berlin, a dual-language safety net, a familiar story, a short-chapter classic and a graded story collection, each checked by edition.",
+          "draft": false
+        },
+        "es": {
+          "slug": "german-books-for-beginners",
+          "title": "Libros en alemán para principiantes: los primeros libros que vale la pena leer",
+          "excerpt": "Elige tu primer libro en alemán por tipo, no por fama: una historia para estudiantes ambientada en Berlín, una red bilingüe, una historia conocida, un clásico de capítulos cortos y una antología de cuentos graduados, cada edición verificada.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "german-books-for-beginners",
+          "title": "Livres en allemand pour débutants : les premiers livres qui valent la peine",
+          "excerpt": "Choisissez votre premier livre en allemand par type, pas par célébrité : une histoire pour apprenants située à Berlin, un filet bilingue, une histoire connue, un classique en chapitres courts et un recueil de nouvelles graduées, chaque édition vérifiée.",
+          "draft": false
+        },
+        "it": {
+          "slug": "german-books-for-beginners",
+          "title": "Libri in tedesco per principianti: i primi libri che vale la pena leggere",
+          "excerpt": "Scegli il tuo primo libro in tedesco per tipo, non per fama: un racconto per studenti ambientato a Berlino, una rete bilingue, una storia conosciuta, un classico a capitoli brevi e un'antologia di racconti graduati, ogni edizione verificata.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "german-books-for-beginners",
+          "title": "初心者のためのドイツ語の本：最初に読む価値のある本",
+          "excerpt": "有名かどうかではなく、本の種類で最初のドイツ語の本を選ぶ。ベルリンを舞台にした学習者向け物語、対訳の安全網、知っている物語、短い章の古典、グレーデッドな短編集。各本とも版を確認済み。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "german-books-for-beginners",
+          "title": "초보자를 위한 독일어 책: 처음 읽을 가치가 있는 책",
+          "excerpt": "유명세가 아니라 책의 종류로 첫 독일어 책을 고르세요. 베를린을 배경으로 한 학습자 이야기, 대역 안전망, 아는 이야기, 짧은 장의 고전, 단계별 단편집. 모두 판본을 확인했습니다.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "german-books-for-beginners",
+          "title": "Duitse boeken voor beginners: de eerste boeken die de moeite waard zijn",
+          "excerpt": "Kies je eerste Duitse boek op soort, niet op roem: een leerboekverhaal dat zich afspeelt in Berlijn, een tweetalig vangnet, een bekend verhaal, een klassieker in korte hoofdstukken en een gegradeerde verhalenbundel, elke editie gecontroleerd.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "german-books-for-beginners",
+          "title": "Livros em alemão para iniciantes: os primeiros livros que vale a pena ler",
+          "excerpt": "Escolha o seu primeiro livro em alemão pelo tipo, não pela fama: uma história para estudantes passada em Berlim, uma rede bilingue, uma história conhecida, um clássico de capítulos curtos e uma antologia graduada, cada edição verificada.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "german-books-for-beginners",
+          "title": "Книги на немецком для начинающих: первые книги, которые стоит прочитать",
+          "excerpt": "Выбирайте первую книгу на немецком по виду, а не по славе: учебная история с действием в Берлине, двуязычная страховка, знакомая история, классика короткими главами и сборник градуированных рассказов. Каждое издание проверено.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "german-books-for-beginners",
+          "title": "德語入門書籍：第一批值得讀的書",
+          "excerpt": "按書的種類而不是名氣選你的第一本德語書：一本柏林背景的學習者故事、一本雙語對照、一本熟悉的故事、一本短章節經典和一本分級故事集，每本都核對了版本。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "german-books-for-beginners",
+          "title": "德语入门书籍：第一批值得读的书",
+          "excerpt": "按书的种类而不是名气选你的第一本德语书：一本柏林背景的学习者故事、一本双语对照、一本熟悉的故事、一本短章节经典和一本分级故事集，每本都核对了版本。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "french-books-for-beginners",
       "publishedAt": "2026-10-19",
       "cover": null,
