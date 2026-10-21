@@ -2,6 +2,85 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "japanese-books-for-beginners",
+      "publishedAt": "2026-10-21",
+      "cover": null,
+      "locales": {
+        "de": {
+          "slug": "japanese-books-for-beginners",
+          "title": "Japanische Bücher für Anfänger: Die ersten Bücher, die sich lohnen",
+          "excerpt": "Wählen Sie Ihr erstes japanisches Buch nach Art, nicht nach Ruhm: ein kostenloser Tadoku-Einstieg, ein zweisprachiges Sicherheitsnetz, ein Manga mit Furigana, eine bekannte Geschichte und eine gestufte Geschichtensammlung, jede Ausgabe geprüft.",
+          "draft": false
+        },
+        "en": {
+          "slug": "japanese-books-for-beginners",
+          "title": "Japanese Books for Beginners: The First Books Worth Reading",
+          "excerpt": "Choose your first Japanese book by kind, not by fame: a free tadoku starter, a dual-language safety net, a manga with furigana, a familiar story and a graded story collection, each checked by edition.",
+          "draft": false
+        },
+        "es": {
+          "slug": "japanese-books-for-beginners",
+          "title": "Libros en japonés para principiantes: los primeros libros que vale la pena leer",
+          "excerpt": "Elige tu primer libro en japonés por tipo, no por fama: un inicio tadoku gratuito, una red bilingüe, un manga con furigana, una historia conocida y una colección graduada, cada edición verificada.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "japanese-books-for-beginners",
+          "title": "Livres en japonais pour débutants : les premiers livres qui valent la peine",
+          "excerpt": "Choisissez votre premier livre en japonais par type, pas par célébrité : un départ tadoku gratuit, un filet bilingue, un manga avec furigana, une histoire familière et un recueil gradué, chaque édition vérifiée.",
+          "draft": false
+        },
+        "it": {
+          "slug": "japanese-books-for-beginners",
+          "title": "Libri in giapponese per principianti: i primi libri che vale la pena leggere",
+          "excerpt": "Scegli il tuo primo libro in giapponese per tipo, non per fama: un inizio tadoku gratuito, una rete bilingue, un manga con furigana, una storia conosciuta e una raccolta graduata, ogni edizione verificata.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "japanese-books-for-beginners",
+          "title": "初心者向けの日本語の本：最初に読む価値のある本",
+          "excerpt": "有名だからではなく、種類で選ぶ初めての日本語の本：無料の多読スターター、対訳の安全網、ふりがな付き漫画、知っている物語、そして段階別ストーリー集。各版を確認済み。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "japanese-books-for-beginners",
+          "title": "초보자를 위한 일본어 책: 처음 읽을 가치가 있는 책",
+          "excerpt": "명성이 아니라 종류로 고르는 첫 일본어 책: 무료 다독 스타터, 대역본 안전망, 후리가나가 있는 만화, 익숙한 이야기, 그리고 단계별 단편집. 각 판본을 확인했습니다.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "japanese-books-for-beginners",
+          "title": "Japanse boeken voor beginners: de eerste boeken die de moeite waard zijn",
+          "excerpt": "Kies je eerste Japanse boek op soort, niet op roem: een gratis tadoku-start, een tweetalig vangnet, een manga met furigana, een bekend verhaal en een gegradeerde verhalenbundel, elke editie gecontroleerd.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "japanese-books-for-beginners",
+          "title": "Livros em japonês para iniciantes: os primeiros livros que vale a pena ler",
+          "excerpt": "Escolha o seu primeiro livro em japonês pelo tipo, não pela fama: um início tadoku gratuito, uma rede bilingue, um mangá com furigana, uma história conhecida e uma coletânea graduada, cada edição verificada.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "japanese-books-for-beginners",
+          "title": "Книги на японском для начинающих: первые книги, которые стоит прочитать",
+          "excerpt": "Выбирайте первую книгу на японском по виду, а не по славе: бесплатный старт тадоку, двуязычная подстраховка, манга с фуриганой, знакомая история и градуированный сборник рассказов, каждое издание проверено.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "japanese-books-for-beginners",
+          "title": "日語初學者書籍：值得讀的第一批書",
+          "excerpt": "按種類而不是名氣選你的第一本日語書：一冊免費的多讀入門、一張雙語對照的安全網、一部帶振假名的漫畫、一個熟悉的故事和一套分級故事集，每一本都核對過版次。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "japanese-books-for-beginners",
+          "title": "日语初学者书籍：值得读的第一批书",
+          "excerpt": "按种类而不是名气选你的第一本日语书：一册免费的多读入门、一张双语对照的安全网、一部带振假名的漫画、一个熟悉的故事和一套分级故事集，每一本都核对过版次。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "german-books-for-beginners",
       "publishedAt": "2026-10-20",
       "cover": null,
