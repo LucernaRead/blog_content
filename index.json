@@ -2,6 +2,85 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "short-stories-in-italian-for-beginners",
+      "publishedAt": "2026-10-22",
+      "cover": null,
+      "locales": {
+        "de": {
+          "slug": "short-stories-in-italian-for-beginners",
+          "title": "Kurzgeschichten auf Italienisch für Anfänger: Was du zuerst lesen solltest",
+          "excerpt": "Beginne mit italienischen Kurzgeschichten, die du wirklich beenden kannst: kostenlose A1-Texte zum Einstufen, eine ehrlich A1 kurze Geschichte und zwei anhand der Ausgabe geprüfte Sammlungen für A2-B1.",
+          "draft": false
+        },
+        "en": {
+          "slug": "short-stories-in-italian-for-beginners",
+          "title": "Short Stories in Italian for Beginners: What to Read First",
+          "excerpt": "Start with short stories in Italian you can actually finish: free A1 texts to test your level, one story that is honestly A1, and two A2-B1 collections checked by edition.",
+          "draft": false
+        },
+        "es": {
+          "slug": "short-stories-in-italian-for-beginners",
+          "title": "Cuentos en italiano para principiantes: qué leer primero",
+          "excerpt": "Empieza con cuentos en italiano que de verdad puedas terminar: textos A1 gratuitos para medir tu nivel, un cuento honestamente A1 y dos antologías A2-B1 verificadas por edición.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "short-stories-in-italian-for-beginners",
+          "title": "Histoires courtes en italien pour débutants : quoi lire en premier",
+          "excerpt": "Commencez par des histoires courtes en italien que vous pouvez vraiment finir : des textes A1 gratuits pour tester votre niveau, une histoire honnêtement A1, et deux recueils A2-B1 vérifiés par édition.",
+          "draft": false
+        },
+        "it": {
+          "slug": "short-stories-in-italian-for-beginners",
+          "title": "Racconti in italiano per principianti: cosa leggere per primo",
+          "excerpt": "Comincia con racconti in italiano che puoi davvero finire: testi A1 gratuiti per misurare il tuo livello, un racconto onestamente A1 e due raccolte A2-B1 verificate per edizione.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "short-stories-in-italian-for-beginners",
+          "title": "イタリア語初心者のための短編小説：まず何を読むか",
+          "excerpt": "実際に読み終えられるイタリア語の短編から始めましょう。レベルを測る無料の A1 テキスト、正直に A1 な物語1編、版で確認した A2-B1 の短編集2冊。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "short-stories-in-italian-for-beginners",
+          "title": "초보자를 위한 이탈리아어 단편 소설: 먼저 읽을 것",
+          "excerpt": "실제로 끝까지 읽을 수 있는 이탈리아어 단편부터 시작하세요. 수준을 가늠할 무료 A1 텍스트, 정직하게 A1인 이야기 한 편, 판본으로 확인한 A2-B1 단편집 두 권.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "short-stories-in-italian-for-beginners",
+          "title": "Verhalen in het Italiaans voor beginners: wat je eerst moet lezen",
+          "excerpt": "Begin met korte verhalen in het Italiaans die je echt kunt uitkrijgen: gratis A1-teksten om je niveau te testen, één eerlijk A1-verhaal en twee op editie gecontroleerde bundels voor A2-B1.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "short-stories-in-italian-for-beginners",
+          "title": "Histórias curtas em italiano para iniciantes: o que ler primeiro",
+          "excerpt": "Comece com histórias curtas em italiano que você realmente consegue terminar: textos A1 gratuitos para testar seu nível, uma história honestamente A1 e duas coletâneas A2-B1 verificadas por edição.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "short-stories-in-italian-for-beginners",
+          "title": "Короткие рассказы на итальянском для начинающих: что читать сначала",
+          "excerpt": "Начните с коротких рассказов на итальянском, которые вы действительно сможете дочитать: бесплатные тексты A1 для проверки уровня, один честно A1 рассказ и два сборника A2-B1, проверенные по изданию.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "short-stories-in-italian-for-beginners",
+          "title": "意大利語初學者短篇故事：先讀甚麼",
+          "excerpt": "由能真正讀完的意大利語短篇開始：免費 A1 文本先測水平、一篇誠實的 A1 故事，以及兩套按版本核對過的 A2-B1 故事集。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "short-stories-in-italian-for-beginners",
+          "title": "意大利语初学者短篇故事：先读什么",
+          "excerpt": "从能真正读完的意大利语短篇开始：免费 A1 文本先测水平、一篇诚实的 A1 故事，以及两套按版本核对过的 A2-B1 故事集。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "japanese-books-for-beginners",
       "publishedAt": "2026-10-21",
       "cover": null,
