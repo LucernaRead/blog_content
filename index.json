@@ -2,6 +2,85 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "short-stories-in-german-for-beginners",
+      "publishedAt": "2026-10-23",
+      "cover": null,
+      "locales": {
+        "de": {
+          "slug": "short-stories-in-german-for-beginners",
+          "title": "Kurzgeschichten auf Deutsch für Anfänger: Was du zuerst lesen solltest",
+          "excerpt": "Beginne mit deutschen Kurzgeschichten, die du wirklich beenden kannst: kostenlose literarische Texte zum Einstufen, eine ehrlich A1 Geschichte und ein Vergleich der A2-B1 Sammlungen, anhand der Ausgabe geprüft.",
+          "draft": false
+        },
+        "en": {
+          "slug": "short-stories-in-german-for-beginners",
+          "title": "Short Stories in German for Beginners: What to Read First",
+          "excerpt": "Start with German short stories you can actually finish: free literary stories to test your level, one collection that is truly A1, and a head-to-head of the learner collections checked by edition.",
+          "draft": false
+        },
+        "es": {
+          "slug": "short-stories-in-german-for-beginners",
+          "title": "Cuentos cortos en alemán para principiantes: qué leer primero",
+          "excerpt": "Empieza con cuentos cortos en alemán que de verdad puedas terminar: clásicos gratuitos para calibrar tu nivel, una colección que sí es A1, y una comparativa de colecciones A2-B1 verificada por edición.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "short-stories-in-german-for-beginners",
+          "title": "Histoires courtes en allemand pour débutants : par quoi commencer",
+          "excerpt": "Commencez par des histoires courtes en allemand que vous pouvez vraiment finir : des classiques gratuits pour tester votre niveau, un recueil vraiment A1, et un comparatif des recueils A2-B1 vérifiés par édition.",
+          "draft": false
+        },
+        "it": {
+          "slug": "short-stories-in-german-for-beginners",
+          "title": "Racconti brevi in tedesco per principianti: cosa leggere prima",
+          "excerpt": "Comincia dai racconti brevi in tedesco che puoi davvero finire: classici gratuiti per testare il tuo livello, una raccolta davvero A1 e un confronto tra raccolte A2–B1 verificate per edizione.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "short-stories-in-german-for-beginners",
+          "title": "初心者のためのドイツ語短編小説：最初に読むべきもの",
+          "excerpt": "読み切れるドイツ語短編から始めよう：レベル確認用の無料文学短編、本当に A1 の一冊、そして版元情報で裏取りした A2–B1 短編集の比較。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "short-stories-in-german-for-beginners",
+          "title": "독일어 초보자를 위한 단편소설: 먼저 읽어야 할 것",
+          "excerpt": "끝까지 읽을 수 있는 독일어 단편부터 시작하세요: 레벨 확인용 무료 문학 단편, 진짜 A1인 한 권, 그리고 판본 정보로 검증한 A2–B1 단편집 비교.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "short-stories-in-german-for-beginners",
+          "title": "Korte verhalen in het Duits voor beginners: wat je eerst moet lezen",
+          "excerpt": "Begin met Duitse korte verhalen die je echt kunt uitlezen: gratis literaire verhalen om je niveau te testen, één bundel die echt A1 is, en een vergelijking van A2-B1-bundels, gecontroleerd per editie.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "short-stories-in-german-for-beginners",
+          "title": "Contos em alemão para iniciantes: o que ler primeiro",
+          "excerpt": "Comece por contos em alemão que você realmente consegue terminar: clássicos gratuitos para calibrar seu nível, uma coletânea que é de verdade A1 e um comparativo das coletâneas A2–B1 verificado por edição.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "short-stories-in-german-for-beginners",
+          "title": "Короткие рассказы на немецком для начинающих: с чего начать",
+          "excerpt": "Начните с немецких рассказов, которые вы действительно сможете дочитать: бесплатные литературные рассказы для проверки уровня, один сборник, честно соответствующий A1, и сравнение сборников A2–B1, проверенное по изданиям.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "short-stories-in-german-for-beginners",
+          "title": "德語初學者短篇故事：先讀乜",
+          "excerpt": "由能真正讀完嘅德語短篇開始：免費文學短篇先測水平，一本真正 A1 嘅故事集，以及三套按版本核對過嘅 A2-B1 故事集橫評。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "short-stories-in-german-for-beginners",
+          "title": "德语初学者短篇故事：先读什么",
+          "excerpt": "从能真正读完的德语短篇开始：免费文学短篇先测水平，一本真正 A1 的故事集，以及三套按版本核对过的 A2-B1 故事集横评。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "short-stories-in-italian-for-beginners",
       "publishedAt": "2026-10-22",
       "cover": null,
