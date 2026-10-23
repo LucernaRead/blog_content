@@ -10,6 +10,10 @@ Un lettore di ebook per imparare le lingue attraverso libri reali. Puoi consulta
 
 Il software è gratuito. Come ospite puoi usare un libro e salvare cinque parole; un account gratuito permette cinque libri e 200 parole e la sincronizzazione. L’AI cloud usa la tua chiave API e le tariffe del fornitore. Il desktop supporta modelli locali, con libri conservati sul dispositivo e senza i limiti dell’archivio cloud.
 
+## Quanto costa Lucerna?
+
+L’app Lucerna è gratuita. Lucerna Cloud è un abbonamento facoltativo: 3 $ al mese o 30 $ all’anno (nella Cina continentale 18 ¥ al mese o 180 ¥ all’anno). Aggiunge uno scaffale cloud più grande, AI integrata senza bisogno di una API key e lettura ad alta voce nel cloud.
+
 ## Quali lingue posso leggere?
 
 La lettura supporta numerose lingue; dodici opzioni ricevono supporto più approfondito, contando separatamente cinese semplificato e tradizionale. La profondità dell’analisi dipende anche dal modello scelto. Le lingue del blog e quelle dell’interfaccia del lettore sono elenchi distinti.
@@ -29,3 +33,7 @@ Puoi chiarire un dubbio nel punto in cui leggi e conservare le parole utili per 
 ## Esiste un’app desktop?
 
 Sì, per macOS, Windows e Linux. Aggiunge lettura locale e offline, modelli locali e funzioni desktop come lettura ad alta voce e scorciatoie.
+
+## Che cosa significa il nome Lucerna?
+
+Lucerna in latino vuol dire «lampada»: una luce per la pagina che stai leggendo. Non è la città svizzera di Lucerne, anche se i due nomi hanno la stessa radice latina.

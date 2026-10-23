@@ -10,6 +10,10 @@ Lucerna est une liseuse multilingue pour apprendre les langues avec de vrais liv
 
 Oui. Vous pouvez l’essayer sans compte (1 livre, 5 mots enregistrés), et un compte gratuit augmente ces limites (5 livres, 200 mots enregistrés) et synchronise vos appareils. La traduction IA et l’analyse de phrases fonctionnent avec votre propre LLM API key (OpenAI, Anthropic ou Google) — leurs offres gratuites suffisent généralement pour lire. Ou sans cloud du tout : l’app de bureau fonctionne avec des modèles locaux (Ollama, LM Studio, llama.cpp…), hors ligne et gratuitement, et les livres restent sur votre appareil — sans les limites de compte.
 
+## Combien coûte Lucerna ?
+
+L’application Lucerna est gratuite. Lucerna Cloud est un abonnement facultatif : 3 $ par mois ou 30 $ par an (en Chine continentale, 18 ¥ par mois ou 180 ¥ par an). Il apporte une bibliothèque cloud plus grande, une IA intégrée sans API key à fournir et la lecture à voix haute dans le cloud.
+
 ## Dans quelles langues puis-je lire ?
 
 Le lecteur fonctionne avec 12 options linguistiques (chinois simplifié et traditionnel inclus) : anglais, allemand, français, espagnol, italien, portugais, néerlandais, russe, japonais, coréen et chinois. La traduction IA et l’analyse de phrases couvrent actuellement l’anglais, l’allemand et le français, et d’autres langues suivront.
@@ -29,3 +33,7 @@ Vous ne quittez jamais la phrase que vous lisez. La recherche d’un mot ou la t
 ## Existe-t-il une application de bureau ?
 
 Oui — macOS, Windows et Linux, avec le même compte et la même bibliothèque. L’application de bureau ajoute la lecture hors ligne, une synthèse vocale plus rapide et des raccourcis natifs du système.
+
+## Que veut dire le nom Lucerna ?
+
+Lucerna signifie « lampe » en latin — une lumière pour la page que vous lisez. Ce n’est pas la ville suisse de Lucerne, même si les deux noms partagent la même racine latine.

@@ -10,6 +10,10 @@ Lucerna is een meertalige ebook-reader om talen te leren met echte boeken. Tik o
 
 Ja. Je kunt het proberen zonder account (1 boek, 5 opgeslagen woorden), en met een gratis account worden die limieten verhoogd (5 boeken, 200 opgeslagen woorden) en synchroniseert alles tussen apparaten. AI-vertaling en zinsanalyse draaien op je eigen LLM API key (OpenAI, Anthropic of Google) — hun gratis tiers zijn meestal genoeg om te lezen. Of helemaal zonder cloud: de desktop-app werkt met lokale modellen (Ollama, LM Studio, llama.cpp…), offline en gratis, en boeken blijven op je eigen apparaat — zonder accountlimieten.
 
+## Wat kost Lucerna?
+
+De Lucerna-app is gratis. Lucerna Cloud is een optioneel abonnement: $ 3 per maand of $ 30 per jaar (op het Chinese vasteland ¥ 18 per maand of ¥ 180 per jaar). Je krijgt een grotere boekenkast in de cloud, ingebouwde AI zonder eigen API key en voorlezen vanuit de cloud.
+
 ## In welke talen kan ik lezen?
 
 De reader werkt met 12 taalopties (vereenvoudigd en traditioneel Chinees apart): Engels, Duits, Frans, Spaans, Italiaans, Portugees, Nederlands, Russisch, Japans, Koreaans en Chinees. AI-vertaling en zinsanalyse dekken op dit moment Engels, Duits en Frans, met meer talen onderweg.
@@ -29,3 +33,7 @@ Je verlaat nooit de zin die je aan het lezen bent. Een woord opzoeken of een pas
 ## Is er een desktop-app?
 
 Ja — voor macOS, Windows en Linux, met hetzelfde account en dezelfde bibliotheek. De desktop-app voegt offline lezen toe, snellere tekst-naar-spraak en systeemeigen sneltoetsen.
+
+## Wat betekent de naam Lucerna?
+
+Lucerna is Latijn voor ‘lamp’ — een licht voor de bladzijde die je leest. Het is niet de Zwitserse stad Lucerne, al delen de twee namen dezelfde Latijnse wortel.
