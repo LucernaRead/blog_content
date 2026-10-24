@@ -2,6 +2,85 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "italian-books-for-beginners",
+      "publishedAt": "2026-10-24",
+      "cover": null,
+      "locales": {
+        "de": {
+          "slug": "italian-books-for-beginners",
+          "title": "Italienische Bücher für Anfänger: Die ersten Bücher, die sich lohnen",
+          "excerpt": "Wähle dein erstes italienisches Buch nach seiner Art, nicht nach seinem Ruhm: ein Lernerroman, ein zweisprachiges Lesebuch, ein vertrauter Originaltext und eine Kurzgeschichtensammlung mit ausgewiesener Stufe, jedes nach Ausgabe geprüft und jedes mit einer eigenen Aufgabe.",
+          "draft": false
+        },
+        "en": {
+          "slug": "italian-books-for-beginners",
+          "title": "Italian Books for Beginners: The First Books Worth Reading",
+          "excerpt": "Choose your first Italian book by kind, not by fame: a learner novella, a dual-language reader, a familiar original, and a story collection at a stated level, each checked by edition, each with a job to do.",
+          "draft": false
+        },
+        "es": {
+          "slug": "italian-books-for-beginners",
+          "title": "Libros italianos para principiantes: los primeros libros que valen la pena",
+          "excerpt": "Elige tu primer libro italiano por su tipo, no por su fama: una novela para estudiantes, un lector bilingüe, un original familiar y una colección de cuentos con nivel indicado, cada uno verificado por edición y cada uno con un trabajo que hacer.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "italian-books-for-beginners",
+          "title": "Livres italiens pour débutants : les premiers livres qui valent la peine",
+          "excerpt": "Choisissez votre premier livre italien selon son type, pas selon sa renommée : un roman pour apprenants, un lecteur bilingue, un original familier et un recueil de nouvelles d'un niveau indiqué, chacun vérifié par édition, chacun avec un rôle à jouer.",
+          "draft": false
+        },
+        "it": {
+          "slug": "italian-books-for-beginners",
+          "title": "Libri italiani per principianti: i primi libri che valgono la pena",
+          "excerpt": "Scegli il tuo primo libro italiano per tipo, non per fama: un romanzo per studenti, un lettore bilingue, un originale familiare e una raccolta di racconti con livello indicato, ciascuno verificato per edizione e ciascuno con un compito da svolgere.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "italian-books-for-beginners",
+          "title": "イタリア語の初心者向け本：最初に読むべき本",
+          "excerpt": "初めてのイタリア語の本は有名さではなく種類で選ぶ。学習者向け小説、二言語読本、なじみのある原作、レベル表示のある短編集。各巻を版ごとに確認し、それぞれの役割を示す。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "italian-books-for-beginners",
+          "title": "초보자를 위한 이탈리아어 책: 처음 읽을 만한 책",
+          "excerpt": "첫 이탈리아어 책은 유명세가 아니라 종류로 고르세요. 학습자용 소설, 이중 언어 독본, 익숙한 원작, 수준이 표시된 단편집. 각 책을 판본별로 확인했고, 각각의 역할이 다릅니다.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "italian-books-for-beginners",
+          "title": "Italiaanse boeken voor beginners: de eerste boeken die de moeite waard zijn",
+          "excerpt": "Kies je eerste Italiaanse boek op soort, niet op roem: een roman voor leerders, een tweetalig leesboek, een vertrouwd origineel en een verhalenbundel met een aangegeven niveau, elk gecontroleerd per editie en elk met een eigen taak.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "italian-books-for-beginners",
+          "title": "Livros italianos para iniciantes: os primeiros livros que valem a pena",
+          "excerpt": "Escolha seu primeiro livro italiano pelo tipo, não pela fama: um romance para estudantes, um leitor bilíngue, um original familiar e uma coletânea de contos com nível indicado, cada um verificado por edição e cada um com um trabalho a fazer.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "italian-books-for-beginners",
+          "title": "Итальянские книги для начинающих: первые книги, которые стоит читать",
+          "excerpt": "Выбирайте первую итальянскую книгу по её типу, а не по славе: роман для изучающих, двуязычный сборник, знакомый оригинал и сборник рассказов с указанным уровнем, каждый проверен по изданию и у каждого своя задача.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "italian-books-for-beginners",
+          "title": "意大利語初學者書單：第一批值得讀的書",
+          "excerpt": "別按名氣挑第一本意大利語書，按書的種類挑：一本學習者小說、一本雙語讀本、一本熟悉的原著、一本標明級別的故事集，每本都按版本核查過，各有各的用處。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "italian-books-for-beginners",
+          "title": "意大利语初学者书单：第一批值得读的书",
+          "excerpt": "别按名气挑第一本意大利语书，按书的种类挑：一本学习者小说、一本双语读本、一本熟悉的原著、一本标明级别的故事集，每本都按版本核查过，各有各的用处。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "short-stories-in-german-for-beginners",
       "publishedAt": "2026-10-23",
       "cover": null,
