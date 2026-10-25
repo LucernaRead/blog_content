@@ -2,6 +2,85 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "learn-chinese-by-reading",
+      "publishedAt": "2026-10-25",
+      "cover": null,
+      "locales": {
+        "de": {
+          "slug": "learn-chinese-by-reading",
+          "title": "Chinesisch lernen durch Lesen",
+          "excerpt": "Chinesisch lernen durch Lesen, von der ersten Geschichte mit Pinyin: Wie man in einem Text ohne Leerzeichen Wörter erkennt, Pinyin schrittweise ablegt, von Lesestufen zu gestuften Nachrichten aufsteigt und den drei Fallen ausweicht, die chinesische Leser stoppen.",
+          "draft": false
+        },
+        "en": {
+          "slug": "learn-chinese-by-reading",
+          "title": "How to Learn Chinese by Reading",
+          "excerpt": "Learn Chinese by reading from your first pinyin-annotated story: how to see words in a text with no spaces, fade pinyin in stages, climb from graded readers to graded news, and dodge the three traps that stall Chinese readers.",
+          "draft": false
+        },
+        "es": {
+          "slug": "learn-chinese-by-reading",
+          "title": "Cómo aprender chino leyendo",
+          "excerpt": "Aprende chino leyendo desde tu primer cuento con pinyin: cómo ver palabras en un texto sin espacios, cómo retirar el pinyin por etapas, cómo subir de lecturas graduadas a noticias graduadas y cómo evitar las tres trampas que detienen a los lectores de chino.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "learn-chinese-by-reading",
+          "title": "Apprendre le chinois en lisant",
+          "excerpt": "Apprendre le chinois en lisant, dès la première histoire annotée en pinyin : comment repérer les mots dans un texte sans espaces, retirer le pinyin par étapes, grimper des lectures graduées aux actualités graduées, et éviter les trois pièges qui bloquent les lecteurs de chinois.",
+          "draft": false
+        },
+        "it": {
+          "slug": "learn-chinese-by-reading",
+          "title": "Come imparare il cinese leggendo",
+          "excerpt": "Impara il cinese leggendo, a partire dal primo racconto con pinyin: come riconoscere le parole in un testo senza spazi, come abbandonare il pinyin per gradi, come salire dai lettori graduati alle notizie graduate e come evitare le tre trappole che bloccano i lettori di cinese.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "learn-chinese-by-reading",
+          "title": "読書で中国語を学ぶ方法",
+          "excerpt": "最初のピンイン付き物語から中国語を学ぶ：スペースのない文で単語を見分ける方法、ピンインを段階的に外す方法、分級リーダーから分級ニュースへ登る方法、そして中国語読者を止める三つの罠を避ける方法。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "learn-chinese-by-reading",
+          "title": "읽기로 중국어를 배우는 방법",
+          "excerpt": "첫 번째 병음 표기 이야기부터 중국어를 읽기로 배우기: 띄어쓰기가 없는 문장에서 단어를 알아보는 법, 병음을 단계적으로 떼는 법, 단계별 독본에서 단계별 뉴스까지 오르는 법, 그리고 중국어 독자를 멈추게 하는 세 가지 함정을 피하는 법.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "learn-chinese-by-reading",
+          "title": "Chinees leren door te lezen",
+          "excerpt": "Leer Chinees door te lezen, vanaf je eerste verhaal met pinyin: hoe je woorden herkent in een tekst zonder spaties, pinyin stap voor stap loslaat, opklimt van leesteksten op niveau naar nieuws op niveau, en de drie valkuilen vermijdt die Chinese lezers tot stilstand brengen.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "learn-chinese-by-reading",
+          "title": "Como aprender chinês lendo",
+          "excerpt": "Aprenda chinês lendo desde sua primeira história com pinyin: como enxergar palavras em um texto sem espaços, como retirar o pinyin em etapas, como subir de leituras graduadas para notícias graduadas e como evitar as três armadilhas que travam os leitores de chinês.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "learn-chinese-by-reading",
+          "title": "Как учить китайский язык чтением",
+          "excerpt": "Учите китайский чтением, начиная с первого рассказа с пиньинем: как видеть слова в тексте без пробелов, как поэтапно отказываться от пиньинь, как подняться от адаптированных книг к адаптированным новостям и как избежать трёх ловушек, которые останавливают читателей китайского.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "learn-chinese-by-reading",
+          "title": "如何通過閱讀學中文",
+          "excerpt": "從第一篇帶拼音標註的故事開始學中文：怎樣在沒有空格的文本裏認出詞、怎樣分階段去掉拼音、怎樣從分級讀物爬到分級新聞，以及避開讓中文讀者卡住的三個坑。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "learn-chinese-by-reading",
+          "title": "如何通过阅读学中文",
+          "excerpt": "从第一篇带拼音标注的故事开始学中文：怎样在没有空格的文本里认出词、怎样分阶段去掉拼音、怎样从分级读物爬到分级新闻，以及避开让中文读者卡住的三个坑。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "italian-books-for-beginners",
       "publishedAt": "2026-10-24",
       "cover": null,
