@@ -18,7 +18,7 @@ Deze gids legt uit hoe de niveaus werken, waar u begint en hoe u een boek test v
 
 Een Japanse graded reader is een boek dat voor leerders is geschreven of bewerkt. Woordenschat en grammatica zijn per niveau gecontroleerd, kanji dragen furigana – kleine kana die boven het teken de lezing aangeven – en afbeeldingen ondersteunen het verhaal. Alle titels van de hier beschreven tadoku-series hebben audio.
 
-Deze readers volgen gedeelde principes onder toezicht van de NPO Tadoku Supporters. De vier regels van tadoku zijn eenvoudig: begin op een niveau dat u kunt genieten; gebruik tijdens het lezen geen woordenboek; sla woorden of passages over die u niet kunt raden; en als een boek niet leuk meer is, stop ermee en kies een ander.
+Deze readers volgen gedeelde principes onder toezicht van de NPO Tadoku Supporters. De vier regels van tadoku zijn eenvoudig: begin op een niveau dat u kunt genieten; gebruik tijdens het lezen geen woordenboek; sla woorden of passages over die u niet kunt raden; en als een boek niet leuk meer is, stop ermee en kies een ander. De regels werken om dezelfde reden als [begrijpelijke input](https://lucernaread.com/landing/blog/comprehensible-input): de taal blijft begrijpelijk, met slechts een beetje nieuws.
 
 Een kinderboek voor moedertaalsprekers is niet hetzelfde. Het veronderstelt de woordenschat en dagelijkse kennis van een moedertaalkind en is vaak grotendeels in kana geschreven, waardoor woordgrenzen juist moeilijker, en niet gemakkelijker, te zien kunnen zijn.
 

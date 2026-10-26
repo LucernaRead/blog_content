@@ -18,7 +18,7 @@ This guide explains how the levels work, where to start, and how to test a book 
 
 A Japanese graded reader is a book written or adapted for learners. Vocabulary and grammar are controlled for each level, kanji carry furigana — small kana printed above them giving the reading — and pictures support the story. Audio is available for all titles in the tadoku series described here.
 
-These readers follow shared principles under the stewardship of the NPO Tadoku Supporters. Tadoku's four rules are: start from a level you can enjoy; do not use a dictionary while reading; skip words or passages you cannot guess; and if a book stops being fun, quit it and pick another.
+These readers follow shared principles under the stewardship of the NPO Tadoku Supporters. Tadoku's four rules are: start from a level you can enjoy; do not use a dictionary while reading; skip words or passages you cannot guess; and if a book stops being fun, quit it and pick another. The rules work for the same reason [comprehensible input](https://lucernaread.com/landing/blog/comprehensible-input) works: the language stays understandable, with only a little that is new.
 
 A native children's book is not the same thing. It assumes a native child's vocabulary and everyday knowledge, and is often written mostly in kana, which can make word boundaries harder, not easier, to see.
 

@@ -1,6 +1,6 @@
 ---
-title: "Sollte man beim Lesen in einer Fremdsprache jedes Wort nachschlagen?"
-excerpt: "Die Wörterbuchgewohnheit, die dein Lesen leise umbringt. Wann du ein Wort nachschlägst, wann du es ziehen lässt und wie die Geschichte in Bewegung bleibt."
+title: "Sollte man beim Lesen jedes Wort nachschlagen? Nur die, die den Satz blockieren"
+excerpt: "Nicht jedes Wort nachschlagen: nur die Wörter, die den Satz blockieren — die immer wiederkommen, den Satz zum Einsturz bringen oder die Handlung tragen —, den Rest ziehen lassen. Eine Handvoll Nachschlagevorgänge pro Seite genügt, damit die Geschichte in Bewegung bleibt."
 publishedAt: "2026-06-13"
 draft: false
 ---

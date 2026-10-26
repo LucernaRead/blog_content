@@ -28,7 +28,7 @@ Those thresholds describe reading **with no help** — no dictionary, no lookups
 
 Because here's the thing the coverage numbers hide: **the words aren't evenly distributed.** A small number of very common words make up most of any text — the top 2,000 word families alone cover around 80% of a typical novel. The remaining 20% is a long tail of rarer words, most of which show up once or twice. You don't need to *pre-learn* that tail. You need a way to resolve those words cheaply, in context, as you meet them — and each one you meet is one you're now learning.
 
-So the real question isn't "how many words do I need before I can start?" It's "how do I read *now*, at the coverage I have, in a way that closes the gap?"
+So the real question isn't "how many words do I need before I can start?" It's "how do I read *now*, at the coverage I have, in a way that closes the gap?" That is what [comprehensible input](https://lucernaread.com/landing/blog/comprehensible-input) means in practice: language you can follow, with a little that is new.
 
 ## How to read below the threshold — and climb it
 

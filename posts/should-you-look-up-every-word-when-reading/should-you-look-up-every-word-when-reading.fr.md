@@ -1,6 +1,6 @@
 ---
-title: "Faut-il chercher chaque mot quand on lit en langue étrangère ?"
-excerpt: "L'habitude du dictionnaire qui tue votre lecture à petit feu. Quand chercher un mot, quand le laisser filer, et comment garder l'histoire en mouvement."
+title: "Faut-il chercher chaque mot en lisant ? Seulement ceux qui bloquent la phrase"
+excerpt: "Ne cherchez pas chaque mot : cherchez seulement ceux qui bloquent la phrase — ceux qui reviennent sans cesse, ceux sans lesquels la phrase s'effondre, ou ceux qui portent l'action — et laissez filer le reste. Une poignée de recherches par page suffit pour garder l'histoire en mouvement."
 publishedAt: "2026-06-13"
 draft: false
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Should You Look Up Every Word When Reading in a Foreign Language?"
-excerpt: "The dictionary habit that quietly kills your reading. When to look a word up, when to let it go, and how to keep the story moving."
+title: "Should You Look Up Every Word When Reading? Only the Ones That Block the Sentence"
+excerpt: "Don't look up every word: look up only the words that block the sentence — the ones that keep coming back, collapse the sentence, or carry the action — and let the rest go. A handful of lookups per page is enough to keep the story moving."
 publishedAt: "2026-06-13"
 draft: false
 ---

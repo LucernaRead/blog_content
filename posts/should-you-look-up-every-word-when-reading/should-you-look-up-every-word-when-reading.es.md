@@ -1,6 +1,6 @@
 ---
-title: "¿Hay que buscar todas las palabras al leer en otro idioma?"
-excerpt: "El hábito del diccionario que va matando tu lectura. Cuándo buscar una palabra, cuándo dejarla pasar y cómo mantener la historia en marcha."
+title: "¿Hay que buscar todas las palabras al leer? Solo las que bloquean la frase"
+excerpt: "No busques todas las palabras: busca solo las que bloquean la frase — las que se repiten, las que hacen que la frase se derrumbe o las que llevan la acción — y deja pasar el resto. Unas pocas búsquedas por página bastan para mantener la historia en marcha."
 publishedAt: "2026-06-13"
 draft: false
 ---

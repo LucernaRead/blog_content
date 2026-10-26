@@ -28,7 +28,7 @@ Diese Schwellen beschreiben Lesen **ohne jede Hilfe** — kein Wörterbuch, kein
 
 Denn eines verbergen die Abdeckungszahlen: **Die Wörter sind nicht gleichmäßig verteilt.** Eine kleine Zahl sehr häufiger Wörter macht den Großteil jedes Textes aus — allein die obersten 2.000 Wortfamilien decken etwa 80 % eines typischen Romans. Die restlichen 20 % sind ein langer Schwanz selteneren Vokabulars, das meist ein- oder zweimal auftaucht. Diesen Schwanz musst du nicht *vorlernen*. Du brauchst eine Möglichkeit, diese Wörter billig aufzulösen, im Kontext, wenn du ihnen begegnest — und jedes, dem du begegnest, ist eines, das du gerade lernst.
 
-Die eigentliche Frage lautet also nicht „Wie viele Wörter brauche ich, bevor ich anfangen kann?", sondern „Wie lese ich *jetzt*, mit der Abdeckung, die ich habe, so dass sich die Lücke schließt?"
+Die eigentliche Frage lautet also nicht „Wie viele Wörter brauche ich, bevor ich anfangen kann?", sondern „Wie lese ich *jetzt*, mit der Abdeckung, die ich habe, so dass sich die Lücke schließt?" Das ist es, was [verständlicher Input](https://lucernaread.com/landing/blog/comprehensible-input) in der Praxis bedeutet: Sprache, der man folgen kann, mit ein wenig Neuem darin.
 
 ## Wie du unterhalb der Schwelle liest — und sie erklimmst
 

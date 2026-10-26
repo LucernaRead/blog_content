@@ -22,7 +22,7 @@ Anche il 90% può interrompere molto: una parola ignota ogni dieci. Il numero pe
 
 Questi obiettivi descrivono la lettura con poco aiuto. Le parole, però, non sono distribuite uniformemente. Un gruppo di vocaboli molto frequenti copre gran parte del testo; quelli rari formano una lunga coda. Per alcuni testi inglesi si cita circa l’80% con le prime 2.000 famiglie, ma la proporzione varia.
 
-Non devi imparare in anticipo tutta la coda. Puoi chiarire una parola quando arriva, nel contesto, e trasformare l’incontro in apprendimento. La domanda utile diventa: come leggere oggi con il lessico che ho?
+Non devi imparare in anticipo tutta la coda. Puoi chiarire una parola quando arriva, nel contesto, e trasformare l’incontro in apprendimento. La domanda utile diventa: come leggere oggi con il lessico che ho? Questo è ciò che significa [input comprensibile](https://lucernaread.com/landing/blog/comprehensible-input) in pratica: una lingua che si riesce a seguire, con un po' di novità.
 
 ## Leggere sotto la soglia
 

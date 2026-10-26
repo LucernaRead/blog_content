@@ -28,7 +28,7 @@ Die drempels beschrijven lezen **zonder enige hulp** — geen woordenboek, geen 
 
 Want dit verbergen de dekkingscijfers: **de woorden zijn niet gelijkmatig verdeeld.** Een klein aantal zeer frequente woorden vormt het merendeel van elke tekst — alleen al de bovenste 2.000 woordfamilies dekken ongeveer 80% van een doorsnee roman. De resterende 20% is een lange staart van zeldzamere woorden, waarvan de meeste één of twee keer opduiken. Die staart hoef je niet *vooraf te leren*. Je hebt een manier nodig om die woorden goedkoop op te lossen, in context, terwijl je ze tegenkomt — en elk woord dat je tegenkomt is er een dat je nu leert.
 
-De echte vraag is dus niet "hoeveel woorden heb ik nodig voor ik kan beginnen?" maar "hoe lees ik *nu*, met de dekking die ik heb, op een manier die het gat dicht?"
+De echte vraag is dus niet "hoeveel woorden heb ik nodig voor ik kan beginnen?" maar "hoe lees ik *nu*, met de dekking die ik heb, op een manier die het gat dicht?" Dat is wat [begrijpelijke input](https://lucernaread.com/landing/blog/comprehensible-input) in de praktijk betekent: taal die je kunt volgen, met een beetje nieuws erin.
 
 ## Hoe je onder de drempel leest — en hem beklimt
 

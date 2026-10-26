@@ -28,7 +28,7 @@ Ces seuils décrivent une lecture **sans aucune aide** — pas de dictionnaire, 
 
 Car voici ce que les chiffres de couverture masquent : **les mots ne sont pas répartis uniformément.** Un petit nombre de mots très fréquents compose l'essentiel de n'importe quel texte — les 2 000 premières familles couvrent à elles seules environ 80 % d'un roman typique. Les 20 % restants forment une longue traîne de mots plus rares, dont la plupart n'apparaissent qu'une ou deux fois. Vous n'avez pas besoin d'*apprendre à l'avance* cette traîne. Vous avez besoin d'un moyen de résoudre ces mots à bas coût, en contexte, à mesure que vous les rencontrez — et chacun que vous rencontrez est un mot que vous êtes en train d'apprendre.
 
-La vraie question n'est donc pas « combien de mots me faut-il avant de commencer ? » mais « comment lire *maintenant*, avec la couverture que j'ai, de façon à combler l'écart ? »
+La vraie question n'est donc pas « combien de mots me faut-il avant de commencer ? » mais « comment lire *maintenant*, avec la couverture que j'ai, de façon à combler l'écart ? » C'est ce que signifie [l'input compréhensible](https://lucernaread.com/landing/blog/comprehensible-input) en pratique : une langue que l'on peut suivre, avec un peu de nouveauté.
 
 ## Comment lire sous le seuil — et le franchir
 
