@@ -18,7 +18,7 @@ Este guia explica como funcionam os níveis, por onde começar e como testar um 
 
 Uma leitura graduada em japonês é um livro escrito ou adaptado para aprendentes. O vocabulário e a gramática são controlados em cada nível, os kanji têm furigana — pequenos kana impressos por cima que indicam a leitura — e as imagens apoiam a história. Todos os títulos das séries tadoku aqui descritas têm áudio.
 
-Estas leituras seguem princípios partilhados sob a tutela da NPO Tadoku Supporters. As quatro regras do tadoku são simples: começar num nível de que consiga gostar; não usar dicionário durante a leitura; saltar palavras ou passagens que não consiga adivinhar; e, se um livro deixar de ser divertido, abandoná-lo e escolher outro.
+Estas leituras seguem princípios partilhados sob a tutela da NPO Tadoku Supporters. As quatro regras do tadoku são simples: começar num nível de que consiga gostar; não usar dicionário durante a leitura; saltar palavras ou passagens que não consiga adivinhar; e, se um livro deixar de ser divertido, abandoná-lo e escolher outro. As regras funcionam pela mesma razão que o [input compreensível](https://lucernaread.com/landing/blog/comprehensible-input): a linguagem continua compreensível, com apenas um pouco de novidade.
 
 Um livro infantil para nativos não é a mesma coisa. Pressupõe o vocabulário e os conhecimentos quotidianos de uma criança nativa e é muitas vezes escrito sobretudo em kana, o que pode tornar os limites entre palavras mais difíceis, e não mais fáceis, de ver.
 

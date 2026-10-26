@@ -1,6 +1,6 @@
 ---
-title: "Moet je elk woord opzoeken als je in een vreemde taal leest?"
-excerpt: "De woordenboekgewoonte die je leesplezier stilletjes om zeep helpt. Wanneer je een woord opzoekt, wanneer je het laat gaan, en hoe het verhaal in beweging blijft."
+title: "Moet je elk woord opzoeken als je leest? Alleen de woorden die de zin blokkeren"
+excerpt: "Zoek niet elk woord op: alleen de woorden die de zin blokkeren — de woorden die steeds terugkomen, zonder welke de zin instort, of die de actie dragen — en laat de rest gaan. Een handvol opzoekingen per pagina is genoeg om het verhaal in beweging te houden."
 publishedAt: "2026-06-13"
 draft: false
 ---

@@ -28,7 +28,7 @@ Esos umbrales describen la lectura **sin ninguna ayuda**: sin diccionario, sin c
 
 Porque esto es lo que los números de cobertura esconden: **las palabras no están repartidas de forma uniforme.** Un puñado de palabras muy frecuentes compone la mayor parte de cualquier texto: solo las 2.000 primeras familias cubren alrededor del 80 % de una novela típica. El 20 % restante es una larga cola de palabras más raras, la mayoría de las cuales aparecen una o dos veces. No hace falta *aprenderse de antemano* esa cola. Hace falta una manera de resolver esas palabras barata, en contexto, según las encuentras; y cada una que encuentras es una que ya estás aprendiendo.
 
-Así que la pregunta real no es «¿cuántas palabras necesito antes de empezar?», sino «¿cómo leo *ahora*, con la cobertura que tengo, de forma que se cierre la brecha?».
+Así que la pregunta real no es «¿cuántas palabras necesito antes de empezar?», sino «¿cómo leo *ahora*, con la cobertura que tengo, de forma que se cierre la brecha?». Eso es lo que significa [input comprensible](https://lucernaread.com/landing/blog/comprehensible-input) en la práctica: lenguaje que puedes seguir, con un poco de novedad.
 
 ## Cómo leer por debajo del umbral y escalarlo
 

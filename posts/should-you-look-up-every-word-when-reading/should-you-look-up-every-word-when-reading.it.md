@@ -1,6 +1,6 @@
 ---
-title: "Devi cercare ogni parola quando leggi in una lingua straniera?"
-excerpt: "Quando aprire il dizionario, quando proseguire e come non perdere il filo della storia."
+title: "Devi cercare ogni parola quando leggi? Solo quelle che bloccano la frase"
+excerpt: "Non aprire il dizionario per ogni parola: cerca solo quelle che bloccano la frase — quelle che tornano di continuo, quelle senza cui la frase crolla, o quelle che portano l'azione — e lascia andare il resto. Una manciata di ricerche per pagina basta a non perdere il filo della storia."
 publishedAt: "2026-06-13"
 draft: false
 ---

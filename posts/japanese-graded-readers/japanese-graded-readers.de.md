@@ -18,7 +18,7 @@ Dieser Leitfaden erklärt, wie die Stufen funktionieren, wo Sie beginnen und wie
 
 Ein japanischer Graded Reader ist ein Buch, das für Lernende geschrieben oder bearbeitet wurde. Wortschatz und Grammatik sind für jede Stufe kontrolliert, Kanji tragen Furigana – kleine Kana, die über dem Zeichen die Lesung angeben –, und Bilder stützen die Geschichte. Alle Titel der hier beschriebenen Tadoku-Reihen haben Audio.
 
-Diese Readers folgen gemeinsamen Prinzipien unter der Betreuung der NPO Tadoku Supporters. Tadokus vier Regeln sind einfach: Beginnen Sie auf einer Stufe, die Ihnen Freude macht; benutzen Sie beim Lesen kein Wörterbuch; überspringen Sie Wörter oder Passagen, die Sie nicht erraten können; und wenn ein Buch keinen Spaß mehr macht, legen Sie es weg und wählen Sie ein anderes.
+Diese Readers folgen gemeinsamen Prinzipien unter der Betreuung der NPO Tadoku Supporters. Tadokus vier Regeln sind einfach: Beginnen Sie auf einer Stufe, die Ihnen Freude macht; benutzen Sie beim Lesen kein Wörterbuch; überspringen Sie Wörter oder Passagen, die Sie nicht erraten können; und wenn ein Buch keinen Spaß mehr macht, legen Sie es weg und wählen Sie ein anderes. Die Regeln funktionieren aus demselben Grund wie [verständlicher Input](https://lucernaread.com/landing/blog/comprehensible-input): Die Sprache bleibt verständlich, mit nur ein wenig Neuem.
 
 Ein einheimisches Kinderbuch ist nicht dasselbe. Es setzt den Wortschatz und das Alltagswissen eines einheimischen Kindes voraus und ist oft überwiegend in Kana geschrieben, was Wortgrenzen eher schwerer als leichter erkennbar machen kann.
 

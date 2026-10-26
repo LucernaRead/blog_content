@@ -2955,74 +2955,74 @@
       "locales": {
         "de": {
           "slug": "should-you-look-up-every-word-when-reading",
-          "title": "Sollte man beim Lesen in einer Fremdsprache jedes Wort nachschlagen?",
-          "excerpt": "Die Wörterbuchgewohnheit, die dein Lesen leise umbringt. Wann du ein Wort nachschlägst, wann du es ziehen lässt und wie die Geschichte in Bewegung bleibt.",
+          "title": "Sollte man beim Lesen jedes Wort nachschlagen? Nur die, die den Satz blockieren",
+          "excerpt": "Nicht jedes Wort nachschlagen: nur die Wörter, die den Satz blockieren — die immer wiederkommen, den Satz zum Einsturz bringen oder die Handlung tragen —, den Rest ziehen lassen. Eine Handvoll Nachschlagevorgänge pro Seite genügt, damit die Geschichte in Bewegung bleibt.",
           "draft": false
         },
         "en": {
           "slug": "should-you-look-up-every-word-when-reading",
-          "title": "Should You Look Up Every Word When Reading in a Foreign Language?",
-          "excerpt": "The dictionary habit that quietly kills your reading. When to look a word up, when to let it go, and how to keep the story moving.",
+          "title": "Should You Look Up Every Word When Reading? Only the Ones That Block the Sentence",
+          "excerpt": "Don't look up every word: look up only the words that block the sentence — the ones that keep coming back, collapse the sentence, or carry the action — and let the rest go. A handful of lookups per page is enough to keep the story moving.",
           "draft": false
         },
         "es": {
           "slug": "should-you-look-up-every-word-when-reading",
-          "title": "¿Hay que buscar todas las palabras al leer en otro idioma?",
-          "excerpt": "El hábito del diccionario que va matando tu lectura. Cuándo buscar una palabra, cuándo dejarla pasar y cómo mantener la historia en marcha.",
+          "title": "¿Hay que buscar todas las palabras al leer? Solo las que bloquean la frase",
+          "excerpt": "No busques todas las palabras: busca solo las que bloquean la frase — las que se repiten, las que hacen que la frase se derrumbe o las que llevan la acción — y deja pasar el resto. Unas pocas búsquedas por página bastan para mantener la historia en marcha.",
           "draft": false
         },
         "fr": {
           "slug": "should-you-look-up-every-word-when-reading",
-          "title": "Faut-il chercher chaque mot quand on lit en langue étrangère ?",
-          "excerpt": "L'habitude du dictionnaire qui tue votre lecture à petit feu. Quand chercher un mot, quand le laisser filer, et comment garder l'histoire en mouvement.",
+          "title": "Faut-il chercher chaque mot en lisant ? Seulement ceux qui bloquent la phrase",
+          "excerpt": "Ne cherchez pas chaque mot : cherchez seulement ceux qui bloquent la phrase — ceux qui reviennent sans cesse, ceux sans lesquels la phrase s'effondre, ou ceux qui portent l'action — et laissez filer le reste. Une poignée de recherches par page suffit pour garder l'histoire en mouvement.",
           "draft": false
         },
         "it": {
           "slug": "should-you-look-up-every-word-when-reading",
-          "title": "Devi cercare ogni parola quando leggi in una lingua straniera?",
-          "excerpt": "Quando aprire il dizionario, quando proseguire e come non perdere il filo della storia.",
+          "title": "Devi cercare ogni parola quando leggi? Solo quelle che bloccano la frase",
+          "excerpt": "Non aprire il dizionario per ogni parola: cerca solo quelle che bloccano la frase — quelle che tornano di continuo, quelle senza cui la frase crolla, o quelle che portano l'azione — e lascia andare il resto. Una manciata di ricerche per pagina basta a non perdere il filo della storia.",
           "draft": false
         },
         "ja": {
           "slug": "should-you-look-up-every-word-when-reading",
-          "title": "外国語を読むとき、単語は全部調べるべき?",
-          "excerpt": "読書を静かに殺す「辞書の習慣」。いつ調べ、いつ見送り、どうやって物語を止めずに進むか。",
+          "title": "外国語を読むとき、単語は全部調べるべき？文を止めるものだけでいい",
+          "excerpt": "全部調べる必要はない。調べるのは文を止める単語だけ——何度も出てくるもの、なければ文が崩れるもの、動作を担うもの。あとは見送ろう。1ページに数回調べれば、物語は止まらない。",
           "draft": false
         },
         "ko": {
           "slug": "should-you-look-up-every-word-when-reading",
-          "title": "외국어를 읽을 때 모든 단어를 찾아봐야 할까?",
-          "excerpt": "독서를 조용히 망치는 사전 습관. 언제 찾아보고, 언제 넘기고, 어떻게 이야기를 계속 굴릴 것인가.",
+          "title": "외국어를 읽을 때 모든 단어를 찾아봐야 할까? 문장을 막는 단어만",
+          "excerpt": "모든 단어를 찾을 필요는 없다. 문장을 막는 단어만 찾아라 — 자꾸 되돌아오는 단어, 없으면 문장이 무너지는 단어, 행동을 이끄는 단어 — 나머지는 넘겨라. 한 페이지에 몇 번만 찾아봐도 이야기는 계속 굴러간다.",
           "draft": false
         },
         "nl": {
           "slug": "should-you-look-up-every-word-when-reading",
-          "title": "Moet je elk woord opzoeken als je in een vreemde taal leest?",
-          "excerpt": "De woordenboekgewoonte die je leesplezier stilletjes om zeep helpt. Wanneer je een woord opzoekt, wanneer je het laat gaan, en hoe het verhaal in beweging blijft.",
+          "title": "Moet je elk woord opzoeken als je leest? Alleen de woorden die de zin blokkeren",
+          "excerpt": "Zoek niet elk woord op: alleen de woorden die de zin blokkeren — de woorden die steeds terugkomen, zonder welke de zin instort, of die de actie dragen — en laat de rest gaan. Een handvol opzoekingen per pagina is genoeg om het verhaal in beweging te houden.",
           "draft": false
         },
         "pt": {
           "slug": "should-you-look-up-every-word-when-reading",
-          "title": "Precisa procurar todas as palavras ao ler em outro idioma?",
-          "excerpt": "O hábito de dicionário que mata sua leitura em silêncio. Quando procurar uma palavra, quando deixar passar e como manter a história andando.",
+          "title": "Precisa procurar todas as palavras ao ler? Só as que travam a frase",
+          "excerpt": "Não procure todas as palavras: procure só as que travam a frase — as que voltam sempre, as sem as quais a frase desmorona, ou as que carregam a ação — e deixe o resto passar. Algumas poucas consultas por página bastam para manter a história andando.",
           "draft": false
         },
         "ru": {
           "slug": "should-you-look-up-every-word-when-reading",
-          "title": "Нужно ли проверять каждое слово при чтении на иностранном языке?",
-          "excerpt": "Когда открыть словарь, когда продолжить и как сохранить нить истории.",
+          "title": "Нужно ли проверять каждое слово при чтении? Только те, что блокируют предложение",
+          "excerpt": "Проверяйте не каждое слово, а только те, что блокируют предложение, — те, что возвращаются снова и снова, без которых предложение рушится, или те, что несут действие, — а остальные пропускайте. Горсти проверок на страницу достаточно, чтобы сохранить нить истории.",
           "draft": false
         },
         "zh-HK": {
           "slug": "should-you-look-up-every-word-when-reading",
-          "title": "讀外語時,每個詞都要查嗎?",
-          "excerpt": "那個悄悄扼殺閱讀的查詞習慣。甚麼時候該查,甚麼時候該放過,以及怎麼讓故事一直往前走。",
+          "title": "讀外語時，每個詞都要查嗎？只查卡住句子的詞",
+          "excerpt": "不用每個詞都查：只查卡住句子的詞——反覆出現的、沒它句子就垮掉的、承載動作的——其餘放過。每頁查幾次，就夠讓故事一直往前走。",
           "draft": false
         },
         "zh": {
           "slug": "should-you-look-up-every-word-when-reading",
-          "title": "读外语时,每个词都要查吗?",
-          "excerpt": "那个悄悄扼杀阅读的查词习惯。什么时候该查,什么时候该放过,以及怎么让故事一直往前走。",
+          "title": "读外语时，每个词都要查吗？只查卡住句子的词",
+          "excerpt": "不用每个词都查：只查卡住句子的词——反复出现的、没它句子就垮掉的、承载动作的——其余放过。每页查几次，就够让故事一直往前走。",
           "draft": false
         }
       }

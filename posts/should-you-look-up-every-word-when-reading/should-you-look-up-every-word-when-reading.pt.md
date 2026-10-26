@@ -1,6 +1,6 @@
 ---
-title: "Precisa procurar todas as palavras ao ler em outro idioma?"
-excerpt: "O hábito de dicionário que mata sua leitura em silêncio. Quando procurar uma palavra, quando deixar passar e como manter a história andando."
+title: "Precisa procurar todas as palavras ao ler? Só as que travam a frase"
+excerpt: "Não procure todas as palavras: procure só as que travam a frase — as que voltam sempre, as sem as quais a frase desmorona, ou as que carregam a ação — e deixe o resto passar. Algumas poucas consultas por página bastam para manter a história andando."
 publishedAt: "2026-06-13"
 draft: false
 ---

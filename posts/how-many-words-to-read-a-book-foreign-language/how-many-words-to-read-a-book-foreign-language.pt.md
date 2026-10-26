@@ -28,7 +28,7 @@ Esses limiares descrevem a leitura **sem nenhuma ajuda** — sem dicionário, se
 
 Porque eis o que os números de cobertura escondem: **as palavras não estão distribuídas por igual.** Um pequeno número de palavras muito comuns compõe a maior parte de qualquer texto — só as 2.000 primeiras famílias cobrem cerca de 80% de um romance típico. Os 20% restantes são uma longa cauda de palavras mais raras, a maioria aparecendo uma ou duas vezes. Você não precisa *aprender essa cauda antes*. Precisa de um jeito de resolver essas palavras barato, no contexto, conforme as encontra — e cada uma que encontra é uma que já está aprendendo.
 
-Então a pergunta real não é "quantas palavras eu preciso antes de começar?", e sim "como leio *agora*, com a cobertura que tenho, de um jeito que feche a lacuna?".
+Então a pergunta real não é "quantas palavras eu preciso antes de começar?", e sim "como leio *agora*, com a cobertura que tenho, de um jeito que feche a lacuna?". É isso que [input compreensível](https://lucernaread.com/landing/blog/comprehensible-input) significa na prática: linguagem que você consegue acompanhar, com um pouco de novidade.
 
 ## Como ler abaixo do limiar — e escalá-lo
 
