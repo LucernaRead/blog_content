@@ -2,6 +2,85 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "russian-graded-readers",
+      "publishedAt": "2026-10-26",
+      "cover": null,
+      "locales": {
+        "de": {
+          "slug": "russian-graded-readers",
+          "title": "Russische Graded Reader: Bücher auf deinem Niveau wählen",
+          "excerpt": "Wähle einen russischen Graded Reader, den du zu Ende liest: wie sich CEFR-Stufen und verlagseigene Skalen unterscheiden, fünf Einstiegspunkte vom kostenlosen A1-Text bis zur B2-Leiter und ein Zehn-Minuten-Probentest.",
+          "draft": false
+        },
+        "en": {
+          "slug": "russian-graded-readers",
+          "title": "Russian Graded Readers: How to Choose Books at Your Level",
+          "excerpt": "Choose a Russian graded reader you can finish: how CEFR levels and publishers' own scales differ, five starting points from a free A1 story to a B2 ladder, and a ten-minute sample test.",
+          "draft": false
+        },
+        "es": {
+          "slug": "russian-graded-readers",
+          "title": "Lectores graduados en ruso: cómo elegir libros a tu nivel",
+          "excerpt": "Elige un lector graduado en ruso que puedas terminar: cómo difieren los niveles MCER y las escalas propias de cada editorial, cinco puntos de partida desde una historia gratuita A1 hasta una escalera B2, y una prueba de muestra de diez minutos.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "russian-graded-readers",
+          "title": "Lectures graduées en russe : choisir des livres à votre niveau",
+          "excerpt": "Choisissez une lecture graduée en russe que vous terminerez : comment les niveaux CECR et les échelles propres aux éditeurs diffèrent, cinq points de départ d'une histoire gratuite A1 à une échelle B2, et un test d'échantillon de dix minutes.",
+          "draft": false
+        },
+        "it": {
+          "slug": "russian-graded-readers",
+          "title": "Lettori graduati in russo: come scegliere libri al tuo livello",
+          "excerpt": "Scegli un lettore graduato in russo che riuscirai a finire: come differiscono i livelli QCER e le scale proprie degli editori, cinque punti di partenza da una storia gratuita A1 a una scala B2, e un test di assaggio di dieci minuti.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "russian-graded-readers",
+          "title": "ロシア語のグレーデッド・リーダー：レベルに合った本の選び方",
+          "excerpt": "読み切れるロシア語のグレーデッド・リーダーを選ぶ：CEFRレベルと出版社独自の基準の違い、無料のA1ストーリーからB2の階段まで5つの出発点、10分間の試し読みテスト。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "russian-graded-readers",
+          "title": "러시아어 단계별 독본: 수준에 맞는 책 고르기",
+          "excerpt": "끝까지 읽을 수 있는 러시아어 단계별 독본 고르기: CEFR 등급과 출판사 자체 기준의 차이, 무료 A1 이야기부터 B2 사다리까지 다섯 가지 출발점, 10분 샘플 테스트.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "russian-graded-readers",
+          "title": "Russische graded readers: boeken kiezen op jouw niveau",
+          "excerpt": "Kies een Russische graded reader die je uitleest: hoe CEFR-niveaus en uitgeversschalen verschillen, vijf startpunten van een gratis A1-verhaal tot een B2-ladder, en een tien-minuten-steekproef.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "russian-graded-readers",
+          "title": "Leitores graduados em russo: como escolher livros no seu nível",
+          "excerpt": "Escolha um leitor graduado em russo que você consiga terminar: como os níveis do QECR e as escalas próprias das editoras diferem, cinco pontos de partida de uma história gratuita A1 até uma escada B2, e um teste de amostra de dez minutos.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "russian-graded-readers",
+          "title": "Адаптированные книги на русском: как выбрать книгу под свой уровень",
+          "excerpt": "Выберите адаптированную книгу на русском, которую дочитаете: чем шкала CEFR отличается от шкал издательств, пять отправных точек от бесплатной истории A1 до лесенки B2 и десятиминутный пробный тест.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "russian-graded-readers",
+          "title": "俄語分級讀物：如何按水平選書",
+          "excerpt": "選一本能讀完的俄語分級讀物：CEFR 等級與出版社自定標準有何不同、從免費 A1 故事到 B2 進階階梯的五個起點，以及十分鐘試讀法。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "russian-graded-readers",
+          "title": "俄语分级读物：如何按水平选书",
+          "excerpt": "选一本能读完的俄语分级读物：CEFR 等级与出版社自定标准有何不同、从免费 A1 故事到 B2 进阶阶梯的五个起点，以及十分钟试读法。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "learn-chinese-by-reading",
       "publishedAt": "2026-10-25",
       "cover": null,
