@@ -2,6 +2,85 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "learn-german-by-reading",
+      "publishedAt": "2026-10-27",
+      "cover": null,
+      "locales": {
+        "de": {
+          "slug": "learn-german-by-reading",
+          "title": "Deutsch durch Lesen lernen",
+          "excerpt": "Deutsch durch Lesen lernen, mit einer Leiter, die für das Deutsche selbst gebaut ist: erst Lesetexte für Lernende, dann Kasus und Verbstellung erklärt, ein Zehn-Minuten-Test zur Buchwahl und eine Routine, die Seite und Klang verbindet.",
+          "draft": false
+        },
+        "en": {
+          "slug": "learn-german-by-reading",
+          "title": "How to Learn German by Reading",
+          "excerpt": "Learn German by reading with a ladder built for German itself: graded readers first, the case system and verb-final clauses explained, a ten-minute sample test, and a routine that pairs the page with sound.",
+          "draft": false
+        },
+        "es": {
+          "slug": "learn-german-by-reading",
+          "title": "Aprender alemán leyendo",
+          "excerpt": "Aprender alemán leyendo con una escalera construida para el propio alemán: primero lecturas graduadas, luego los casos y las oraciones con el verbo al final explicados, una prueba de muestra de diez minutos y una rutina que une la página con el sonido.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "learn-german-by-reading",
+          "title": "Apprendre l'allemand en lisant",
+          "excerpt": "Apprendre l'allemand en lisant avec une échelle construite pour l'allemand lui-même : d'abord des lectures graduées, puis les cas et les propositions à verbe final expliqués, un test d'échantillon de dix minutes, et une routine qui associe la page au son.",
+          "draft": false
+        },
+        "it": {
+          "slug": "learn-german-by-reading",
+          "title": "Imparare il tedesco leggendo",
+          "excerpt": "Imparare il tedesco leggendo con una scala costruita per il tedesco stesso: prima letture graduate, poi casi e proposizioni con il verbo in fondo spiegati, un test di assaggio di dieci minuti e una routine che unisce la pagina al suono.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "learn-german-by-reading",
+          "title": "読書でドイツ語を学ぶ",
+          "excerpt": "ドイツ語そのものに合わせたはしごで読書を通してドイツ語を学ぶ。まず学習者向け読み物、次に格と動詞末尾の従属節の解説、10分間の試し読みテスト、ページと音を結ぶ習慣。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "learn-german-by-reading",
+          "title": "읽기로 독일어 배우기",
+          "excerpt": "독일어 자체에 맞게 만든 사다리로 읽기를 통해 독일어를 배우기: 먼저 학습자용 읽기 자료, 그 다음 격과 동사 말미 종속절 설명, 10분 샘플 테스트, 페이지와 소리를 연결하는 습관.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "learn-german-by-reading",
+          "title": "Duits leren door te lezen",
+          "excerpt": "Duits leren door te lezen met een ladder die voor het Duits zelf is gebouwd: eerst leesteksten voor leerders, dan naamvallen en zinnen met het werkwoord achteraan uitgelegd, een tienminutentest om een boek te kiezen en een routine die de bladzijde aan klank koppelt.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "learn-german-by-reading",
+          "title": "Aprender alemão lendo",
+          "excerpt": "Aprender alemão lendo com uma escada construída para o próprio alemão: primeiro leituras graduadas, depois os casos e as orações com o verbo no fim explicados, um teste de amostra de dez minutos e uma rotina que une a página ao som.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "learn-german-by-reading",
+          "title": "Учить немецкий, читая",
+          "excerpt": "Учить немецкий, читая, по лестнице, построенной под сам немецкий язык: сначала адаптированные тексты, потом падежи и глагол в конце придаточного, десятиминутный тест для выбора книги и приём, связывающий страницу со звуком.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "learn-german-by-reading",
+          "title": "通過閱讀學德語",
+          "excerpt": "用貼合德語本身的階梯通過閱讀學德語：先讀分級讀物，講清格、動詞後置句式，用十分鐘抽樣測試選書，並把頁面和聲音配起來。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "learn-german-by-reading",
+          "title": "通过阅读学德语",
+          "excerpt": "用贴合德语本身的阶梯通过阅读学德语：先读分级读物，讲清格、动词后置句式，用十分钟抽样测试选书，并把页面和声音配起来。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "russian-graded-readers",
       "publishedAt": "2026-10-26",
       "cover": null,
