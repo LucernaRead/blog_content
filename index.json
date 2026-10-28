@@ -2,6 +2,85 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "lingq-alternatives",
+      "publishedAt": "2026-10-28",
+      "cover": null,
+      "locales": {
+        "de": {
+          "slug": "lingq-alternatives",
+          "title": "LingQ-Alternativen: Wähle das Lesetool, das zu dem passt, was du wirklich liest",
+          "excerpt": "LingQ ist ein starker Reader mit einem engen kostenlosen Tarif und ohne Hilfe bei der Suche nach Material auf deinem Niveau. Die richtige Alternative hängt davon ab, was du wirklich liest: selbst gewählte Bücher, Webartikel, Untertitel oder parallele Texte.",
+          "draft": false
+        },
+        "en": {
+          "slug": "lingq-alternatives",
+          "title": "LingQ Alternatives: Pick the Reading Tool That Fits What You Actually Read",
+          "excerpt": "LingQ is a strong reader with a tight free plan and no help finding level-matched material. The right alternative depends on what you actually read: books you choose, web articles, subtitles, or parallel text.",
+          "draft": false
+        },
+        "es": {
+          "slug": "lingq-alternatives",
+          "title": "Alternativas a LingQ: elige la herramienta de lectura que encaje con lo que realmente lees",
+          "excerpt": "LingQ es un lector sólido con un plan gratuito estrecho y sin ayuda para encontrar material de tu nivel. La alternativa adecuada depende de lo que realmente lees: libros que eliges, artículos en la web, subtítulos o textos paralelos.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "lingq-alternatives",
+          "title": "Alternatives à LingQ : choisir l'outil de lecture qui correspond à ce que vous lisez vraiment",
+          "excerpt": "LingQ est un lecteur solide, mais son offre gratuite est étroite et il n'aide pas à trouver des textes à votre niveau. La bonne alternative dépend de ce que vous lisez vraiment : des livres que vous choisissez, des articles en ligne, des sous-titres ou des textes parallèles.",
+          "draft": false
+        },
+        "it": {
+          "slug": "lingq-alternatives",
+          "title": "Alternative a LingQ: scegli lo strumento di lettura che si adatta a ciò che leggi davvero",
+          "excerpt": "LingQ è un lettore solido, con un piano gratuito stretto e senza aiuto per trovare materiale del tuo livello. L'alternativa giusta dipende da ciò che leggi davvero: libri che scegli tu, articoli sul web, sottotitoli o testi paralleli.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "lingq-alternatives",
+          "title": "LingQの代わり：自分が実際に読むものに合う読書ツールを選ぶ",
+          "excerpt": "LingQは優れたリーダーだが、無料プランの上限は厳しく、レベルに合った教材を探す手助けはない。適切な代わりは、自分が実際に何を読むかで決まる。本か、ウェブ記事か、字幕か、対訳テキストかだ。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "lingq-alternatives",
+          "title": "LingQ 대안: 실제로 읽는 것에 맞는 읽기 도구를 고르는 법",
+          "excerpt": "LingQ는 탄탄한 리더지만 무료 플랜의 한도가 빡빡하고 수준에 맞는 자료를 찾는 데는 도움을 주지 않는다. 맞는 대안은 실제로 무엇을 읽느냐에 따라 달라진다. 직접 고른 책, 웹 글, 자막, 아니면 병렬 텍스트인가.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "lingq-alternatives",
+          "title": "LingQ-alternatieven: kies de leestool die past bij wat je echt leest",
+          "excerpt": "LingQ is een sterke reader met een krap gratis abonnement en zonder hulp bij het vinden van materiaal op jouw niveau. Het juiste alternatief hangt af van wat je echt leest: zelfgekozen boeken, webartikelen, ondertitels of parallelle teksten.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "lingq-alternatives",
+          "title": "Alternativas ao LingQ: escolha a ferramenta de leitura que combina com o que você realmente lê",
+          "excerpt": "O LingQ é um leitor sólido, com um plano gratuito apertado e sem ajuda para encontrar material do seu nível. A alternativa certa depende do que você realmente lê: livros que você escolhe, artigos na web, legendas ou textos paralelos.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "lingq-alternatives",
+          "title": "Альтернативы LingQ: как выбрать инструмент для чтения под то, что вы действительно читаете",
+          "excerpt": "LingQ — сильный ридер с тесным бесплатным тарифом, который не помогает найти материалы вашего уровня. Подходящая альтернатива зависит от того, что вы действительно читаете: выбранные вами книги, статьи в сети, субтитры или параллельные тексты.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "lingq-alternatives",
+          "title": "LingQ 的替代品：按你真正讀的東西選閱讀工具",
+          "excerpt": "LingQ 是個紮實的閱讀器，但免費版額度很緊，而且不幫你找難度合適的材料。合適的替代品取決於你真正讀什麼：自己選的書、網頁文章、字幕，還是雙語對照文本。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "lingq-alternatives",
+          "title": "LingQ 的替代品：按你真正读的东西选阅读工具",
+          "excerpt": "LingQ 是个扎实的阅读器，但免费版额度很紧，而且不帮你找难度合适的材料。合适的替代品取决于你真正读什么：自己选的书、网页文章、字幕，还是双语对照文本。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "learn-german-by-reading",
       "publishedAt": "2026-10-27",
       "cover": null,
