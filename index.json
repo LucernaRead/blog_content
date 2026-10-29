@@ -2,6 +2,85 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "word-atlas",
+      "publishedAt": "2026-10-29",
+      "cover": null,
+      "locales": {
+        "de": {
+          "slug": "word-atlas",
+          "title": "Word Atlas: Was eine illustrierte Wortkarte lehren kann und was nicht",
+          "excerpt": "Wer word atlas sucht, bekommt Bücher mit Karten. Es gibt aber noch eine andere Art von Atlas: eine Karte aus Wörtern, bei der jedes Wort ein Bild, Beispielsätze und einen Wiederholungsplan bekommt. Hier steht, wofür diese Karte gut ist, wo sie aufhört und wie sie sich mit echtem Lesen verbinden lässt.",
+          "draft": false
+        },
+        "en": {
+          "slug": "word-atlas",
+          "title": "Word Atlas: What an Illustrated Vocabulary Map Can and Cannot Teach You",
+          "excerpt": "Search for word atlas and you get books of maps. There is another kind of atlas: a map of words, where each word gets a picture, example sentences, and a review schedule. Here is what that map is good for, where it stops, and how to connect it to real reading.",
+          "draft": false
+        },
+        "es": {
+          "slug": "word-atlas",
+          "title": "Word Atlas: qué puede enseñarte un mapa ilustrado de vocabulario y qué no",
+          "excerpt": "Busca word atlas y obtendrás libros de mapas. Pero hay otra clase de atlas: un mapa de palabras, donde cada palabra recibe una imagen, frases de ejemplo y un plan de repaso. Esto es para qué sirve ese mapa, dónde se detiene y cómo conectarlo con la lectura real.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "word-atlas",
+          "title": "Word Atlas : ce qu'une carte de vocabulaire illustrée peut vous apprendre, et ce qu'elle ne peut pas",
+          "excerpt": "Cherchez word atlas et vous obtenez des livres de cartes. Il existe une autre sorte d'atlas : une carte de mots, où chaque mot reçoit une image, des phrases d'exemple et un programme de révision. Voici ce pour quoi cette carte est utile, où elle s'arrête, et comment la relier à une vraie lecture.",
+          "draft": false
+        },
+        "it": {
+          "slug": "word-atlas",
+          "title": "Word Atlas: cosa può insegnarti una mappa illustrata di vocaboli e cosa no",
+          "excerpt": "Cerca word atlas e ottieni libri di mappe. Ma esiste un altro tipo di atlante: una mappa di parole, in cui ogni parola riceve un'immagine, frasi di esempio e un piano di ripasso. Ecco a cosa serve questa mappa, dove si ferma e come collegarla alla lettura vera.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "word-atlas",
+          "title": "Word Atlas：イラスト付き単語地図が教えられること、教えられないこと",
+          "excerpt": "word atlasを検索すると地図帳が出てくる。だがもう一つの地図帳がある。単語の地図だ。単語ごとに絵と例文と復習計画が付く。この地図が得意なこと、その限界、そして実際の読書にどうつなげるかを説明する。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "word-atlas",
+          "title": "Word Atlas: 그림 단어 지도가 가르칠 수 있는 것과 가르칠 수 없는 것",
+          "excerpt": "word atlas를 검색하면 지도책이 나온다. 하지만 또 다른 지도책이 있다. 단어의 지도다. 단어마다 그림과 예문, 복습 계획이 붙는다. 이 지도가 잘하는 것, 멈추는 지점, 그리고 실제 읽기로 어떻게 연결하는지를 설명한다.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "word-atlas",
+          "title": "Word Atlas: wat een geïllustreerde woordenkaart je kan leren en wat niet",
+          "excerpt": "Zoek je op word atlas, dan krijg je boeken met kaarten. Maar er is nog een soort atlas: een kaart van woorden, waarbij elk woord een afbeelding, voorbeeldzinnen en een herhalingsplan krijgt. Dit is waar die kaart goed voor is, waar ze ophoudt en hoe je haar verbindt met echt lezen.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "word-atlas",
+          "title": "Word Atlas: o que um mapa ilustrado de vocabulário pode ensinar e o que não pode",
+          "excerpt": "Pesquise word atlas e você obtém livros de mapas. Mas existe outro tipo de atlas: um mapa de palavras, em que cada palavra recebe uma imagem, frases de exemplo e um plano de revisão. Aqui está para que esse mapa serve, onde ele para e como ligá-lo à leitura de verdade.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "word-atlas",
+          "title": "Word Atlas: чему может научить иллюстрированная карта слов, а чему нет",
+          "excerpt": "Поиск word atlas выдаёт книги карт. Но есть и другой атлас: карта слов, где у каждого слова есть картинка, примеры предложений и план повторения. Вот для чего эта карта хороша, где она заканчивается и как связать её с настоящим чтением.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "word-atlas",
+          "title": "Word Atlas：圖解詞彙地圖能教會你什麼、不能教會你什麼",
+          "excerpt": "搜 word atlas，出來的是地圖冊。但還有另一種地圖冊：詞的地圖，每個詞配一張圖、例句和複習計劃。這裏講這張圖擅長什麼、在哪裏到頭，以及怎樣把它接回真正的閱讀。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "word-atlas",
+          "title": "Word Atlas：图解词汇地图能教会你什么、不能教会你什么",
+          "excerpt": "搜 word atlas，出来的是地图册。但还有另一种地图册：词的地图，每个词配一张图、例句和复习计划。这里讲这张图擅长什么、在哪里到头，以及怎样把它接回真正的阅读。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "lingq-alternatives",
       "publishedAt": "2026-10-28",
       "cover": null,
