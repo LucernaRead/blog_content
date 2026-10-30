@@ -2,6 +2,85 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "chinese-books-for-beginners",
+      "publishedAt": "2026-10-30",
+      "cover": null,
+      "locales": {
+        "de": {
+          "slug": "chinese-books-for-beginners",
+          "title": "Chinesische Bücher für Anfänger: Die ersten Bücher, die sich lohnen",
+          "excerpt": "Wähle dein erstes chinesisches Buch nach der Sorte, nicht nach dem Ruhm: ein Lernroman, den du zu Ende liest, ein zweisprachiges Sicherheitsnetz, eine bekannte Geschichte in einer Lernfassung und eine Geschichtensammlung mit angegebener Stufe, alle anhand der Ausgaben geprüft, dazu die Fallen einer chinesischen Seite.",
+          "draft": false
+        },
+        "en": {
+          "slug": "chinese-books-for-beginners",
+          "title": "Chinese Books for Beginners: The First Books Worth Reading",
+          "excerpt": "Choose your first Chinese book by kind, not by fame: a learner novella you can finish, a dual-language safety net, a familiar story in a learner edition, and a story collection at a stated level, each checked by edition, plus the page traps that stall Chinese readers.",
+          "draft": false
+        },
+        "es": {
+          "slug": "chinese-books-for-beginners",
+          "title": "Libros chinos para principiantes: los primeros libros que vale la pena leer",
+          "excerpt": "Elige tu primer libro chino por tipo, no por fama: una novela para estudiantes que puedas terminar, una red de seguridad bilingüe, una historia conocida en edición para estudiantes y una colección de cuentos con nivel declarado, cada uno verificado por edición, más las trampas de una página china.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "chinese-books-for-beginners",
+          "title": "Livres chinois pour débutants : les premiers livres qui valent la peine",
+          "excerpt": "Choisissez votre premier livre chinois par genre, pas par renommée : un roman pour apprenants que vous pouvez terminer, un filet de sécurité bilingue, une histoire connue en édition pour apprenants et un recueil de nouvelles à niveau indiqué, chacun vérifié par édition, plus les pièges d'une page chinoise.",
+          "draft": false
+        },
+        "it": {
+          "slug": "chinese-books-for-beginners",
+          "title": "Libri cinesi per principianti: i primi libri che vale la pena leggere",
+          "excerpt": "Scegli il tuo primo libro cinese per tipo, non per fama: un romanzo per studenti che puoi finire, una rete di sicurezza bilingue, una storia nota in edizione per studenti e una raccolta di racconti con livello dichiarato, ognuno verificato per edizione, più le trappole di una pagina cinese.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "chinese-books-for-beginners",
+          "title": "中国語初心者のための本：最初に読む価値のある本",
+          "excerpt": "最初の一冊は名声ではなく種類で選ぶ。読み切れる学習者向け小説、二言語のセーフティネット、学習者版のなじみの物語、レベル明記の短編集。各書誌情報を版で確認し、中国語のページに潜む罠も添える。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "chinese-books-for-beginners",
+          "title": "초보자를 위한 중국어 책: 처음 읽을 만한 책들",
+          "excerpt": "첫 중국어 책은 명성이 아니라 종류로 고른다. 끝까지 읽을 수 있는 학습자 소설, 이중 언어 안전망, 학습자판 친숙한 이야기, 수준이 명시된 단편집. 각 책은 판본 정보로 확인했고, 중국어 페이지의 함정도 함께 다룬다.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "chinese-books-for-beginners",
+          "title": "Chinese boeken voor beginners: de eerste boeken die de moeite waard zijn",
+          "excerpt": "Kies je eerste Chinese boek op soort, niet op faam: een lezersroman die je kunt uitlezen, een tweetalig vangnet, een bekend verhaal in een lezerseditie en een verhalenbundel met een vermeld niveau, elk gecontroleerd op editie, plus de valkuilen van een Chinese pagina.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "chinese-books-for-beginners",
+          "title": "Livros chineses para iniciantes: os primeiros livros que valem a pena",
+          "excerpt": "Escolha seu primeiro livro chinês pelo tipo, não pela fama: um romance para estudantes que você consiga terminar, uma rede de segurança bilíngue, uma história conhecida em edição para estudantes e uma coletânea de contos com nível declarado, cada um verificado pela edição, mais as armadilhas de uma página chinesa.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "chinese-books-for-beginners",
+          "title": "Китайские книги для начинающих: первые книги, которые стоит читать",
+          "excerpt": "Выбирайте первую китайскую книгу по типу, а не по славе: учебный роман, который можно дочитать, двуязычная страховка, знакомая история в учебном издании и сборник рассказов с заявленным уровнем, каждый проверен по изданию, плюс ловушки китайской страницы.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "chinese-books-for-beginners",
+          "title": "中文入門書：第一批值得讀的書",
+          "excerpt": "按種類而不是按名氣選第一本中文書：一本能讀完的學習者小說、一個雙語安全網、一本學習者版的熟悉故事、一本有明確級別的故事集，每本都核對過版本資訊，再加上讓中文讀者卡住的版面陷阱。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "chinese-books-for-beginners",
+          "title": "中文入门书：第一批值得读的书",
+          "excerpt": "按种类而不是按名气选第一本中文书：一本能读完的学习者小说、一个双语安全网、一本学习者版的熟悉故事、一本有明确级别的故事集，每本都核对过版本信息，再加上让中文读者卡住的版面陷阱。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "word-atlas",
       "publishedAt": "2026-10-29",
       "cover": null,
