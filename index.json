@@ -2,6 +2,90 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "short-stories-in-chinese-for-beginners",
+      "publishedAt": "2026-10-31",
+      "cover": "cover.jpg",
+      "coverCredit": "Chen Hongshou, Scholar Reading in a Thatched Hut by a Waterfall · Cleveland Museum of Art",
+      "coverLicense": "CC0",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Chen_Hongshou_-_Paintings_after_Ancient_Masters-_Scholar_Reading_in_a_Thatched_Hut_by_a_Wat_-_1979.27.2.18_-_Cleveland_Museum_of_Art.tif",
+      "coverFocus": "center 35%",
+      "category": "lists",
+      "locales": {
+        "de": {
+          "slug": "short-stories-in-chinese-for-beginners",
+          "title": "Chinesische Kurzgeschichten für Anfänger: Was zuerst lesen?",
+          "excerpt": "Eine Kurzgeschichte zeigt am schnellsten, ob ein chinesischer Text passt. Fang mit etwa 150 Schriftzeichen an, lies eine Geschichte zu Ende, bevor du die nächste öffnest.",
+          "draft": false
+        },
+        "en": {
+          "slug": "short-stories-in-chinese-for-beginners",
+          "title": "Short Stories in Chinese for Beginners: What to Read First",
+          "excerpt": "A short story is the fastest way to tell whether a Chinese text is at your level. Start with 150-character stories, test one first, and finish it before opening the next.",
+          "draft": false
+        },
+        "es": {
+          "slug": "short-stories-in-chinese-for-beginners",
+          "title": "Cuentos cortos en chino para principiantes: qué leer primero",
+          "excerpt": "Un cuento corto es la forma más rápida de saber si un texto chino está a tu nivel. Empieza con historias de unos 150 caracteres, termina una antes de abrir la siguiente.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "short-stories-in-chinese-for-beginners",
+          "title": "Histoires courtes en chinois pour débutants : par quoi commencer ?",
+          "excerpt": "Une histoire courte montre le plus vite si un texte chinois est à votre niveau. Commencez par des histoires d'environ 150 caractères, et terminez-en une avant d'ouvrir la suivante.",
+          "draft": false
+        },
+        "it": {
+          "slug": "short-stories-in-chinese-for-beginners",
+          "title": "Racconti brevi in cinese per principianti: cosa leggere prima",
+          "excerpt": "Un racconto breve è il modo più rapido per capire se un testo cinese è al tuo livello. Inizia con storie di circa 150 caratteri, e finiscine una prima di aprirne un'altra.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "short-stories-in-chinese-for-beginners",
+          "title": "中国語初心者の短編小説：最初に読むべきもの",
+          "excerpt": "短編小説は、中国語の文章が自分のレベルに合っているかを確かめる一番速い方法だ。150字程度の物語から始め、1編を読み終えてから次を開こう。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "short-stories-in-chinese-for-beginners",
+          "title": "중국어 초보자를 위한 단편 소설: 무엇을 먼저 읽을까",
+          "excerpt": "단편 소설은 중국어 글이 내 수준에 맞는지 가장 빨리 확인하는 방법이다. 150자 정도의 이야기부터 시작해 한 편을 끝낸 뒤 다음 편을 열자.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "short-stories-in-chinese-for-beginners",
+          "title": "Korte verhalen in het Chinees voor beginners: wat lees je eerst?",
+          "excerpt": "Een kort verhaal laat het snelst zien of een Chinese tekst bij je niveau past. Begin met verhalen van zo'n 150 tekens, en lees er één uit voordat je de volgende opent.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "short-stories-in-chinese-for-beginners",
+          "title": "Contos curtos em chinês para iniciantes: o que ler primeiro",
+          "excerpt": "Um conto curto é a maneira mais rápida de saber se um texto chinês está no seu nível. Comece com histórias de cerca de 150 caracteres e termine uma antes de abrir a próxima.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "short-stories-in-chinese-for-beginners",
+          "title": "Короткие рассказы на китайском для начинающих: что читать первым",
+          "excerpt": "Короткий рассказ быстрее всего покажет, подходит ли китайский текст вашему уровню. Начните с историй примерно на 150 иероглифов и дочитайте одну, прежде чем открыть следующую.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "short-stories-in-chinese-for-beginners",
+          "title": "中文初學者短故事：先讀什麼",
+          "excerpt": "短故事是檢驗一篇中文是否適合你水平的最快方法。先從150字左右的故事開始，讀完一篇再開下一篇。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "short-stories-in-chinese-for-beginners",
+          "title": "中文初学者短故事：先读什么",
+          "excerpt": "短故事是检验一篇中文是否适合你水平的最快方法。先从150字左右的故事开始，读完一篇再开下一篇。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "chinese-books-for-beginners",
       "publishedAt": "2026-10-30",
       "cover": null,
