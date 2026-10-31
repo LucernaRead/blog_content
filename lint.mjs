@@ -87,6 +87,23 @@ const COVER_MAX_BYTES = 400 * 1024;
 /** object-position 的写法:`center` / `center 30%` / `40% 25%` 这类。 */
 const FOCUS_RE = /^(left|center|right|\d{1,3}%)( (top|center|bottom|\d{1,3}%))?$/;
 
+/**
+ * 标题 / 摘要的长度上限(#213)。和封面一样,只对 COVER_REQUIRED_FROM 起发布的文章强制。
+ *
+ * 依据是站点的版式,不是审美:
+ *   - 列表卡片的摘要只显示 2 行,首屏头条 3 行,超出的被截成「…」;
+ *   - 摘要同时是搜索结果的描述,搜索引擎大约只显示 155–160 个拉丁字符;
+ *   - 中文标题超过 24 字,在手机首屏要占 4 行(实测 31 字的那篇)。
+ * 同一句话,日韩文的字数比中文多三到五成,拉丁字母语言里德法最长 —— 所以分三档。
+ * 按字符(Unicode 码点)计,中日韩一个字、拉丁字母一个字母都算 1。
+ */
+const LENGTH_LIMITS = [
+  { locales: ['zh', 'zh-HK'], title: 24, excerpt: 80 },
+  { locales: ['ja', 'ko'], title: 32, excerpt: 110 },
+  { locales: ['en', 'de', 'fr', 'es', 'pt', 'nl', 'it', 'ru'], title: 80, excerpt: 180 },
+];
+const limitFor = (loc) => LENGTH_LIMITS.find((l) => l.locales.includes(loc));
+
 const problems = [];
 const fail = (where, msg) => problems.push(`${where}: ${msg}`);
 
@@ -238,6 +255,13 @@ function checkPost(dir) {
       }
       if (fm.draft && !['true', 'false'].includes(fm.draft)) {
         fail(w, `draft 只能是 true / false,现在是 \`${fm.draft}\``);
+      }
+      const lim = limitFor(md.slice(dir.length + 1, -3));
+      if (lim && fm.publishedAt >= COVER_REQUIRED_FROM && fm.draft !== 'true') {
+        for (const k of ['title', 'excerpt']) {
+          const n = [...(fm[k] ?? '')].length;
+          if (n > lim[k]) fail(w, `${k} 有 ${n} 字,上限 ${lim[k]} —— 见 AGENTS.md「标题与摘要」`);
+        }
       }
       if (fm.slug && !SLUG_RE.test(fm.slug)) {
         fail(w, `slug 覆盖必须是小写 kebab,现在是 \`${fm.slug}\``);
