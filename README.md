@@ -24,9 +24,16 @@ title: "How to choose your first book"
 excerpt: "一句话摘要,列表页和分享卡片用它。"
 publishedAt: "2026-08-06"
 draft: false
-cover: hero.jpg          # 可选,必须是本目录里的文件
+cover: cover.jpg         # 封面,必须是本目录里的文件;2026-10-31 起发布的文章必填
+coverCredit: "作者, 作品名, 年份 · 馆藏"
+coverLicense: "public-domain"   # 只能是 public-domain 或 CC0
+coverSource: "https://commons.wikimedia.org/wiki/File:..."
+coverFocus: "center 30%"        # 可选,裁切焦点(object-position)
+category: "method"              # lists / method / tools / language;2026-10-31 起必填
 ---
 ```
+
+封面字段 12 个语言版本必须完全一致。怎么找图、怎么核实授权,见 [AGENTS.md](./AGENTS.md)「配图」。
 
 引用图片就用**相对文件名**:
 

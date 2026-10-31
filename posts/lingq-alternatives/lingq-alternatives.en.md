@@ -3,6 +3,12 @@ title: "LingQ Alternatives: Pick the Reading Tool That Fits What You Actually Re
 excerpt: "LingQ is a strong reader with a tight free plan and no help finding level-matched material. The right alternative depends on what you actually read: books you choose, web articles, subtitles, or parallel text."
 publishedAt: "2026-10-28"
 draft: false
+cover: cover.jpg
+coverCredit: "Johannes Vermeer, Woman Reading a Letter, c. 1662–63 · Rijksmuseum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Vermeer,_Johannes_-_Woman_reading_a_letter_-_ca._1662-1663.jpg"
+coverFocus: "center 35%"
+category: "tools"
 ---
 
 Search for LingQ alternatives and the first pages you meet are directories, not guides. They rank products by votes and list course apps next to reading tools, as if Duolingo and a reader did the same job. They do not. A course teaches lessons in order. A reader lets you open something real, look a word up where you stand, and keep reading. If you want the second thing, most of the names on those lists are noise, and the choice gets much smaller once you filter them out.

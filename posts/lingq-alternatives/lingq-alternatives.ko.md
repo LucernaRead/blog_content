@@ -3,6 +3,12 @@ title: "LingQ 대안: 실제로 읽는 것에 맞는 읽기 도구를 고르는 
 excerpt: "LingQ는 탄탄한 리더지만 무료 플랜의 한도가 빡빡하고 수준에 맞는 자료를 찾는 데는 도움을 주지 않는다. 맞는 대안은 실제로 무엇을 읽느냐에 따라 달라진다. 직접 고른 책, 웹 글, 자막, 아니면 병렬 텍스트인가."
 publishedAt: "2026-10-28"
 draft: false
+cover: cover.jpg
+coverCredit: "Johannes Vermeer, Woman Reading a Letter, c. 1662–63 · Rijksmuseum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Vermeer,_Johannes_-_Woman_reading_a_letter_-_ca._1662-1663.jpg"
+coverFocus: "center 35%"
+category: "tools"
 ---
 
 "LingQ 대안"을 검색하면 가장 먼저 만나는 것은 안내서가 아니라 디렉터리다. 투표 순으로 제품을 나열하고 코스 앱과 읽기 도구를 같은 일을 하는 것처럼 늘어놓는다. 그렇지 않다. 코스는 순서대로 수업을 가르친다. 리더는 실제 자료를 열어 그 자리에서 단어를 찾아보고 계속 읽게 해준다. 후자를 원한다면 목록의 이름 대부분은 잡음이고, 걸러내고 나면 선택지는 훨씬 작아진다.
