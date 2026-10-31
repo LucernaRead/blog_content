@@ -3,6 +3,12 @@ title: "LingQ-alternatieven: kies de leestool die past bij wat je echt leest"
 excerpt: "LingQ is een sterke reader met een krap gratis abonnement en zonder hulp bij het vinden van materiaal op jouw niveau. Het juiste alternatief hangt af van wat je echt leest: zelfgekozen boeken, webartikelen, ondertitels of parallelle teksten."
 publishedAt: "2026-10-28"
 draft: false
+cover: cover.jpg
+coverCredit: "Johannes Vermeer, Woman Reading a Letter, c. 1662–63 · Rijksmuseum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Vermeer,_Johannes_-_Woman_reading_a_letter_-_ca._1662-1663.jpg"
+coverFocus: "center 35%"
+category: "tools"
 ---
 
 Zoek je naar LingQ-alternatieven, dan kom je eerst directory's tegen, geen gidsen. Ze sorteren producten op stemmen en zetten cursus-apps naast leestools, alsof beide hetzelfde werk doen. Dat doen ze niet. Een cursus geeft lessen in een volgorde. Een reader laat je iets echts openen, een woord ter plekke opzoeken en doorlezen. Als je dat tweede wilt, zijn de meeste namen op die lijsten ruis, en als je ze wegfiltert wordt de keuze veel kleiner.

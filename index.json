@@ -5,6 +5,11 @@
       "dir": "chinese-books-for-beginners",
       "publishedAt": "2026-10-30",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "chinese-books-for-beginners",
@@ -84,6 +89,11 @@
       "dir": "word-atlas",
       "publishedAt": "2026-10-29",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "word-atlas",
@@ -162,7 +172,12 @@
     {
       "dir": "lingq-alternatives",
       "publishedAt": "2026-10-28",
-      "cover": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Johannes Vermeer, Woman Reading a Letter, c. 1662–63 · Rijksmuseum",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Vermeer,_Johannes_-_Woman_reading_a_letter_-_ca._1662-1663.jpg",
+      "coverFocus": "center 35%",
+      "category": "tools",
       "locales": {
         "de": {
           "slug": "lingq-alternatives",
@@ -242,6 +257,11 @@
       "dir": "learn-german-by-reading",
       "publishedAt": "2026-10-27",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "learn-german-by-reading",
@@ -321,6 +341,11 @@
       "dir": "russian-graded-readers",
       "publishedAt": "2026-10-26",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "russian-graded-readers",
@@ -400,6 +425,11 @@
       "dir": "learn-chinese-by-reading",
       "publishedAt": "2026-10-25",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "learn-chinese-by-reading",
@@ -479,6 +509,11 @@
       "dir": "italian-books-for-beginners",
       "publishedAt": "2026-10-24",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "italian-books-for-beginners",
@@ -558,6 +593,11 @@
       "dir": "short-stories-in-german-for-beginners",
       "publishedAt": "2026-10-23",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "short-stories-in-german-for-beginners",
@@ -637,6 +677,11 @@
       "dir": "short-stories-in-italian-for-beginners",
       "publishedAt": "2026-10-22",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "short-stories-in-italian-for-beginners",
@@ -716,6 +761,11 @@
       "dir": "japanese-books-for-beginners",
       "publishedAt": "2026-10-21",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "japanese-books-for-beginners",
@@ -795,6 +845,11 @@
       "dir": "german-books-for-beginners",
       "publishedAt": "2026-10-20",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "german-books-for-beginners",
@@ -874,6 +929,11 @@
       "dir": "french-books-for-beginners",
       "publishedAt": "2026-10-19",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "french-books-for-beginners",
@@ -953,6 +1013,11 @@
       "dir": "free-language-learning-resources",
       "publishedAt": "2026-10-18",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "free-language-learning-resources",
@@ -1032,6 +1097,11 @@
       "dir": "learn-french-by-reading",
       "publishedAt": "2026-10-18",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "learn-french-by-reading",
@@ -1111,6 +1181,11 @@
       "dir": "dual-language-books",
       "publishedAt": "2026-10-17",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "dual-language-books",
@@ -1190,6 +1265,11 @@
       "dir": "comprehensible-input",
       "publishedAt": "2026-10-16",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "comprehensible-input",
@@ -1269,6 +1349,11 @@
       "dir": "chinese-graded-readers",
       "publishedAt": "2026-10-15",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "chinese-graded-readers",
@@ -1348,6 +1433,11 @@
       "dir": "short-stories-in-french-for-beginners",
       "publishedAt": "2026-10-14",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "short-stories-in-french-for-beginners",
@@ -1427,6 +1517,11 @@
       "dir": "korean-graded-readers",
       "publishedAt": "2026-10-13",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "korean-graded-readers",
@@ -1506,6 +1601,11 @@
       "dir": "learn-japanese-by-reading",
       "publishedAt": "2026-10-12",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "learn-japanese-by-reading",
@@ -1585,6 +1685,11 @@
       "dir": "spanish-books-for-beginners",
       "publishedAt": "2026-10-11",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "spanish-books-for-beginners",
@@ -1664,6 +1769,11 @@
       "dir": "short-stories-in-spanish-for-beginners",
       "publishedAt": "2026-10-10",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "short-stories-in-spanish-for-beginners",
@@ -1743,6 +1853,11 @@
       "dir": "german-graded-readers-a1-a2-b1",
       "publishedAt": "2026-10-09",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "german-graded-readers-a1-a2-b1",
@@ -1822,6 +1937,11 @@
       "dir": "how-to-read-a-book-above-your-level",
       "publishedAt": "2026-10-09",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "how-to-read-a-book-above-your-level",
@@ -1901,6 +2021,11 @@
       "dir": "italian-graded-readers-a1-a2-b1",
       "publishedAt": "2026-10-09",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "italian-graded-readers-a1-a2-b1",
@@ -1980,6 +2105,11 @@
       "dir": "japanese-graded-readers",
       "publishedAt": "2026-10-09",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "japanese-graded-readers",
@@ -2071,6 +2201,11 @@
       "dir": "learn-spanish-by-reading",
       "publishedAt": "2026-10-09",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "learn-spanish-by-reading",
@@ -2150,6 +2285,11 @@
       "dir": "what-to-read-after-your-first-graded-reader",
       "publishedAt": "2026-10-09",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "what-to-read-after-your-first-graded-reader",
@@ -2241,6 +2381,11 @@
       "dir": "spanish-graded-readers-a1-a2-b1",
       "publishedAt": "2026-10-08",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "spanish-graded-readers-a1-a2-b1",
@@ -2320,6 +2465,11 @@
       "dir": "french-graded-readers-a1-a2-b1",
       "publishedAt": "2026-10-03",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "french-graded-readers-a1-a2-b1",
@@ -2399,6 +2549,11 @@
       "dir": "the-world-is-never-just-one-version",
       "publishedAt": "2026-08-11",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "the-world-is-never-just-one-version",
@@ -2478,6 +2633,11 @@
       "dir": "how-many-words-to-read-a-book-foreign-language",
       "publishedAt": "2026-07-15",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "how-many-words-to-read-a-book-foreign-language",
@@ -2557,6 +2717,11 @@
       "dir": "reread-a-book-you-know-foreign-language",
       "publishedAt": "2026-07-14",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "reread-a-book-you-know-foreign-language",
@@ -2636,6 +2801,11 @@
       "dir": "learn-vocabulary-from-reading",
       "publishedAt": "2026-07-12",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "learn-vocabulary-from-reading",
@@ -2715,6 +2885,11 @@
       "dir": "intensive-vs-extensive-reading",
       "publishedAt": "2026-07-02",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "intensive-vs-extensive-reading",
@@ -2794,6 +2969,11 @@
       "dir": "how-long-to-read-a-novel-in-a-new-language",
       "publishedAt": "2026-07-01",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "how-long-to-read-a-novel-in-a-new-language",
@@ -2873,6 +3053,11 @@
       "dir": "reading-with-a-translation-open",
       "publishedAt": "2026-06-29",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "reading-with-a-translation-open",
@@ -2952,6 +3137,11 @@
       "dir": "how-to-finish-a-foreign-language-book",
       "publishedAt": "2026-06-28",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "how-to-finish-a-foreign-language-book",
@@ -3031,6 +3221,11 @@
       "dir": "read-like-a-berliner-7-short-german-books",
       "publishedAt": "2026-06-26",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "read-like-a-berliner-7-short-german-books",
@@ -3110,6 +3305,11 @@
       "dir": "7-short-french-novels-summer-2026",
       "publishedAt": "2026-06-15",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "7-short-french-novels-summer-2026",
@@ -3189,6 +3389,11 @@
       "dir": "how-to-remember-words-you-read",
       "publishedAt": "2026-06-15",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "how-to-remember-words-you-read",
@@ -3268,6 +3473,11 @@
       "dir": "should-you-look-up-every-word-when-reading",
       "publishedAt": "2026-06-13",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "should-you-look-up-every-word-when-reading",
@@ -3347,6 +3557,11 @@
       "dir": "how-to-learn-a-language-by-reading",
       "publishedAt": "2026-06-10",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "how-to-learn-a-language-by-reading",
@@ -3426,6 +3641,11 @@
       "dir": "how-many-words-to-read-in-a-new-language",
       "publishedAt": "2026-06-07",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "how-many-words-to-read-in-a-new-language",
@@ -3505,6 +3725,11 @@
       "dir": "how-to-choose-your-first-book-in-a-foreign-language",
       "publishedAt": "2026-06-03",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "how-to-choose-your-first-book-in-a-foreign-language",
@@ -3584,6 +3809,11 @@
       "dir": "where-to-find-free-books-in-any-language",
       "publishedAt": "2026-05-30",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "where-to-find-free-books-in-any-language",
@@ -3663,6 +3893,11 @@
       "dir": "quit-duolingo-30-day-german-plan",
       "publishedAt": "2026-05-29",
       "cover": null,
+      "coverCredit": null,
+      "coverLicense": null,
+      "coverSource": null,
+      "coverFocus": null,
+      "category": null,
       "locales": {
         "de": {
           "slug": "quit-duolingo-30-day-german-plan",

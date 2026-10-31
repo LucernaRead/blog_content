@@ -3,6 +3,12 @@ title: "LingQ 的替代品：按你真正读的东西选阅读工具"
 excerpt: "LingQ 是个扎实的阅读器，但免费版额度很紧，而且不帮你找难度合适的材料。合适的替代品取决于你真正读什么：自己选的书、网页文章、字幕，还是双语对照文本。"
 publishedAt: "2026-10-28"
 draft: false
+cover: cover.jpg
+coverCredit: "Johannes Vermeer, Woman Reading a Letter, c. 1662–63 · Rijksmuseum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Vermeer,_Johannes_-_Woman_reading_a_letter_-_ca._1662-1663.jpg"
+coverFocus: "center 35%"
+category: "tools"
 ---
 
 搜“LingQ 的替代品”，最先跳出来的往往是目录站，不是选购指南。它们按投票给产品排序，把课程类应用和阅读工具排在一起，好像 Duolingo 和阅读器是同一回事。其实不是。课程是按顺序教课，阅读器是让你打开真实材料，站在原地查一个词，然后继续读下去。如果你要的是后者，那些榜单上的多数名字都是噪音，滤掉之后选择其实很小。

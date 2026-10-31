@@ -31,7 +31,7 @@
  * 为什么值得有这个 lint:这三条一旦破了,坏处都是**构建时才炸或者根本不炸**
  * (图片 404 上线了才发现)。结构约束在写的时候拦住最便宜。
  */
-import { readdirSync, readFileSync, writeFileSync, existsSync } from 'node:fs';
+import { readdirSync, readFileSync, writeFileSync, existsSync, statSync } from 'node:fs';
 import { join, extname } from 'node:path';
 
 /** 与 app 的 UI 语言一致(payload/locales.ts 的 BLOG_LOCALES)。 */
@@ -65,6 +65,28 @@ const SLUG_RE = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
 const INDEX_FILE = 'index.json';
 const REQUIRED_FM = ['title', 'excerpt', 'publishedAt', 'draft'];
 
+/**
+ * 封面(配图)规则 —— 写作流程见 AGENTS.md「配图」。
+ *
+ * 博客改版后每篇文章都有一张公版名画做封面,列表卡片、首屏和文章题图都用它,
+ * 图下必须显示出处。规则在这里硬拦,而不是只写在文档里:内容由 AI 每天更新,
+ * 文档会被跳过,lint 不会。
+ *
+ * 只对 COVER_REQUIRED_FROM 及之后发布的文章**强制要求**有封面和栏目 —— 之前的
+ * 47 篇由站点按 slug 兜底配图,不因为新规则突然全部提交不了。但只要写了 cover,
+ * 不论新旧,出处 / 授权 / 来源都必须齐。
+ */
+const COVER_REQUIRED_FROM = '2026-10-31';
+/** 封面相关字段:12 个语言版本必须**完全一致**(站点按语言读 md,任一语言缺了就掉回兜底图)。 */
+const COVER_KEYS = ['cover', 'coverCredit', 'coverLicense', 'coverSource', 'coverFocus', 'category'];
+const COVER_LICENSES = ['CC0', 'public-domain'];
+const CATEGORIES = ['lists', 'method', 'tools', 'language'];
+const COVER_EXTS = ['.jpg', '.jpeg', '.png', '.webp'];
+/** 卡片上显示约 300px 宽;1000px 宽、质量 ~72 的 jpg 通常 100–300KB。超过多半是没压缩。 */
+const COVER_MAX_BYTES = 400 * 1024;
+/** object-position 的写法:`center` / `center 30%` / `40% 25%` 这类。 */
+const FOCUS_RE = /^(left|center|right|\d{1,3}%)( (top|center|bottom|\d{1,3}%))?$/;
+
 const problems = [];
 const fail = (where, msg) => problems.push(`${where}: ${msg}`);
 
@@ -74,6 +96,9 @@ const index = [];
 
 /** frontmatter 的极简解析 —— 只认 `key: value`,足够校验存在性和格式。 */
 function frontmatter(raw, where) {
+  // Windows 检出(core.autocrlf=true)时文件是 CRLF。不统一的话 `---\n` 一条都对不上,
+  // 每个 md 都被判成「缺少 frontmatter」,提交钩子在 Windows 上必挂。
+  raw = raw.replace(/\r\n?/g, '\n');
   if (!raw.startsWith('---\n')) {
     fail(where, '缺少 frontmatter(文件必须以 `---` 开头)');
     return null;
@@ -107,6 +132,54 @@ function readFrontmatterOf(dir, locale) {
     return frontmatter(readFileSync(join('posts', dir, `${dir}.${locale}.md`), 'utf8'), '') ?? {};
   } catch {
     return {};
+  }
+}
+
+/** 封面与栏目:见 COVER_* 常量上方的说明。base = 默认语言(en)的 frontmatter。 */
+function checkCover(dir, base, files) {
+  const where = `posts/${dir}`;
+  const required = base.publishedAt >= COVER_REQUIRED_FROM && base.draft !== 'true';
+
+  // 12 个语言版本的封面字段必须一致。
+  for (const loc of LOCALES) {
+    if (loc === DEFAULT_LOCALE) continue;
+    const fm = readFrontmatterOf(dir, loc);
+    for (const k of COVER_KEYS) {
+      if ((fm[k] ?? '') !== (base[k] ?? '')) {
+        fail(`${where}/${dir}.${loc}.md`, `\`${k}\` 必须和 en 版完全一致(en:\`${base[k] ?? ''}\`,这里:\`${fm[k] ?? ''}\`)`);
+      }
+    }
+  }
+
+  if (base.category && !CATEGORIES.includes(base.category)) {
+    fail(where, `category 只能是 ${CATEGORIES.join(' / ')},现在是 \`${base.category}\``);
+  }
+  if (required && !base.category) {
+    fail(where, `${COVER_REQUIRED_FROM} 起发布的文章必须写 category(${CATEGORIES.join(' / ')})`);
+  }
+
+  if (!base.cover) {
+    if (required) fail(where, `${COVER_REQUIRED_FROM} 起发布的文章必须有封面 cover —— 找图流程见 AGENTS.md「配图」`);
+    return;
+  }
+  if (!COVER_EXTS.includes(extname(base.cover).toLowerCase())) {
+    fail(where, `cover 必须是 ${COVER_EXTS.join(' / ')},现在是 \`${base.cover}\``);
+  }
+  if (files.includes(base.cover)) {
+    const size = statSync(join('posts', dir, base.cover)).size;
+    if (size > COVER_MAX_BYTES) {
+      fail(where, `cover 有 ${Math.round(size / 1024)}KB,上限 ${COVER_MAX_BYTES / 1024}KB —— 缩到 1000px 宽、jpg 质量 ~72`);
+    }
+  }
+  if (!base.coverCredit) fail(where, 'cover 必须配 coverCredit(作者, 作品名, 年份 · 馆藏 —— 查不到的不写)');
+  if (!COVER_LICENSES.includes(base.coverLicense ?? '')) {
+    fail(where, `coverLicense 只能是 ${COVER_LICENSES.join(' / ')},现在是 \`${base.coverLicense ?? ''}\` —— 其它授权的图不能用`);
+  }
+  if (!/^https:\/\/\S+$/.test(base.coverSource ?? '')) {
+    fail(where, 'cover 必须配 coverSource(授权可查的来源页 URL,如 Wikimedia Commons 的 File: 页)');
+  }
+  if (base.coverFocus && !FOCUS_RE.test(base.coverFocus)) {
+    fail(where, `coverFocus 写成 object-position 的形式,如 \`center 30%\`,现在是 \`${base.coverFocus}\``);
   }
 }
 
@@ -200,12 +273,18 @@ function checkPost(dir) {
     }
   }
 
-  // 收进索引。publishedAt / cover 不随语言变,取默认语言那份。
+  // 收进索引。publishedAt / 封面 / 栏目不随语言变,取默认语言那份。
   const base = readFrontmatterOf(dir, DEFAULT_LOCALE);
+  checkCover(dir, base, files);
   index.push({
     dir,
     publishedAt: base.publishedAt ?? '',
     cover: base.cover || null,
+    coverCredit: base.coverCredit || null,
+    coverLicense: base.coverLicense || null,
+    coverSource: base.coverSource || null,
+    coverFocus: base.coverFocus || null,
+    category: base.category || null,
     locales: byLocale,
   });
 
@@ -296,7 +375,8 @@ function main() {
     return;
   }
 
-  const current = existsSync(INDEX_FILE) ? readFileSync(INDEX_FILE, 'utf8') : null;
+  // Windows 检出的 index.json 是 CRLF,比对前统一,否则永远判成「索引过期」。
+  const current = existsSync(INDEX_FILE) ? readFileSync(INDEX_FILE, 'utf8').replace(/\r\n?/g, '\n') : null;
   if (current !== json) {
     console.error(
       `✗ ${INDEX_FILE} 不是最新的 —— 改完 md 要跑 \`node lint.mjs --write\`。\n` +
