@@ -49,6 +49,6 @@ One last thing, because it determines whether any of this works: the book has to
 
 ## Reading that builds the list for you
 
-[Lucerna](https://lucernaread.com) is built around exactly this smaller move. Upload any EPUB or pull a book from Project Gutenberg, and any word is one tap from its meaning, IPA, and full conjugation or case table — resolved right there, without a second tab or leaving the sentence. Every word you stop on drops into a vocabulary list automatically, so the words you review are the ones you actually met, in the sentences you met them in. English, German, and French today, more on the way. Read the book; keep the words.
+[Lucerna](https://lucernaread.com) is built around exactly this smaller move. Upload any EPUB or pull a book from Project Gutenberg, and any word is one tap from its meaning, IPA, and full conjugation or case table — resolved right there, without a second tab or leaving the sentence. Every word you stop on drops into a vocabulary list automatically, so the words you review are the ones you actually met, in the sentences you met them in. Books in 71 languages, twelve with fuller support. Read the book; keep the words.
 
 *The Reading Journal is the editorial corner of [Lucerna](https://lucernaread.com) — a reading app for language learners. Short essays on getting fluent the slow way: one book, five pages, every night.*

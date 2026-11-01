@@ -8,7 +8,7 @@ Lucerna Reader is a multilingual ebook app for learning languages through real b
 
 ## Is Lucerna free?
 
-Yes. You can try it without an account (1 book, 5 saved words), and a free account raises those limits (5 books, 200 saved words) and syncs across devices. AI translation and sentence analysis run on your own LLM API key (OpenAI, Anthropic, or Google) — their free tiers are usually enough for reading. Or skip the cloud entirely: the desktop app works with local models (Ollama, LM Studio, llama.cpp…), runs offline, costs nothing, and keeps books on your device — no account limits.
+Yes. You can try it without an account (1 book, 5 saved words), and a free account raises those limits (5 books, 200 saved words) and syncs across devices. AI translation and sentence analysis run on your own LLM API key (OpenAI, Anthropic, DeepSeek, Kimi and others); their free tiers are usually enough for reading. The desktop app can also run sentence analysis on a local model (Ollama, LM Studio, llama.cpp), with no cloud and no cost, and books you save to your computer can be read offline without counting toward your account shelf.
 
 ## How much does Lucerna cost?
 
@@ -16,7 +16,7 @@ The Lucerna app is free. Lucerna Cloud is an optional subscription: $3/month or 
 
 ## Which languages can I read in?
 
-The reader works with 12 language options (Simplified and Traditional Chinese counted separately): English, German, French, Spanish, Italian, Portuguese, Dutch, Russian, Japanese, Korean, and Chinese. AI translation and sentence analysis currently cover English, German, and French, with more on the way.
+You can read books in 71 languages. Twelve of them get fuller support: English, German, French, Spanish, Italian, Portuguese, Dutch, Russian, Simplified Chinese, Traditional Chinese, Japanese and Korean. How far each feature goes varies by language and by the model you connect.
 
 ## Can I read my own books?
 
@@ -32,7 +32,7 @@ You never leave the sentence you are reading. Looking up a word or translating a
 
 ## How do I download Lucerna?
 
-The web app needs no download: open lucernaread.com and start reading. The desktop app runs on macOS, Windows, and Linux — get it from lucernaread.com/landing/desktop. Same account, same library, plus offline reading, faster text-to-speech, and OS-native shortcuts.
+The web app needs no download: open lucernaread.com and start reading. The desktop app runs on macOS, Windows and Linux; get it from lucernaread.com/landing/desktop. Same account, same library, plus offline reading, local voices and audiobooks with word-by-word highlighting, and local models.
 
 ## What does the name Lucerna mean?
 

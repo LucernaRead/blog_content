@@ -42,6 +42,6 @@ Do this for a few books and the coverage numbers take care of themselves. You cl
 
 ## Read at the level you're actually at
 
-[Lucerna](https://lucernaread.com) is built for the gap between "knows 3,000 words" and "reads comfortably." Upload any EPUB or pull a free book from Project Gutenberg, and every unknown word — the whole long tail — is one tap from its meaning, IPA, and full conjugation or case table, resolved right on the page without a second tab. The words you stop on collect themselves into a vocabulary list, so you're always studying exactly the words standing between you and the next book. English, German, and French today, more on the way. You don't need 8,000 words to start; you need a way to read while you get there.
+[Lucerna](https://lucernaread.com) is built for the gap between "knows 3,000 words" and "reads comfortably." Upload any EPUB or pull a free book from Project Gutenberg, and every unknown word — the whole long tail — is one tap from its meaning, IPA, and full conjugation or case table, resolved right on the page without a second tab. The words you stop on collect themselves into a vocabulary list, so you're always studying exactly the words standing between you and the next book. Books in 71 languages, twelve with fuller support. You don't need 8,000 words to start; you need a way to read while you get there.
 
 *The Reading Journal is the editorial corner of [Lucerna](https://lucernaread.com) — a reading app for language learners. Short essays on getting fluent the slow way: one book, five pages, every night.*

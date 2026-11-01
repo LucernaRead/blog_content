@@ -8,7 +8,7 @@ Lucerna ist ein mehrsprachiger E-Book-Reader, mit dem du durch echte Bücher Spr
 
 ## Ist Lucerna kostenlos?
 
-Ja. Du kannst es ohne Konto ausprobieren (1 Buch, 5 gespeicherte Wörter), und ein kostenloses Konto erhöht diese Limits (5 Bücher, 200 gespeicherte Wörter) und synchronisiert über Geräte hinweg. KI-Übersetzung und Satzanalyse laufen über deinen eigenen LLM API key (OpenAI, Anthropic oder Google) — deren kostenlose Kontingente reichen zum Lesen meist aus. Oder ganz ohne Cloud: Die Desktop-App funktioniert mit lokalen Modellen (Ollama, LM Studio, llama.cpp …), läuft offline, kostet nichts, und die Bücher bleiben auf deinem Gerät — ohne Konto-Limits.
+Ja. Du kannst es ohne Konto ausprobieren (1 Buch, 5 gespeicherte Wörter), und ein kostenloses Konto erhöht diese Limits (5 Bücher, 200 gespeicherte Wörter) und synchronisiert über Geräte hinweg. KI-Übersetzung und Satzanalyse laufen über deinen eigenen LLM API key (OpenAI, Anthropic, DeepSeek, Kimi und andere); deren kostenlose Kontingente reichen zum Lesen meist aus. Die Desktop-App kann die Satzanalyse auch mit einem lokalen Modell ausführen (Ollama, LM Studio, llama.cpp), ohne Cloud und ohne Kosten. Bücher, die du auf deinem Rechner speicherst, liest du offline, und sie zählen nicht zum Kontoregal.
 
 ## Was kostet Lucerna?
 
@@ -16,7 +16,7 @@ Die Lucerna-App ist kostenlos. Lucerna Cloud ist ein optionales Abo: 3 $ im Mona
 
 ## In welchen Sprachen kann ich lesen?
 
-Der Reader funktioniert mit 12 Sprachoptionen (vereinfachtes und traditionelles Chinesisch separat): Englisch, Deutsch, Französisch, Spanisch, Italienisch, Portugiesisch, Niederländisch, Russisch, Japanisch, Koreanisch und Chinesisch. KI-Übersetzung und Satzanalyse decken derzeit Englisch, Deutsch und Französisch ab — weitere folgen.
+Du kannst Bücher in 71 Sprachen lesen. Zwölf davon haben einen größeren Funktionsumfang: Englisch, Deutsch, Französisch, Spanisch, Italienisch, Portugiesisch, Niederländisch, Russisch, vereinfachtes Chinesisch, traditionelles Chinesisch, Japanisch und Koreanisch. Wie weit die einzelnen Funktionen reichen, hängt von der Sprache und vom angebundenen Modell ab.
 
 ## Kann ich meine eigenen Bücher lesen?
 
@@ -32,7 +32,7 @@ Du verlässt nie den Satz, den du gerade liest. Ein Wort nachschlagen oder eine 
 
 ## Gibt es eine Desktop-App?
 
-Ja — macOS, Windows und Linux, mit demselben Konto und derselben Bibliothek. Die Desktop-App bietet zusätzlich Offline-Lesen, schnellere Sprachausgabe und systemeigene Kurzbefehle.
+Ja — macOS, Windows und Linux, mit demselben Konto und derselben Bibliothek. Die Desktop-App bietet zusätzlich Offline-Lesen, lokale Stimmen und Hörbücher mit Wort-für-Wort-Markierung sowie lokale Modelle.
 
 ## Was bedeutet der Name Lucerna?
 

@@ -8,7 +8,7 @@ Lucerna is een meertalige ebook-reader om talen te leren met echte boeken. Tik o
 
 ## Is Lucerna gratis?
 
-Ja. Je kunt het proberen zonder account (1 boek, 5 opgeslagen woorden), en met een gratis account worden die limieten verhoogd (5 boeken, 200 opgeslagen woorden) en synchroniseert alles tussen apparaten. AI-vertaling en zinsanalyse draaien op je eigen LLM API key (OpenAI, Anthropic of Google) — hun gratis tiers zijn meestal genoeg om te lezen. Of helemaal zonder cloud: de desktop-app werkt met lokale modellen (Ollama, LM Studio, llama.cpp…), offline en gratis, en boeken blijven op je eigen apparaat — zonder accountlimieten.
+Ja. Je kunt het proberen zonder account (1 boek, 5 opgeslagen woorden), en met een gratis account worden die limieten verhoogd (5 boeken, 200 opgeslagen woorden) en synchroniseert alles tussen apparaten. AI-vertaling en zinsanalyse draaien op je eigen LLM API key (OpenAI, Anthropic, DeepSeek, Kimi en andere); hun gratis tiers zijn meestal genoeg om te lezen. De desktop-app kan de zinsanalyse ook met een lokaal model doen (Ollama, LM Studio, llama.cpp), zonder cloud en zonder kosten; boeken die je op je computer bewaart, lees je offline en ze tellen niet mee voor je accountkast.
 
 ## Wat kost Lucerna?
 
@@ -16,7 +16,7 @@ De Lucerna-app is gratis. Lucerna Cloud is een optioneel abonnement: $ 3 per maa
 
 ## In welke talen kan ik lezen?
 
-De reader werkt met 12 taalopties (vereenvoudigd en traditioneel Chinees apart): Engels, Duits, Frans, Spaans, Italiaans, Portugees, Nederlands, Russisch, Japans, Koreaans en Chinees. AI-vertaling en zinsanalyse dekken op dit moment Engels, Duits en Frans, met meer talen onderweg.
+Je kunt boeken lezen in 71 talen. Twaalf daarvan krijgen uitgebreidere functies: Engels, Duits, Frans, Spaans, Italiaans, Portugees, Nederlands, Russisch, vereenvoudigd Chinees, traditioneel Chinees, Japans en Koreaans. Hoe ver elke functie gaat, hangt af van de taal en van het model dat je koppelt.
 
 ## Kan ik mijn eigen boeken lezen?
 
@@ -32,7 +32,7 @@ Je verlaat nooit de zin die je aan het lezen bent. Een woord opzoeken of een pas
 
 ## Is er een desktop-app?
 
-Ja — voor macOS, Windows en Linux, met hetzelfde account en dezelfde bibliotheek. De desktop-app voegt offline lezen toe, snellere tekst-naar-spraak en systeemeigen sneltoetsen.
+Ja — voor macOS, Windows en Linux, met hetzelfde account en dezelfde bibliotheek. De desktop-app voegt offline lezen toe, lokale stemmen en luisterboeken met markering per woord, en lokale modellen.
 
 ## Wat betekent de naam Lucerna?
 

@@ -8,7 +8,7 @@ Lucerna est une liseuse multilingue pour apprendre les langues avec de vrais liv
 
 ## Lucerna est-elle gratuite ?
 
-Oui. Vous pouvez l’essayer sans compte (1 livre, 5 mots enregistrés), et un compte gratuit augmente ces limites (5 livres, 200 mots enregistrés) et synchronise vos appareils. La traduction IA et l’analyse de phrases fonctionnent avec votre propre LLM API key (OpenAI, Anthropic ou Google) — leurs offres gratuites suffisent généralement pour lire. Ou sans cloud du tout : l’app de bureau fonctionne avec des modèles locaux (Ollama, LM Studio, llama.cpp…), hors ligne et gratuitement, et les livres restent sur votre appareil — sans les limites de compte.
+Oui. Vous pouvez l’essayer sans compte (1 livre, 5 mots enregistrés), et un compte gratuit augmente ces limites (5 livres, 200 mots enregistrés) et synchronise vos appareils. La traduction IA et l’analyse de phrases fonctionnent avec votre propre LLM API key (OpenAI, Anthropic, DeepSeek, Kimi, entre autres) ; leurs offres gratuites suffisent généralement pour lire. L’application de bureau peut aussi faire l’analyse de phrases avec un modèle local (Ollama, LM Studio, llama.cpp), sans cloud et sans frais ; les livres enregistrés sur votre ordinateur se lisent hors ligne et ne comptent pas dans la bibliothèque du compte.
 
 ## Combien coûte Lucerna ?
 
@@ -16,7 +16,7 @@ L’application Lucerna est gratuite. Lucerna Cloud est un abonnement facultatif
 
 ## Dans quelles langues puis-je lire ?
 
-Le lecteur fonctionne avec 12 options linguistiques (chinois simplifié et traditionnel inclus) : anglais, allemand, français, espagnol, italien, portugais, néerlandais, russe, japonais, coréen et chinois. La traduction IA et l’analyse de phrases couvrent actuellement l’anglais, l’allemand et le français, et d’autres langues suivront.
+Vous pouvez lire des livres dans 71 langues. Douze d’entre elles bénéficient de fonctions plus complètes : anglais, allemand, français, espagnol, italien, portugais, néerlandais, russe, chinois simplifié, chinois traditionnel, japonais et coréen. La portée de chaque fonction dépend de la langue et du modèle que vous connectez.
 
 ## Puis-je lire mes propres livres ?
 
@@ -32,7 +32,7 @@ Vous ne quittez jamais la phrase que vous lisez. La recherche d’un mot ou la t
 
 ## Existe-t-il une application de bureau ?
 
-Oui — macOS, Windows et Linux, avec le même compte et la même bibliothèque. L’application de bureau ajoute la lecture hors ligne, une synthèse vocale plus rapide et des raccourcis natifs du système.
+Oui — macOS, Windows et Linux, avec le même compte et la même bibliothèque. L’application de bureau ajoute la lecture hors ligne, des voix locales et des livres audio surlignés mot par mot, ainsi que les modèles locaux.
 
 ## Que veut dire le nom Lucerna ?
 

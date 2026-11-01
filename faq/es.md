@@ -8,7 +8,7 @@ Lucerna es un lector de ebooks multilingüe para aprender idiomas con libros de 
 
 ## ¿Lucerna es gratis?
 
-Sí. Puedes probarlo sin cuenta (1 libro, 5 palabras guardadas), y una cuenta gratuita amplía esos límites (5 libros, 200 palabras guardadas) y sincroniza entre dispositivos. La traducción con IA y el análisis de oraciones funcionan con tu propia LLM API key (OpenAI, Anthropic o Google) — sus planes gratuitos suelen bastar para leer. O sin nube en absoluto: la app de escritorio funciona con modelos locales (Ollama, LM Studio, llama.cpp…), sin conexión y gratis, y los libros quedan en tu dispositivo, sin límites de cuenta.
+Sí. Puedes probarlo sin cuenta (1 libro, 5 palabras guardadas), y una cuenta gratuita amplía esos límites (5 libros, 200 palabras guardadas) y sincroniza entre dispositivos. La traducción con IA y el análisis de oraciones funcionan con tu propia LLM API key (OpenAI, Anthropic, DeepSeek, Kimi, entre otros); sus planes gratuitos suelen bastar para leer. La app de escritorio también puede hacer el análisis de oraciones con un modelo local (Ollama, LM Studio, llama.cpp), sin nube y sin coste; los libros que guardas en tu equipo se leen sin conexión y no cuentan para la biblioteca de la cuenta.
 
 ## ¿Cuánto cuesta Lucerna?
 
@@ -16,7 +16,7 @@ La app de Lucerna es gratis. Lucerna Cloud es una suscripción opcional: 3 $ al 
 
 ## ¿En qué idiomas puedo leer?
 
-El lector funciona con 12 opciones de idioma (chino simplificado y tradicional incluidos): inglés, alemán, francés, español, italiano, portugués, neerlandés, ruso, japonés, coreano y chino. La traducción con IA y el análisis de oraciones cubren actualmente inglés, alemán y francés, y hay más en camino.
+Puedes leer libros en 71 idiomas. Doce de ellos tienen funciones más completas: inglés, alemán, francés, español, italiano, portugués, neerlandés, ruso, chino simplificado, chino tradicional, japonés y coreano. Hasta dónde llega cada función depende del idioma y del modelo que conectes.
 
 ## ¿Puedo leer mis propios libros?
 
@@ -32,7 +32,7 @@ Nunca abandonas la oración que estás leyendo. Buscar una palabra o traducir un
 
 ## ¿Hay una app de escritorio?
 
-Sí — macOS, Windows y Linux, con la misma cuenta y biblioteca. La app de escritorio añade lectura sin conexión, texto a voz más rápido y atajos nativos del sistema.
+Sí — macOS, Windows y Linux, con la misma cuenta y biblioteca. La app de escritorio añade lectura sin conexión, voces locales y audiolibros con resaltado palabra por palabra, y modelos locales.
 
 ## ¿Qué significa el nombre Lucerna?
 
