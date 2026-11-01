@@ -96,4 +96,4 @@ node lint.mjs --write    # 校验 + 写出 index.json(改完 md 必须跑这个)
 
 ## 正文分节装饰
 
-主题章节之间用独立一行 `---`，上下留空行。站点将正文横线渲染为蓝蛾动画分割线。普通段落用空行即可；完整写作要求见 [AGENTS.md](./AGENTS.md)，Claude 入口见 [CLAUDE.md](./CLAUDE.md)。
+主题章节之间用独立一行 `---`，上下留空行。站点在每个 `---` 处切节，节间显示居中三个小圆点。普通段落用空行即可；完整写作要求见 [AGENTS.md](./AGENTS.md)，Claude 入口见 [CLAUDE.md](./CLAUDE.md)。
