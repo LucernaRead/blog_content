@@ -46,6 +46,6 @@ Do this and your first "real book" stops being a test you're failing and becomes
 
 ## Turn a book you love into a book you can read
 
-[Lucerna](https://lucernaread.com) is built for exactly this. Upload the EPUB of a book you already know — or pull a free classic from Project Gutenberg — and any word is one tap from its meaning, IPA, and full conjugation or case table, resolved right on the page without a second tab or leaving the sentence. The words you stop on collect themselves into a vocabulary list, so what you review is what you actually met, in the scenes you already love. English, German, and French today, more on the way. Pick the book you know by heart; read it in the language you're learning.
+[Lucerna](https://lucernaread.com) is built for exactly this. Upload the EPUB of a book you already know — or pull a free classic from Project Gutenberg — and any word is one tap from its meaning, IPA, and full conjugation or case table, resolved right on the page without a second tab or leaving the sentence. The words you stop on collect themselves into a vocabulary list, so what you review is what you actually met, in the scenes you already love. Books in 71 languages, twelve with fuller support. Pick the book you know by heart; read it in the language you're learning.
 
 *The Reading Journal is the editorial corner of [Lucerna](https://lucernaread.com) — a reading app for language learners. Short essays on getting fluent the slow way: one book, five pages, every night.*

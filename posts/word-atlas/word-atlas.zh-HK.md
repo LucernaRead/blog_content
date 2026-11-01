@@ -59,7 +59,7 @@ draft: false
 
 ---
 
-## 開始之前的問題
+## 常見問題
 
 ### Word Atlas 免費嗎？
 

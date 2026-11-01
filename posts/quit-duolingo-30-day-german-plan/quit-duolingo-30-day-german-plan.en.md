@@ -67,7 +67,7 @@ You need three things, and you can get all of them free:
 
 That third one is the difference between reading as study and reading as performance. If you can't see what you've actually struggled with, you'll keep re-looking up the same 40 words for a month.
 
-[Lucerna](https://lucernaread.com) is the tool I built around this exact loop: upload any EPUB or PDF, or pull a book straight from Project Gutenberg, tap any word for definition + IPA + full verb conjugation, and your vocab list builds itself as you read. It currently supports English, German, and French queries; Spanish, Japanese, Chinese and more are in development. Free to try, no streak guilt, no AI-generated content — just your book and the tools to read it.
+[Lucerna](https://lucernaread.com) is the tool I built around this exact loop: upload any EPUB or PDF, or pull a book straight from Project Gutenberg, tap any word for definition + IPA + full verb conjugation, and your vocab list builds itself as you read. It reads books in 71 languages; twelve of them, German included, get fuller support. Free to try, no streak guilt, no AI-generated content — just your book and the tools to read it.
 
 ## What the Duolingo moment really means
 
