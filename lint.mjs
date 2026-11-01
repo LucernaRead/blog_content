@@ -60,6 +60,8 @@ const ROOT_ALLOW = new Set([
   'node_modules',
   '.github',
   '.gitignore',
+  // 写作 skill(transcreation / humanizer / humanizer-zh),用法见 AGENTS.md「写法」。
+  '.claude',
 ]);
 const SLUG_RE = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
 const INDEX_FILE = 'index.json';
