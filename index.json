@@ -2,6 +2,90 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "korean-books-for-beginners",
+      "publishedAt": "2026-11-01",
+      "cover": "cover.jpg",
+      "coverCredit": "Kim Hong-do, Seodang",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Danwon_Seodang.jpg",
+      "coverFocus": "center 40%",
+      "category": "lists",
+      "locales": {
+        "de": {
+          "slug": "korean-books-for-beginners",
+          "title": "Koreanische Bücher für Anfänger: Die ersten lohnenden Titel",
+          "excerpt": "Die meisten Koreanisch-Listen sind Lehrbuchlisten. Besser nach Aufgabe wählen: ein Hauptkurs, ein Grammatikbuch, ein Wortschatzbuch und ein kostenloser Lesestart.",
+          "draft": false
+        },
+        "en": {
+          "slug": "korean-books-for-beginners",
+          "title": "Korean Books for Beginners: The First Books Worth Reading",
+          "excerpt": "Most Korean book lists are textbook lists. Start by kind instead: one main course, one grammar reference, one vocabulary book, and a free reading start.",
+          "draft": false
+        },
+        "es": {
+          "slug": "korean-books-for-beginners",
+          "title": "Libros de coreano para principiantes: los primeros que merecen la pena",
+          "excerpt": "Casi todas las listas de libros de coreano son listas de manuales. Mejor elegir por función: un curso principal, una gramática, un vocabulario y un punto de partida gratuito.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "korean-books-for-beginners",
+          "title": "Livres de coréen pour débutants : les premiers titres qui valent le coup",
+          "excerpt": "La plupart des listes de livres de coréen sont des manuels. Choisissez par usage : un cours principal, une grammaire, un vocabulaire et un point de départ gratuit.",
+          "draft": false
+        },
+        "it": {
+          "slug": "korean-books-for-beginners",
+          "title": "Libri di coreano per principianti: i primi titoli che valgono la pena",
+          "excerpt": "Quasi tutte le liste di libri di coreano sono liste di manuali. Meglio scegliere per funzione: un corso principale, una grammatica, un vocabolario e un punto di partenza gratuito.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "korean-books-for-beginners",
+          "title": "韓国語の最初の本：初心者におすすめの選び方",
+          "excerpt": "韓国語の本リストは大半が教科書のリスト。種類から選ぶのが近道。メイン教材、文法書、単語集を1冊ずつ、買う前に無料の読み物で自分のレベルを確かめる。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "korean-books-for-beginners",
+          "title": "한국어 입문 첫 책: 처음 읽을 만한 책 고르기",
+          "excerpt": "한국어 책 목록은 대부분 교재 목록이다. 종류부터 고르는 게 빠르다. 주교재, 문법책, 단어집을 한 권씩, 사기 전에 무료 읽기 자료로 내 수준부터 확인하자.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "korean-books-for-beginners",
+          "title": "Koreaanse boeken voor beginners: de eerste titels die de moeite waard zijn",
+          "excerpt": "De meeste Koreaanse boekenlijsten zijn leerboekenlijsten. Kies liever op functie: één hoofdcursus, één grammaticaboek, één woordenboek en een gratis leesstart.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "korean-books-for-beginners",
+          "title": "Livros de coreano para iniciantes: os primeiros que valem a pena",
+          "excerpt": "Quase todas as listas de livros de coreano são listas de manuais. Melhor escolher por função: um curso principal, uma gramática, um vocabulário e um ponto de partida gratuito.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "korean-books-for-beginners",
+          "title": "Корейские книги для начинающих: первые книги, которые стоит читать",
+          "excerpt": "Почти все списки корейских книг — это списки учебников. Лучше выбирать по назначению: один основной курс, одна грамматика, один словарь и бесплатная проба чтения.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "korean-books-for-beginners",
+          "title": "韓語入門第一書：值得先讀的幾本",
+          "excerpt": "韓語書單大多是教材單。先按用途分：主教材、語法參考、詞彙書各一本，再加一個免費試讀起點，買之前先測自己能讀到哪一級。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "korean-books-for-beginners",
+          "title": "韩语入门第一书：值得先读的几本",
+          "excerpt": "韩语书单大多是教材单。先按用途分：主教材、语法参考、词汇书各一本，再加一个免费试读起点，买之前先测自己能读到哪一级。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "short-stories-in-chinese-for-beginners",
       "publishedAt": "2026-10-31",
       "cover": "cover.jpg",
