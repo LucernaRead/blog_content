@@ -1,6 +1,6 @@
 ---
-title: "Lettura intensiva o estensiva: quale aiuta la scioltezza?"
-excerpt: "Il microscopio e i chilometri: distinguere due modalità di lettura e usarle senza trasformare ogni pagina in una prova."
+title: "Lettura intensiva o estensiva: quale ti rende davvero fluente?"
+excerpt: "Ci sono due modi di leggere in una lingua che stai imparando, e la maggior parte fa quello lento senza accorgersene. Ecco la differenza — e quale ti rende davvero fluente."
 publishedAt: "2026-07-02"
 draft: false
 ---
