@@ -2,6 +2,90 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "short-stories-in-korean-for-beginners",
+      "publishedAt": "2026-11-02",
+      "cover": "cover.jpg",
+      "coverCredit": "Anonymous, Minhwa — Tiger and Magpie, 19th century",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Minhwa-Tiger_and_magpie-043.jpg",
+      "coverFocus": "center 50%",
+      "category": "lists",
+      "locales": {
+        "de": {
+          "slug": "short-stories-in-korean-for-beginners",
+          "title": "Koreanische Kurzgeschichten für Anfänger: Was zuerst lesen?",
+          "excerpt": "Eine Kurzgeschichte ist an einem Abend gelesen. Wähle nach Aufgabe, nicht nach Ruhm: erst kostenlose Proben, dann eine Sammlung, dann ein bekanntes Märchen.",
+          "draft": false
+        },
+        "en": {
+          "slug": "short-stories-in-korean-for-beginners",
+          "title": "Short Stories in Korean for Beginners: What to Read First",
+          "excerpt": "A short story ends before it can defeat you. Pick by job instead of by fame: free samples first, one first collection, then a folktale you already know.",
+          "draft": false
+        },
+        "es": {
+          "slug": "short-stories-in-korean-for-beginners",
+          "title": "Cuentos cortos en coreano para principiantes: qué leer primero",
+          "excerpt": "Un cuento corto se termina en una noche. Elige por función, no por fama: muestras gratuitas, un primer libro, un cuento ya conocido.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "short-stories-in-korean-for-beginners",
+          "title": "Histoires courtes en coréen pour débutants : par quoi commencer ?",
+          "excerpt": "Une histoire courte se lit en une soirée. Choisis par usage, pas par renommée : échantillons gratuits, un premier recueil, un conte connu.",
+          "draft": false
+        },
+        "it": {
+          "slug": "short-stories-in-korean-for-beginners",
+          "title": "Racconti brevi in coreano per principianti: da cosa cominciare",
+          "excerpt": "Un racconto breve si finisce in una sera. Scegli in base alla funzione, non alla fama: campioni gratuiti, una prima raccolta, una fiaba nota.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "short-stories-in-korean-for-beginners",
+          "title": "韓国語初心者の短編小説：最初に読むもの",
+          "excerpt": "短編なら一晩で読み終えられる。有名な本からではなく用途から選ぶ。無料の試し読みを済ませ、短編集を一冊読み終え、筋を知っている民話へ進むのが順序だ。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "short-stories-in-korean-for-beginners",
+          "title": "초보자를 위한 한국어 단편소설: 무엇을 먼저 읽을까",
+          "excerpt": "단편은 하룻밤에 끝낼 수 있다. 유명한 책부터 고르지 말고 용도부터 나누자. 무료 샘플, 첫 번째 선집, 그리고 이미 줄거리를 아는 민담 순서로 읽으면 된다.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "short-stories-in-korean-for-beginners",
+          "title": "Korte verhalen in het Koreaans voor beginners: wat lees je eerst?",
+          "excerpt": "Een kort verhaal lees je in één avond uit. Kies op functie, niet op faam: eerst gratis proeven, dan één eerste verhalenbundel, daarna een volksverhaal waarvan je het plot al kent.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "short-stories-in-korean-for-beginners",
+          "title": "Contos curtos em coreano para iniciantes: o que ler primeiro",
+          "excerpt": "Um conto curto termina numa noite. Escolha pela função, não pela fama: amostras gratuitas, um primeiro livro, um conto já conhecido.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "short-stories-in-korean-for-beginners",
+          "title": "Короткие рассказы на корейском для начинающих: с чего начать",
+          "excerpt": "Короткий рассказ читается за один вечер. Выбирайте по назначению, а не по славе: сначала бесплатные образцы, потом первый сборник, затем сказку, сюжет которой вы уже знаете.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "short-stories-in-korean-for-beginners",
+          "title": "韓語初學者短篇故事：先讀什麼",
+          "excerpt": "短篇一晚就能讀完。別按名氣挑，按用途挑：先讀免費樣篇，再買一本故事集，最後讀一則你早就知道情節的民間故事。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "short-stories-in-korean-for-beginners",
+          "title": "韩语初学者短篇故事：先读什么",
+          "excerpt": "短篇一晚上就能读完。别按名气挑，按用途挑：先读免费样篇，再买一本故事集，最后读一则你早就知道情节的民间故事。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "korean-books-for-beginners",
       "publishedAt": "2026-11-01",
       "cover": "cover.jpg",
