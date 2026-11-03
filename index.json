@@ -2,6 +2,90 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "russian-books-for-beginners",
+      "publishedAt": "2026-11-03",
+      "cover": "cover.jpg",
+      "coverCredit": "Ivan Kramskoi, Reading Woman (Portrait of the Artist's Wife), after 1866",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Ivan_Kramskoy_-_Reading_woman_(portrait_of_artist%27s_wife).jpg",
+      "coverFocus": "center 45%",
+      "category": "lists",
+      "locales": {
+        "de": {
+          "slug": "russian-books-for-beginners",
+          "title": "Russische Bücher für Anfänger: Die ersten Bücher, die sich lohnen",
+          "excerpt": "Lehrbuchlisten oder Stufenlisten helfen Anfängern wenig. Sortieren Sie nach Aufgabe: Hauptkurs, Grammatik, Wortschatzbuch und kostenloser Leseanfang.",
+          "draft": false
+        },
+        "en": {
+          "slug": "russian-books-for-beginners",
+          "title": "Russian Books for Beginners: The First Books Worth Reading",
+          "excerpt": "Most Russian book lists are textbook lists or level lists. Start by job instead: one main course, one grammar reference, one vocabulary book, and a free reading start.",
+          "draft": false
+        },
+        "es": {
+          "slug": "russian-books-for-beginners",
+          "title": "Libros rusos para principiantes: los primeros libros que merecen la pena",
+          "excerpt": "Las listas de libros rusos suelen ser manuales o listas por nivel. Ordene por función: curso principal, gramática, vocabulario y punto de partida gratuito.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "russian-books-for-beginners",
+          "title": "Livres russes pour débutants : les premiers livres qui valent la peine",
+          "excerpt": "La plupart des listes de livres russes sont des manuels ou des listes par niveau. Triez par fonction : cours principal, grammaire, vocabulaire et point de départ gratuit.",
+          "draft": false
+        },
+        "it": {
+          "slug": "russian-books-for-beginners",
+          "title": "Libri russi per principianti: i primi libri che valgono la pena",
+          "excerpt": "Quasi tutti gli elenchi di libri russi sono manuali o elenchi per livello. Ordinate per funzione: corso principale, grammatica, lessico e punto di partenza gratuito.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "russian-books-for-beginners",
+          "title": "ロシア語初心者の本：最初に読むべき本",
+          "excerpt": "ロシア語の本のリストは、教科書のリストか、レベル順のリストになりがちです。種類で選びましょう。主教材1冊、文法参考書1冊、単語集1冊、そして無料の読み始めです。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "russian-books-for-beginners",
+          "title": "러시아어 초보자를 위한 책: 처음 읽을 만한 책",
+          "excerpt": "러시아어 책 목록은 대개 교재 목록이거나 수준별 목록입니다. 종류별로 고르세요. 주교재 한 권, 문법 참고서 한 권, 어휘집 한 권, 그리고 무료 읽기 출발점입니다.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "russian-books-for-beginners",
+          "title": "Russische boeken voor beginners: de eerste boeken die de moeite waard zijn",
+          "excerpt": "De meeste lijsten met Russische boeken zijn leerboekenlijsten of niveaulijsten. Sorteer op taak: hoofdcursus, grammatica, woordenboek en gratis leesbegin.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "russian-books-for-beginners",
+          "title": "Livros russos para iniciantes: os primeiros livros que valem a pena",
+          "excerpt": "A maioria das listas de livros russos são manuais ou listas por nível. Ordene por função: curso principal, gramática, vocabulário e ponto de partida gratuito.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "russian-books-for-beginners",
+          "title": "Русские книги для начинающих: первые книги, которые стоит прочитать",
+          "excerpt": "Большинство списков русских книг — учебники или списки по уровням. Сортируйте по задаче: основной курс, справочник, словарь частотности и бесплатное начало.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "russian-books-for-beginners",
+          "title": "俄語入門書：第一批值得讀的書",
+          "excerpt": "多數俄語書單不是教材單就是分級單。換個分法，按用途選：主課一本、語法參考一本、詞彙書一本，再加一個免費閱讀起點。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "russian-books-for-beginners",
+          "title": "俄语入门书：第一批值得读的书",
+          "excerpt": "多数俄语书单不是教材单就是分级单。换个分法，按用途选：主课一本、语法参考一本、词汇书一本，再加一个免费阅读起点。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "short-stories-in-korean-for-beginners",
       "publishedAt": "2026-11-02",
       "cover": "cover.jpg",
