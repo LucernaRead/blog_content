@@ -2,6 +2,90 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "short-stories-in-russian-for-beginners",
+      "publishedAt": "2026-11-04",
+      "cover": "cover.jpg",
+      "coverCredit": "Sergey Vinogradov, Young Woman Reading, before 1938",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Sergey_Vinogradov_-_Young_Woman_Reading.jpg",
+      "coverFocus": "center 40%",
+      "category": "lists",
+      "locales": {
+        "de": {
+          "slug": "short-stories-in-russian-for-beginners",
+          "title": "Russische Kurzgeschichten für Anfänger: womit zuerst lesen",
+          "excerpt": "Russische Kurzgeschichtenlisten mischen echte Literatur mit Lernerbüchern. Sortiere nach Art: erst kostenlose Kurztexte, dann eine Lernersammlung, dann zweisprachige Klassiker.",
+          "draft": false
+        },
+        "en": {
+          "slug": "short-stories-in-russian-for-beginners",
+          "title": "Short Stories in Russian for Beginners: What to Read First",
+          "excerpt": "Most Russian story lists mix real literature with learner books. Start by kind: free short texts first, one learner collection second, parallel-text classics third.",
+          "draft": false
+        },
+        "es": {
+          "slug": "short-stories-in-russian-for-beginners",
+          "title": "Cuentos cortos en ruso para principiantes: qué leer primero",
+          "excerpt": "Las listas de cuentos rusos mezclan literatura real y libros para estudiantes. Ordena por tipo: textos cortos gratis, luego una colección, luego clásicos paralelos.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "short-stories-in-russian-for-beginners",
+          "title": "Premières nouvelles russes pour débutants : par quoi commencer",
+          "excerpt": "Les listes de nouvelles russes mélangent vraie littérature et livres pour apprenants. Triez par genre : textes courts gratuits, puis un recueil, puis des classiques bilingues.",
+          "draft": false
+        },
+        "it": {
+          "slug": "short-stories-in-russian-for-beginners",
+          "title": "Racconti brevi in russo per principianti: cosa leggere per primo",
+          "excerpt": "Le liste di racconti russi mescolano letteratura vera e libri per studenti. Ordina per tipo: testi brevi gratuiti, poi una raccolta, poi classici in testo parallelo.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "short-stories-in-russian-for-beginners",
+          "title": "ロシア語初心者の短編小説、最初に読むもの",
+          "excerpt": "ロシア語の短編リストは、純文学と学習者向けの本が混ざっている。種類で分けよう。無料の短いテキストから始め、学習者向け短編集を一冊買い、対訳の古典へ進む。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "short-stories-in-russian-for-beginners",
+          "title": "러시아어 초보자를 위한 단편소설, 무엇을 먼저 읽을까",
+          "excerpt": "러시아어 단편 목록은 순문학과 학습자용 책을 섞어 놓는다. 종류부터 나누자. 무료 짧은 텍스트가 먼저, 학습자용 단편집 한 권이 다음, 대역본 고전이 마지막이다.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "short-stories-in-russian-for-beginners",
+          "title": "Korte Russische verhalen voor beginners: waarmee eerst beginnen",
+          "excerpt": "Russische verhalenlijsten mengen echte literatuur met leerboeken. Sorteer op soort: gratis korte teksten, dan één bundel, dan tweetalige klassiekers.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "short-stories-in-russian-for-beginners",
+          "title": "Contos curtos em russo para iniciantes: o que ler primeiro",
+          "excerpt": "As listas de contos russos misturam literatura real e livros para estudantes. Ordene por tipo: textos curtos grátis, depois uma coletânea, depois clássicos paralelos.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "short-stories-in-russian-for-beginners",
+          "title": "Короткие рассказы на русском для начинающих: с чего начать",
+          "excerpt": "Списки русских рассказов смешивают настоящую литературу и учебные книги. Разделите по видам: бесплатные короткие тексты, потом учебный сборник, потом параллельная классика.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "short-stories-in-russian-for-beginners",
+          "title": "俄語初學者短篇小說：先讀什麼",
+          "excerpt": "多數俄語短篇書單把真文學和學習者讀物混在一起。先按種類分：免費短文本打頭，一本學習者故事集居中，對照文本經典殿後。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "short-stories-in-russian-for-beginners",
+          "title": "俄语初学者短篇小说：先读什么",
+          "excerpt": "多数俄语短篇书单把真文学和学习者读物混在一起。先按种类分：免费短文本打头，一本学习者故事集居中，对照文本经典殿后。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "russian-books-for-beginners",
       "publishedAt": "2026-11-03",
       "cover": "cover.jpg",
