@@ -2,6 +2,90 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "learn-russian-by-reading",
+      "publishedAt": "2026-11-05",
+      "cover": "cover.jpg",
+      "coverCredit": "Nikolay Bogdanov-Belsky, Mental Arithmetic in the Public School of S. A. Rachinsky, 1895 · Tretyakov Gallery",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Bogdanov-Belsky_Ustny_Schet_(Tretyakov).jpg",
+      "coverFocus": "center 40%",
+      "category": "method",
+      "locales": {
+        "de": {
+          "slug": "learn-russian-by-reading",
+          "title": "Russisch lernen durch Lesen",
+          "excerpt": "Eine Leseleiter für das Russische: erst Lesetexte für Lernende, dann Kasus und Aspektpaare erklärt, ein Zehn-Minuten-Test und eine Routine, die Seite und Klang verbindet.",
+          "draft": false
+        },
+        "en": {
+          "slug": "learn-russian-by-reading",
+          "title": "How to Learn Russian by Reading",
+          "excerpt": "A reading ladder built for Russian itself: graded readers first, the case system and aspect pairs explained, a ten-minute sample test, and a routine that pairs the page with sound.",
+          "draft": false
+        },
+        "es": {
+          "slug": "learn-russian-by-reading",
+          "title": "Cómo aprender ruso leyendo",
+          "excerpt": "Una escalera de lectura pensada para el ruso: lectores graduados, casos y pares de aspecto explicados, una prueba de diez minutos y una rutina que une página y sonido.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "learn-russian-by-reading",
+          "title": "Apprendre le russe en lisant",
+          "excerpt": "Une échelle de lecture pour le russe lui-même : lectures graduées, cas et paires d'aspect expliqués, un test de dix minutes, et une routine qui associe la page au son.",
+          "draft": false
+        },
+        "it": {
+          "slug": "learn-russian-by-reading",
+          "title": "Imparare il russo leggendo: la scala giusta per cominciare",
+          "excerpt": "Una scala di lettura pensata per il russo: letture graduate, casi e coppie aspettuali spiegati, un test di dieci minuti e una routine che unisce pagina e audio.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "learn-russian-by-reading",
+          "title": "読書でロシア語を学ぶ方法",
+          "excerpt": "ロシア語そのものに合わせた読書の階段。やさしい読み物から始め、格変化と動詞の相を解説し、10分間の試し読みと音を添えた習慣を紹介する。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "learn-russian-by-reading",
+          "title": "읽기로 배우는 러시아어",
+          "excerpt": "단계별 읽기 책부터 격과 상의 원리, 열 분 샘플 테스트, 페이지와 소리를 짝짓는 루틴까지. 러시아어 자체에 맞춘 읽기 사다리.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "learn-russian-by-reading",
+          "title": "Russisch leren door te lezen: een ladder die bij de taal past",
+          "excerpt": "Een leesladder voor het Russisch zelf: leesteksten voor leerders, naamvallen en aspectparen uitgelegd, een test van tien minuten, en een routine die lezen aan luisteren koppelt.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "learn-russian-by-reading",
+          "title": "Aprender russo lendo: do alfabeto ao primeiro livro",
+          "excerpt": "Uma escada de leitura feita para o russo: textos graduados primeiro, casos e pares de aspecto explicados, um teste de dez minutos e uma rotina que junta a página ao som.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "learn-russian-by-reading",
+          "title": "Как учить русский язык, читая книги",
+          "excerpt": "Лестница чтения под русский язык: сначала адаптированные тексты, потом падежи и видовые пары, десятиминутный пробный тест и распорядок, где страница идёт вместе со звуком.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "learn-russian-by-reading",
+          "title": "靠讀書學俄文",
+          "excerpt": "為俄文度身訂做的閱讀階梯：先讀分級讀物，講解格變與體的配對，附十分鐘試讀法，配合同步聽音的閱讀習慣。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "learn-russian-by-reading",
+          "title": "怎样用阅读学俄语",
+          "excerpt": "一条为俄语本身搭的阅读阶梯：先读分级读物，讲清变格与体，附十分钟选书测试和阅读加听力的日常做法。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "short-stories-in-russian-for-beginners",
       "publishedAt": "2026-11-04",
       "cover": "cover.jpg",
