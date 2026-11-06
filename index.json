@@ -2,6 +2,90 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "learn-english-by-reading",
+      "publishedAt": "2026-11-06",
+      "cover": "cover.jpg",
+      "coverCredit": "Jean-Honoré Fragonard, Young Girl Reading, c. 1769 · National Gallery of Art",
+      "coverLicense": "CC0",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Jean_Honor%C3%A9_Fragonard,_Young_Girl_Reading,_c._1769,_NGA_46303.jpg",
+      "coverFocus": "center 40%",
+      "category": "method",
+      "locales": {
+        "de": {
+          "slug": "learn-english-by-reading",
+          "title": "Englisch lernen durch Lesen",
+          "excerpt": "Englisch belohnt Leser, aber Rechtschreibung, Phrasal Verbs und unregelmäßige Verben bestrafen Raten. Stufe wählen, Buch in zehn Minuten testen, Wörter behalten.",
+          "draft": false
+        },
+        "en": {
+          "slug": "learn-english-by-reading",
+          "title": "How to Learn English by Reading",
+          "excerpt": "English rewards readers, but its spelling, phrasal verbs and irregular verbs punish guesswork. Pick the right level, test a book in ten minutes, keep the words you meet.",
+          "draft": false
+        },
+        "es": {
+          "slug": "learn-english-by-reading",
+          "title": "Cómo aprender inglés leyendo",
+          "excerpt": "El inglés premia al lector, pero ortografía, phrasal verbs y verbos irregulares castigan la adivinanza. Elige el nivel, prueba un libro en diez minutos, guarda las palabras.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "learn-english-by-reading",
+          "title": "Apprendre l'anglais en lisant",
+          "excerpt": "L'anglais récompense le lecteur, mais orthographe, verbes à particule et verbes irréguliers punissent les devinettes. Choisir le niveau, tester un livre, retenir les mots.",
+          "draft": false
+        },
+        "it": {
+          "slug": "learn-english-by-reading",
+          "title": "Imparare l'inglese leggendo",
+          "excerpt": "L'inglese premia chi legge, ma ortografia, phrasal verb e verbi irregolari puniscono chi indovina. Scegliere il livello, provare un libro in dieci minuti, conservare le parole.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "learn-english-by-reading",
+          "title": "読書で英語を学ぶ方法",
+          "excerpt": "英語はつづりと発音がずれ、句動詞と不規則動詞が多い。レベルに合った本を選び、10分で試し読みし、単語を仕組みでため、読むことと聞くことを組み合わせる方法。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "learn-english-by-reading",
+          "title": "읽기로 배우는 영어",
+          "excerpt": "영어는 철자와 발음이 어긋나고, 구동사와 불규칙 동사가 많다. 수준에 맞는 책을 고르고, 10분간 시험 삼아 읽고, 단어를 체계적으로 모으고, 읽기와 듣기를 함께 하는 방법.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "learn-english-by-reading",
+          "title": "Engels leren door te lezen",
+          "excerpt": "Engels beloont lezers, maar spelling, phrasal verbs en onregelmatige werkwoorden straffen gokken af. Kies het niveau, test een boek in tien minuten, bewaar woorden systematisch.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "learn-english-by-reading",
+          "title": "Aprender inglês lendo",
+          "excerpt": "O inglês recompensa quem lê, mas ortografia, phrasal verbs e verbos irregulares punem o palpite. Escolher o nível, testar um livro em dez minutos, guardar as palavras.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "learn-english-by-reading",
+          "title": "Как учить английский язык, читая книги",
+          "excerpt": "Английский вознаграждает читателей, но правописание, фразовые глаголы и неправильные глаголы карают догадки. Выбрать уровень, проверить книгу за десять минут, сохранять слова.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "learn-english-by-reading",
+          "title": "靠閱讀學英語的方法",
+          "excerpt": "英語拼寫與發音脫節，動詞短語和不規則動詞又多。按級別選書、十分鐘試讀、成體系地存詞，再把閱讀和聽力配起來。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "learn-english-by-reading",
+          "title": "靠阅读学英语的方法",
+          "excerpt": "英语拼写与发音脱节，动词短语和不规则动词又多。按级别选书、十分钟试读、成体系地存词，再把阅读和听力配起来。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "learn-russian-by-reading",
       "publishedAt": "2026-11-05",
       "cover": "cover.jpg",
