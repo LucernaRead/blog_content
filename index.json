@@ -2,6 +2,90 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "short-stories-in-english-for-beginners",
+      "publishedAt": "2026-11-07",
+      "cover": "cover.jpg",
+      "coverCredit": "Arthur Rackham, Frontispiece to English Fairy Tales, 1927",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Frontispiece_to_English_Fairy_Tales_(Steel).png",
+      "coverFocus": "center 40%",
+      "category": "lists",
+      "locales": {
+        "de": {
+          "slug": "short-stories-in-english-for-beginners",
+          "title": "Englische Kurzgeschichten für Anfänger: Was man zuerst liest",
+          "excerpt": "Eine Kurzgeschichte endet, bevor sie einen besiegen kann. Fang kostenlos an, kauf eine Sammlung, lies Geschichten, die du schon kennst, und prüf das Niveau, bevor du zahlst.",
+          "draft": false
+        },
+        "en": {
+          "slug": "short-stories-in-english-for-beginners",
+          "title": "Short Stories in English for Beginners: What to Read First",
+          "excerpt": "A short story ends before it can defeat you. Start free, buy one collection, read stories you already know, and test the level before you pay.",
+          "draft": false
+        },
+        "es": {
+          "slug": "short-stories-in-english-for-beginners",
+          "title": "Cuentos cortos en inglés para empezar a leer de verdad",
+          "excerpt": "Un cuento corto termina antes de vencerte. Empieza gratis, compra una sola colección, lee historias que ya conoces y comprueba el nivel antes de pagar.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "short-stories-in-english-for-beginners",
+          "title": "Des nouvelles en anglais pour débutants : par quoi commencer",
+          "excerpt": "Une nouvelle se termine avant de pouvoir vous vaincre. Commencez gratuitement, achetez un recueil, lisez des histoires que vous connaissez, et vérifiez le niveau avant de payer.",
+          "draft": false
+        },
+        "it": {
+          "slug": "short-stories-in-english-for-beginners",
+          "title": "Racconti in inglese per principianti: da dove cominciare",
+          "excerpt": "Un racconto finisce prima di poterti sconfiggere. Inizia gratis, compra una sola raccolta, leggi storie che conosci già e verifica il livello prima di pagare.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "short-stories-in-english-for-beginners",
+          "title": "英語初心者は短編小説からはじめよう",
+          "excerpt": "短編小説は、あなたを打ち負かす前に終わります。まず無料で読み、短編集を一冊買い、すでに筋を知っている話を読み、お金を払う前にレベルを試しましょう。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "short-stories-in-english-for-beginners",
+          "title": "영어 첫 책은 단편소설부터",
+          "excerpt": "단편소설은 지기 전에 끝난다. 무료로 시작하고, 모음집 한 권을 사서, 이미 아는 이야기를 읽고, 사기 전에 수준을 확인하라.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "short-stories-in-english-for-beginners",
+          "title": "Korte Engelse verhalen voor beginners: zo begin je echt",
+          "excerpt": "Een kort verhaal is uit voordat het je kan verslaan. Begin gratis, koop één bundel, lees verhalen die je al kent en test het niveau voordat je betaalt.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "short-stories-in-english-for-beginners",
+          "title": "Contos curtos em inglês para começar a ler de verdade",
+          "excerpt": "Um conto curto termina antes de te vencer. Começa de graça, compra uma só coletânea, lê histórias que já conheces e testa o nível antes de pagar.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "short-stories-in-english-for-beginners",
+          "title": "Короткие рассказы на английском для начинающих: с чего начать",
+          "excerpt": "Короткий рассказ заканчивается раньше, чем успеет вас победить. Начните бесплатно, купите один сборник, читайте знакомые сюжеты и проверьте уровень до покупки.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "short-stories-in-english-for-beginners",
+          "title": "英文初學者，先由短篇故事讀起",
+          "excerpt": "短篇故事喺打敗你之前就會完結。先免費讀，再買一本合集，讀你已經知道情節的故事，畀錢之前先試吓難度。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "short-stories-in-english-for-beginners",
+          "title": "英语初学者，先从短篇故事开始",
+          "excerpt": "短篇故事读完之前不会打败你。先免费读，再买一本合集，读你已经知道情节的故事，付钱之前先测难度。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "learn-english-by-reading",
       "publishedAt": "2026-11-06",
       "cover": "cover.jpg",
