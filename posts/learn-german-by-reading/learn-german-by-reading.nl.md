@@ -3,6 +3,12 @@ title: "Duits leren door te lezen"
 excerpt: "Duits leren door te lezen met een ladder die voor het Duits zelf is gebouwd: eerst leesteksten voor leerders, dan naamvallen en zinnen met het werkwoord achteraan uitgelegd, een tienminutentest om een boek te kiezen en een routine die de bladzijde aan klank koppelt."
 publishedAt: "2026-10-27"
 draft: false
+cover: cover.jpg
+coverCredit: "Franz Marc, The Bewitched Mill, 1913 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Franz_Marc_-_The_Bewitched_Mill_-_Google_Art_Project.jpg"
+coverFocus: "center 42%"
+category: "language"
 ---
 
 Duits geeft de lezer een voorsprong en een waarschuwing tegelijk. De voorsprong is de woordenschat. Engels en Duits hebben een gemeenschappelijke wortel, dus een beginner die een Duitse bladzijde opent, komt overal vertrouwde vormen tegen: *Haus* en house, *Wasser* en water, *Buch* en book, *Freund* en friend. De waarschuwing is de grammatica. Duits draagt zijn grammatica openlijk op de bladzijde. De kleine woorden veranderen van vorm, het werkwoord verhuist, en twee bekende woorden plakken aan elkaar tot één woord dat je niet kent. Wie die vier bewegingen vroeg herkent, voor wie ziet een Duitse bladzijde er niet meer uit als een hoop nieuwe woorden.

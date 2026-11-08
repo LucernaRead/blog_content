@@ -3,6 +3,12 @@ title: "Como aprender chinês lendo"
 excerpt: "Aprenda chinês lendo desde sua primeira história com pinyin: como enxergar palavras em um texto sem espaços, como retirar o pinyin em etapas, como subir de leituras graduadas para notícias graduadas e como evitar as três armadilhas que travam os leitores de chinês."
 publishedAt: "2026-10-25"
 draft: false
+cover: cover.jpg
+coverCredit: "Fan Kuan, Travelers Among Mountains and Streams, c. 1000 · National Palace Museum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Fan_Kuan_-_Travelers_Among_Mountains_and_Streams_-_Google_Art_Project.jpg"
+coverFocus: "center 45%"
+category: "language"
 ---
 
 É possível aprender chinês lendo, mas o chinês muda a ordem das operações. Em espanhol ou em francês, o alfabeto permite ler uma página em voz alta desde o primeiro dia, e o único muro é o vocabulário. Em chinês, a própria página faz parte da lição: não há espaços entre palavras, os caracteres não soletram o próprio som e os tons mudam o significado.

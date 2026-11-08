@@ -3,6 +3,12 @@ title: "Histoires courtes en italien pour débutants : quoi lire en premier"
 excerpt: "Commencez par des histoires courtes en italien que vous pouvez vraiment finir : des textes A1 gratuits pour tester votre niveau, une histoire honnêtement A1, et deux recueils A2-B1 vérifiés par édition."
 publishedAt: "2026-10-22"
 draft: false
+cover: cover.jpg
+coverCredit: "Canaletto, The Bacino di San Marco, c. 1738 · Museum of Fine Arts, Boston"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Boston,_Museum_of_Fine_Art_-_Il_bacino_di_San_Marco_c.1738_-_Canaletto.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 Votre premier livre en italien n'a pas besoin d'être un roman. Une histoire courte vous donne une intrigue complète en une ou deux séances, et un recueil vous donne cette arrivée encore et encore, avec de nouveaux personnages à chaque fois au lieu de la même distribution pendant un mois. Les recueils d'histoires courtes en italien pour débutants sont faits pour ce rythme.

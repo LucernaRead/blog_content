@@ -3,6 +3,12 @@ title: "Cuántas palabras hay que leer para que se vuelva fácil"
 excerpt: "Hay un umbral —alrededor de 1.000 palabras— donde leer deja de parecer descifrar y empieza a parecer leer. Qué es y cómo alcanzarlo antes."
 publishedAt: "2026-06-07"
 draft: false
+cover: cover.jpg
+coverCredit: "Kate Greenaway, A Apple Pie, 1886"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:A_Apple_Pie,_C.jpg"
+coverFocus: "center 30%"
+category: "method"
 ---
 
 Las primeras mil palabras son las más duras, porque cada una es una parada. Encuentras una palabra, la buscas, pierdes el hilo, vuelves a empezar la frase. Se parece menos a leer que a hacer arqueología: cepillar la tierra de una pieza cada vez y no ver nunca el yacimiento entero.

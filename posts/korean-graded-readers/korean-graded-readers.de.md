@@ -3,6 +3,12 @@ title: "Koreanische Graded Readers: So fangen Sie auf Ihrem Niveau an zu lesen"
 excerpt: "Lesen Sie Koreanisch mit Graded Readers: wie sich die Niveausysteme TOPIK, TTMIK und GER unterscheiden, fünf ehrliche Einstiege vom kostenlosen Online-Text bis zur B1-Geschichtensammlung und ein Zehn-Minuten-Probentest."
 publishedAt: "2026-10-13"
 draft: false
+cover: cover.jpg
+coverCredit: "Anonymous, Munja-Chaekgeori Screen (Character-Books Screen), detail · Cleveland Museum of Art"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Anonymous_-_Munja-Chaekgeori_Screen_(Character-Books_Screen)_-_2017.6_-_Cleveland_Museum_of_Art.tiff"
+coverFocus: "center 40%"
+category: "lists"
 ---
 
 Koreanisch hat den Ruf eines freundlichen Alphabets und eines unfreundlichen Sprungs. Hangul lässt sich in wenigen Tagen lernen, und trotzdem bleiben die meisten Anfänger vor echten Büchern stehen: Der Wortschatz ist mit europäischen Sprachen nicht verwandt, und die Sätze laufen in umgekehrter Reihenfolge.

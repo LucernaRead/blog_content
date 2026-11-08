@@ -3,6 +3,12 @@ title: "북마크해 둘 만한 무료 언어 학습 자료"
 excerpt: "진짜 무료인 읽기와 연습 자료를 엄선했다. 퍼블릭 도메인 도서, 단계별 읽기 자료, 쉬운 뉴스, 초급 레슨까지. 2026-10-18에 확인했고 계속 업데이트한다."
 publishedAt: "2026-10-18"
 draft: false
+cover: cover.jpg
+coverCredit: "Giuseppe Maria Crespi, Bookshelves with Music Books, 1725 · International Museum and Library of Music"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Giuseppe_Maria_Crespi_-_Buchregal_mit_Musikschriften_1725-30.jpeg"
+coverFocus: "center 40%"
+category: "tools"
 ---
 
 읽어서 언어를 배우는 일은 재료로 굴러간다. 내 수준에 맞는 책이 필요하고, 그 책을 다 읽으면 다음 책이 필요하고, 책 펼칠 기운이 없는 날에 끝낼 수 있는 짧은 글도 필요하다. 그런 재료의 상당 부분은 어디에 있는지 알면 합법적으로 무료로 구할 수 있다.

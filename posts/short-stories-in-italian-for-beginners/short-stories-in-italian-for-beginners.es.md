@@ -3,6 +3,12 @@ title: "Cuentos en italiano para principiantes: qué leer primero"
 excerpt: "Empieza con cuentos en italiano que de verdad puedas terminar: textos A1 gratuitos para medir tu nivel, un cuento honestamente A1 y dos antologías A2-B1 verificadas por edición."
 publishedAt: "2026-10-22"
 draft: false
+cover: cover.jpg
+coverCredit: "Canaletto, The Bacino di San Marco, c. 1738 · Museum of Fine Arts, Boston"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Boston,_Museum_of_Fine_Art_-_Il_bacino_di_San_Marco_c.1738_-_Canaletto.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 Tu primer libro en italiano no tiene que ser una novela. Un cuento te da una trama completa en una o dos sentadas, y una antología te da ese final una y otra vez, con personajes nuevos cada vez en lugar del mismo reparto durante un mes. Las antologías de cuentos en italiano para principiantes están hechas para ese ritmo.

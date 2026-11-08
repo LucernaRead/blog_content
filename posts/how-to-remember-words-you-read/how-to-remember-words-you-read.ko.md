@@ -3,6 +3,12 @@ title: "읽은 단어를 기억하는 법 (플래시카드 없이)"
 excerpt: "어휘를 붙잡아 두는 방법이 플래시카드뿐인 건 아니다. 맥락 속 반복적인 읽기가 어떻게 더 오래가는 기억을 만드는지 — 그리고 끝내 안 붙는 단어는 어떻게 할지."
 publishedAt: "2026-06-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Jean-Baptiste-Siméon Chardin, The Young Schoolmistress, c. 1736 · National Gallery, London"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Jean_Sim%C3%A9on_Chardin_-_The_Young_Schoolmistress_-_WGA04750.jpg"
+coverFocus: "center 35%"
+category: "method"
 ---
 
 언어 학습에는 특유의 답답함이 있다. 단어를 찾아보고, 고개를 끄덕이고, 세 페이지 뒤에 완전히 낯선 얼굴로 다시 만난다. 표준 해법은 플래시카드다 — 붙을 때까지 반복한다. 하지만 더 오래되고 조용한 방법이 있다. 돈이 들지 않고, 읽는 것처럼 느껴진다. 실제로 읽기이기 때문이다.

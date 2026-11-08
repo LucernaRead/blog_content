@@ -3,6 +3,12 @@ title: "Chinesische Bücher für Anfänger: Die ersten Bücher, die sich lohnen"
 excerpt: "Wähle dein erstes chinesisches Buch nach der Sorte, nicht nach dem Ruhm: ein Lernroman, den du zu Ende liest, ein zweisprachiges Sicherheitsnetz, eine bekannte Geschichte in einer Lernfassung und eine Geschichtensammlung mit angegebener Stufe, alle anhand der Ausgaben geprüft, dazu die Fallen einer chinesischen Seite."
 publishedAt: "2026-10-30"
 draft: false
+cover: cover.jpg
+coverCredit: "Anonymous (Ming dynasty), The Eighteen Scholars, detail · National Palace Museum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:The_Eighteen_Scholars_by_an_anonymous_Ming_artist_1.jpg"
+coverFocus: "center 40%"
+category: "lists"
 ---
 
 Wer nach chinesischen Büchern für Anfänger sucht, bekommt Listen von Lehrbüchern. Integrated Chinese, New Practical Chinese Reader, Chinese Made Easy: alles solide Kurse, alle nach Lektionen aufgebaut, und keines davon ist ein Buch, das man sich hinsetzt und zu Ende liest. Ein Lehrbuch unterrichtet einen Kurs. Ein erstes Lesebuch hat eine andere Aufgabe. Es muss dich von der ersten bis zur letzten Seite in einer Sprache tragen, der du wirklich folgen kannst, damit du nach dem Zuklappen weißt, dass chinesische Bücher zu Ende lesbar sind.

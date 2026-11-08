@@ -3,6 +3,12 @@ title: "通过阅读学德语"
 excerpt: "用贴合德语本身的阶梯通过阅读学德语：先读分级读物，讲清格、动词后置句式，用十分钟抽样测试选书，并把页面和声音配起来。"
 publishedAt: "2026-10-27"
 draft: false
+cover: cover.jpg
+coverCredit: "Franz Marc, The Bewitched Mill, 1913 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Franz_Marc_-_The_Bewitched_Mill_-_Google_Art_Project.jpg"
+coverFocus: "center 42%"
+category: "language"
 ---
 
 德语给读者一个先手，也给一个警告。先手是词汇。英语和德语同源，所以初学者打开德语书页，到处都能遇到熟悉的形状：*Haus* 对 house，*Wasser* 对 water，*Buch* 对 book，*Freund* 对 friend。警告是语法。德语把语法穿在页面上。小词会变格，动词会移位，两个认识的词会粘成一个不认识的词。把这四种变化认出来，德语书页就不再像生词堆。

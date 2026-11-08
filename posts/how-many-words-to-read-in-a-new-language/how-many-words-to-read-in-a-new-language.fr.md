@@ -3,6 +3,12 @@ title: "Combien de mots faut-il lire avant que ça devienne facile"
 excerpt: "Il existe un seuil — autour de 1 000 mots — où lire cesse d'être du décodage et redevient de la lecture. Ce qu'il est, et comment l'atteindre plus vite."
 publishedAt: "2026-06-07"
 draft: false
+cover: cover.jpg
+coverCredit: "Kate Greenaway, A Apple Pie, 1886"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:A_Apple_Pie,_C.jpg"
+coverFocus: "center 30%"
+category: "method"
 ---
 
 Les mille premiers mots sont les plus durs, parce que chacun est un arrêt. Tu rencontres un mot, tu le cherches, tu perds le fil, tu reprends la phrase au début. Cela ressemble moins à de la lecture qu'à de l'archéologie — brosser la terre d'un objet à la fois sans jamais voir le site entier.

@@ -3,6 +3,12 @@ title: "Imparare una lingua leggendo: il metodo delle cinque pagine a sera"
 excerpt: "Una piccola abitudine quotidiana può durare più di una maratona di studio: costruire una routine di lettura."
 publishedAt: "2026-06-10"
 draft: false
+cover: cover.jpg
+coverCredit: "Gerard ter Borch, Woman Reading a Book · National Museum in Warsaw"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Gerard_ter_Borch_II_-_Woman_reading_a_book_-_M.Ob.847_MNW_-_National_Museum_in_Warsaw.jpg"
+coverFocus: "center 55%"
+category: "method"
 ---
 
 Sopravvalutiamo ciò che possiamo leggere in un fine settimana e sottovalutiamo ciò che possiamo leggere in un anno. Cinque ore con il dizionario sembrano progresso, ma sono difficili da ripetere. Una pagina ogni sera sembra poca cosa, finché i libri finiti cominciano ad accumularsi.

@@ -3,6 +3,12 @@ title: "如何读一本超出你水平的书而不被淹没"
 excerpt: "读一本高出一到两个级别的书是可以做到的——前提是了解覆盖率差距、用先抓大意的方法，并以两章而不是两页来判断。"
 publishedAt: "2026-10-09"
 draft: false
+cover: cover.jpg
+coverCredit: "Vittore Carpaccio, Saint Augustine in His Study, 1502 · Scuola di San Giorgio degli Schiavoni"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Vittore_Carpaccio_026.jpg"
+coverFocus: "center"
+category: "method"
 ---
 
 你真正想读的那本书太难了。你的分级读物还在 A2 或 B1，而吸引你的是一本原版小说——真实对话、习语、长句，完全没有词汇控制。你在第二段就卡住，开始怀疑自己是不是不自量力。

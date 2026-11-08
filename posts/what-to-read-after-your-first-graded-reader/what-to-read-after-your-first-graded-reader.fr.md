@@ -4,6 +4,12 @@ excerpt: "Terminer sa première lecture graduée est la vraie étape — le deux
 publishedAt: "2026-10-09"
 updatedAt: "2026-10-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Claude Monet, Springtime, 1872 · Walters Art Museum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Springtime_-_Walters_3711.jpg"
+coverFocus: "center 55%"
+category: "method"
 ---
 
 Terminer votre première lecture graduée est la vraie étape. Vous avez lu un livre entier dans une autre langue — pas un dialogue de manuel, mais une histoire complète, de la première à la dernière page. Cela compte davantage qu'on ne le ressent le jour où l'on referme le livre.

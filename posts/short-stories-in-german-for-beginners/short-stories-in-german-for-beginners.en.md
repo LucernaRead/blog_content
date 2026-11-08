@@ -3,6 +3,12 @@ title: "Short Stories in German for Beginners: What to Read First"
 excerpt: "Start with German short stories you can actually finish: free literary stories to test your level, one collection that is truly A1, and a head-to-head of the learner collections checked by edition."
 publishedAt: "2026-10-23"
 draft: false
+cover: cover.jpg
+coverCredit: "Caspar David Friedrich, Wanderer above the Sea of Fog, c. 1817 · Hamburger Kunsthalle"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg"
+coverFocus: "center 35%"
+category: "lists"
 ---
 
 Your first German book does not have to be a novel. A short story gives you a complete plot in one or two sittings, and a collection gives you that finish again and again, with new characters each time instead of the same cast for a month. Collections of short stories in German for beginners are built for that rhythm.

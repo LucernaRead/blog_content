@@ -3,6 +3,12 @@ title: "Intensiv oder extensiv lesen: Was macht dich flüssig?"
 excerpt: "Es gibt zwei Arten, in einer Sprache zu lesen, die man lernt, und die meisten machen versehentlich die langsame. Hier ist der Unterschied — und welche wirklich zur Flüssigkeit führt."
 publishedAt: "2026-07-02"
 draft: false
+cover: cover.jpg
+coverCredit: "François Bonvin after Pieter Janssens Elinga, A Woman Reading, 1846–47 · Metropolitan Museum of Art"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:A_Woman_Reading,_after_Pieter_Janssens_Elinga_MET_DP805444.jpg"
+coverFocus: "center 60%"
+category: "method"
 ---
 
 # Intensives vs. extensives Lesen: Was baut Flüssigkeit auf?

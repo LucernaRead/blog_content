@@ -3,6 +3,12 @@ title: "Precisa procurar todas as palavras ao ler? Só as que travam a frase"
 excerpt: "Não procure todas as palavras: procure só as que travam a frase — as que voltam sempre, as sem as quais a frase desmorona, ou as que carregam a ação — e deixe o resto passar. Algumas poucas consultas por página bastam para manter a história andando."
 publishedAt: "2026-06-13"
 draft: false
+cover: cover.jpg
+coverCredit: "Quentin Matsys, The Moneylender and His Wife, 1514 · Louvre"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Massysm_Quentin_%E2%80%94_The_Moneylender_and_his_Wife_%E2%80%94_1514.jpg"
+coverFocus: "center 65%"
+category: "method"
 ---
 
 Todo aprendiz encontra a mesma bifurcação logo na primeira página: aparece uma palavra desconhecida e é preciso decidir. Parar e procurar, ou seguir lendo torcendo para o sentido aparecer sozinho? Exagere para qualquer um dos lados e ler vira sacrifício — uma marcha aos solavancos pelo dicionário, ou uma névoa de frases entendidas pela metade. A boa notícia é que existe uma regra simples.

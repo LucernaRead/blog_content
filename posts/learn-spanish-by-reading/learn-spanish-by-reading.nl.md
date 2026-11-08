@@ -3,6 +3,12 @@ title: "Spaans leren door te lezen: een beginnersvriendelijke route"
 excerpt: "Begin met gegradeerde lezers, klim een eenvoudige ladder op en lees elke dag een beetje — met een test van tien minuten om het juiste boek te kiezen."
 publishedAt: "2026-10-09"
 draft: false
+cover: cover.jpg
+coverCredit: "Diego Velázquez, Las Meninas, 1656–57 · Museo del Prado"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Las_Meninas_01.jpg"
+coverFocus: "center 45%"
+category: "language"
 ---
 
 Spaans leren door te lezen heeft een voordeel dat weinig talen bieden: de Spaanse spelling is transparant. Als je de basisregels voor klanken kent, kun je meestal uitspreken wat je ziet, en wat je hoort, wordt meestal geschreven zoals het klinkt. Veel alledaagse woordenschat overlapt bovendien met het Engels via gedeelde Latijnse wortels, zodat een beginner vaak meer herkent dan verwacht.

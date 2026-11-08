@@ -3,6 +3,12 @@ title: "Как учить японский через чтение"
 excerpt: "Учите японский через чтение с первых kana: сначала furigana и градуированные книги tadoku, затем NHK News Web Easy и знакомая манга, а кандзи рассматривайте как проблему, которую решает само чтение."
 publishedAt: "2026-10-12"
 draft: false
+cover: cover.jpg
+coverCredit: "Katsushika Hokusai, The Great Wave off Kanagawa, c. 1830–32 · Metropolitan Museum of Art"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Tsunami_by_hokusai_19th_century.jpg"
+coverFocus: "center"
+category: "language"
 ---
 
 Японский можно учить через чтение — но японский меняет порядок действий. В испанском или французском алфавит позволяет в первый же день прочитать страницу вслух, и единственная стена — это словарный запас. В японском сама страница — часть урока: три азбуки вперемешку, нет пробелов между словами и кандзи, чтений которых вы, возможно, ещё не знаете.

@@ -44,6 +44,8 @@ const ROOT_ALLOW = new Set([
   // 形态:faq/<locale>.md,frontmatter 带 section 标题,`## ` 是问题,下面是答案。
   'faq',
   'lint.mjs',
+  // 给文章配封面:图复制进文章目录,封面字段一次写进 12 个语言文件(用法见文件头、AGENTS.md「配图」)。
+  'set-cover.mjs',
   'index.json',
   'README.md',
   'AGENTS.md',
@@ -74,11 +76,12 @@ const REQUIRED_FM = ['title', 'excerpt', 'publishedAt', 'draft'];
  * 图下必须显示出处。规则在这里硬拦,而不是只写在文档里:内容由 AI 每天更新,
  * 文档会被跳过,lint 不会。
  *
- * 只对 COVER_REQUIRED_FROM 及之后发布的文章**强制要求**有封面和栏目 —— 之前的
- * 47 篇由站点按 slug 兜底配图,不因为新规则突然全部提交不了。但只要写了 cover,
- * 不论新旧,出处 / 授权 / 来源都必须齐。
+ * **每一篇**(非草稿)都必须有封面和栏目,站点没有兜底图(用户 2026-11-08:不要有 default 图在
+ * landingpage 仓里)。2026-10-31 之前的 46 篇当天补齐了封面(`set-cover.mjs`)。
+ * 封面出处 / 授权 / 来源必须齐;同一件作品(`coverSource`)只给一篇用。
  */
-const COVER_REQUIRED_FROM = '2026-10-31';
+/** 标题 / 摘要长度上限从这天起发布的文章开始强制(见 LENGTH_LIMITS)。 */
+const LIMITS_FROM = '2026-10-31';
 /** 封面相关字段:12 个语言版本必须**完全一致**(站点按语言读 md,任一语言缺了就掉回兜底图)。 */
 const COVER_KEYS = ['cover', 'coverCredit', 'coverLicense', 'coverSource', 'coverFocus', 'category'];
 const COVER_LICENSES = ['CC0', 'public-domain'];
@@ -90,7 +93,7 @@ const COVER_MAX_BYTES = 400 * 1024;
 const FOCUS_RE = /^(left|center|right|\d{1,3}%)( (top|center|bottom|\d{1,3}%))?$/;
 
 /**
- * 标题 / 摘要的长度上限(#213)。和封面一样,只对 COVER_REQUIRED_FROM 起发布的文章强制。
+ * 标题 / 摘要的长度上限(#213)。只对 LIMITS_FROM 起发布的文章强制。
  *
  * 依据是站点的版式,不是审美:
  *   - 列表卡片的摘要只显示 2 行,首屏头条 3 行,超出的被截成「…」;
@@ -157,7 +160,7 @@ function readFrontmatterOf(dir, locale) {
 /** 封面与栏目:见 COVER_* 常量上方的说明。base = 默认语言(en)的 frontmatter。 */
 function checkCover(dir, base, files) {
   const where = `posts/${dir}`;
-  const required = base.publishedAt >= COVER_REQUIRED_FROM && base.draft !== 'true';
+  const required = base.draft !== 'true';
 
   // 12 个语言版本的封面字段必须一致。
   for (const loc of LOCALES) {
@@ -174,11 +177,11 @@ function checkCover(dir, base, files) {
     fail(where, `category 只能是 ${CATEGORIES.join(' / ')},现在是 \`${base.category}\``);
   }
   if (required && !base.category) {
-    fail(where, `${COVER_REQUIRED_FROM} 起发布的文章必须写 category(${CATEGORIES.join(' / ')})`);
+    fail(where, `每篇文章都必须写 category(${CATEGORIES.join(' / ')})`);
   }
 
   if (!base.cover) {
-    if (required) fail(where, `${COVER_REQUIRED_FROM} 起发布的文章必须有封面 cover —— 找图流程见 AGENTS.md「配图」`);
+    if (required) fail(where, '每篇文章都必须有封面 cover(站点没有兜底图)—— 找图流程见 AGENTS.md「配图」');
     return;
   }
   if (!COVER_EXTS.includes(extname(base.cover).toLowerCase())) {
@@ -259,7 +262,7 @@ function checkPost(dir) {
         fail(w, `draft 只能是 true / false,现在是 \`${fm.draft}\``);
       }
       const lim = limitFor(md.slice(dir.length + 1, -3));
-      if (lim && fm.publishedAt >= COVER_REQUIRED_FROM && fm.draft !== 'true') {
+      if (lim && fm.publishedAt >= LIMITS_FROM && fm.draft !== 'true') {
         for (const k of ['title', 'excerpt']) {
           const n = [...(fm[k] ?? '')].length;
           if (n > lim[k]) fail(w, `${k} 有 ${n} 字,上限 ${lim[k]} —— 见 AGENTS.md「标题与摘要」`);
@@ -375,6 +378,16 @@ function main() {
     for (const e of entries.filter((x) => x.isDirectory())) checkPost(e.name);
   }
   checkFaq();
+
+  // ── 同一件作品只配一篇 ─────────────────────────────────────────────
+  // 「按语言浏览」筛出来整排同一张画,是原来兜底图的毛病(一张 Greenaway 配了 5 篇)。按来源页判同一件作品。
+  const bySource = new Map();
+  for (const p of index) {
+    if (!p.coverSource) continue;
+    const other = bySource.get(p.coverSource);
+    if (other) fail(`posts/${p.dir}`, `封面和 posts/${other} 是同一件作品(${p.coverSource});每篇换一张 —— 见 AGENTS.md「配图」`);
+    else bySource.set(p.coverSource, p.dir);
+  }
 
   if (problems.length) {
     console.error(`✗ ${problems.length} 处不合规:\n`);

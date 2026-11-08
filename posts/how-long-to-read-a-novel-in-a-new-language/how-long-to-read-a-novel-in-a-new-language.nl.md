@@ -3,6 +3,12 @@ title: "Hoe lang tot je een roman in een nieuwe taal kunt lezen?"
 excerpt: "Het eerlijke antwoord: eerder dan je denkt als je goed leest, en nooit als je wacht tot je je klaar voelt. Een realistische tijdlijn — en de ene variabele die hem bepaalt."
 publishedAt: "2026-07-01"
 draft: false
+cover: cover.jpg
+coverCredit: "Vincent van Gogh, The Novel Reader, 1888"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Vincent_Van_Gogh_-_Une_liseuse_de_romans_(1888).jpg"
+coverFocus: "center 35%"
+category: "method"
 ---
 
 # Hoe lang tot je een roman in een nieuwe taal kunt lezen?

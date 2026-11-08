@@ -3,6 +3,12 @@ title: "德語入門書籍：第一批值得讀的書"
 excerpt: "按書的種類而不是名氣選你的第一本德語書：一本柏林背景的學習者故事、一本雙語對照、一本熟悉的故事、一本短章節經典和一本分級故事集，每本都核對了版本。"
 publishedAt: "2026-10-20"
 draft: false
+cover: cover.jpg
+coverCredit: "Adolph Menzel, The Balcony Room, 1845 · Alte Nationalgalerie"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Adolph_Menzel_-_Das_Balkonzimmer_-_Google_Art_Project.jpg"
+coverFocus: "center 45%"
+category: "lists"
 ---
 
 搜「德語入門書籍」，多數書單遞給你的都是教材：文法課本、動詞表、圖解詞典和大而全的手冊，好像學德語和讀德語是同一種工作。不是。教材教你關於這門語言的知識；第一本書給你能真正讀下去的德語，一頁接一頁，直到閱讀不再像解碼。這兩個書架的重合，比書單暗示的要少得多。

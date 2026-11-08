@@ -3,6 +3,12 @@ title: "意大利語初學者短篇故事：先讀甚麼"
 excerpt: "由能真正讀完的意大利語短篇開始：免費 A1 文本先測水平、一篇誠實的 A1 故事，以及兩套按版本核對過的 A2-B1 故事集。"
 publishedAt: "2026-10-22"
 draft: false
+cover: cover.jpg
+coverCredit: "Canaletto, The Bacino di San Marco, c. 1738 · Museum of Fine Arts, Boston"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Boston,_Museum_of_Fine_Art_-_Il_bacino_di_San_Marco_c.1738_-_Canaletto.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 你的第一本意大利語書不必是長篇小說。短篇故事一兩次就能讀完一個完整情節，故事集則讓你反覆體驗這種讀完的感覺，每次都是新人物，不用陪同一批角色耗上一個月。為意大利語初學者寫的短篇故事集，正是為這種節奏而做的。

@@ -3,6 +3,12 @@ title: "Koreaanse graded readers: zo begin je te lezen op je eigen niveau"
 excerpt: "Begin Koreaans te lezen met graded readers: hoe de niveausystemen TOPIK, TTMIK en ERK verschillen, vijf eerlijke startpunten van gratis onlineteksten tot een B1-verhalenbundel, en een steekproef van tien minuten."
 publishedAt: "2026-10-13"
 draft: false
+cover: cover.jpg
+coverCredit: "Anonymous, Munja-Chaekgeori Screen (Character-Books Screen), detail · Cleveland Museum of Art"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Anonymous_-_Munja-Chaekgeori_Screen_(Character-Books_Screen)_-_2017.6_-_Cleveland_Museum_of_Art.tiff"
+coverFocus: "center 40%"
+category: "lists"
 ---
 
 Koreaans heeft de reputatie van een vriendelijk alfabet en een onvriendelijke sprong. Hangul leer je in een paar dagen, en toch stranden de meeste beginners nog steeds voor echte boeken: de woordenschat is niet verwant aan Europese talen en de zinnen lopen in omgekeerde volgorde.

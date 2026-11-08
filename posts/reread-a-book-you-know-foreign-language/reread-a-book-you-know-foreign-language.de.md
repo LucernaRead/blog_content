@@ -3,6 +3,12 @@ title: "Lies ein Buch, das du schon kennst: die Abkürzung in deinen ersten frem
 excerpt: "Das Schwerste am ersten Roman in einer neuen Sprache ist nicht die Grammatik, sondern nicht zu wissen, wie es weitergeht. Also nimm das Problem vom Tisch: lies ein Buch, das du schon gelesen hast."
 publishedAt: "2026-07-14"
 draft: false
+cover: cover.jpg
+coverCredit: "Gerrit Dou, Old Woman Reading, 1631–32 · Rijksmuseum"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:Lezende_oude_vrouw_Oude_vrouw_lezend_in_een_lectionarium_zogenaamd_portret_van_Rembrandts_moeder,_Neeltgen_Willemsdr_van_Zuijdtbroeck_(gest_1640),_SK-A-2627.jpg"
+coverFocus: "center 45%"
+category: "method"
 ---
 
 # Lies ein Buch, das du schon kennst: die Abkürzung in deinen ersten fremdsprachigen Roman

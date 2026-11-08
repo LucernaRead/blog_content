@@ -3,6 +3,12 @@ title: "Ik ben gestopt met Duolingo. Dit is het 30-dagenplan dat mijn Duits echt
 excerpt: "Een lees-eerst methode voor volwassen leerders, gebouwd rond de begrijpelijke input die door AI gegenereerde lessen niet kunnen vervangen."
 publishedAt: "2026-05-29"
 draft: false
+cover: cover.jpg
+coverCredit: "Hans Holbein the Younger, The Ambassadors, 1533 · National Gallery, London"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg"
+coverFocus: "center 40%"
+category: "language"
 ---
 
 > Een lees-eerst methode voor volwassen leerders, gebouwd rond de begrijpelijke input die door AI gegenereerde lessen niet kunnen vervangen.

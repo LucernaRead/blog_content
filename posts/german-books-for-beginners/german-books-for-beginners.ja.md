@@ -3,6 +3,12 @@ title: "初心者のためのドイツ語の本：最初に読む価値のある
 excerpt: "有名かどうかではなく、本の種類で最初のドイツ語の本を選ぶ。ベルリンを舞台にした学習者向け物語、対訳の安全網、知っている物語、短い章の古典、グレーデッドな短編集。各本とも版を確認済み。"
 publishedAt: "2026-10-20"
 draft: false
+cover: cover.jpg
+coverCredit: "Adolph Menzel, The Balcony Room, 1845 · Alte Nationalgalerie"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Adolph_Menzel_-_Das_Balkonzimmer_-_Google_Art_Project.jpg"
+coverFocus: "center 45%"
+category: "lists"
 ---
 
 「初心者向けドイツ語の本」を検索すると、たいていのリストは教科書を手渡します。文法コース、動詞表、ビジュアル辞典、オールインワンのマニュアル。まるでドイツ語を学ぶこととドイツ語を読むことが同じ仕事であるかのようです。同じではありません。教科書は言語について教えてくれます。最初の1冊は、読むことが解読のように感じられなくなるまで、ページからページへ実際に読めるドイツ語を与えてくれます。2つの棚は、リストが示唆するほど重なっていません。

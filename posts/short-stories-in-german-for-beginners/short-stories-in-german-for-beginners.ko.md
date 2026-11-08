@@ -3,6 +3,12 @@ title: "독일어 초보자를 위한 단편소설: 먼저 읽어야 할 것"
 excerpt: "끝까지 읽을 수 있는 독일어 단편부터 시작하세요: 레벨 확인용 무료 문학 단편, 진짜 A1인 한 권, 그리고 판본 정보로 검증한 A2–B1 단편집 비교."
 publishedAt: "2026-10-23"
 draft: false
+cover: cover.jpg
+coverCredit: "Caspar David Friedrich, Wanderer above the Sea of Fog, c. 1817 · Hamburger Kunsthalle"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg"
+coverFocus: "center 35%"
+category: "lists"
 ---
 
 첫 독일어 책이 장편일 필요는 없습니다. 단편은 한두 번 앉으면 완결된 이야기를 읽을 수 있고, 단편집은 그 '다 읽었다'는 느낌을 계속 맛보게 해줍니다. 매번 새로운 등장인물이라 같은 인물들과 한 달을 함께할 필요도 없죠. 초보자를 위한 독일어 단편소설집은 바로 그 리듬을 위해 존재합니다.

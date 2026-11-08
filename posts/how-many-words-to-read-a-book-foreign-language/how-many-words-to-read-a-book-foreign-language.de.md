@@ -3,6 +3,12 @@ title: "Wie viele Wörter braucht man für ein Buch in einer Fremdsprache?"
 excerpt: "Die ehrlichen Zahlen: etwa 5.000 Wortfamilien für grobes Verständnis, 8.000–9.000 für bequemes, selbstständiges Lesen. Nützlicher aber: Du musst nicht warten — Lesen ist der Weg dorthin."
 publishedAt: "2026-07-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Jan Davidsz. de Heem, Still Life with Books and a Lute, 1625–30 · Rijksmuseum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Stilleven_met_boeken_Rijksmuseum_SK-A-2565.jpeg"
+coverFocus: "center"
+category: "method"
 ---
 
 # Wie viele Wörter braucht man, um ein Buch in einer Fremdsprache zu lesen?

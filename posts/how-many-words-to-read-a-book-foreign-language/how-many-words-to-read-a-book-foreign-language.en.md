@@ -3,6 +3,12 @@ title: "How many words do you need to read a book in a foreign language?"
 excerpt: "The honest numbers: about 5,000 word families for rough comprehension, 8,000-9,000 to read comfortably on your own. But the more useful answer is that you don't have to wait until you get there — reading is how you get there."
 publishedAt: "2026-07-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Jan Davidsz. de Heem, Still Life with Books and a Lute, 1625–30 · Rijksmuseum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Stilleven_met_boeken_Rijksmuseum_SK-A-2565.jpeg"
+coverFocus: "center"
+category: "method"
 ---
 
 # How many words do you need to read a book in a foreign language?

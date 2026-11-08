@@ -3,6 +3,12 @@ title: "Lire comme un Parisien : 7 romans français courts à commencer cet ét�
 excerpt: "Une échelle de lecture de A2 à C1, tous gratuits sur le Projet Gutenberg, aucun assez long pour gâcher votre mois de juin."
 publishedAt: "2026-06-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Claude Monet, Impression, Sunrise, 1872 · Musée Marmottan Monet"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Monet_-_Impression,_Sunrise.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 # Lire comme un Parisien : 7 romans français courts pour commencer cet été

@@ -3,6 +3,12 @@ title: "Адаптированные книги на русском: как вы
 excerpt: "Выберите адаптированную книгу на русском, которую дочитаете: чем шкала CEFR отличается от шкал издательств, пять отправных точек от бесплатной истории A1 до лесенки B2 и десятиминутный пробный тест."
 publishedAt: "2026-10-26"
 draft: false
+cover: cover.jpg
+coverCredit: "Vasily Kandinsky, Landscape with Two Poplars, 1912 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Vasily_Kandinsky_-_Landscape_with_Two_Poplars_-_1931.508_-_Art_Institute_of_Chicago.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 Русский требует от начинающего больше, чем большинство европейских языков. Алфавит новый, ударение слова в обычном тексте не отмечено, а одно и то же слово меняет окончание в зависимости от своей роли в предложении. Поэтому страница настоящего русского может показаться куда труднее, чем предполагает её словарный запас.

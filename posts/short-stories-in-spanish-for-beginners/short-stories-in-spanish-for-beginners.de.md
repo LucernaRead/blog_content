@@ -3,6 +3,12 @@ title: "Kurzgeschichten auf Spanisch für Anfänger: Was Sie zuerst lesen sollte
 excerpt: "Beginnen Sie mit spanischen Kurzgeschichten, die Sie wirklich beenden können: ein kostenloser A1-Reader, zwei nach Ausgabe geprüfte Sammlungen für Anfänger und ein Test mit einer ganzen Geschichte."
 publishedAt: "2026-10-10"
 draft: false
+cover: cover.jpg
+coverCredit: "Joaquín Sorolla, Boys on the Beach, 1910 · Museo del Prado"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Joaqu%C3%ADn_Sorolla_-_Chicos_en_la_playa.jpg"
+coverFocus: "center 50%"
+category: "lists"
 ---
 
 Ihr erstes spanisches Buch muss kein Roman sein. Für viele Anfänger ist das bessere erste Ziel eine einzelne Kurzgeschichte: eine vollständige Handlung in ein oder zwei Sitzungen, neue Figuren alle paar Tage statt einen Monat lang dieselbe Besetzung, und das stille Selbstvertrauen, immer wieder ein Ende zu erreichen. Sammlungen von Kurzgeschichten auf Spanisch für Anfänger sind genau für diesen Rhythmus gemacht.

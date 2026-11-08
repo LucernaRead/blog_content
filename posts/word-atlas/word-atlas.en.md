@@ -3,6 +3,12 @@ title: "Word Atlas: What an Illustrated Vocabulary Map Can and Cannot Teach You"
 excerpt: "Search for word atlas and you get books of maps. There is another kind of atlas: a map of words, where each word gets a picture, example sentences, and a review schedule. Here is what that map is good for, where it stops, and how to connect it to real reading."
 publishedAt: "2026-10-29"
 draft: false
+cover: cover.jpg
+coverCredit: "England, Sampler (map of the Americas), 19th century · Cleveland Museum of Art"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:England,_19th_century_-_Sampler_-_1943.117_-_Cleveland_Museum_of_Art.jpg"
+coverFocus: "center 35%"
+category: "method"
 ---
 
 Search for "word atlas" and the top results talk about books of maps. That is the older meaning of the word, and it is what most searchers want. This post is about the other meaning: an atlas of words. Instead of countries on a map, the entries are words, arranged by topic, each one given a picture, a definition, example sentences, and a pronunciation. The question is not whether pictures are nice. It is which words a picture actually helps you learn, and what to do with the words it cannot carry.

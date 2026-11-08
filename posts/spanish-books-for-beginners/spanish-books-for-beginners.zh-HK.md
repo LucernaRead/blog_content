@@ -3,6 +3,12 @@ title: "初學者西班牙語書籍：第一批值得讀的書"
 excerpt: "第一本西班牙語書要按類型選，而不是按名氣選：一本為學習者寫的小說、一本雙語對照讀本，以及兩本你熟悉的故事的譯本——每本都按版本核對過，各有各的用處。"
 publishedAt: "2026-10-11"
 draft: false
+cover: cover.jpg
+coverCredit: "Joaquín Sorolla, Strolling along the Seashore, 1909 · Museo Sorolla"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Joaqu%C3%ADn_Sorolla_y_Bastida_-_Strolling_along_the_Seashore_-_Google_Art_Project.jpg"
+coverFocus: "center 30%"
+category: "lists"
 ---
 
 搜尋「初學者西班牙語書籍」，你會看到一堵混雜的清單牆：教材、故事集、兒童繪本和名著小說被混在一起，彷彿它們可以互相替代。其實不能。為學習者寫的書、旁邊附譯文的書、以及一本你已經用另一種語言讀過的名著，需要的是三種不同的努力——合適的第一本書，是那種你明天還願意再付出的努力。

@@ -3,6 +3,12 @@ title: "去哪找任何語言的免費書來讀"
 excerpt: "用你正在學的語言建一座免費圖書館。Project Gutenberg、Wikisource、分級讀物等等——一份不花一分錢的閱讀指南。"
 publishedAt: "2026-05-30"
 draft: false
+cover: cover.jpg
+coverCredit: "Carl Spitzweg, The Bookworm, c. 1850 · Museum Georg Schäfer"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Carl_Spitzweg_-_%22The_Bookworm%22.jpg"
+coverFocus: "center 30%"
+category: "lists"
 ---
 
 透過閱讀學一門語言,有一種安靜的奢侈:它幾乎不花錢。幾百年的文學早已進入公有領域,大部分只隔著一次搜尋——免費、合法,躺在一個不收門票的書架上等你。難的從來不是找書,而是在書裡挑。

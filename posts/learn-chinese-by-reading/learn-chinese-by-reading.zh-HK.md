@@ -3,6 +3,12 @@ title: "如何通過閱讀學中文"
 excerpt: "從第一篇帶拼音標註的故事開始學中文：怎樣在沒有空格的文本裏認出詞、怎樣分階段去掉拼音、怎樣從分級讀物爬到分級新聞，以及避開讓中文讀者卡住的三個坑。"
 publishedAt: "2026-10-25"
 draft: false
+cover: cover.jpg
+coverCredit: "Fan Kuan, Travelers Among Mountains and Streams, c. 1000 · National Palace Museum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Fan_Kuan_-_Travelers_Among_Mountains_and_Streams_-_Google_Art_Project.jpg"
+coverFocus: "center 45%"
+category: "language"
 ---
 
 通過閱讀學中文是可行的，但中文會改變學習的順序。學西班牙語或法語時，字母表讓你第一天就能拼讀一頁，唯一的障礙是詞彙。學中文時，頁面本身就是一課：詞與詞之間沒有空格，漢字不表音，聲調還會改變詞義。

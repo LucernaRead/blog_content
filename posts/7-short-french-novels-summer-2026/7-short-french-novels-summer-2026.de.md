@@ -3,6 +3,12 @@ title: "Lesen wie in Paris: 7 kurze französische Romane für diesen Sommer"
 excerpt: "Eine Leseleiter von A2 bis C1, alle kostenlos im Project Gutenberg, und keiner lang genug, um deinen Juni zu ruinieren."
 publishedAt: "2026-06-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Claude Monet, Impression, Sunrise, 1872 · Musée Marmottan Monet"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Monet_-_Impression,_Sunrise.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 # Lesen wie in Paris: 7 kurze französische Romane für diesen Sommer

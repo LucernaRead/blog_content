@@ -3,6 +3,12 @@ title: "法語入門書籍：第一批值得讀的書"
 excerpt: "按書的種類而不是名氣選你的第一本法語書：一本帶導讀的讀本、一本雙語對照、一本熟悉的故事、一本短章節經典和一本漫畫，每本都核對了版本。"
 publishedAt: "2026-10-19"
 draft: false
+cover: cover.jpg
+coverCredit: "Édouard Manet, Woman Reading, 1878–79 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:%C3%89douard_Manet_-_Woman_Reading_-_1933.435_-_Art_Institute_of_Chicago.jpg"
+coverFocus: "center 28%"
+category: "lists"
 ---
 
 搜「法語入門書籍」，多數書單把所有東西混在一起：文法教材、動詞表、故事集、兒童經典和名著，好像一種書能做所有工作。不能。為學習者寫的讀本、正文旁帶譯文的書、和一本你已經用另一種語言讀過的名著，要求的是三種不同的努力。正確的第一本書，是那種你明天還願意重複的努力。

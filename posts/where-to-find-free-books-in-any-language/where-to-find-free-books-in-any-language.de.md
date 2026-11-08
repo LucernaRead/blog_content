@@ -3,6 +3,12 @@ title: "Wo du in jeder Sprache kostenlose Bücher findest"
 excerpt: "Bau dir eine kostenlose Bibliothek in deiner Zielsprache. Project Gutenberg, Wikisource, Stufenlektüren und mehr — ein Wegweiser zum Lesen, ohne einen Cent auszugeben."
 publishedAt: "2026-05-30"
 draft: false
+cover: cover.jpg
+coverCredit: "Carl Spitzweg, The Bookworm, c. 1850 · Museum Georg Schäfer"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Carl_Spitzweg_-_%22The_Bookworm%22.jpg"
+coverFocus: "center 30%"
+category: "lists"
 ---
 
 Eine der stillen Luxusseiten daran, eine Sprache durch Lesen zu lernen: Es kostet fast nichts. Jahrhunderte an Literatur sind längst gemeinfrei, und das meiste davon ist eine Suche entfernt — kostenlos, legal und auf einem Regal, für das niemand Eintritt verlangt. Das Schwierige ist nicht, Bücher zu finden. Es ist, unter ihnen zu wählen.

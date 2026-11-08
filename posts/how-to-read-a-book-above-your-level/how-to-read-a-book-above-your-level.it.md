@@ -3,6 +3,12 @@ title: "Come leggere un libro sopra il tuo livello senza affogare"
 excerpt: "Leggere un libro uno o due livelli sopra il tuo può funzionare — se conosci il divario di copertura, usi tattiche incentrate sul senso generale e giudichi dopo due capitoli, non due pagine."
 publishedAt: "2026-10-09"
 draft: false
+cover: cover.jpg
+coverCredit: "Vittore Carpaccio, Saint Augustine in His Study, 1502 · Scuola di San Giorgio degli Schiavoni"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Vittore_Carpaccio_026.jpg"
+coverFocus: "center"
+category: "method"
 ---
 
 Il libro che vuoi davvero leggere è troppo difficile. Le tue letture graduate sono ancora ad A2 o B1, e il libro che ti chiama è un romanzo originale — dialoghi veri, modi di dire, frasi lunghe, nessun controllo del vocabolario. Ti blocchi al secondo paragrafo e ti chiedi se non sei irrealistico.

@@ -3,6 +3,12 @@ title: "Quante parole devi conoscere per leggere un libro in una lingua stranier
 excerpt: "Copertura lessicale e famiglie di parole: capire gli ordini di grandezza senza aspettare una soglia per iniziare."
 publishedAt: "2026-07-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Jan Davidsz. de Heem, Still Life with Books and a Lute, 1625–30 · Rijksmuseum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Stilleven_met_boeken_Rijksmuseum_SK-A-2565.jpeg"
+coverFocus: "center"
+category: "method"
 ---
 
 Davanti a un romanzo fitto viene spontaneo chiedersi quante parole servano. È utile distinguere il traguardo della lettura autonoma dal modo di cominciare con supporto.

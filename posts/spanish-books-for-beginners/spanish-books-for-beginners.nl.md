@@ -3,6 +3,12 @@ title: "Spaanse boeken voor beginners: de eerste boeken die de moeite waard zijn
 excerpt: "Kies je eerste Spaanse boek op soort, niet op roem: een novelle voor leerders, een tweetalige reader en twee vertrouwde verhalen in vertaling — elke editie gecontroleerd, elk met een eigen taak."
 publishedAt: "2026-10-11"
 draft: false
+cover: cover.jpg
+coverCredit: "Joaquín Sorolla, Strolling along the Seashore, 1909 · Museo Sorolla"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Joaqu%C3%ADn_Sorolla_y_Bastida_-_Strolling_along_the_Seashore_-_Google_Art_Project.jpg"
+coverFocus: "center 30%"
+category: "lists"
 ---
 
 Zoek naar Spaanse boeken voor beginners en je krijgt een muur van lijsten die alles door elkaar gooien: leerboeken, verhalenbundels, kinderprentenboeken en beroemde romans, alsof ze inwisselbaar waren. Dat zijn ze niet. Een boek dat voor leerders is geschreven, een boek met een vertaling ernaast en een beroemd boek dat je al in een andere taal kent, vragen om drie verschillende soorten inspanning — en het juiste eerste boek is het boek waarvan je de inspanning morgen kunt herhalen.

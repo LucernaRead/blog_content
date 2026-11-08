@@ -676,12 +676,12 @@
     {
       "dir": "chinese-books-for-beginners",
       "publishedAt": "2026-10-30",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Anonymous (Ming dynasty), The Eighteen Scholars, detail · National Palace Museum",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:The_Eighteen_Scholars_by_an_anonymous_Ming_artist_1.jpg",
+      "coverFocus": "center 40%",
+      "category": "lists",
       "locales": {
         "de": {
           "slug": "chinese-books-for-beginners",
@@ -760,12 +760,12 @@
     {
       "dir": "word-atlas",
       "publishedAt": "2026-10-29",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "England, Sampler (map of the Americas), 19th century · Cleveland Museum of Art",
+      "coverLicense": "CC0",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:England,_19th_century_-_Sampler_-_1943.117_-_Cleveland_Museum_of_Art.jpg",
+      "coverFocus": "center 35%",
+      "category": "method",
       "locales": {
         "de": {
           "slug": "word-atlas",
@@ -928,12 +928,12 @@
     {
       "dir": "learn-german-by-reading",
       "publishedAt": "2026-10-27",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Franz Marc, The Bewitched Mill, 1913 · Art Institute of Chicago",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Franz_Marc_-_The_Bewitched_Mill_-_Google_Art_Project.jpg",
+      "coverFocus": "center 42%",
+      "category": "language",
       "locales": {
         "de": {
           "slug": "learn-german-by-reading",
@@ -1012,12 +1012,12 @@
     {
       "dir": "russian-graded-readers",
       "publishedAt": "2026-10-26",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Vasily Kandinsky, Landscape with Two Poplars, 1912 · Art Institute of Chicago",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Vasily_Kandinsky_-_Landscape_with_Two_Poplars_-_1931.508_-_Art_Institute_of_Chicago.jpg",
+      "coverFocus": "center",
+      "category": "lists",
       "locales": {
         "de": {
           "slug": "russian-graded-readers",
@@ -1096,12 +1096,12 @@
     {
       "dir": "learn-chinese-by-reading",
       "publishedAt": "2026-10-25",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Fan Kuan, Travelers Among Mountains and Streams, c. 1000 · National Palace Museum",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Fan_Kuan_-_Travelers_Among_Mountains_and_Streams_-_Google_Art_Project.jpg",
+      "coverFocus": "center 45%",
+      "category": "language",
       "locales": {
         "de": {
           "slug": "learn-chinese-by-reading",
@@ -1180,12 +1180,12 @@
     {
       "dir": "italian-books-for-beginners",
       "publishedAt": "2026-10-24",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Bernardo Bellotto, View of the Grand Canal from Punta della Dogana · Museo del Settecento Veneziano",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:(Venice)_Veduta_del_Canal_Grande_dalla_Punta_della_Dogana_-_Bernardo_Bellotto.jpg",
+      "coverFocus": "center",
+      "category": "lists",
       "locales": {
         "de": {
           "slug": "italian-books-for-beginners",
@@ -1264,12 +1264,12 @@
     {
       "dir": "short-stories-in-german-for-beginners",
       "publishedAt": "2026-10-23",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Caspar David Friedrich, Wanderer above the Sea of Fog, c. 1817 · Hamburger Kunsthalle",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg",
+      "coverFocus": "center 35%",
+      "category": "lists",
       "locales": {
         "de": {
           "slug": "short-stories-in-german-for-beginners",
@@ -1348,12 +1348,12 @@
     {
       "dir": "short-stories-in-italian-for-beginners",
       "publishedAt": "2026-10-22",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Canaletto, The Bacino di San Marco, c. 1738 · Museum of Fine Arts, Boston",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Boston,_Museum_of_Fine_Art_-_Il_bacino_di_San_Marco_c.1738_-_Canaletto.jpg",
+      "coverFocus": "center",
+      "category": "lists",
       "locales": {
         "de": {
           "slug": "short-stories-in-italian-for-beginners",
@@ -1432,12 +1432,12 @@
     {
       "dir": "japanese-books-for-beginners",
       "publishedAt": "2026-10-21",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Kitagawa Utamaro, Woman Reading a Letter, 1806 · Cleveland Museum of Art",
+      "coverLicense": "CC0",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Woman_Reading_a_Letter_(from_the_series_Seven_Episodes_in_the_Life_of_Komac_-_1943.23_-_Cleveland_Museum_of_Art.jpg",
+      "coverFocus": "center 22%",
+      "category": "lists",
       "locales": {
         "de": {
           "slug": "japanese-books-for-beginners",
@@ -1516,12 +1516,12 @@
     {
       "dir": "german-books-for-beginners",
       "publishedAt": "2026-10-20",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Adolph Menzel, The Balcony Room, 1845 · Alte Nationalgalerie",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Adolph_Menzel_-_Das_Balkonzimmer_-_Google_Art_Project.jpg",
+      "coverFocus": "center 45%",
+      "category": "lists",
       "locales": {
         "de": {
           "slug": "german-books-for-beginners",
@@ -1600,12 +1600,12 @@
     {
       "dir": "french-books-for-beginners",
       "publishedAt": "2026-10-19",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Édouard Manet, Woman Reading, 1878–79 · Art Institute of Chicago",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:%C3%89douard_Manet_-_Woman_Reading_-_1933.435_-_Art_Institute_of_Chicago.jpg",
+      "coverFocus": "center 28%",
+      "category": "lists",
       "locales": {
         "de": {
           "slug": "french-books-for-beginners",
@@ -1684,12 +1684,12 @@
     {
       "dir": "free-language-learning-resources",
       "publishedAt": "2026-10-18",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Giuseppe Maria Crespi, Bookshelves with Music Books, 1725 · International Museum and Library of Music",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Giuseppe_Maria_Crespi_-_Buchregal_mit_Musikschriften_1725-30.jpeg",
+      "coverFocus": "center 40%",
+      "category": "tools",
       "locales": {
         "de": {
           "slug": "free-language-learning-resources",
@@ -1768,12 +1768,12 @@
     {
       "dir": "learn-french-by-reading",
       "publishedAt": "2026-10-18",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Gustave Caillebotte, Paris Street; Rainy Day, 1877 · Art Institute of Chicago",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Gustave_Caillebotte_-_Paris_Street,_Rainy_Day_-_1964.336_-_Art_Institute_of_Chicago.jpg",
+      "coverFocus": "center 45%",
+      "category": "language",
       "locales": {
         "de": {
           "slug": "learn-french-by-reading",
@@ -1852,12 +1852,12 @@
     {
       "dir": "dual-language-books",
       "publishedAt": "2026-10-17",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Gabriel Metsu, Woman Reading a Letter, 1665 · National Gallery of Ireland",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Woman_Reading_a_Letter_by_Gabri%C3%ABl_Metsu.jpg",
+      "coverFocus": "center 45%",
+      "category": "method",
       "locales": {
         "de": {
           "slug": "dual-language-books",
@@ -1936,12 +1936,12 @@
     {
       "dir": "comprehensible-input",
       "publishedAt": "2026-10-16",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Mary Cassatt, Nurse Reading to a Little Girl, 1895 · Metropolitan Museum of Art",
+      "coverLicense": "CC0",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Nurse_Reading_to_a_Little_Girl_MET_DT7250.jpg",
+      "coverFocus": "center 30%",
+      "category": "method",
       "locales": {
         "de": {
           "slug": "comprehensible-input",
@@ -2020,12 +2020,12 @@
     {
       "dir": "chinese-graded-readers",
       "publishedAt": "2026-10-15",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Ma Yuan, Walking on a Mountain Path in Spring, 1190 · National Palace Museum",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Ma_Yuan_mountain_path_in_spring.jpg",
+      "coverFocus": "center",
+      "category": "lists",
       "locales": {
         "de": {
           "slug": "chinese-graded-readers",
@@ -2104,12 +2104,12 @@
     {
       "dir": "short-stories-in-french-for-beginners",
       "publishedAt": "2026-10-14",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Pierre-Auguste Renoir, La Liseuse, c. 1874–76",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Renoir_liseuse.jpg",
+      "coverFocus": "center 35%",
+      "category": "lists",
       "locales": {
         "de": {
           "slug": "short-stories-in-french-for-beginners",
@@ -2188,12 +2188,12 @@
     {
       "dir": "korean-graded-readers",
       "publishedAt": "2026-10-13",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Anonymous, Munja-Chaekgeori Screen (Character-Books Screen), detail · Cleveland Museum of Art",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Anonymous_-_Munja-Chaekgeori_Screen_(Character-Books_Screen)_-_2017.6_-_Cleveland_Museum_of_Art.tiff",
+      "coverFocus": "center 40%",
+      "category": "lists",
       "locales": {
         "de": {
           "slug": "korean-graded-readers",
@@ -2272,12 +2272,12 @@
     {
       "dir": "learn-japanese-by-reading",
       "publishedAt": "2026-10-12",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Katsushika Hokusai, The Great Wave off Kanagawa, c. 1830–32 · Metropolitan Museum of Art",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Tsunami_by_hokusai_19th_century.jpg",
+      "coverFocus": "center",
+      "category": "language",
       "locales": {
         "de": {
           "slug": "learn-japanese-by-reading",
@@ -2356,12 +2356,12 @@
     {
       "dir": "spanish-books-for-beginners",
       "publishedAt": "2026-10-11",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Joaquín Sorolla, Strolling along the Seashore, 1909 · Museo Sorolla",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Joaqu%C3%ADn_Sorolla_y_Bastida_-_Strolling_along_the_Seashore_-_Google_Art_Project.jpg",
+      "coverFocus": "center 30%",
+      "category": "lists",
       "locales": {
         "de": {
           "slug": "spanish-books-for-beginners",
@@ -2440,12 +2440,12 @@
     {
       "dir": "short-stories-in-spanish-for-beginners",
       "publishedAt": "2026-10-10",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Joaquín Sorolla, Boys on the Beach, 1910 · Museo del Prado",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Joaqu%C3%ADn_Sorolla_-_Chicos_en_la_playa.jpg",
+      "coverFocus": "center 50%",
+      "category": "lists",
       "locales": {
         "de": {
           "slug": "short-stories-in-spanish-for-beginners",
@@ -2524,12 +2524,12 @@
     {
       "dir": "german-graded-readers-a1-a2-b1",
       "publishedAt": "2026-10-09",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Albrecht Dürer, Young Hare, 1502 · Albertina",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Hare,_1502_-_Google_Art_Project.jpg",
+      "coverFocus": "center 45%",
+      "category": "lists",
       "locales": {
         "de": {
           "slug": "german-graded-readers-a1-a2-b1",
@@ -2608,12 +2608,12 @@
     {
       "dir": "how-to-read-a-book-above-your-level",
       "publishedAt": "2026-10-09",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Vittore Carpaccio, Saint Augustine in His Study, 1502 · Scuola di San Giorgio degli Schiavoni",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Vittore_Carpaccio_026.jpg",
+      "coverFocus": "center",
+      "category": "method",
       "locales": {
         "de": {
           "slug": "how-to-read-a-book-above-your-level",
@@ -2692,12 +2692,12 @@
     {
       "dir": "italian-graded-readers-a1-a2-b1",
       "publishedAt": "2026-10-09",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Sandro Botticelli, Primavera, 1480–85 · Uffizi",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Botticelli-primavera.jpg",
+      "coverFocus": "center 30%",
+      "category": "lists",
       "locales": {
         "de": {
           "slug": "italian-graded-readers-a1-a2-b1",
@@ -2776,12 +2776,12 @@
     {
       "dir": "japanese-graded-readers",
       "publishedAt": "2026-10-09",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Utagawa Hiroshige, Sudden Shower over Shin-Ōhashi Bridge and Atake, 1857",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Hiroshige,_Sudden_shower_over_Shin-%C5%8Chashi_bridge_and_Atake,_1857.jpg",
+      "coverFocus": "center 30%",
+      "category": "lists",
       "locales": {
         "de": {
           "slug": "japanese-graded-readers",
@@ -2872,12 +2872,12 @@
     {
       "dir": "learn-spanish-by-reading",
       "publishedAt": "2026-10-09",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Diego Velázquez, Las Meninas, 1656–57 · Museo del Prado",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Las_Meninas_01.jpg",
+      "coverFocus": "center 45%",
+      "category": "language",
       "locales": {
         "de": {
           "slug": "learn-spanish-by-reading",
@@ -2956,12 +2956,12 @@
     {
       "dir": "what-to-read-after-your-first-graded-reader",
       "publishedAt": "2026-10-09",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Claude Monet, Springtime, 1872 · Walters Art Museum",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Springtime_-_Walters_3711.jpg",
+      "coverFocus": "center 55%",
+      "category": "method",
       "locales": {
         "de": {
           "slug": "what-to-read-after-your-first-graded-reader",
@@ -3052,12 +3052,12 @@
     {
       "dir": "spanish-graded-readers-a1-a2-b1",
       "publishedAt": "2026-10-08",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Francisco Goya, The Parasol, 1777 · Museo del Prado",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:El_Quitasol_(Goya).jpg",
+      "coverFocus": "center 40%",
+      "category": "lists",
       "locales": {
         "de": {
           "slug": "spanish-graded-readers-a1-a2-b1",
@@ -3136,12 +3136,12 @@
     {
       "dir": "french-graded-readers-a1-a2-b1",
       "publishedAt": "2026-10-03",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Georges Seurat, A Sunday on La Grande Jatte, 1884–86 · Art Institute of Chicago",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:A_Sunday_on_La_Grande_Jatte,_Georges_Seurat,_1884.png",
+      "coverFocus": "center 55%",
+      "category": "lists",
       "locales": {
         "de": {
           "slug": "french-graded-readers-a1-a2-b1",
@@ -3220,12 +3220,12 @@
     {
       "dir": "the-world-is-never-just-one-version",
       "publishedAt": "2026-08-11",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Abraham Ortelius, Typus Orbis Terrarum, 1572",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:1572_Typus_Orbis_Terrarum_Ortelius.jpg",
+      "coverFocus": "center",
+      "category": "method",
       "locales": {
         "de": {
           "slug": "the-world-is-never-just-one-version",
@@ -3304,12 +3304,12 @@
     {
       "dir": "how-many-words-to-read-a-book-foreign-language",
       "publishedAt": "2026-07-15",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Jan Davidsz. de Heem, Still Life with Books and a Lute, 1625–30 · Rijksmuseum",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Stilleven_met_boeken_Rijksmuseum_SK-A-2565.jpeg",
+      "coverFocus": "center",
+      "category": "method",
       "locales": {
         "de": {
           "slug": "how-many-words-to-read-a-book-foreign-language",
@@ -3388,12 +3388,12 @@
     {
       "dir": "reread-a-book-you-know-foreign-language",
       "publishedAt": "2026-07-14",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Gerrit Dou, Old Woman Reading, 1631–32 · Rijksmuseum",
+      "coverLicense": "CC0",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Lezende_oude_vrouw_Oude_vrouw_lezend_in_een_lectionarium_zogenaamd_portret_van_Rembrandts_moeder,_Neeltgen_Willemsdr_van_Zuijdtbroeck_(gest_1640),_SK-A-2627.jpg",
+      "coverFocus": "center 45%",
+      "category": "method",
       "locales": {
         "de": {
           "slug": "reread-a-book-you-know-foreign-language",
@@ -3472,12 +3472,12 @@
     {
       "dir": "learn-vocabulary-from-reading",
       "publishedAt": "2026-07-12",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Albert Anker, The Village School in 1848, 1896 · Kunstmuseum Basel",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Anker_Die_Dorfschule_von_1848_1896.jpg",
+      "coverFocus": "center",
+      "category": "method",
       "locales": {
         "de": {
           "slug": "learn-vocabulary-from-reading",
@@ -3556,12 +3556,12 @@
     {
       "dir": "intensive-vs-extensive-reading",
       "publishedAt": "2026-07-02",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "François Bonvin after Pieter Janssens Elinga, A Woman Reading, 1846–47 · Metropolitan Museum of Art",
+      "coverLicense": "CC0",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:A_Woman_Reading,_after_Pieter_Janssens_Elinga_MET_DP805444.jpg",
+      "coverFocus": "center 60%",
+      "category": "method",
       "locales": {
         "de": {
           "slug": "intensive-vs-extensive-reading",
@@ -3640,12 +3640,12 @@
     {
       "dir": "how-long-to-read-a-novel-in-a-new-language",
       "publishedAt": "2026-07-01",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Vincent van Gogh, The Novel Reader, 1888",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Vincent_Van_Gogh_-_Une_liseuse_de_romans_(1888).jpg",
+      "coverFocus": "center 35%",
+      "category": "method",
       "locales": {
         "de": {
           "slug": "how-long-to-read-a-novel-in-a-new-language",
@@ -3724,12 +3724,12 @@
     {
       "dir": "reading-with-a-translation-open",
       "publishedAt": "2026-06-29",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Henri Fantin-Latour, The Reading, 1877 · Musée des Beaux-Arts de Lyon",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Fantin-Latour-La_Lecture-Lyon.jpg",
+      "coverFocus": "center 40%",
+      "category": "method",
       "locales": {
         "de": {
           "slug": "reading-with-a-translation-open",
@@ -3808,12 +3808,12 @@
     {
       "dir": "how-to-finish-a-foreign-language-book",
       "publishedAt": "2026-06-28",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Winslow Homer, The New Novel, 1877 · Springfield Museums",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:1877-winslow-homer-the-new-novel.jpg",
+      "coverFocus": "40% center",
+      "category": "method",
       "locales": {
         "de": {
           "slug": "how-to-finish-a-foreign-language-book",
@@ -3892,12 +3892,12 @@
     {
       "dir": "read-like-a-berliner-7-short-german-books",
       "publishedAt": "2026-06-26",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Caspar David Friedrich, Woman at a Window, 1822 · Alte Nationalgalerie",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Frau_am_Fenster_-_Google_Art_Project.jpg",
+      "coverFocus": "center 40%",
+      "category": "lists",
       "locales": {
         "de": {
           "slug": "read-like-a-berliner-7-short-german-books",
@@ -3976,12 +3976,12 @@
     {
       "dir": "7-short-french-novels-summer-2026",
       "publishedAt": "2026-06-15",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Claude Monet, Impression, Sunrise, 1872 · Musée Marmottan Monet",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Monet_-_Impression,_Sunrise.jpg",
+      "coverFocus": "center",
+      "category": "lists",
       "locales": {
         "de": {
           "slug": "7-short-french-novels-summer-2026",
@@ -4060,12 +4060,12 @@
     {
       "dir": "how-to-remember-words-you-read",
       "publishedAt": "2026-06-15",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Jean-Baptiste-Siméon Chardin, The Young Schoolmistress, c. 1736 · National Gallery, London",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Jean_Sim%C3%A9on_Chardin_-_The_Young_Schoolmistress_-_WGA04750.jpg",
+      "coverFocus": "center 35%",
+      "category": "method",
       "locales": {
         "de": {
           "slug": "how-to-remember-words-you-read",
@@ -4144,12 +4144,12 @@
     {
       "dir": "should-you-look-up-every-word-when-reading",
       "publishedAt": "2026-06-13",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Quentin Matsys, The Moneylender and His Wife, 1514 · Louvre",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Massysm_Quentin_%E2%80%94_The_Moneylender_and_his_Wife_%E2%80%94_1514.jpg",
+      "coverFocus": "center 65%",
+      "category": "method",
       "locales": {
         "de": {
           "slug": "should-you-look-up-every-word-when-reading",
@@ -4228,12 +4228,12 @@
     {
       "dir": "how-to-learn-a-language-by-reading",
       "publishedAt": "2026-06-10",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Gerard ter Borch, Woman Reading a Book · National Museum in Warsaw",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Gerard_ter_Borch_II_-_Woman_reading_a_book_-_M.Ob.847_MNW_-_National_Museum_in_Warsaw.jpg",
+      "coverFocus": "center 55%",
+      "category": "method",
       "locales": {
         "de": {
           "slug": "how-to-learn-a-language-by-reading",
@@ -4312,12 +4312,12 @@
     {
       "dir": "how-many-words-to-read-in-a-new-language",
       "publishedAt": "2026-06-07",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Kate Greenaway, A Apple Pie, 1886",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:A_Apple_Pie,_C.jpg",
+      "coverFocus": "center 30%",
+      "category": "method",
       "locales": {
         "de": {
           "slug": "how-many-words-to-read-in-a-new-language",
@@ -4396,12 +4396,12 @@
     {
       "dir": "how-to-choose-your-first-book-in-a-foreign-language",
       "publishedAt": "2026-06-03",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Berthe Morisot, Reading, 1873 · Cleveland Museum of Art",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Berthe_Morisot_-_Reading_-_1950.89_-_Cleveland_Museum_of_Art.tiff",
+      "coverFocus": "center",
+      "category": "method",
       "locales": {
         "de": {
           "slug": "how-to-choose-your-first-book-in-a-foreign-language",
@@ -4480,12 +4480,12 @@
     {
       "dir": "where-to-find-free-books-in-any-language",
       "publishedAt": "2026-05-30",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Carl Spitzweg, The Bookworm, c. 1850 · Museum Georg Schäfer",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Carl_Spitzweg_-_%22The_Bookworm%22.jpg",
+      "coverFocus": "center 30%",
+      "category": "lists",
       "locales": {
         "de": {
           "slug": "where-to-find-free-books-in-any-language",
@@ -4564,12 +4564,12 @@
     {
       "dir": "quit-duolingo-30-day-german-plan",
       "publishedAt": "2026-05-29",
-      "cover": null,
-      "coverCredit": null,
-      "coverLicense": null,
-      "coverSource": null,
-      "coverFocus": null,
-      "category": null,
+      "cover": "cover.jpg",
+      "coverCredit": "Hans Holbein the Younger, The Ambassadors, 1533 · National Gallery, London",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg",
+      "coverFocus": "center 40%",
+      "category": "language",
       "locales": {
         "de": {
           "slug": "quit-duolingo-30-day-german-plan",

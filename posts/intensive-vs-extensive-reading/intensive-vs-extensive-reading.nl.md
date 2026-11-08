@@ -3,6 +3,12 @@ title: "Intensief vs. extensief lezen: wat bouwt vloeiendheid op?"
 excerpt: "Er zijn twee manieren om te lezen in een taal die je leert, en de meesten doen per ongeluk de trage. Hier is het verschil — en welke je echt vloeiend maakt."
 publishedAt: "2026-07-02"
 draft: false
+cover: cover.jpg
+coverCredit: "François Bonvin after Pieter Janssens Elinga, A Woman Reading, 1846–47 · Metropolitan Museum of Art"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:A_Woman_Reading,_after_Pieter_Janssens_Elinga_MET_DP805444.jpg"
+coverFocus: "center 60%"
+category: "method"
 ---
 
 # Intensief versus extensief lezen: wat bouwt vloeiendheid op?

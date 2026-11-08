@@ -3,6 +3,12 @@ title: "世界不是只有一个版本"
 excerpt: "读书是为了什么？学外语又是为了什么？我很长时间都觉得，这两个问题其实是同一个问题——它们都在把一个人带离他自己的世界。这也是我想做 Lucerna 的原因。"
 publishedAt: "2026-08-11"
 draft: false
+cover: cover.jpg
+coverCredit: "Abraham Ortelius, Typus Orbis Terrarum, 1572"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:1572_Typus_Orbis_Terrarum_Ortelius.jpg"
+coverFocus: "center"
+category: "method"
 ---
 
 # 世界不是只有一个版本

@@ -3,6 +3,12 @@ title: "Come finire davvero un libro in una lingua straniera"
 excerpt: "Dalla prima pagina all’ultima: cinque abitudini per smettere di ricominciare sempre lo stesso romanzo."
 publishedAt: "2026-06-28"
 draft: false
+cover: cover.jpg
+coverCredit: "Winslow Homer, The New Novel, 1877 · Springfield Museums"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:1877-winslow-homer-the-new-novel.jpg"
+coverFocus: "40% center"
+category: "method"
 ---
 
 Quasi tutti hanno iniziato un libro nella lingua che studiano. Molti meno lo hanno finito. Il primo capitolo letto due volte, il secondo in una buona serata, il terzo mai. Il segnalibro resta fermo, poi il libro entra nella pila delle cose da riprendere.

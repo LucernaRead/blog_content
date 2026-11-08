@@ -3,6 +3,12 @@ title: "Livros em espanhol para iniciantes: os primeiros livros que valem a pena
 excerpt: "Escolha o seu primeiro livro em espanhol pelo tipo, não pela fama: uma novela para aprendizes, um leitor bilíngue e duas histórias familiares em tradução — cada edição verificada, cada uma com uma função."
 publishedAt: "2026-10-11"
 draft: false
+cover: cover.jpg
+coverCredit: "Joaquín Sorolla, Strolling along the Seashore, 1909 · Museo Sorolla"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Joaqu%C3%ADn_Sorolla_y_Bastida_-_Strolling_along_the_Seashore_-_Google_Art_Project.jpg"
+coverFocus: "center 30%"
+category: "lists"
 ---
 
 Pesquise livros em espanhol para iniciantes e você encontrará uma parede de listas que misturam tudo: manuais, coletâneas de contos, livros ilustrados infantis e romances famosos, como se fossem intercambiáveis. Não são. Um livro escrito para aprendizes, um livro com uma tradução ao lado e um livro famoso que você já conhece em outra língua exigem três tipos de esforço diferentes — e o primeiro livro certo é aquele cujo esforço você consegue repetir amanhã.

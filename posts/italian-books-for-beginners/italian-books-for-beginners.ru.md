@@ -3,6 +3,12 @@ title: "Итальянские книги для начинающих: перв�
 excerpt: "Выбирайте первую итальянскую книгу по её типу, а не по славе: роман для изучающих, двуязычный сборник, знакомый оригинал и сборник рассказов с указанным уровнем, каждый проверен по изданию и у каждого своя задача."
 publishedAt: "2026-10-24"
 draft: false
+cover: cover.jpg
+coverCredit: "Bernardo Bellotto, View of the Grand Canal from Punta della Dogana · Museo del Settecento Veneziano"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:(Venice)_Veduta_del_Canal_Grande_dalla_Punta_della_Dogana_-_Bernardo_Bellotto.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 Поиск итальянских книг для начинающих выдаёт стену списков, где всё смешано: учебники, разговорники, сборники рассказов, детские классики и знаменитые романы, как будто они взаимозаменяемы. Это не так. Книга, написанная для изучающих, книга с переводом рядом и знаменитая книга, которую вы уже знаете на другом языке, требуют трёх разных видов усилий, а правильная первая книга — та, усилия для которой вы сможете повторить завтра.

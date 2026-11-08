@@ -3,6 +3,12 @@ title: "Rileggi una storia che conosci: un ingresso nel primo romanzo straniero"
 excerpt: "Conoscere già la trama libera attenzione per la lingua. Come scegliere una storia familiare e leggerla senza tradurre tutto."
 publishedAt: "2026-07-14"
 draft: false
+cover: cover.jpg
+coverCredit: "Gerrit Dou, Old Woman Reading, 1631–32 · Rijksmuseum"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:Lezende_oude_vrouw_Oude_vrouw_lezend_in_een_lectionarium_zogenaamd_portret_van_Rembrandts_moeder,_Neeltgen_Willemsdr_van_Zuijdtbroeck_(gest_1640),_SK-A-2627.jpg"
+coverFocus: "center 45%"
+category: "method"
 ---
 
 Un consiglio che sembra quasi barare può facilitare il primo libro: scegli una storia che conosci già bene. Un romanzo completamente nuovo chiede due lavori insieme, decifrare la lingua e seguire una trama ignota. Rileggere ne alleggerisce uno.

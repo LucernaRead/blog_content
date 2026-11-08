@@ -3,6 +3,12 @@ title: "Korte verhalen in het Frans voor beginners: wat je eerst leest"
 excerpt: "Begin met korte Franse verhalen die je echt kunt uitkrijgen: gratis A1-A2-teksten, een instapboek met woordenlijst onder elke alinea en twee op editie gecontroleerde A2-B1-bundels."
 publishedAt: "2026-10-14"
 draft: false
+cover: cover.jpg
+coverCredit: "Pierre-Auguste Renoir, La Liseuse, c. 1874–76"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Renoir_liseuse.jpg"
+coverFocus: "center 35%"
+category: "lists"
 ---
 
 Je eerste Franse boek hoeft geen roman te zijn. Een kort verhaal geeft je in een of twee sessies een volledige plot, en een bundel geeft je dat einde telkens opnieuw, elke keer met nieuwe personages in plaats van een maand lang dezelfde cast. Bundels met korte verhalen in het Frans voor beginners zijn gemaakt voor dat ritme.

@@ -3,6 +3,12 @@ title: "Reading with a translation open: help or crutch?"
 excerpt: "Almost everyone learning to read in a new language tries it: the original in one hand, a translation in the other. Here is when that helps — and when it quietly stops you from ever reading on your own."
 publishedAt: "2026-06-29"
 draft: false
+cover: cover.jpg
+coverCredit: "Henri Fantin-Latour, The Reading, 1877 · Musée des Beaux-Arts de Lyon"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Fantin-Latour-La_Lecture-Lyon.jpg"
+coverFocus: "center 40%"
+category: "method"
 ---
 
 # Reading with a translation open: help or crutch?

@@ -3,6 +3,12 @@ title: "Ler como um parisiense: 7 romances franceses curtos para este verão"
 excerpt: "Uma escada de leitura de A2 a C1, todos gratuitos no Projeto Gutenberg, nenhum longo o bastante para estragar o seu junho."
 publishedAt: "2026-06-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Claude Monet, Impression, Sunrise, 1872 · Musée Marmottan Monet"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Monet_-_Impression,_Sunrise.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 # Ler como um parisiense: 7 romances franceses curtos para começar neste verão

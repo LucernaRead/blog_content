@@ -3,6 +3,12 @@ title: "Como aprender vocabulário lendo (e parar de moer flashcards)"
 excerpt: "Flashcards ensinam palavras no vácuo; a leitura ensina onde elas vivem. Como transformar os livros que você já quer ler no único sistema de vocabulário de que precisa."
 publishedAt: "2026-07-12"
 draft: false
+cover: cover.jpg
+coverCredit: "Albert Anker, The Village School in 1848, 1896 · Kunstmuseum Basel"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Anker_Die_Dorfschule_von_1848_1896.jpg"
+coverFocus: "center"
+category: "method"
 ---
 
 # Como aprender vocabulário lendo (e finalmente parar de moer flashcards)

@@ -3,6 +3,12 @@ title: "Short Stories in Italian for Beginners: What to Read First"
 excerpt: "Start with short stories in Italian you can actually finish: free A1 texts to test your level, one story that is honestly A1, and two A2-B1 collections checked by edition."
 publishedAt: "2026-10-22"
 draft: false
+cover: cover.jpg
+coverCredit: "Canaletto, The Bacino di San Marco, c. 1738 · Museum of Fine Arts, Boston"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Boston,_Museum_of_Fine_Art_-_Il_bacino_di_San_Marco_c.1738_-_Canaletto.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 Your first Italian book does not have to be a novel. A short story gives you a complete plot in one or two sittings, and a collection gives you that finish again and again, with new characters each time instead of the same cast for a month. Collections of short stories in Italian for beginners are built for that rhythm.

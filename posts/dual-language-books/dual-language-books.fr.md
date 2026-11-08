@@ -3,6 +3,12 @@ title: "Livres bilingues : guide des textes parallèles pour débutants"
 excerpt: "Un livre bilingue imprime l'original et sa traduction ensemble, pour que vous puissiez vous vérifier sans quitter l'histoire. Quelle présentation choisir, quelles éditions pour adultes valent un premier pas, comment lire sans s'appuyer sur la traduction, et quand passer à un livre sans traduction à côté."
 publishedAt: "2026-10-17"
 draft: false
+cover: cover.jpg
+coverCredit: "Gabriel Metsu, Woman Reading a Letter, 1665 · National Gallery of Ireland"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Woman_Reading_a_Letter_by_Gabri%C3%ABl_Metsu.jpg"
+coverFocus: "center 45%"
+category: "method"
 ---
 
 Cherchez des livres bilingues et l'essentiel de ce que vous trouvez est fait pour les enfants : des albums avec l'anglais d'un côté et la langue de la maison de l'autre, vendus aux écoles et aux familles bilingues. Ces livres font bien leur travail. Pour un adulte qui apprend seul à lire l'espagnol, le français ou l'allemand, ils sont un mauvais guide — car les éditions pour adultes existent aussi ; elles sont simplement rangées sous un autre nom, textes parallèles, et elles obéissent à d'autres règles.

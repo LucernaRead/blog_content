@@ -3,6 +3,12 @@ title: "Should You Look Up Every Word When Reading? Only the Ones That Block the
 excerpt: "Don't look up every word: look up only the words that block the sentence — the ones that keep coming back, collapse the sentence, or carry the action — and let the rest go. A handful of lookups per page is enough to keep the story moving."
 publishedAt: "2026-06-13"
 draft: false
+cover: cover.jpg
+coverCredit: "Quentin Matsys, The Moneylender and His Wife, 1514 · Louvre"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Massysm_Quentin_%E2%80%94_The_Moneylender_and_his_Wife_%E2%80%94_1514.jpg"
+coverFocus: "center 65%"
+category: "method"
 ---
 
 Every learner meets the same fork on the very first page: an unknown word appears, and you have to decide. Stop and look it up, or read on and hope the meaning surfaces? Do it wrong in either direction and reading turns into a chore — a stop-start slog through a dictionary, or a fog of half-understood sentences. The good news is there's a simple rule of thumb.

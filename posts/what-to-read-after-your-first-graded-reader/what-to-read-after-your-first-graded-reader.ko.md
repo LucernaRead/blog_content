@@ -4,6 +4,12 @@ excerpt: "첫 번째 등급별 리더를 완독하는 것이 진짜 이정표입
 publishedAt: "2026-10-09"
 updatedAt: "2026-10-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Claude Monet, Springtime, 1872 · Walters Art Museum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Springtime_-_Walters_3711.jpg"
+coverFocus: "center 55%"
+category: "method"
 ---
 
 첫 번째 등급별 리더를 다 읽는 것, 그것이 진짜 이정표입니다. 다른 언어로 책 한 권을 끝까지 읽은 것입니다——교과서 대화가 아니라, 첫 페이지부터 마지막 페이지까지 하나의 완전한 이야기를요. 책을 덮는 날에는 실감 나지 않을 수 있지만, 그 일은 생각보다 훨씬 큽니다.

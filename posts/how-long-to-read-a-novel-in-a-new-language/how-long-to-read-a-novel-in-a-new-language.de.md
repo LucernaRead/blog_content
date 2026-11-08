@@ -3,6 +3,12 @@ title: "Wie lange dauert es, bis du einen Roman in einer neuen Sprache lesen kan
 excerpt: "Die ehrliche Antwort: früher als gedacht, wenn du richtig liest — und nie, wenn du wartest, bis du dich bereit fühlst. Ein realistischer Zeitplan und die eine Variable, die ihn entscheidet."
 publishedAt: "2026-07-01"
 draft: false
+cover: cover.jpg
+coverCredit: "Vincent van Gogh, The Novel Reader, 1888"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Vincent_Van_Gogh_-_Une_liseuse_de_romans_(1888).jpg"
+coverFocus: "center 35%"
+category: "method"
 ---
 
 # Wie lange, bis du einen Roman in einer neuen Sprache lesen kannst?

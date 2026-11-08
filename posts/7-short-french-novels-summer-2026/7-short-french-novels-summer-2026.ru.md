@@ -3,6 +3,12 @@ title: "Читать как в Париже: семь французских к�
 excerpt: "От рассказов к сложной прозе: семь произведений, для которых стоит проверить издание, доступность и отрывок."
 publishedAt: "2026-06-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Claude Monet, Impression, Sunrise, 1872 · Musée Marmottan Monet"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Monet_-_Impression,_Sunrise.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 Небольшая стопка книг и желание их прочитать — рядом с кофе, в поезде, у кровати. Изучая французский, необязательно сразу брать шестьсот страниц. Нужны предложения, в которых слышны ритм, глаголы и выражения, отсутствующие в словарном списке.

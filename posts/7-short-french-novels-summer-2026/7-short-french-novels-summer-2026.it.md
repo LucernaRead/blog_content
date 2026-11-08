@@ -3,6 +3,12 @@ title: "Leggere come a Parigi: sette letture francesi per iniziare"
 excerpt: "Dai racconti alla prosa più complessa: sette titoli da esplorare, verificando edizione, diritti e difficoltà con un campione."
 publishedAt: "2026-06-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Claude Monet, Impression, Sunrise, 1872 · Musée Marmottan Monet"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Monet_-_Impression,_Sunrise.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 Un piccolo mucchio di libri e il desiderio di leggerli: può stare accanto al caffè, sul treno o sul comodino. Se studi francese, non serve affrontare subito seicento pagine. Cerchi abbastanza frasi per incontrare il ritmo, i verbi e le espressioni che una lista di parole non mostra.

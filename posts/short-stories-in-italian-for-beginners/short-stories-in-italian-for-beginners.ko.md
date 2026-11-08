@@ -3,6 +3,12 @@ title: "초보자를 위한 이탈리아어 단편 소설: 먼저 읽을 것"
 excerpt: "실제로 끝까지 읽을 수 있는 이탈리아어 단편부터 시작하세요. 수준을 가늠할 무료 A1 텍스트, 정직하게 A1인 이야기 한 편, 판본으로 확인한 A2-B1 단편집 두 권."
 publishedAt: "2026-10-22"
 draft: false
+cover: cover.jpg
+coverCredit: "Canaletto, The Bacino di San Marco, c. 1738 · Museum of Fine Arts, Boston"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Boston,_Museum_of_Fine_Art_-_Il_bacino_di_San_Marco_c.1738_-_Canaletto.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 첫 이탈리아어 책이 장편소설일 필요는 없습니다. 단편 하나는 한두 번 앉은 자리에서 완결된 줄거리를 주고, 단편집은 그 완독의 느낌을 매번 새로운 등장인물로 다시 줍니다. 초보자를 위한 이탈리아어 단편집은 바로 그 리듬을 위해 만들어졌습니다.

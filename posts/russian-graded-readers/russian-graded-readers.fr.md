@@ -3,6 +3,12 @@ title: "Lectures graduées en russe : choisir des livres à votre niveau"
 excerpt: "Choisissez une lecture graduée en russe que vous terminerez : comment les niveaux CECR et les échelles propres aux éditeurs diffèrent, cinq points de départ d'une histoire gratuite A1 à une échelle B2, et un test d'échantillon de dix minutes."
 publishedAt: "2026-10-26"
 draft: false
+cover: cover.jpg
+coverCredit: "Vasily Kandinsky, Landscape with Two Poplars, 1912 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Vasily_Kandinsky_-_Landscape_with_Two_Poplars_-_1931.508_-_Art_Institute_of_Chicago.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 Le russe exige davantage d'un débutant que la plupart des langues européennes. L'alphabet est nouveau, l'accent d'un mot n'est pas marqué dans un texte ordinaire, et le même mot change de terminaison selon sa fonction dans la phrase. Une page de vrai russe peut donc sembler bien plus difficile que son vocabulaire ne le suggère.

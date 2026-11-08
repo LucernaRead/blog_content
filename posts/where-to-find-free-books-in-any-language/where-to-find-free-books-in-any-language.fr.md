@@ -3,6 +3,12 @@ title: "Où trouver des livres gratuits dans n'importe quelle langue"
 excerpt: "Construis une bibliothèque gratuite dans ta langue cible. Project Gutenberg, Wikisource, lectures graduées et plus — un guide pour lire sans dépenser un centime."
 publishedAt: "2026-05-30"
 draft: false
+cover: cover.jpg
+coverCredit: "Carl Spitzweg, The Bookworm, c. 1850 · Museum Georg Schäfer"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Carl_Spitzweg_-_%22The_Bookworm%22.jpg"
+coverFocus: "center 30%"
+category: "lists"
 ---
 
 L'un des luxes discrets de l'apprentissage d'une langue par la lecture, c'est son coût : presque rien. Des siècles de littérature sont tombés dans le domaine public, et l'essentiel se trouve à une recherche de distance — gratuit, légal, posé sur une étagère dont personne ne fait payer l'entrée. Le difficile n'est pas de trouver des livres ; c'est de choisir parmi eux.

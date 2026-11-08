@@ -3,6 +3,12 @@ title: "Cuentos cortos en español para principiantes: qué leer primero"
 excerpt: "Empieza con cuentos cortos en español que sí puedas terminar: una lectura A1 gratuita, dos colecciones verificadas por edición y una prueba de un cuento completo para elegir bien."
 publishedAt: "2026-10-10"
 draft: false
+cover: cover.jpg
+coverCredit: "Joaquín Sorolla, Boys on the Beach, 1910 · Museo del Prado"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Joaqu%C3%ADn_Sorolla_-_Chicos_en_la_playa.jpg"
+coverFocus: "center 50%"
+category: "lists"
 ---
 
 Tu primer libro en español no tiene por qué ser una novela. Para muchos principiantes, una mejor primera meta es un solo cuento corto: una trama completa en una o dos sesiones, personajes nuevos cada pocos días en lugar del mismo reparto durante un mes, y la confianza silenciosa de llegar a un final una y otra vez. Las colecciones de cuentos cortos en español para principiantes están hechas exactamente para ese ritmo.

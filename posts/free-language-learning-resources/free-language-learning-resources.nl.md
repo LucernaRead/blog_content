@@ -3,6 +3,12 @@ title: "Gratis bronnen om talen te leren die een bladwijzer waard zijn"
 excerpt: "Een samengestelde plank met echt gratis lees- en oefenmateriaal: publiekdomeinboeken, geleidelijk opgebouwde leesteksten, eenvoudig nieuws en beginnerslessen. Gecheckt op 18-10-2026 en bijgehouden."
 publishedAt: "2026-10-18"
 draft: false
+cover: cover.jpg
+coverCredit: "Giuseppe Maria Crespi, Bookshelves with Music Books, 1725 · International Museum and Library of Music"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Giuseppe_Maria_Crespi_-_Buchregal_mit_Musikschriften_1725-30.jpeg"
+coverFocus: "center 40%"
+category: "tools"
 ---
 
 Een taal leren door te lezen draait op materiaal. Je hebt boeken op je niveau nodig, daarna nog meer boeken, en iets korters voor de dagen waarop een boek te veel voelt. Een goed deel van dat materiaal is gratis, legaal, als je weet waar het staat.

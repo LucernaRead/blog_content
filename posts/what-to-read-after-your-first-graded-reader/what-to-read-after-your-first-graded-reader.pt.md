@@ -4,6 +4,12 @@ excerpt: "Terminar o seu primeiro livro de leitura graduada é o verdadeiro marc
 publishedAt: "2026-10-09"
 updatedAt: "2026-10-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Claude Monet, Springtime, 1872 · Walters Art Museum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Springtime_-_Walters_3711.jpg"
+coverFocus: "center 55%"
+category: "method"
 ---
 
 Terminar o seu primeiro livro de leitura graduada é o verdadeiro marco. Você leu um livro inteiro em outro idioma — não um diálogo de livro didático, mas uma história completa, da primeira à última página. Isso conta mais do que pode parecer no dia em que você o fecha.

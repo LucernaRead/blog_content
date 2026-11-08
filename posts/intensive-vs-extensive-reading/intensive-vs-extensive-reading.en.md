@@ -3,6 +3,12 @@ title: "Intensive vs extensive reading: which one builds fluency?"
 excerpt: "There are two ways to read in a language you are learning, and most people do the slow one by accident. Here is the difference — and which one actually gets you fluent."
 publishedAt: "2026-07-02"
 draft: false
+cover: cover.jpg
+coverCredit: "François Bonvin after Pieter Janssens Elinga, A Woman Reading, 1846–47 · Metropolitan Museum of Art"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:A_Woman_Reading,_after_Pieter_Janssens_Elinga_MET_DP805444.jpg"
+coverFocus: "center 60%"
+category: "method"
 ---
 
 # Intensive vs extensive reading: which one builds fluency?

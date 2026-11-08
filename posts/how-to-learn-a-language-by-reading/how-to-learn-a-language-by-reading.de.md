@@ -3,6 +3,12 @@ title: "Eine Sprache durch Lesen lernen (die Fünf-Seiten-pro-Abend-Methode)"
 excerpt: "Lies dich mit einer winzigen täglichen Gewohnheit zur Flüssigkeit. Warum fünfzehn Minuten am Abend Marathonsitzungen schlagen — und wie du die Routine aufbaust."
 publishedAt: "2026-06-10"
 draft: false
+cover: cover.jpg
+coverCredit: "Gerard ter Borch, Woman Reading a Book · National Museum in Warsaw"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Gerard_ter_Borch_II_-_Woman_reading_a_book_-_M.Ob.847_MNW_-_National_Museum_in_Warsaw.jpg"
+coverFocus: "center 55%"
+category: "method"
 ---
 
 Wir überschätzen, was wir an einem Wochenende lesen können, und unterschätzen, was wir in einem Jahr lesen können. Die Marathonsitzung — fünf Stunden mit Wörterbuch und frischem Vorsatz — fühlt sich nach Fortschritt an, überlebt aber selten den Kontakt mit einem zweiten Wochenende. Wer dagegen jeden Abend eine Seite umblättert, hat bis zum Frühling ein Regalbrett geschafft und merkt den Anstieg kaum.

@@ -3,6 +3,12 @@ title: "Histoires courtes en espagnol pour débutants : par quoi commencer"
 excerpt: "Commencez par des histoires courtes en espagnol que vous pouvez vraiment terminer : un lecteur A1 gratuit, deux recueils vérifiés par édition, et un test d'une histoire entière pour bien choisir."
 publishedAt: "2026-10-10"
 draft: false
+cover: cover.jpg
+coverCredit: "Joaquín Sorolla, Boys on the Beach, 1910 · Museo del Prado"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Joaqu%C3%ADn_Sorolla_-_Chicos_en_la_playa.jpg"
+coverFocus: "center 50%"
+category: "lists"
 ---
 
 Votre premier livre en espagnol n'a pas à être un roman. Pour beaucoup de débutants, une meilleure première arrivée est une seule histoire courte : une intrigue complète en une ou deux séances, de nouveaux personnages tous les quelques jours au lieu de la même distribution pendant un mois, et la confiance tranquille d'atteindre une fin, encore et encore. Les recueils d'histoires courtes en espagnol pour débutants sont faits exactement pour ce rythme.

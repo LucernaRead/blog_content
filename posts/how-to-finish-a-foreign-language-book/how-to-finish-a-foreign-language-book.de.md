@@ -3,6 +3,12 @@ title: "Wie du ein Buch in einer Fremdsprache wirklich zu Ende liest"
 excerpt: "Anfangen ist leicht — jeder hat einen halb gelesenen Roman in der Zielsprache. Hier steht, wie du auf die andere Seite kommst: zu dem, der den Buchdeckel schließt."
 publishedAt: "2026-06-28"
 draft: false
+cover: cover.jpg
+coverCredit: "Winslow Homer, The New Novel, 1877 · Springfield Museums"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:1877-winslow-homer-the-new-novel.jpg"
+coverFocus: "40% center"
+category: "method"
 ---
 
 # Wie du ein Buch in einer Fremdsprache wirklich zu Ende liest

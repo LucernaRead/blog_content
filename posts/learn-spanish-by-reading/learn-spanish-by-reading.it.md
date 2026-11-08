@@ -3,6 +3,12 @@ title: "Imparare lo spagnolo leggendo: un percorso adatto ai principianti"
 excerpt: "Inizia con le letture graduate, sali una semplice scala e leggi un po' ogni giorno — con un test di dieci minuti per scegliere il libro giusto."
 publishedAt: "2026-10-09"
 draft: false
+cover: cover.jpg
+coverCredit: "Diego Velázquez, Las Meninas, 1656–57 · Museo del Prado"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Las_Meninas_01.jpg"
+coverFocus: "center 45%"
+category: "language"
 ---
 
 Imparare lo spagnolo leggendo ha un vantaggio che poche lingue offrono: l'ortografia spagnola è trasparente. Una volta conosciute le regole di base dei suoni, di solito puoi pronunciare ciò che vedi, e ciò che senti di solito si scrive così come suona. Gran parte del vocabolario quotidiano coincide inoltre con l'inglese per le radici latine condivise, così chi comincia riconosce spesso più di quanto si aspettasse.

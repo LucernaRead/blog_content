@@ -3,6 +3,12 @@ title: "Бесплатные ресурсы для изучения языков
 excerpt: "Подборка по-настоящему бесплатного чтения и практики: книги из общественного достояния, градуированные тексты, простые новости и уроки для начинающих. Проверено 18.10.2026 и обновляется."
 publishedAt: "2026-10-18"
 draft: false
+cover: cover.jpg
+coverCredit: "Giuseppe Maria Crespi, Bookshelves with Music Books, 1725 · International Museum and Library of Music"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Giuseppe_Maria_Crespi_-_Buchregal_mit_Musikschriften_1725-30.jpeg"
+coverFocus: "center 40%"
+category: "tools"
 ---
 
 Изучение языка через чтение держится на материале. Нужны книги по вашему уровню, потом ещё книги, и что-нибудь короткое на дни, когда книга кажется слишком большим делом. Значительная часть такого материала бесплатна и легальна, если знать, где он лежит.

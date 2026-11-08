@@ -3,6 +3,12 @@ title: "Een taal leren door te lezen (de vijf-bladzijden-per-avond-methode)"
 excerpt: "Lees je naar vloeiendheid met een piepkleine dagelijkse gewoonte. Waarom een kwartier per avond het wint van marathonsessies — en hoe je de routine opbouwt."
 publishedAt: "2026-06-10"
 draft: false
+cover: cover.jpg
+coverCredit: "Gerard ter Borch, Woman Reading a Book · National Museum in Warsaw"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Gerard_ter_Borch_II_-_Woman_reading_a_book_-_M.Ob.847_MNW_-_National_Museum_in_Warsaw.jpg"
+coverFocus: "center 55%"
+category: "method"
 ---
 
 We overschatten wat we in een weekend kunnen lezen en onderschatten wat we in een jaar kunnen lezen. De marathonsessie — vijf uur met een woordenboek en een verse voornemen — voelt als vooruitgang, maar overleeft zelden het contact met een tweede weekend. Wie daarentegen elke avond één bladzijde omslaat, is in het voorjaar een plank verder en merkt de klim nauwelijks.

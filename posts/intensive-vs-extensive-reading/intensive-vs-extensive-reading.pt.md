@@ -3,6 +3,12 @@ title: "Leitura intensiva vs. extensiva: qual constrói fluência?"
 excerpt: "Há duas maneiras de ler num idioma que você está aprendendo, e a maioria faz a lenta sem perceber. Aqui está a diferença — e qual realmente deixa você fluente."
 publishedAt: "2026-07-02"
 draft: false
+cover: cover.jpg
+coverCredit: "François Bonvin after Pieter Janssens Elinga, A Woman Reading, 1846–47 · Metropolitan Museum of Art"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:A_Woman_Reading,_after_Pieter_Janssens_Elinga_MET_DP805444.jpg"
+coverFocus: "center 60%"
+category: "method"
 ---
 
 # Leitura intensiva ou extensiva: qual constrói fluência?

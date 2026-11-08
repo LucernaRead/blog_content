@@ -3,6 +3,12 @@ title: "中文分级读物：按你的 HSK 水平选书"
 excerpt: "选一本能读完的中文分级读物：HSK 等级、汉字量与词汇量有何不同，从 150 个汉字的第一本书到古典名著改编的五套丛书，以及十分钟试读法。"
 publishedAt: "2026-10-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Ma Yuan, Walking on a Mountain Path in Spring, 1190 · National Palace Museum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Ma_Yuan_mountain_path_in_spring.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 中文对初学者要求比多数语言更高。没有字母可以依凭，每个生词同时也是一幅要记住的图，一页看起来不长的文字，可能密密麻麻全是你没见过的汉字。

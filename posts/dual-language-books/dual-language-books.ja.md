@@ -3,6 +3,12 @@ title: "対訳本入門：初心者のためのパラレルテキストガイド
 excerpt: "対訳本は原文と翻訳を一緒に印刷し、物語を離れずに自分の理解を確認できるようにした本です。どのレイアウトを選ぶか、大人向けにどこから始めるべきか、翻訳に頼りきらずに読む方法、そして翻訳のない本へ進むタイミングを説明します。"
 publishedAt: "2026-10-17"
 draft: false
+cover: cover.jpg
+coverCredit: "Gabriel Metsu, Woman Reading a Letter, 1665 · National Gallery of Ireland"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Woman_Reading_a_Letter_by_Gabri%C3%ABl_Metsu.jpg"
+coverFocus: "center 45%"
+category: "method"
 ---
 
 「対訳本」を検索すると、出てくるものの大半は子ども向けです。片側に英語、もう片側に家庭で話す言語を載せ、学校やバイリンガルの家庭に売られる絵本です。あれはあれで役割を果たしています。しかしスペイン語、フランス語、ドイツ語を独学で読もうとする大人にとっては、悪い見本です。大人向けの版も存在しますが、別の名前——パラレルテキスト——で棚に並び、ルールも違うからです。

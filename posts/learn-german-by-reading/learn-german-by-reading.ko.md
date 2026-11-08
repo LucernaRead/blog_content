@@ -3,6 +3,12 @@ title: "읽기로 독일어 배우기"
 excerpt: "독일어 자체에 맞게 만든 사다리로 읽기를 통해 독일어를 배우기: 먼저 학습자용 읽기 자료, 그 다음 격과 동사 말미 종속절 설명, 10분 샘플 테스트, 페이지와 소리를 연결하는 습관."
 publishedAt: "2026-10-27"
 draft: false
+cover: cover.jpg
+coverCredit: "Franz Marc, The Bewitched Mill, 1913 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Franz_Marc_-_The_Bewitched_Mill_-_Google_Art_Project.jpg"
+coverFocus: "center 42%"
+category: "language"
 ---
 
 독일어는 독자에게 앞서 나감과 경고를 동시에 준다. 앞서 나감은 어휘다. 영어와 독일어는 같은 어근을 공유하므로, 독일어 페이지를 여는 초보자는 어디에서나 익숙한 형태를 만난다. *Haus*와 house, *Wasser*와 water, *Buch*와 book, *Freund*와 friend이다. 경고는 문법이다. 독일어는 문법을 페이지 위에 입고 있다. 작은 단어들은 형태를 바꾸고, 동사는 이동하며, 아는 두 단어가 붙어 모르는 한 단어가 된다. 이 네 가지 움직임을 일찍 알아보면 독일어 페이지는 더 이상 새로운 단어 더미로 보이지 않는다.

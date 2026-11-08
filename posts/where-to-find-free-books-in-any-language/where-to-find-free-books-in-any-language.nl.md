@@ -3,6 +3,12 @@ title: "Waar je in elke taal gratis boeken vindt"
 excerpt: "Bouw een gratis bibliotheek in je doeltaal. Project Gutenberg, Wikisource, graded readers en meer — een veldgids om te lezen zonder een cent uit te geven."
 publishedAt: "2026-05-30"
 draft: false
+cover: cover.jpg
+coverCredit: "Carl Spitzweg, The Bookworm, c. 1850 · Museum Georg Schäfer"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Carl_Spitzweg_-_%22The_Bookworm%22.jpg"
+coverFocus: "center 30%"
+category: "lists"
 ---
 
 Een van de stille luxes van een taal leren door te lezen: het kost bijna niets. Eeuwen aan literatuur zijn allang publiek domein, en het meeste ligt op één zoekopdracht afstand — gratis, legaal, wachtend op een plank waar niemand entree voor vraagt. Het lastige is niet boeken vinden; het is kiezen tussen boeken.

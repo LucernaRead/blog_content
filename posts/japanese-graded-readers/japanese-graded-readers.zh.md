@@ -4,6 +4,12 @@ excerpt: "日语多读分级读物详解：NPO 自有的 0–5 级与振假名�
 publishedAt: "2026-10-09"
 updatedAt: "2026-10-19"
 draft: false
+cover: cover.jpg
+coverCredit: "Utagawa Hiroshige, Sudden Shower over Shin-Ōhashi Bridge and Atake, 1857"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Hiroshige,_Sudden_shower_over_Shin-%C5%8Chashi_bridge_and_Atake,_1857.jpg"
+coverFocus: "center 30%"
+category: "lists"
 ---
 
 日语多了一道许多语言没有的墙：文字系统本身。你可以学完课本对话，却还是在真正的书面前停下来，因为每一页都要同时处理假名、汉字和不熟悉的词汇。

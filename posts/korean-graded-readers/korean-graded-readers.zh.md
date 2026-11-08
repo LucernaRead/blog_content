@@ -3,6 +3,12 @@ title: "韩语分级读物：如何从适合自己级别的书开始读"
 excerpt: "从韩语分级读物开始阅读：TOPIK、TTMIK 与 CEFR 三种级别体系有何不同，五个真实的起点——从免费在线文本到 B1 短篇集——以及一个十分钟试读测试。"
 publishedAt: "2026-10-13"
 draft: false
+cover: cover.jpg
+coverCredit: "Anonymous, Munja-Chaekgeori Screen (Character-Books Screen), detail · Cleveland Museum of Art"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Anonymous_-_Munja-Chaekgeori_Screen_(Character-Books_Screen)_-_2017.6_-_Cleveland_Museum_of_Art.tiff"
+coverFocus: "center 40%"
+category: "lists"
 ---
 
 韩语的名声是：字母友好，跳跃不友好。谚文（Hangul）几天就能学会，可真正的书还是会把大多数初学者挡住：词汇与欧洲语言毫无亲缘，句子语序也是反的。

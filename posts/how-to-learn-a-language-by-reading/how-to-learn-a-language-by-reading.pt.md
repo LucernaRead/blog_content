@@ -3,6 +3,12 @@ title: "Aprender um idioma lendo (o método das cinco páginas por noite)"
 excerpt: "Chegue à fluência com um hábito diário minúsculo. Por que quinze minutos por noite ganham das maratonas de estudo — e como montar a rotina."
 publishedAt: "2026-06-10"
 draft: false
+cover: cover.jpg
+coverCredit: "Gerard ter Borch, Woman Reading a Book · National Museum in Warsaw"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Gerard_ter_Borch_II_-_Woman_reading_a_book_-_M.Ob.847_MNW_-_National_Museum_in_Warsaw.jpg"
+coverFocus: "center 55%"
+category: "method"
 ---
 
 Superestimamos o que conseguimos ler num fim de semana e subestimamos o que conseguimos ler num ano. A maratona — cinco horas com um dicionário e uma resolução novinha — parece progresso, mas raramente sobrevive ao segundo fim de semana. Já quem vira uma página por noite termina uma prateleira até a primavera e mal percebe a subida.

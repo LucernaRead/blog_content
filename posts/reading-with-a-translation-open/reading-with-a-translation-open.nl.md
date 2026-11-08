@@ -3,6 +3,12 @@ title: "Lezen met een vertaling ernaast: hulp of kruk?"
 excerpt: "Bijna iedereen die in een nieuwe taal leert lezen probeert het: het origineel in de ene hand, de vertaling in de andere. Wanneer dat helpt — en wanneer het je stilletjes belet ooit zelf te lezen."
 publishedAt: "2026-06-29"
 draft: false
+cover: cover.jpg
+coverCredit: "Henri Fantin-Latour, The Reading, 1877 · Musée des Beaux-Arts de Lyon"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Fantin-Latour-La_Lecture-Lyon.jpg"
+coverFocus: "center 40%"
+category: "method"
 ---
 
 # Lezen met een vertaling ernaast: hulp of kruk?

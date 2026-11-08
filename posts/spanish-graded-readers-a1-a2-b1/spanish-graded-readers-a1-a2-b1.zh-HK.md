@@ -3,6 +3,12 @@ title: "西班牙語分級讀物：從 A1 到 B1 揀好你的第一本書"
 excerpt: "按版本和級別揀一本西班牙語分級讀物，買之前先試讀一段，從 A1 的故事一路讀到第一本原版小說。"
 publishedAt: "2026-10-08"
 draft: false
+cover: cover.jpg
+coverCredit: "Francisco Goya, The Parasol, 1777 · Museo del Prado"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:El_Quitasol_(Goya).jpg"
+coverFocus: "center 40%"
+category: "lists"
 ---
 
 你翻開一本西班牙語小說，認出了開頭幾個字，剩下的大半段卻都耗在字典裏。故事就這樣消失在解碼的工作後面。分級讀物給你一個更小的台階：一本完整的故事，專為某個明確的學習級別寫作或改編。

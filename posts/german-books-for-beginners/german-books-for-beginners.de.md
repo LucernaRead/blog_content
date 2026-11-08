@@ -3,6 +3,12 @@ title: "Deutsche Bücher für Anfänger: Die ersten Bücher, die sich lohnen"
 excerpt: "Wählen Sie Ihr erstes deutsches Buch nach Art, nicht nach Ruhm: eine Lerngeschichte in Berlin, eine zweisprachige Absicherung, eine bekannte Geschichte, ein Klassiker in kurzen Kapiteln und eine gestufte Geschichtensammlung, jede Ausgabe geprüft."
 publishedAt: "2026-10-20"
 draft: false
+cover: cover.jpg
+coverCredit: "Adolph Menzel, The Balcony Room, 1845 · Alte Nationalgalerie"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Adolph_Menzel_-_Das_Balkonzimmer_-_Google_Art_Project.jpg"
+coverFocus: "center 45%"
+category: "lists"
 ---
 
 Wer nach deutschen Büchern für Anfänger sucht, bekommt auf den meisten Listen Lehrwerke vorgesetzt: Grammatikkurse, Verbtabellen, Bildwörterbücher und Komplettkurse, als wären Deutschlernen und Deutschlesen dieselbe Aufgabe. Sind sie nicht. Ein Lehrwerk bringt Ihnen etwas über die Sprache bei. Ein erstes Buch gibt Ihnen Deutsch, das Sie wirklich lesen können, Seite für Seite, bis Lesen sich nicht mehr wie Dekodieren anfühlt. Die beiden Regale überschneiden sich weniger, als die Listen vermuten lassen.

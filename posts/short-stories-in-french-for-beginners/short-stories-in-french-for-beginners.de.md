@@ -3,6 +3,12 @@ title: "Kurzgeschichten auf Französisch für Anfänger: Was Sie zuerst lesen so
 excerpt: "Beginnen Sie mit französischen Kurzgeschichten, die Sie wirklich beenden können: kostenlose A1-A2-Texte, ein Einsteigerbuch mit Glossar unter jedem Absatz und zwei geprüfte A2-B1-Sammlungen."
 publishedAt: "2026-10-14"
 draft: false
+cover: cover.jpg
+coverCredit: "Pierre-Auguste Renoir, La Liseuse, c. 1874–76"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Renoir_liseuse.jpg"
+coverFocus: "center 35%"
+category: "lists"
 ---
 
 Ihr erstes französisches Buch muss kein Roman sein. Eine Kurzgeschichte gibt Ihnen in ein oder zwei Sitzungen eine vollständige Handlung, und eine Sammlung gibt Ihnen dieses Ende immer wieder, jedes Mal mit neuen Figuren statt einen Monat lang mit derselben Besetzung. Sammlungen mit Kurzgeschichten auf Französisch für Anfänger sind genau für diesen Rhythmus gemacht.

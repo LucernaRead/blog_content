@@ -3,6 +3,12 @@ title: "Адаптированные книги на корейском: как 
 excerpt: "Начните читать по-корейски с адаптированных книг: чем различаются системы уровней TOPIK, TTMIK и CEFR, пять честных отправных точек — от бесплатных онлайн-текстов до сборника уровня B1 — и десятиминутный тест на образце."
 publishedAt: "2026-10-13"
 draft: false
+cover: cover.jpg
+coverCredit: "Anonymous, Munja-Chaekgeori Screen (Character-Books Screen), detail · Cleveland Museum of Art"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Anonymous_-_Munja-Chaekgeori_Screen_(Character-Books_Screen)_-_2017.6_-_Cleveland_Museum_of_Art.tiff"
+coverFocus: "center 40%"
+category: "lists"
 ---
 
 У корейского языка репутация дружелюбного алфавита и недружелюбного прыжка. Хангыль можно выучить за несколько дней, а настоящие книги всё равно останавливают большинство начинающих: лексика не родственна европейским языкам, а предложения идут в обратном порядке.

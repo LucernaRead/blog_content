@@ -3,6 +3,12 @@ title: "Как запоминать прочитанные слова без п�
 excerpt: "Повторные встречи и контекст помогают словам остаться в памяти. Что делать с теми, которые всё равно забываются."
 publishedAt: "2026-06-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Jean-Baptiste-Siméon Chardin, The Young Schoolmistress, c. 1736 · National Gallery, London"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Jean_Sim%C3%A9on_Chardin_-_The_Young_Schoolmistress_-_WGA04750.jpg"
+coverFocus: "center 35%"
+category: "method"
 ---
 
 Вы находите слово, понимаете значение, а через три страницы оно снова кажется незнакомым. Карточки могут помочь, но есть и более спокойный путь: встречать слово снова во время чтения.

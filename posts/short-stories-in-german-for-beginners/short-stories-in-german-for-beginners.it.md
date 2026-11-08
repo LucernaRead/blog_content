@@ -3,6 +3,12 @@ title: "Racconti brevi in tedesco per principianti: cosa leggere prima"
 excerpt: "Comincia dai racconti brevi in tedesco che puoi davvero finire: classici gratuiti per testare il tuo livello, una raccolta davvero A1 e un confronto tra raccolte A2–B1 verificate per edizione."
 publishedAt: "2026-10-23"
 draft: false
+cover: cover.jpg
+coverCredit: "Caspar David Friedrich, Wanderer above the Sea of Fog, c. 1817 · Hamburger Kunsthalle"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg"
+coverFocus: "center 35%"
+category: "lists"
 ---
 
 Il tuo primo libro in tedesco non deve essere un romanzo. Un racconto breve ti dà una trama completa in una o due sedute, e una raccolta ti ridà quella sensazione di aver finito, ancora e ancora, con personaggi nuovi ogni volta invece dello stesso cast per un mese. Le raccolte di racconti brevi in tedesco per principianti esistono per questo ritmo.

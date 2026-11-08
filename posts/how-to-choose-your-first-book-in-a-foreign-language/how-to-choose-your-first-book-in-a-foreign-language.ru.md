@@ -3,6 +3,12 @@ title: "Как выбрать первую книгу на иностранно�
 excerpt: "Подходящая первая книга облегчает половину работы: выберите текст, который действительно сможете дочитать."
 publishedAt: "2026-06-03"
 draft: false
+cover: cover.jpg
+coverCredit: "Berthe Morisot, Reading, 1873 · Cleveland Museum of Art"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Berthe_Morisot_-_Reading_-_1950.89_-_Cleveland_Museum_of_Art.tiff"
+coverFocus: "center"
+category: "method"
 ---
 
 Первую иностранную книгу часто выбирают как новогоднее обещание: амбициозно и немного назло себе. Берут давно желанную классику, на второй странице упираются в незнакомую грамматику и решают, что ещё не готовы. Иногда дело просто в выборе книги.

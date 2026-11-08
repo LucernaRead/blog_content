@@ -3,6 +3,12 @@ title: "Cómo aprender francés leyendo"
 excerpt: "Aprende francés leyendo con una escalera pensada para esta lengua: primero lecturas graduadas, el passé simple y las elisiones explicados, una prueba de muestra de diez minutos y una rutina que une la página con el sonido."
 publishedAt: "2026-10-18"
 draft: false
+cover: cover.jpg
+coverCredit: "Gustave Caillebotte, Paris Street; Rainy Day, 1877 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Gustave_Caillebotte_-_Paris_Street,_Rainy_Day_-_1964.336_-_Art_Institute_of_Chicago.jpg"
+coverFocus: "center 45%"
+category: "language"
 ---
 
 El francés le da al lector una ventaja y una advertencia a la vez. La ventaja es el vocabulario. Buena parte de las palabras cotidianas del inglés viene del francés, y un principiante que abre una página en francés se encuentra formas conocidas por todas partes: *famille*, *important*, *arriver*, *commencer*. La advertencia es el sonido. La ortografía francesa conserva letras que la pronunciación abandonó hace siglos, así que la palabra que sabes leer a menudo no es la que reconocerías de oído. Leer bien en francés significa trabajar con los dos hechos desde el principio.

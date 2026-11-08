@@ -3,6 +3,12 @@ title: "Hoe je je eerste boek in een vreemde taal kiest"
 excerpt: "Het juiste eerste boek doet de helft van het werk voor je. Een praktische gids voor beginners: hoe je in je doeltaal een boek kiest dat je echt uitleest."
 publishedAt: "2026-06-03"
 draft: false
+cover: cover.jpg
+coverCredit: "Berthe Morisot, Reading, 1873 · Cleveland Museum of Art"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Berthe_Morisot_-_Reading_-_1950.89_-_Cleveland_Museum_of_Art.tiff"
+coverFocus: "center"
+category: "method"
 ---
 
 De meeste mensen kiezen hun eerste anderstalige boek zoals ze een goed voornemen kiezen: ambitieus, en een beetje uit koppigheid. Ze grijpen naar de klassieker die ze altijd al wilden lezen, botsen op pagina twee tegen een muur van onbekende grammatica en concluderen dat ze er nog niet klaar voor zijn. Het boek was het probleem, niet jij.

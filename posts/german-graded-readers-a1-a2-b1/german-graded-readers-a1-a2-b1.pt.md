@@ -3,6 +3,12 @@ title: "Leituras graduadas em alemão: como escolher o seu primeiro livro, de A1
 excerpt: "Verifique a edição e o nível, teste uma amostra antes de comprar e construa um caminho dos contos A1 até ao seu primeiro romance original."
 publishedAt: "2026-10-09"
 draft: false
+cover: cover.jpg
+coverCredit: "Albrecht Dürer, Young Hare, 1502 · Albertina"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Hare,_1502_-_Google_Art_Project.jpg"
+coverFocus: "center 45%"
+category: "lists"
 ---
 
 Abre um romance em alemão, reconhece as primeiras palavras e passa o resto do parágrafo no dicionário. O verbo só chega no fim da frase, a história desaparece atrás do trabalho de a decifrar e os casos tratam do resto. Uma leitura graduada dá-lhe um degrau mais pequeno: uma história completa, escrita ou adaptada para um nível declarado.

@@ -3,6 +3,12 @@ title: "French Books for Beginners: The First Books Worth Reading"
 excerpt: "Choose your first French book by kind, not by fame: a guided reader, a dual-language safety net, a familiar story, a short-chapter classic and a comic, each checked by edition."
 publishedAt: "2026-10-19"
 draft: false
+cover: cover.jpg
+coverCredit: "Édouard Manet, Woman Reading, 1878–79 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:%C3%89douard_Manet_-_Woman_Reading_-_1933.435_-_Art_Institute_of_Chicago.jpg"
+coverFocus: "center 28%"
+category: "lists"
 ---
 
 Search for French books for beginners and most lists mix everything together: grammar textbooks, verb tables, story collections, children's classics and famous novels, as if one kind of book could do every job. It cannot. A reader written for learners, a book with a translation beside the text, and a famous story you already know in another language ask for three different kinds of effort. The right first book is the one whose effort you can repeat tomorrow.

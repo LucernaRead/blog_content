@@ -3,6 +3,12 @@ title: "Интенсивное или экстенсивное чтение: ч�
 excerpt: "Микроскоп и пройденное расстояние: две цели чтения и способы не превращать каждую страницу в испытание."
 publishedAt: "2026-07-02"
 draft: false
+cover: cover.jpg
+coverCredit: "François Bonvin after Pieter Janssens Elinga, A Woman Reading, 1846–47 · Metropolitan Museum of Art"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:A_Woman_Reading,_after_Pieter_Janssens_Elinga_MET_DP805444.jpg"
+coverFocus: "center 60%"
+category: "method"
 ---
 
 Вы читаете на изучаемом языке, но скорость не растёт? Возможно, всё время используете один режим. Преподаватели различают **интенсивное** и **экстенсивное** чтение: внешне они похожи, но решают разные задачи.

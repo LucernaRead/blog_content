@@ -3,6 +3,12 @@ title: "읽기로 중국어를 배우는 방법"
 excerpt: "첫 번째 병음 표기 이야기부터 중국어를 읽기로 배우기: 띄어쓰기가 없는 문장에서 단어를 알아보는 법, 병음을 단계적으로 떼는 법, 단계별 독본에서 단계별 뉴스까지 오르는 법, 그리고 중국어 독자를 멈추게 하는 세 가지 함정을 피하는 법."
 publishedAt: "2026-10-25"
 draft: false
+cover: cover.jpg
+coverCredit: "Fan Kuan, Travelers Among Mountains and Streams, c. 1000 · National Palace Museum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Fan_Kuan_-_Travelers_Among_Mountains_and_Streams_-_Google_Art_Project.jpg"
+coverFocus: "center 45%"
+category: "language"
 ---
 
 읽기로 중국어를 배울 수 있지만, 중국어는 배우는 순서를 바꾼다. 스페인어나 프랑스어에서는 알파벳 덕분에 첫날부터 페이지를 소리 내어 읽을 수 있고, 벽은 어휘뿐이다. 중국어에서는 페이지 자체가 수업의 일부다. 단어 사이에 띄어쓰기가 없고, 한자는 소리를 표기하지 않으며, 성조가 의미를 바꾼다.

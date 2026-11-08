@@ -3,6 +3,12 @@ title: "베를리너처럼 읽기: 이번 여름에 시작할 짧은 독일어 �
 excerpt: "A2에서 C1까지 올라가는 독서 사다리. 전부 구텐베르크 프로젝트에 무료로 있고, 어느 것도 당신의 인내심보다 길지 않다."
 publishedAt: "2026-06-26"
 draft: false
+cover: cover.jpg
+coverCredit: "Caspar David Friedrich, Woman at a Window, 1822 · Alte Nationalgalerie"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Frau_am_Fenster_-_Google_Art_Project.jpg"
+coverFocus: "center 40%"
+category: "lists"
 ---
 
 # 베를리너처럼 읽기: 이번 여름에 시작할 짧은 독일어 책 7권

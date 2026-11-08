@@ -3,6 +3,12 @@ title: "Faut-il chercher chaque mot en lisant ? Seulement ceux qui bloquent la p
 excerpt: "Ne cherchez pas chaque mot : cherchez seulement ceux qui bloquent la phrase — ceux qui reviennent sans cesse, ceux sans lesquels la phrase s'effondre, ou ceux qui portent l'action — et laissez filer le reste. Une poignée de recherches par page suffit pour garder l'histoire en mouvement."
 publishedAt: "2026-06-13"
 draft: false
+cover: cover.jpg
+coverCredit: "Quentin Matsys, The Moneylender and His Wife, 1514 · Louvre"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Massysm_Quentin_%E2%80%94_The_Moneylender_and_his_Wife_%E2%80%94_1514.jpg"
+coverFocus: "center 65%"
+category: "method"
 ---
 
 Chaque apprenant rencontre la même bifurcation dès la première page : un mot inconnu apparaît, et il faut choisir. S'arrêter pour le chercher, ou continuer en espérant que le sens remonte tout seul ? Exagérez dans un sens ou dans l'autre et la lecture devient une corvée — une marche hachée à travers le dictionnaire, ou un brouillard de phrases à moitié comprises. Bonne nouvelle : il existe une règle simple.

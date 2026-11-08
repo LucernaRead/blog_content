@@ -3,6 +3,12 @@ title: "Lee un libro que ya conoces: el atajo a tu primera novela en otro idioma
 excerpt: "Lo más difícil de tu primera novela en un idioma nuevo no es la gramática: es no saber qué va a pasar. Quita ese problema: lee un libro que ya hayas leído."
 publishedAt: "2026-07-14"
 draft: false
+cover: cover.jpg
+coverCredit: "Gerrit Dou, Old Woman Reading, 1631–32 · Rijksmuseum"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:Lezende_oude_vrouw_Oude_vrouw_lezend_in_een_lectionarium_zogenaamd_portret_van_Rembrandts_moeder,_Neeltgen_Willemsdr_van_Zuijdtbroeck_(gest_1640),_SK-A-2627.jpg"
+coverFocus: "center 45%"
+category: "method"
 ---
 
 # Lee un libro que ya conoces: el atajo hacia tu primera novela en otro idioma

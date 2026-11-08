@@ -3,6 +3,12 @@ title: "За пределами ежедневной серии: план чте
 excerpt: "Месяц, чтобы перейти от коротких заданий к связной истории, без обещания свободного языка за тридцать дней."
 publishedAt: "2026-05-29"
 draft: false
+cover: cover.jpg
+coverCredit: "Hans Holbein the Younger, The Ambassadors, 1533 · National Gallery, London"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg"
+coverFocus: "center 40%"
+category: "language"
 ---
 
 Короткие упражнения могут стать привычкой, не приближая к желанной книге. Если приложение открывается только ради сохранения серии, попробуйте добавить другую практику — непрерывную историю по-немецки.

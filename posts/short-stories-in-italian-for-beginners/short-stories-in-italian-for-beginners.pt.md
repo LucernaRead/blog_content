@@ -3,6 +3,12 @@ title: "Histórias curtas em italiano para iniciantes: o que ler primeiro"
 excerpt: "Comece com histórias curtas em italiano que você realmente consegue terminar: textos A1 gratuitos para testar seu nível, uma história honestamente A1 e duas coletâneas A2-B1 verificadas por edição."
 publishedAt: "2026-10-22"
 draft: false
+cover: cover.jpg
+coverCredit: "Canaletto, The Bacino di San Marco, c. 1738 · Museum of Fine Arts, Boston"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Boston,_Museum_of_Fine_Art_-_Il_bacino_di_San_Marco_c.1738_-_Canaletto.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 Seu primeiro livro em italiano não precisa ser um romance. Uma história curta lhe dá um enredo completo em uma ou duas sessões, e uma coletânea lhe dá esse final de novo e de novo, com personagens novos a cada vez em vez do mesmo elenco por um mês. Coletâneas de histórias curtas em italiano para iniciantes são feitas para esse ritmo.

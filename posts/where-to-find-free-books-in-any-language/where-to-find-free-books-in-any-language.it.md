@@ -3,6 +3,12 @@ title: "Dove trovare libri gratuiti per imparare una lingua"
 excerpt: "Biblioteche digitali, classici di pubblico dominio e letture accessibili: costruire una biblioteca nella lingua che studi."
 publishedAt: "2026-05-30"
 draft: false
+cover: cover.jpg
+coverCredit: "Carl Spitzweg, The Bookworm, c. 1850 · Museum Georg Schäfer"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Carl_Spitzweg_-_%22The_Bookworm%22.jpg"
+coverFocus: "center 30%"
+category: "lists"
 ---
 
 Una delle piccole comodità di imparare una lingua leggendo è quanto poco può costare. Secoli di letteratura sono entrati nel pubblico dominio e spesso bastano pochi clic per trovarli. La difficoltà non è solo trovare libri: è scegliere tra tutti quelli disponibili. Verifica sempre le condizioni di utilizzo nel tuo paese.

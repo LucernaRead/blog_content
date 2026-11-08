@@ -3,6 +3,12 @@ title: "How to actually finish a book in a foreign language"
 excerpt: "Starting is easy — everyone has a half-read novel in their target language. Here is how to be on the other side: the person who closes the back cover."
 publishedAt: "2026-06-28"
 draft: false
+cover: cover.jpg
+coverCredit: "Winslow Homer, The New Novel, 1877 · Springfield Museums"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:1877-winslow-homer-the-new-novel.jpg"
+coverFocus: "40% center"
+category: "method"
 ---
 
 # How to actually finish a book in a foreign language

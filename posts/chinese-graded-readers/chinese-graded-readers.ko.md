@@ -3,6 +3,12 @@ title: "중국어 등급 리더: HSK 수준에 맞는 책 고르기"
 excerpt: "끝까지 읽을 수 있는 중국어 등급 리더를 고르세요. HSK 등급, 한자 수와 단어 수의 차이, 150자로 된 첫 책부터 고전 명작 각색까지 다섯 시리즈, 그리고 10분 샘플 테스트를 소개합니다."
 publishedAt: "2026-10-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Ma Yuan, Walking on a Mountain Path in Spring, 1190 · National Palace Museum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Ma_Yuan_mountain_path_in_spring.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 중국어는 대부분의 언어보다 초보자에게 더 많은 것을 요구합니다. 기댈 알파벳이 없고, 새 단어는 외워야 할 그림이기도 하며, 페이지에서는 짧아 보이는 문장이 한 번도 본 적 없는 한자로 빽빽할 수 있습니다.

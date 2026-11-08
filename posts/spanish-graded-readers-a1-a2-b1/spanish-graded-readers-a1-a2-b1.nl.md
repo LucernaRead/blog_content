@@ -3,6 +3,12 @@ title: "Spaanse graded readers: zo kies je je eerste boek van A1 tot B1"
 excerpt: "Controleer de editie en het niveau, test een fragment voordat je koopt, en bouw een pad van A1-verhalen naar je eerste originele roman."
 publishedAt: "2026-10-08"
 draft: false
+cover: cover.jpg
+coverCredit: "Francisco Goya, The Parasol, 1777 · Museo del Prado"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:El_Quitasol_(Goya).jpg"
+coverFocus: "center 40%"
+category: "lists"
 ---
 
 Je opent een Spaanse roman, herkent de eerste paar woorden en brengt de rest van de alinea door in het woordenboek. Het verhaal verdwijnt achter het werk om het te ontcijferen. Een graded reader geeft je een kleinere stap: een compleet verhaal, geschreven of bewerkt voor een aangegeven leerniveau.

@@ -3,6 +3,12 @@ title: "Letture graduate in tedesco: scegliere il primo libro da A1 a B1"
 excerpt: "Controlla edizione e livello, prova un campione prima di acquistare e costruisci un percorso dalle fiabe A1 fino al tuo primo romanzo originale."
 publishedAt: "2026-10-09"
 draft: false
+cover: cover.jpg
+coverCredit: "Albrecht Dürer, Young Hare, 1502 · Albertina"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Hare,_1502_-_Google_Art_Project.jpg"
+coverFocus: "center 45%"
+category: "lists"
 ---
 
 Apri un romanzo in tedesco, riconosci le prime parole e passi il resto del paragrafo nel dizionario. Il verbo arriva solo alla fine della frase, la storia scompare dietro il lavoro di decodifica e i casi fanno il resto. Una lettura graduata ti dà un gradino più piccolo: una storia completa, scritta o adattata per un livello dichiarato.

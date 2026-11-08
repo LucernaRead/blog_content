@@ -3,6 +3,12 @@ title: "How to Learn a Language by Reading (The 5-Pages-a-Night Method)"
 excerpt: "Read your way to fluency with a tiny daily habit. Why fifteen minutes a night beats marathon study sessions — and how to build the routine."
 publishedAt: "2026-06-10"
 draft: false
+cover: cover.jpg
+coverCredit: "Gerard ter Borch, Woman Reading a Book · National Museum in Warsaw"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Gerard_ter_Borch_II_-_Woman_reading_a_book_-_M.Ob.847_MNW_-_National_Museum_in_Warsaw.jpg"
+coverFocus: "center 55%"
+category: "method"
 ---
 
 We overestimate what we can read in a weekend and underestimate what we can read in a year. The marathon session — five hours with a dictionary and a fresh resolution — feels like progress, but it rarely survives contact with a second weekend. The reader who turns one page a night, on the other hand, finishes a shelf by spring and barely notices the climb.

@@ -3,6 +3,12 @@ title: "外国語を読むとき、単語は全部調べるべき？文を止め
 excerpt: "全部調べる必要はない。調べるのは文を止める単語だけ——何度も出てくるもの、なければ文が崩れるもの、動作を担うもの。あとは見送ろう。1ページに数回調べれば、物語は止まらない。"
 publishedAt: "2026-06-13"
 draft: false
+cover: cover.jpg
+coverCredit: "Quentin Matsys, The Moneylender and His Wife, 1514 · Louvre"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Massysm_Quentin_%E2%80%94_The_Moneylender_and_his_Wife_%E2%80%94_1514.jpg"
+coverFocus: "center 65%"
+category: "method"
 ---
 
 どの学習者も、最初のページで同じ分かれ道に出会う。知らない単語が現れ、決めなければならない。止まって調べるか、読み進めて意味が浮かび上がるのを待つか。どちらにやりすぎても読書は苦行になる。辞書を往復する切れ切れの行軍か、半分しか分からない文の霧か。幸い、簡単な目安がある。

@@ -3,6 +3,12 @@ title: "Italiaanse boeken voor beginners: de eerste boeken die de moeite waard z
 excerpt: "Kies je eerste Italiaanse boek op soort, niet op roem: een roman voor leerders, een tweetalig leesboek, een vertrouwd origineel en een verhalenbundel met een aangegeven niveau, elk gecontroleerd per editie en elk met een eigen taak."
 publishedAt: "2026-10-24"
 draft: false
+cover: cover.jpg
+coverCredit: "Bernardo Bellotto, View of the Grand Canal from Punta della Dogana · Museo del Settecento Veneziano"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:(Venice)_Veduta_del_Canal_Grande_dalla_Punta_della_Dogana_-_Bernardo_Bellotto.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 Wie zoekt naar Italiaanse boeken voor beginners, krijgt een muur van lijsten waarin alles door elkaar staat: leerboeken, fraseboeken, verhalenbundels, kinderklassiekers en beroemde romans, alsof ze uitwisselbaar zijn. Dat zijn ze niet. Een boek dat voor leerders is geschreven, een boek met een vertaling ernaast en een beroemd boek dat je al in een andere taal kent, vragen om drie verschillende soorten inspanning. Het juiste eerste boek is het boek waarvan je de inspanning morgen kunt herhalen.

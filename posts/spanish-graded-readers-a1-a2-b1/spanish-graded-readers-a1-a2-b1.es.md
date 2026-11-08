@@ -3,6 +3,12 @@ title: "Lecturas graduadas en español: cómo elegir tu primer libro, de A1 a B1
 excerpt: "Comprueba la edición y el nivel, prueba un fragmento durante diez minutos y encuentra una lectura en español que quieras terminar."
 publishedAt: "2026-10-08"
 draft: false
+cover: cover.jpg
+coverCredit: "Francisco Goya, The Parasol, 1777 · Museo del Prado"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:El_Quitasol_(Goya).jpg"
+coverFocus: "center 40%"
+category: "lists"
 ---
 
 Abres una novela en español, reconoces las primeras palabras y te pasas el resto del párrafo en el diccionario. La historia desaparece detrás del trabajo de descifrarla. Una lectura graduada te da un escalón más pequeño: una historia completa, escrita o adaptada para un nivel de aprendizaje declarado.

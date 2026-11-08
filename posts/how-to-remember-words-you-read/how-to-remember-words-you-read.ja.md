@@ -3,6 +3,12 @@ title: "読んだ単語の覚え方(フラッシュカードなしで)"
 excerpt: "語彙を定着させる方法はフラッシュカードだけではない。文脈のなかで繰り返し読むことがどう長持ちする記憶をつくるのか——そして、どうしても残らない語の扱い方。"
 publishedAt: "2026-06-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Jean-Baptiste-Siméon Chardin, The Young Schoolmistress, c. 1736 · National Gallery, London"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Jean_Sim%C3%A9on_Chardin_-_The_Young_Schoolmistress_-_WGA04750.jpg"
+coverFocus: "center 35%"
+category: "method"
 ---
 
 語学には特有のもどかしさがある。単語を調べ、なるほどと頷き、三ページ後にまったくの他人として再会する。定番の対処法はフラッシュカード——覚えるまで反復する。だが、もっと古くて静かな方法がある。お金がかからず、読書のように感じられる。実際それは読書だからだ。

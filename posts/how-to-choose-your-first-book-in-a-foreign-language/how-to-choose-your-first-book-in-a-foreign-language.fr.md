@@ -3,6 +3,12 @@ title: "Comment choisir votre premier livre en langue étrangère"
 excerpt: "Le bon premier livre fait la moitié du travail. Un guide pratique et accessible pour choisir, dans votre langue cible, un livre que vous finirez vraiment."
 publishedAt: "2026-06-03"
 draft: false
+cover: cover.jpg
+coverCredit: "Berthe Morisot, Reading, 1873 · Cleveland Museum of Art"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Berthe_Morisot_-_Reading_-_1950.89_-_Cleveland_Museum_of_Art.tiff"
+coverFocus: "center"
+category: "method"
 ---
 
 La plupart des gens choisissent leur premier livre en langue étrangère comme ils prennent une bonne résolution : avec ambition, et un peu par défi. Ils attrapent le classique qu'ils ont toujours voulu lire, se heurtent page deux à un mur de grammaire inconnue, et en concluent qu'ils ne sont pas prêts. C'est le livre qui posait problème, pas vous.

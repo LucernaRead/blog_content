@@ -3,6 +3,12 @@ title: "スペイン語初心者向け短編集：最初に読むべき一冊"
 excerpt: "本当に読み終えられるスペイン語の短編から始めましょう。無料のA1リーダー1冊、版で確認した初心者向け短編集2冊、そして1編丸ごと試す選び方を紹介します。"
 publishedAt: "2026-10-10"
 draft: false
+cover: cover.jpg
+coverCredit: "Joaquín Sorolla, Boys on the Beach, 1910 · Museo del Prado"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Joaqu%C3%ADn_Sorolla_-_Chicos_en_la_playa.jpg"
+coverFocus: "center 50%"
+category: "lists"
 ---
 
 スペイン語の最初の1冊は、長編小説でなくてもよいのです。多くの初心者にとって、より良い「最初の完読」は短編1編です。1〜2回の読書で完結する物語、1か月同じ登場人物につき合うのではなく数日ごとに新しい顔ぶれ、そして結末に何度もたどり着く静かな自信。初心者向けのスペイン語短編集は、まさにそのリズムのために作られています。

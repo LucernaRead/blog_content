@@ -3,6 +3,12 @@ title: "Where to Find Free Books in Any Language to Learn From"
 excerpt: "Build a free library in your target language. Project Gutenberg, Wikisource, graded readers and more — a field guide to reading without spending a cent."
 publishedAt: "2026-05-30"
 draft: false
+cover: cover.jpg
+coverCredit: "Carl Spitzweg, The Bookworm, c. 1850 · Museum Georg Schäfer"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Carl_Spitzweg_-_%22The_Bookworm%22.jpg"
+coverFocus: "center 30%"
+category: "lists"
 ---
 
 One of the quiet luxuries of learning a language through reading is how little it costs. Centuries of literature have fallen into the public domain, and most of it is a search away — free, legal, and waiting on a shelf nobody charges admission to. The hard part isn’t finding books; it’s choosing among them.

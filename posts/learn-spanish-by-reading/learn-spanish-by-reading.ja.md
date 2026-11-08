@@ -3,6 +3,12 @@ title: "読書でスペイン語を学ぶ方法：初心者にやさしい道筋
 excerpt: "まずはグレーデッドリーダーから始め、梯子を一段ずつ上り、毎日少しずつ読む——本選びには10分サンプルテストを使います。"
 publishedAt: "2026-10-09"
 draft: false
+cover: cover.jpg
+coverCredit: "Diego Velázquez, Las Meninas, 1656–57 · Museo del Prado"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Las_Meninas_01.jpg"
+coverFocus: "center 45%"
+category: "language"
 ---
 
 読書でスペイン語を学ぶことには、ほかの多くの言語にない利点があります。スペイン語の綴りは透明です。基本的な音の規則を知れば、目に見える単語はたいてい発音でき、耳で聞いた音はたいていその通りに書かれています。日常語彙の多くは英語とラテン語の語根を共有しているため、初心者でも予想以上に多くの単語に見覚えがあるはずです。

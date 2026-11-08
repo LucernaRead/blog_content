@@ -3,6 +3,12 @@ title: "Quantas palavras são precisas para ler um livro em outro idioma?"
 excerpt: "Os números honestos: cerca de 5.000 famílias de palavras para entender grosso modo, 8.000–9.000 para ler confortavelmente sozinho. Mas o útil é: não precisa esperar — ler é como se chega lá."
 publishedAt: "2026-07-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Jan Davidsz. de Heem, Still Life with Books and a Lute, 1625–30 · Rijksmuseum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Stilleven_met_boeken_Rijksmuseum_SK-A-2565.jpeg"
+coverFocus: "center"
+category: "method"
 ---
 
 # Quantas palavras são necessárias para ler um livro em outro idioma?

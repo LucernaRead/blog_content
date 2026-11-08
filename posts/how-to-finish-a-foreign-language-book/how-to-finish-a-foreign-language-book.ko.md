@@ -3,6 +3,12 @@ title: "외국어 책을 진짜로 끝까지 읽는 법"
 excerpt: "시작은 쉽다 — 누구나 반쯤 읽다 만 원서가 있다. 여기 쓰는 건 반대편에 서는 법: 뒤표지를 덮는 사람이 되는 법."
 publishedAt: "2026-06-28"
 draft: false
+cover: cover.jpg
+coverCredit: "Winslow Homer, The New Novel, 1877 · Springfield Museums"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:1877-winslow-homer-the-new-novel.jpg"
+coverFocus: "40% center"
+category: "method"
 ---
 
 # 외국어 책을 진짜로 끝까지 읽는 법

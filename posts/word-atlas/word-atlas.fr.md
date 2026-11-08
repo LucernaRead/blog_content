@@ -3,6 +3,12 @@ title: "Word Atlas : ce qu'une carte de vocabulaire illustrée peut vous apprend
 excerpt: "Cherchez word atlas et vous obtenez des livres de cartes. Il existe une autre sorte d'atlas : une carte de mots, où chaque mot reçoit une image, des phrases d'exemple et un programme de révision. Voici ce pour quoi cette carte est utile, où elle s'arrête, et comment la relier à une vraie lecture."
 publishedAt: "2026-10-29"
 draft: false
+cover: cover.jpg
+coverCredit: "England, Sampler (map of the Americas), 19th century · Cleveland Museum of Art"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:England,_19th_century_-_Sampler_-_1943.117_-_Cleveland_Museum_of_Art.jpg"
+coverFocus: "center 35%"
+category: "method"
 ---
 
 Cherchez « word atlas » et les premiers résultats parlent de livres de cartes. C'est le sens le plus ancien du mot, et c'est ce que la plupart des chercheurs veulent. Cet article parle de l'autre sens : un atlas de mots. Au lieu de pays sur une carte, on y trouve des mots, rangés par thème, chacun doté d'une image, d'une définition, de phrases d'exemple et d'une prononciation. La question n'est pas de savoir si les images sont jolies. C'est de savoir quels mots une image aide vraiment à apprendre, et quoi faire des mots qu'elle ne peut pas porter.

@@ -3,6 +3,12 @@ title: "첫 외국어 책을 고르는 법"
 excerpt: "첫 책이 맞으면 절반은 책이 대신 해준다. 정말로 끝까지 읽게 될 책을 고르는, 초보자를 위한 실전 가이드."
 publishedAt: "2026-06-03"
 draft: false
+cover: cover.jpg
+coverCredit: "Berthe Morisot, Reading, 1873 · Cleveland Museum of Art"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Berthe_Morisot_-_Reading_-_1950.89_-_Cleveland_Museum_of_Art.tiff"
+coverFocus: "center"
+category: "method"
 ---
 
 대부분의 사람은 첫 외국어 책을 새해 결심 세우듯 고른다. 야심 차게, 그리고 약간은 오기로. 늘 읽으려던 고전에 손을 뻗었다가 두 번째 쪽에서 낯선 문법의 벽에 부딪히고는, 아직 준비가 안 됐다고 결론짓는다. 문제는 책이었지 당신이 아니었다.

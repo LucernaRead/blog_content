@@ -3,6 +3,12 @@ title: "How long until you can read a novel in a new language?"
 excerpt: "The honest answer: sooner than you think if you read the right way, and never if you wait until you feel ready. A realistic timeline — and the one variable that decides it."
 publishedAt: "2026-07-01"
 draft: false
+cover: cover.jpg
+coverCredit: "Vincent van Gogh, The Novel Reader, 1888"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Vincent_Van_Gogh_-_Une_liseuse_de_romans_(1888).jpg"
+coverFocus: "center 35%"
+category: "method"
 ---
 
 # How long until you can read a novel in a new language?

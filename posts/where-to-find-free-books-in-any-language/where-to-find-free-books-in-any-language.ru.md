@@ -3,6 +3,12 @@ title: "Где искать бесплатные книги для изучен�
 excerpt: "Цифровые библиотеки, произведения общественного достояния и более простые тексты: как собрать библиотеку на изучаемом языке."
 publishedAt: "2026-05-30"
 draft: false
+cover: cover.jpg
+coverCredit: "Carl Spitzweg, The Bookworm, c. 1850 · Museum Georg Schäfer"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Carl_Spitzweg_-_%22The_Bookworm%22.jpg"
+coverFocus: "center 30%"
+category: "lists"
 ---
 
 Одно из тихих преимуществ изучения языка через чтение — небольшие расходы. Многовековая литература перешла в общественное достояние, и множество книг можно найти за несколько минут. Труднее не найти книгу, а выбрать из всего доступного. Условия использования следует проверять для своей страны.

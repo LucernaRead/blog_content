@@ -3,6 +3,12 @@ title: "Come scegliere il primo libro in una lingua straniera"
 excerpt: "Il primo libro giusto ti aiuta a fare metà del lavoro: scegliere una lettura che riuscirai davvero a finire."
 publishedAt: "2026-06-03"
 draft: false
+cover: cover.jpg
+coverCredit: "Berthe Morisot, Reading, 1873 · Cleveland Museum of Art"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Berthe_Morisot_-_Reading_-_1950.89_-_Cleveland_Museum_of_Art.tiff"
+coverFocus: "center"
+category: "method"
 ---
 
 Molti scelgono il primo libro straniero come un proposito di Capodanno: con grande ambizione e un po’ di ostinazione. Prendono il classico che volevano leggere da anni, incontrano una parete di grammatica alla seconda pagina e pensano di non essere pronti. A volte il problema è il libro scelto.

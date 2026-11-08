@@ -3,6 +3,12 @@ title: "Chinesisch lernen durch Lesen"
 excerpt: "Chinesisch lernen durch Lesen, von der ersten Geschichte mit Pinyin: Wie man in einem Text ohne Leerzeichen Wörter erkennt, Pinyin schrittweise ablegt, von Lesestufen zu gestuften Nachrichten aufsteigt und den drei Fallen ausweicht, die chinesische Leser stoppen."
 publishedAt: "2026-10-25"
 draft: false
+cover: cover.jpg
+coverCredit: "Fan Kuan, Travelers Among Mountains and Streams, c. 1000 · National Palace Museum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Fan_Kuan_-_Travelers_Among_Mountains_and_Streams_-_Google_Art_Project.jpg"
+coverFocus: "center 45%"
+category: "language"
 ---
 
 Man kann Chinesisch durch Lesen lernen, aber Chinesisch ändert die Reihenfolge. Bei Spanisch oder Französisch lässt das Alphabet einen schon am ersten Tag eine Seite laut lesen, und die einzige Hürde ist der Wortschatz. Im Chinesischen ist die Seite selbst Teil der Lektion: keine Leerzeichen zwischen Wörtern, Schriftzeichen, die ihren eigenen Laut nicht verraten, und Töne, die die Bedeutung ändern.

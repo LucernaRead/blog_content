@@ -4,6 +4,12 @@ excerpt: "初めてのグレーデッド・リーダーを読み切ることこ�
 publishedAt: "2026-10-09"
 updatedAt: "2026-10-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Claude Monet, Springtime, 1872 · Walters Art Museum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Springtime_-_Walters_3711.jpg"
+coverFocus: "center 55%"
+category: "method"
 ---
 
 初めてのグレーデッド・リーダーを読み終えること、それが本当の節目です。別の言語で一冊の本を読み切ったのです——教科書の会話ではなく、最初から最後までひとつの完全な物語を。それは、本を閉じた日には思える以上に大きなことです。

@@ -3,6 +3,12 @@ title: "초보자를 위한 프랑스어 책: 처음 읽을 가치가 있는 책
 excerpt: "유명세가 아니라 책의 종류로 첫 프랑스어 책을 고르세요. 안내가 붙은 리더, 대역본, 아는 이야기, 짧은 장의 고전, 만화 한 권. 모두 판본을 확인했습니다."
 publishedAt: "2026-10-19"
 draft: false
+cover: cover.jpg
+coverCredit: "Édouard Manet, Woman Reading, 1878–79 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:%C3%89douard_Manet_-_Woman_Reading_-_1933.435_-_Art_Institute_of_Chicago.jpg"
+coverFocus: "center 28%"
+category: "lists"
 ---
 
 "초보자를 위한 프랑스어 책"을 검색하면 대부분의 목록은 모든 것을 한데 섞습니다. 문법 교재, 동사표, 단편집, 아동 고전, 유명한 소설까지, 마치 한 종류의 책이 모든 일을 할 수 있는 것처럼요. 할 수 없습니다. 학습자를 위해 쓰인 리더, 본문 옆에 번역이 붙은 책, 다른 언어로 이미 아는 유명한 이야기는 서로 다른 종류의 노력을 요구합니다. 올바른 첫 책은 그 노력을 내일도 반복할 수 있는 책입니다.

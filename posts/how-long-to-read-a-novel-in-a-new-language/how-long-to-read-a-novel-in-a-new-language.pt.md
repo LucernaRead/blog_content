@@ -3,6 +3,12 @@ title: "Quanto tempo até conseguir ler um romance num idioma novo?"
 excerpt: "A resposta honesta: mais cedo do que você imagina se ler do jeito certo, e nunca se esperar se sentir pronto. Um cronograma realista — e a única variável que o decide."
 publishedAt: "2026-07-01"
 draft: false
+cover: cover.jpg
+coverCredit: "Vincent van Gogh, The Novel Reader, 1888"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Vincent_Van_Gogh_-_Une_liseuse_de_romans_(1888).jpg"
+coverFocus: "center 35%"
+category: "method"
 ---
 
 # Quanto tempo até você conseguir ler um romance num idioma novo?

@@ -3,6 +3,12 @@ title: "Leggere con la traduzione aperta: aiuto o stampella?"
 excerpt: "Una traduzione può sbloccare una frase oppure sostituire il lavoro di comprenderla. Conta quando la consulti."
 publishedAt: "2026-06-29"
 draft: false
+cover: cover.jpg
+coverCredit: "Henri Fantin-Latour, The Reading, 1877 · Musée des Beaux-Arts de Lyon"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Fantin-Latour-La_Lecture-Lyon.jpg"
+coverFocus: "center 40%"
+category: "method"
 ---
 
 Quasi tutti provano questa disposizione: originale aperto, traduzione nell’altra scheda. Leggi un paragrafo, controlli, continui. Può sembrare efficiente, ma il modo in cui usi la traduzione decide se aiuta l’autonomia o la rinvia.

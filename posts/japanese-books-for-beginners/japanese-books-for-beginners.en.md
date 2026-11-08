@@ -3,6 +3,12 @@ title: "Japanese Books for Beginners: The First Books Worth Reading"
 excerpt: "Choose your first Japanese book by kind, not by fame: a free tadoku starter, a dual-language safety net, a manga with furigana, a familiar story and a graded story collection, each checked by edition."
 publishedAt: "2026-10-21"
 draft: false
+cover: cover.jpg
+coverCredit: "Kitagawa Utamaro, Woman Reading a Letter, 1806 · Cleveland Museum of Art"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Woman_Reading_a_Letter_(from_the_series_Seven_Episodes_in_the_Life_of_Komac_-_1943.23_-_Cleveland_Museum_of_Art.jpg"
+coverFocus: "center 22%"
+category: "lists"
 ---
 
 Search for Japanese books for beginners and most lists hand you textbooks: Genki, Minna no Nihongo, kanji workbooks and grammar dictionaries, as if learning Japanese and reading Japanese were the same job. They are not. A textbook teaches you the language in lessons. A first book gives you Japanese you can read for the story, page after page, until the page stops feeling like a puzzle. The two shelves overlap less than the lists suggest.

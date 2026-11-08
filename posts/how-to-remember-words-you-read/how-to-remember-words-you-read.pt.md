@@ -3,6 +3,12 @@ title: "Como lembrar as palavras que você lê (sem flashcards)"
 excerpt: "Flashcards não são o único jeito de fixar vocabulário. Como a leitura repetida e contextual constrói uma memória duradoura — e o que fazer com as palavras que não grudam."
 publishedAt: "2026-06-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Jean-Baptiste-Siméon Chardin, The Young Schoolmistress, c. 1736 · National Gallery, London"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Jean_Sim%C3%A9on_Chardin_-_The_Young_Schoolmistress_-_WGA04750.jpg"
+coverFocus: "center 35%"
+category: "method"
 ---
 
 Existe uma frustração específica em aprender idiomas: você procura uma palavra, concorda com a cabeça e reencontra a mesma palavra três páginas depois como uma completa estranha. A solução padrão são flashcards — repetir até grudar. Mas existe um método mais antigo e mais silencioso, que não custa nada e parece leitura, porque é leitura.

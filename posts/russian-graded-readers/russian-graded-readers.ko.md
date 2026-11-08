@@ -3,6 +3,12 @@ title: "러시아어 단계별 독본: 수준에 맞는 책 고르기"
 excerpt: "끝까지 읽을 수 있는 러시아어 단계별 독본 고르기: CEFR 등급과 출판사 자체 기준의 차이, 무료 A1 이야기부터 B2 사다리까지 다섯 가지 출발점, 10분 샘플 테스트."
 publishedAt: "2026-10-26"
 draft: false
+cover: cover.jpg
+coverCredit: "Vasily Kandinsky, Landscape with Two Poplars, 1912 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Vasily_Kandinsky_-_Landscape_with_Two_Poplars_-_1931.508_-_Art_Institute_of_Chicago.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 러시아어는 대부분의 유럽 언어보다 초보자에게 더 많은 것을 요구한다. 문자가 새롭고, 단어의 강세는 일반 텍스트에 표시되지 않으며, 같은 단어가 문장에서의 역할에 따라 어미를 바꾼다. 그래서 실제 러시아어 한 페이지는 어휘량에서 짐작되는 것보다 훨씬 어렵게 느껴질 수 있다.

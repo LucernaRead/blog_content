@@ -3,6 +3,12 @@ title: "Moet je elk woord opzoeken als je leest? Alleen de woorden die de zin bl
 excerpt: "Zoek niet elk woord op: alleen de woorden die de zin blokkeren — de woorden die steeds terugkomen, zonder welke de zin instort, of die de actie dragen — en laat de rest gaan. Een handvol opzoekingen per pagina is genoeg om het verhaal in beweging te houden."
 publishedAt: "2026-06-13"
 draft: false
+cover: cover.jpg
+coverCredit: "Quentin Matsys, The Moneylender and His Wife, 1514 · Louvre"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Massysm_Quentin_%E2%80%94_The_Moneylender_and_his_Wife_%E2%80%94_1514.jpg"
+coverFocus: "center 65%"
+category: "method"
 ---
 
 Elke leerder komt op de allereerste bladzijde dezelfde splitsing tegen: er duikt een onbekend woord op, en je moet kiezen. Stoppen en opzoeken, of doorlezen en hopen dat de betekenis vanzelf bovenkomt? Doe het in één van beide richtingen te veel en lezen wordt een karwei — een schokkerige tocht door het woordenboek, of een mist van half begrepen zinnen. Het goede nieuws: er is een simpele vuistregel.

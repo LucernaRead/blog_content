@@ -4,6 +4,12 @@ excerpt: "Tadoku graded readers voor Japans uitgelegd: de niveaus 0–5 van de N
 publishedAt: "2026-10-09"
 updatedAt: "2026-10-19"
 draft: false
+cover: cover.jpg
+coverCredit: "Utagawa Hiroshige, Sudden Shower over Shin-Ōhashi Bridge and Atake, 1857"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Hiroshige,_Sudden_shower_over_Shin-%C5%8Chashi_bridge_and_Atake,_1857.jpg"
+coverFocus: "center 30%"
+category: "lists"
 ---
 
 Japans voegt een muur toe die veel andere talen niet hebben: het schrift zelf. U kunt de dialogen uit een leerboek afronden en toch vastlopen voor een echt boek, omdat elke pagina vraagt om kana, kanji en onbekende woordenschat tegelijk te verwerken.

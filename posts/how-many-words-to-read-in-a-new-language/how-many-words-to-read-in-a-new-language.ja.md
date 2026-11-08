@@ -3,6 +3,12 @@ title: "新しい言語は何語読めば楽になるのか"
 excerpt: "閾値がある——およそ千語。そこを越えると、読むことは解読ではなく読書になる。その正体と、早く到達する方法。"
 publishedAt: "2026-06-07"
 draft: false
+cover: cover.jpg
+coverCredit: "Kate Greenaway, A Apple Pie, 1886"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:A_Apple_Pie,_C.jpg"
+coverFocus: "center 30%"
+category: "method"
 ---
 
 最初の千語がいちばん難しい。どの語も、そこで一度止まるからだ。単語に出会い、辞書を引き、話の筋を見失い、また文の頭から読み直す。読書というより考古学に近い——遺物をひとつずつ土から掘り出しては、遺跡の全体像はいつまでも見えない。

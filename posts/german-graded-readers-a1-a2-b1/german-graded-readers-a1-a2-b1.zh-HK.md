@@ -3,6 +3,12 @@ title: "德語分級讀物：從 A1 到 B1 揀好你的第一本書"
 excerpt: "按版本和級別揀一本德語分級讀物，買之前先試讀一段，從 A1 的童話一路讀到第一本原版小說。"
 publishedAt: "2026-10-09"
 draft: false
+cover: cover.jpg
+coverCredit: "Albrecht Dürer, Young Hare, 1502 · Albertina"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Hare,_1502_-_Google_Art_Project.jpg"
+coverFocus: "center 45%"
+category: "lists"
 ---
 
 你翻開一本德語小說，認出了開頭幾個字，剩下的段落卻全耗在查字典上。動詞在句尾才姍姍來遲，故事消失在解碼的勞動裏，格的變化又來補上一刀。分級讀物給你的台階要小得多：一本完整的故事，按標明的級別寫成或改編而成。

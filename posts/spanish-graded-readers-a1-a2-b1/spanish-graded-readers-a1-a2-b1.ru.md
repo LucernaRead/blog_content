@@ -3,6 +3,12 @@ title: "Адаптированные книги на испанском: как 
 excerpt: "Проверьте издание и уровень, протестируйте отрывок перед покупкой и постройте путь от историй уровня A1 до первого романа в оригинале."
 publishedAt: "2026-10-08"
 draft: false
+cover: cover.jpg
+coverCredit: "Francisco Goya, The Parasol, 1777 · Museo del Prado"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:El_Quitasol_(Goya).jpg"
+coverFocus: "center 40%"
+category: "lists"
 ---
 
 Вы открываете роман на испанском, узнаёте первые несколько слов, а остаток абзаца проводите в словаре. История исчезает за работой по её расшифровке. Адаптированная книга даёт ступеньку поменьше: целая история, написанная или переработанная для заявленного уровня учащихся.

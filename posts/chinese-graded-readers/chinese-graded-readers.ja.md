@@ -3,6 +3,12 @@ title: "中国語グレーデッドリーダー：HSKレベルに合った本の
 excerpt: "最後まで読める中国語グレーデッドリーダーを選ぶ：HSKレベル、漢字数、語彙数の違い、150字の最初の1冊から古典名作の翻案まで5つのシリーズと、10分サンプルテスト。"
 publishedAt: "2026-10-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Ma Yuan, Walking on a Mountain Path in Spring, 1190 · National Palace Museum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Ma_Yuan_mountain_path_in_spring.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 中国語は、ほかの多くの言語よりも初学者に多くを求めます。頼れるアルファベットはなく、新しい単語はどれも覚えるべき図形でもあり、ページ上では短く見える文章が、見たことのない漢字でぎっしり詰まっていることがあります。

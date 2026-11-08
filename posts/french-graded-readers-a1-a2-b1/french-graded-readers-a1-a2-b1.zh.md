@@ -3,6 +3,12 @@ title: "法语分级读物怎么选：从 A1 到 B1，走向第一本原著"
 excerpt: "分清改写版与原著，按 A1、A2、B1 选择法语读物，用十分钟试读找到适合自己的书，再把查词与复习放回阅读中。"
 publishedAt: "2026-10-03"
 draft: false
+cover: cover.jpg
+coverCredit: "Georges Seurat, A Sunday on La Grande Jatte, 1884–86 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:A_Sunday_on_La_Grande_Jatte,_Georges_Seurat,_1884.png"
+coverFocus: "center 55%"
+category: "lists"
 ---
 
 翻开一本法语小说，开头几个词还认识，读完第一段却已经查了半天词典。故事没看进去，注意力全花在逐句解码上。法语分级读物给你一个更小的台阶：它是一段完整的故事，但语言经过面向学习者的编写或改写。

@@ -4,6 +4,12 @@ excerpt: "Finishing your first graded reader is the milestone — the second boo
 publishedAt: "2026-10-09"
 updatedAt: "2026-10-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Claude Monet, Springtime, 1872 · Walters Art Museum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Springtime_-_Walters_3711.jpg"
+coverFocus: "center 55%"
+category: "method"
 ---
 
 Finishing your first graded reader is the real milestone. You read a whole book in another language — not a textbook dialogue, but a complete story, from first page to last. That matters more than it may feel like on the day you close it.

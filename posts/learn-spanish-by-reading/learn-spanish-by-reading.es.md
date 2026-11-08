@@ -3,6 +3,12 @@ title: "Cómo aprender español leyendo: una ruta amable para principiantes"
 excerpt: "Empieza con lecturas graduadas, sube una escalera sencilla y lee un poco cada día, con una prueba de diez minutos para elegir el libro adecuado."
 publishedAt: "2026-10-09"
 draft: false
+cover: cover.jpg
+coverCredit: "Diego Velázquez, Las Meninas, 1656–57 · Museo del Prado"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Las_Meninas_01.jpg"
+coverFocus: "center 45%"
+category: "language"
 ---
 
 Aprender español leyendo tiene una ventaja que pocas lenguas ofrecen: la ortografía española es transparente. Una vez que conoces las reglas básicas de los sonidos, por lo general puedes pronunciar lo que ves, y lo que oyes suele escribirse tal como suena. Gran parte del vocabulario cotidiano coincide además con el inglés por raíces latinas compartidas, así que una persona principiante suele reconocer más de lo que esperaba.

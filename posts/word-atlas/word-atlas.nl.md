@@ -3,6 +3,12 @@ title: "Word Atlas: wat een geïllustreerde woordenkaart je kan leren en wat nie
 excerpt: "Zoek je op word atlas, dan krijg je boeken met kaarten. Maar er is nog een soort atlas: een kaart van woorden, waarbij elk woord een afbeelding, voorbeeldzinnen en een herhalingsplan krijgt. Dit is waar die kaart goed voor is, waar ze ophoudt en hoe je haar verbindt met echt lezen."
 publishedAt: "2026-10-29"
 draft: false
+cover: cover.jpg
+coverCredit: "England, Sampler (map of the Americas), 19th century · Cleveland Museum of Art"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:England,_19th_century_-_Sampler_-_1943.117_-_Cleveland_Museum_of_Art.jpg"
+coverFocus: "center 35%"
+category: "method"
 ---
 
 Zoek je op "word atlas", dan gaan de eerste resultaten over boeken met kaarten. Dat is de oudere betekenis van het woord, en dat is wat de meeste zoekers willen. Dit artikel gaat over de andere betekenis: een atlas van woorden. In plaats van landen op een kaart staan er woorden in, geordend per thema, elk met een afbeelding, een definitie, voorbeeldzinnen en een uitspraak. De vraag is niet of afbeeldingen mooi zijn. Het is welke woorden een afbeelding werkelijk helpt leren, en wat je moet doen met de woorden die ze niet kan dragen.

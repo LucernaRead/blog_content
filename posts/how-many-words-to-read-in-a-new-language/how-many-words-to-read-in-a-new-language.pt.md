@@ -3,6 +3,12 @@ title: "Quantas palavras é preciso ler até ficar fácil"
 excerpt: "Existe um limiar — em torno de 1.000 palavras — em que ler deixa de parecer decodificar e passa a parecer leitura. O que ele é e como chegar lá mais rápido."
 publishedAt: "2026-06-07"
 draft: false
+cover: cover.jpg
+coverCredit: "Kate Greenaway, A Apple Pie, 1886"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:A_Apple_Pie,_C.jpg"
+coverFocus: "center 30%"
+category: "method"
 ---
 
 As primeiras mil palavras são as mais difíceis, porque cada uma é uma parada. Você encontra uma palavra, procura, perde o fio, recomeça a frase. Parece menos leitura do que arqueologia — escovar a terra de um artefato por vez e nunca enxergar o sítio inteiro.

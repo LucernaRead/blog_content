@@ -3,6 +3,12 @@ title: "French Graded Readers: How to Choose A1–B1 Books"
 excerpt: "Choose a French graded reader by edition and level, test a sample before buying, and build a path from A1 stories to your first original novel."
 publishedAt: "2026-10-03"
 draft: false
+cover: cover.jpg
+coverCredit: "Georges Seurat, A Sunday on La Grande Jatte, 1884–86 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:A_Sunday_on_La_Grande_Jatte,_Georges_Seurat,_1884.png"
+coverFocus: "center 55%"
+category: "lists"
 ---
 
 You open a French novel, recognise the first few words, and spend the rest of the paragraph in a dictionary. The story disappears behind the work of decoding it. A graded reader gives you a smaller step: a complete story written or adapted for a stated learner level.

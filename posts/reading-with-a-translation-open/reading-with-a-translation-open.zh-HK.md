@@ -3,6 +3,12 @@ title: "開著譯本讀原文:幫助還是拐杖?"
 excerpt: "幾乎每個學著用新語言讀書的人都試過:一手原文,一手譯本。這裡說的是它甚麼時候幫你 —— 以及它甚麼時候悄悄讓你永遠學不會自己讀。"
 publishedAt: "2026-06-29"
 draft: false
+cover: cover.jpg
+coverCredit: "Henri Fantin-Latour, The Reading, 1877 · Musée des Beaux-Arts de Lyon"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Fantin-Latour-La_Lecture-Lyon.jpg"
+coverFocus: "center 40%"
+category: "method"
 ---
 
 # 開著譯本讀原文:是幫助還是拐杖?

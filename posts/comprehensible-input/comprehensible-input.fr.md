@@ -3,6 +3,12 @@ title: "Input compréhensible : ce que c'est et comment l'utiliser en lisant"
 excerpt: "L'input compréhensible est une langue que vous comprenez et qui contient un peu de neuf. Ce que le i+1 de Krashen signifie en pratique, quelle part d'un texte vous devez connaître, et comment trouver et utiliser en lisant un input à votre niveau."
 publishedAt: "2026-10-16"
 draft: false
+cover: cover.jpg
+coverCredit: "Mary Cassatt, Nurse Reading to a Little Girl, 1895 · Metropolitan Museum of Art"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:Nurse_Reading_to_a_Little_Girl_MET_DT7250.jpg"
+coverFocus: "center 30%"
+category: "method"
 ---
 
 Vous avez probablement rencontré le conseil sous une forme ou une autre : arrêtez les exercices, lisez et écoutez des choses que vous comprenez, et la langue suivra. Le matériau que ce conseil désigne s'appelle l'input compréhensible (comprehensible input). Le terme est employé de façon lâche en ligne, parfois pour n'importe quel contenu facile. Son sens d'origine est plus étroit, et c'est le sens étroit qui est utile quand vous choisissez un livre.

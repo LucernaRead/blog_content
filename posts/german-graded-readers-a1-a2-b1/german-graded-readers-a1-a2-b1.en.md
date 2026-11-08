@@ -3,6 +3,12 @@ title: "German Graded Readers: How to Choose A1–B1 Books"
 excerpt: "Choose a German graded reader by edition and level, test a sample before buying, and build a path from A1 fairy tales to your first original novel."
 publishedAt: "2026-10-09"
 draft: false
+cover: cover.jpg
+coverCredit: "Albrecht Dürer, Young Hare, 1502 · Albertina"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Hare,_1502_-_Google_Art_Project.jpg"
+coverFocus: "center 45%"
+category: "lists"
 ---
 
 You open a German novel, recognise the first few words, and spend the rest of the paragraph in a dictionary. The verb arrives at the end, and the story disappears behind the work of decoding it. A graded reader gives you a smaller step: a complete story written or adapted for a stated level.

@@ -3,6 +3,12 @@ title: "新しい言語で小説を読めるまで、どのくらいかかる?"
 excerpt: "正直な答え:正しく読めば思うより早く、「準備ができた」と感じるまで待てば永遠に来ない。現実的な時間の見取り図と、それを決めるたった一つの変数。"
 publishedAt: "2026-07-01"
 draft: false
+cover: cover.jpg
+coverCredit: "Vincent van Gogh, The Novel Reader, 1888"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Vincent_Van_Gogh_-_Une_liseuse_de_romans_(1888).jpg"
+coverFocus: "center 35%"
+category: "method"
 ---
 
 # 新しい言語で小説を読めるようになるまで、どのくらい?

@@ -3,6 +3,12 @@ title: "西班牙语初学者短篇故事：先读哪一本"
 excerpt: "从你真正能读完的西班牙语短篇开始：一本免费 A1 读物、两套按版本核对过的初学者故事集，以及用一整篇故事选书的方法。"
 publishedAt: "2026-10-10"
 draft: false
+cover: cover.jpg
+coverCredit: "Joaquín Sorolla, Boys on the Beach, 1910 · Museo del Prado"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Joaqu%C3%ADn_Sorolla_-_Chicos_en_la_playa.jpg"
+coverFocus: "center 50%"
+category: "lists"
 ---
 
 你的第一本西班牙语书不必是长篇小说。对很多初学者来说，更好的第一个「读完」，是一篇短篇故事：一到两次就能读完一个完整情节，几天就换一批人物，而不是跟同一批角色耗上一个月；一次次抵达结尾，也会悄悄攒下信心。面向初学者的西班牙语短篇故事集，正是为这种节奏做的。

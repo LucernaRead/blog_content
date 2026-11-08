@@ -3,6 +3,12 @@ title: "Letture graduate in spagnolo: scegliere il primo libro da A1 a B1"
 excerpt: "Controlla edizione e livello, prova un campione prima di acquistare e costruisci un percorso dalle storie A1 fino al tuo primo romanzo originale."
 publishedAt: "2026-10-08"
 draft: false
+cover: cover.jpg
+coverCredit: "Francisco Goya, The Parasol, 1777 · Museo del Prado"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:El_Quitasol_(Goya).jpg"
+coverFocus: "center 40%"
+category: "lists"
 ---
 
 Apri un romanzo in spagnolo, riconosci le prime parole e passi il resto del paragrafo nel dizionario. La storia scompare dietro il lavoro di decifrarla. Una lettura graduata ti dà un gradino più piccolo: una storia completa, scritta o adattata per un livello di apprendimento dichiarato.

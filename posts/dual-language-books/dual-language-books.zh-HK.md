@@ -3,6 +3,12 @@ title: "雙語對照書：初學者平行文本指南"
 excerpt: "雙語對照書把原文和譯文印在一起，讓你不必離開故事就能核對自己的理解。選哪種版式、哪些成人版本值得先讀、怎樣讀才不依賴譯文，以及甚麼時候該畢業到沒有譯文的書。"
 publishedAt: "2026-10-17"
 draft: false
+cover: cover.jpg
+coverCredit: "Gabriel Metsu, Woman Reading a Letter, 1665 · National Gallery of Ireland"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Woman_Reading_a_Letter_by_Gabri%C3%ABl_Metsu.jpg"
+coverFocus: "center 45%"
+category: "method"
 ---
 
 搜尋「雙語對照書」，找到的大多是給小朋友做的：一邊是英語，一邊是家裡說的另一種語言，賣給學校和雙語家庭的繪本。這類書做自己的事沒有問題。但對獨自學讀西班牙語、法語或德語的成年人來說，它們是糟糕的參照——成人版本是存在的，只是放在另一個名字下面：平行文本，規則也不一樣。

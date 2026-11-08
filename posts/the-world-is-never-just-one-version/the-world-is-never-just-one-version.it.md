@@ -3,6 +3,12 @@ title: "Il mondo non ha mai una sola versione"
 excerpt: "Leggere e imparare una lingua ci portano fuori dal nostro mondo. È anche il motivo per cui costruiamo Lucerna."
 publishedAt: "2026-08-11"
 draft: false
+cover: cover.jpg
+coverCredit: "Abraham Ortelius, Typus Orbis Terrarum, 1572"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:1572_Typus_Orbis_Terrarum_Ortelius.jpg"
+coverFocus: "center"
+category: "method"
 ---
 
 A che cosa serve leggere?

@@ -3,6 +3,12 @@ title: "读一本你已经知道的书:通往第一本外语小说的捷径"
 excerpt: "第一本外语小说最难的不是语法,是不知道接下来会发生什么。那就把这个问题拿掉:读一本你已经读过的书。"
 publishedAt: "2026-07-14"
 draft: false
+cover: cover.jpg
+coverCredit: "Gerrit Dou, Old Woman Reading, 1631–32 · Rijksmuseum"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:Lezende_oude_vrouw_Oude_vrouw_lezend_in_een_lectionarium_zogenaamd_portret_van_Rembrandts_moeder,_Neeltgen_Willemsdr_van_Zuijdtbroeck_(gest_1640),_SK-A-2627.jpg"
+coverFocus: "center 45%"
+category: "method"
 ---
 
 # 重读一本你已经知道的书:通往第一本外语小说的捷径

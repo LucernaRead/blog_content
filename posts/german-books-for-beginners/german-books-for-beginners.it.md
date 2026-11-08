@@ -3,6 +3,12 @@ title: "Libri in tedesco per principianti: i primi libri che vale la pena legger
 excerpt: "Scegli il tuo primo libro in tedesco per tipo, non per fama: un racconto per studenti ambientato a Berlino, una rete bilingue, una storia conosciuta, un classico a capitoli brevi e un'antologia di racconti graduati, ogni edizione verificata."
 publishedAt: "2026-10-20"
 draft: false
+cover: cover.jpg
+coverCredit: "Adolph Menzel, The Balcony Room, 1845 · Alte Nationalgalerie"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Adolph_Menzel_-_Das_Balkonzimmer_-_Google_Art_Project.jpg"
+coverFocus: "center 45%"
+category: "lists"
 ---
 
 Cerca libri in tedesco per principianti e la maggior parte delle liste ti consegna manuali: corsi di grammatica, tabelle dei verbi, dizionari visuali e manuali tutto in uno, come se imparare il tedesco e leggere in tedesco fossero lo stesso lavoro. Non lo sono. Un manuale ti insegna qualcosa sulla lingua. Un primo libro ti dà tedesco che puoi davvero leggere, pagina dopo pagina, finché leggere smette di sembrare una decifrazione. I due scaffali si sovrappongono meno di quanto suggeriscano le liste.

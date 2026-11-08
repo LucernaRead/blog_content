@@ -3,6 +3,12 @@ title: "Французские книги по уровням: как выбра
 excerpt: "Отличайте адаптацию от оригинала, проверяйте конкретное издание и пробуйте десять минут чтения перед выбором."
 publishedAt: "2026-10-03"
 draft: false
+cover: cover.jpg
+coverCredit: "Georges Seurat, A Sunday on La Grande Jatte, 1884–86 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:A_Sunday_on_La_Grande_Jatte,_Georges_Seurat,_1884.png"
+coverFocus: "center 55%"
+category: "lists"
 ---
 
 Вы открываете французский роман, узнаёте несколько слов и проводите остаток абзаца в словаре. Книга по уровню предлагает меньшую ступень: законченную историю, написанную или адаптированную для учащегося.

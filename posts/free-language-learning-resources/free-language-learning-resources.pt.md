@@ -3,6 +3,12 @@ title: "Recursos gratuitos para aprender línguas que vale a pena guardar"
 excerpt: "Uma seleção de leitura e prática verdadeiramente gratuitas: livros de domínio público, leituras graduadas, notícias fáceis e lições para iniciantes. Verificado em 18-10-2026 e mantido atualizado."
 publishedAt: "2026-10-18"
 draft: false
+cover: cover.jpg
+coverCredit: "Giuseppe Maria Crespi, Bookshelves with Music Books, 1725 · International Museum and Library of Music"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Giuseppe_Maria_Crespi_-_Buchregal_mit_Musikschriften_1725-30.jpeg"
+coverFocus: "center 40%"
+category: "tools"
 ---
 
 Aprender uma língua a ler depende de material. Precisas de livros ao teu nível, de mais livros depois desses, e de algo curto para os dias em que um livro parece demasiado. Boa parte desse material é gratuito, legalmente, se souberes onde ele vive.

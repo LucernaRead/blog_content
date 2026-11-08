@@ -3,6 +3,12 @@ title: "Zweisprachige Bücher: Ein Leitfaden für Anfänger zu Paralleltexten"
 excerpt: "Ein zweisprachiges Buch druckt Original und Übersetzung zusammen, damit Sie sich selbst prüfen können, ohne die Geschichte zu verlassen. Welche Aufmachung Sie wählen sollten, mit welchen Ausgaben für Erwachsene sich der Einstieg lohnt, wie Sie ein solches Buch lesen, ohne sich darauf zu stützen, und wann es Zeit ist, zu einem Buch ganz ohne Übersetzung überzugehen."
 publishedAt: "2026-10-17"
 draft: false
+cover: cover.jpg
+coverCredit: "Gabriel Metsu, Woman Reading a Letter, 1665 · National Gallery of Ireland"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Woman_Reading_a_Letter_by_Gabri%C3%ABl_Metsu.jpg"
+coverFocus: "center 45%"
+category: "method"
 ---
 
 Wer nach zweisprachigen Büchern sucht, findet meist Kinderware: Bilderbücher mit Englisch auf der einen und einer Familiensprache auf der anderen Seite, verkauft an Schulen und zweisprachige Familien. Diese Bücher erfüllen ihren Zweck. Für einen Erwachsenen, der allein Spanisch, Französisch oder Deutsch lesen lernen will, sind sie ein schlechter Maßstab — denn die Ausgaben für Erwachsene gibt es auch, sie stehen nur unter einem anderen Namen im Regal: Paralleltexte, und sie folgen anderen Regeln.

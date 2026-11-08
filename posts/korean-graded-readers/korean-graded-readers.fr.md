@@ -3,6 +3,12 @@ title: "Lectures graduées en coréen : comment commencer à lire à votre nivea
 excerpt: "Commencez à lire le coréen avec des lectures graduées : en quoi les systèmes TOPIK, TTMIK et CECR diffèrent, cinq points de départ honnêtes, des textes gratuits en ligne au recueil de niveau B1, et un test d'échantillon de dix minutes."
 publishedAt: "2026-10-13"
 draft: false
+cover: cover.jpg
+coverCredit: "Anonymous, Munja-Chaekgeori Screen (Character-Books Screen), detail · Cleveland Museum of Art"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Anonymous_-_Munja-Chaekgeori_Screen_(Character-Books_Screen)_-_2017.6_-_Cleveland_Museum_of_Art.tiff"
+coverFocus: "center 40%"
+category: "lists"
 ---
 
 Le coréen a la réputation d'un alphabet aimable et d'un saut inamical. Le hangul s'apprend en quelques jours, et pourtant les vrais livres arrêtent encore la plupart des débutants : le vocabulaire n'a aucun lien avec les langues européennes, et les phrases tournent dans l'ordre inverse.

@@ -3,6 +3,12 @@ title: "읽으면서 어휘를 배우는 법(플래시카드 갈기 끝내기)"
 excerpt: "플래시카드는 진공에서, 독서는 단어가 사는 곳에서 단어를 가르친다. 어차피 읽고 싶은 책을 당신에게 필요한 유일한 어휘 시스템으로 바꾸는 법."
 publishedAt: "2026-07-12"
 draft: false
+cover: cover.jpg
+coverCredit: "Albert Anker, The Village School in 1848, 1896 · Kunstmuseum Basel"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Anker_Die_Dorfschule_von_1848_1896.jpg"
+coverFocus: "center"
+category: "method"
 ---
 
 # 읽으면서 어휘를 배우는 법(그리고 드디어 플래시카드 갈기 그만두기)

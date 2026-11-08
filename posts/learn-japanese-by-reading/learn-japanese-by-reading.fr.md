@@ -3,6 +3,12 @@ title: "Apprendre le japonais en lisant"
 excerpt: "Apprenez le japonais en lisant dès vos premiers kana : furigana et lectures graduées tadoku d'abord, puis NHK News Web Easy et des manga familiers, en traitant les kanji comme un problème que la lecture elle-même résout."
 publishedAt: "2026-10-12"
 draft: false
+cover: cover.jpg
+coverCredit: "Katsushika Hokusai, The Great Wave off Kanagawa, c. 1830–32 · Metropolitan Museum of Art"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Tsunami_by_hokusai_19th_century.jpg"
+coverFocus: "center"
+category: "language"
 ---
 
 On peut apprendre le japonais en lisant — mais le japonais change l'ordre des opérations. En espagnol ou en français, l'alphabet permet de déchiffrer une page dès le premier jour et le seul mur est le vocabulaire. En japonais, la page fait partie de la leçon : trois écritures mélangées, aucun espace entre les mots, et des kanji dont vous ne connaissez peut-être pas encore la lecture.

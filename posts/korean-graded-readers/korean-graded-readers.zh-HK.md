@@ -3,6 +3,12 @@ title: "韓語分級讀物：如何從適合自己級別的書開始讀"
 excerpt: "從韓語分級讀物開始閱讀：TOPIK、TTMIK 與 CEFR 三種級別體系有何不同，五個真實的起點——由免費線上文本到 B1 短篇集——以及一個十分鐘試讀測試。"
 publishedAt: "2026-10-13"
 draft: false
+cover: cover.jpg
+coverCredit: "Anonymous, Munja-Chaekgeori Screen (Character-Books Screen), detail · Cleveland Museum of Art"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Anonymous_-_Munja-Chaekgeori_Screen_(Character-Books_Screen)_-_2017.6_-_Cleveland_Museum_of_Art.tiff"
+coverFocus: "center 40%"
+category: "lists"
 ---
 
 韓語的名聲是：字母友善，跳躍不友善。諺文（Hangul）幾天就能學會，可真正的書還是會把大多數初學者擋住：詞彙與歐洲語言毫無親緣，句子語序也是反的。

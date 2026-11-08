@@ -3,6 +3,12 @@ title: "怎样从阅读里学词汇(终于不用再刷闪卡)"
 excerpt: "闪卡在真空里教你词,阅读在词生活的地方教你词。怎么把你本来就想读的书,变成你唯一需要的词汇系统。"
 publishedAt: "2026-07-12"
 draft: false
+cover: cover.jpg
+coverCredit: "Albert Anker, The Village School in 1848, 1896 · Kunstmuseum Basel"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Anker_Die_Dorfschule_von_1848_1896.jpg"
+coverFocus: "center"
+category: "method"
 ---
 
 # 怎样从阅读里学词汇(并且终于不用再刷闪卡)

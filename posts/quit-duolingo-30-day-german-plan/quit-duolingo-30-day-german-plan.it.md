@@ -3,6 +3,12 @@ title: "Oltre la serie quotidiana: un piano di lettura in tedesco di 30 giorni"
 excerpt: "Un mese per passare da esercizi brevi a una storia continua, senza promettere la padronanza della lingua in trenta giorni."
 publishedAt: "2026-05-29"
 draft: false
+cover: cover.jpg
+coverCredit: "Hans Holbein the Younger, The Ambassadors, 1533 · National Gallery, London"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg"
+coverFocus: "center 40%"
+category: "language"
 ---
 
 Ripetere esercizi brevi può diventare un’abitudine senza avvicinarti al libro che vuoi leggere. Quando apri un’app soltanto per non perdere la serie, può essere il momento di aggiungere un’altra forma di pratica: una storia continua in tedesco.

@@ -3,6 +3,12 @@ title: "Come imparare il giapponese leggendo"
 excerpt: "Impara il giapponese leggendo fin dai primi kana: prima furigana e letture graduate tadoku, poi NHK News Web Easy e manga familiari, trattando i kanji come un problema che la lettura stessa risolve."
 publishedAt: "2026-10-12"
 draft: false
+cover: cover.jpg
+coverCredit: "Katsushika Hokusai, The Great Wave off Kanagawa, c. 1830–32 · Metropolitan Museum of Art"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Tsunami_by_hokusai_19th_century.jpg"
+coverFocus: "center"
+category: "language"
 ---
 
 Si può imparare il giapponese leggendo — ma il giapponese cambia l'ordine delle operazioni. In spagnolo o in francese, l'alfabeto permette di leggere una pagina ad alta voce il primo giorno e l'unico muro è il vocabolario. In giapponese, la pagina stessa fa parte della lezione: tre scritture mescolate, nessuno spazio tra le parole e kanji di cui forse non conosci ancora la lettura.

@@ -3,6 +3,12 @@ title: "Frans leren door te lezen"
 excerpt: "Leer Frans door te lezen, met een ladder die voor deze taal is gebouwd: eerst gegradeerde lezers, de passé simple en elisies uitgelegd, een proeftest van tien minuten en een routine die de pagina met klank verbindt."
 publishedAt: "2026-10-18"
 draft: false
+cover: cover.jpg
+coverCredit: "Gustave Caillebotte, Paris Street; Rainy Day, 1877 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Gustave_Caillebotte_-_Paris_Street,_Rainy_Day_-_1964.336_-_Art_Institute_of_Chicago.jpg"
+coverFocus: "center 45%"
+category: "language"
 ---
 
 Frans geeft een lezer een voorsprong en een waarschuwing tegelijk. De voorsprong is de woordenschat. Een groot deel van de alledaagse Engelse woorden komt uit het Frans, en een beginner die een Franse bladzijde openslaat, komt overal vertrouwde vormen tegen: *famille*, *important*, *arriver*, *commencer*. De waarschuwing is de klank. De Franse spelling bewaart letters die de uitspraak eeuwen geleden heeft laten vallen, en het woord dat u kunt lezen is vaak niet het woord dat u op het gehoor zou herkennen. Frans goed lezen betekent vanaf het begin met beide feiten werken.

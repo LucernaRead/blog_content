@@ -3,6 +3,12 @@ title: "새 언어는 몇 단어를 읽어야 수월해질까"
 excerpt: "문턱이 있다 — 약 1,000단어. 그 지점을 넘으면 읽기는 해독이 아니라 독서가 된다. 그게 무엇이고, 어떻게 더 빨리 닿을 수 있는지."
 publishedAt: "2026-06-07"
 draft: false
+cover: cover.jpg
+coverCredit: "Kate Greenaway, A Apple Pie, 1886"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:A_Apple_Pie,_C.jpg"
+coverFocus: "center 30%"
+category: "method"
 ---
 
 첫 천 개의 단어가 가장 어렵다. 하나하나가 전부 멈춤이기 때문이다. 단어를 만나고, 찾아보고, 맥락을 놓치고, 문장을 처음부터 다시 읽는다. 독서라기보다 고고학에 가깝다 — 유물 하나에서 흙을 털어내는 일을 반복하면서, 유적 전체는 끝내 보이지 않는다.

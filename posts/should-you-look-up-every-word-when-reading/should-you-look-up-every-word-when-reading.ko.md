@@ -3,6 +3,12 @@ title: "외국어를 읽을 때 모든 단어를 찾아봐야 할까? 문장을 
 excerpt: "모든 단어를 찾을 필요는 없다. 문장을 막는 단어만 찾아라 — 자꾸 되돌아오는 단어, 없으면 문장이 무너지는 단어, 행동을 이끄는 단어 — 나머지는 넘겨라. 한 페이지에 몇 번만 찾아봐도 이야기는 계속 굴러간다."
 publishedAt: "2026-06-13"
 draft: false
+cover: cover.jpg
+coverCredit: "Quentin Matsys, The Moneylender and His Wife, 1514 · Louvre"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Massysm_Quentin_%E2%80%94_The_Moneylender_and_his_Wife_%E2%80%94_1514.jpg"
+coverFocus: "center 65%"
+category: "method"
 ---
 
 모든 학습자는 첫 페이지에서 똑같은 갈림길을 만난다. 모르는 단어가 나타나고, 결정을 해야 한다. 멈춰서 찾아볼 것인가, 계속 읽으며 뜻이 저절로 떠오르기를 바랄 것인가. 어느 쪽으로든 잘못하면 독서는 고역이 된다. 사전을 오가는 끊긴 행군이 되거나, 절반만 이해한 문장들의 안개가 되거나. 다행히 간단한 기준이 하나 있다.

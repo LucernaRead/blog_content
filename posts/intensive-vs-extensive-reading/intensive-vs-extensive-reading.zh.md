@@ -3,6 +3,12 @@ title: "精读 vs 泛读:哪一种能造出流利?"
 excerpt: "用正在学的语言读书有两种方式,大多数人误打误撞选了慢的那种。这里是区别 —— 以及哪一种真的会让你流利。"
 publishedAt: "2026-07-02"
 draft: false
+cover: cover.jpg
+coverCredit: "François Bonvin after Pieter Janssens Elinga, A Woman Reading, 1846–47 · Metropolitan Museum of Art"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:A_Woman_Reading,_after_Pieter_Janssens_Elinga_MET_DP805444.jpg"
+coverFocus: "center 60%"
+category: "method"
 ---
 
 # 精读还是泛读:哪一种真的能带来流利?

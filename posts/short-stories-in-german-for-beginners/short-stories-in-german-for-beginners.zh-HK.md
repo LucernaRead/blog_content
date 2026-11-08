@@ -3,6 +3,12 @@ title: "德語初學者短篇故事：先讀乜"
 excerpt: "由能真正讀完嘅德語短篇開始：免費文學短篇先測水平，一本真正 A1 嘅故事集，以及三套按版本核對過嘅 A2-B1 故事集橫評。"
 publishedAt: "2026-10-23"
 draft: false
+cover: cover.jpg
+coverCredit: "Caspar David Friedrich, Wanderer above the Sea of Fog, c. 1817 · Hamburger Kunsthalle"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg"
+coverFocus: "center 35%"
+category: "lists"
 ---
 
 你第一本德語書唔使係長篇小說。短篇故事一兩次就讀完一個完整情節，故事集就畀你反覆體驗呢種讀完嘅感覺，每次都係新人物，唔使陪同一班角色捱成個月。為德語初學者寫嘅短篇故事集，就係為呢種節奏而生。

@@ -3,6 +3,12 @@ title: "Lecturas graduadas en alemán: cómo elegir tu primer libro, de A1 a B1"
 excerpt: "Comprueba la edición y el nivel, prueba un fragmento durante diez minutos y encuentra una lectura en alemán que quieras terminar."
 publishedAt: "2026-10-09"
 draft: false
+cover: cover.jpg
+coverCredit: "Albrecht Dürer, Young Hare, 1502 · Albertina"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Hare,_1502_-_Google_Art_Project.jpg"
+coverFocus: "center 45%"
+category: "lists"
 ---
 
 Abres una novela en alemán, reconoces las primeras palabras y te pasas el resto del párrafo en el diccionario. El verbo llega al final de la oración, la historia desaparece detrás del trabajo de descifrarla y los casos hacen el resto. Una lectura graduada te da un paso más pequeño: una historia completa, escrita o adaptada para un nivel declarado.

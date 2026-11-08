@@ -3,6 +3,12 @@ title: "意大利語初學者書單：第一批值得讀的書"
 excerpt: "別按名氣挑第一本意大利語書，按書的種類挑：一本學習者小說、一本雙語讀本、一本熟悉的原著、一本標明級別的故事集，每本都按版本核查過，各有各的用處。"
 publishedAt: "2026-10-24"
 draft: false
+cover: cover.jpg
+coverCredit: "Bernardo Bellotto, View of the Grand Canal from Punta della Dogana · Museo del Settecento Veneziano"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:(Venice)_Veduta_del_Canal_Grande_dalla_Punta_della_Dogana_-_Bernardo_Bellotto.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 搜「意大利語初學者書單」，你會看到一堵清單牆：教材、短語手冊、故事集、兒童經典、名著全混在一起，好像它們可以互換。其實不能。為學習者寫的書、旁邊帶譯文的書、你已經在別的語言裡讀過的名著，要求的努力各不相同，而合適的第一本書，是那種你明天還能重複付出的努力。

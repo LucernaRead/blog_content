@@ -3,6 +3,12 @@ title: "Libri bilingui: guida ai testi paralleli per principianti"
 excerpt: "Un libro bilingue stampa l'originale e la sua traduzione insieme, così puoi verificare ciò che hai capito senza uscire dalla storia. Quale impaginazione scegliere, quali edizioni per adulti meritano il primo passo, come leggerne uno senza appoggiarti alla traduzione e quando passare a un libro senza traduzione a fianco."
 publishedAt: "2026-10-17"
 draft: false
+cover: cover.jpg
+coverCredit: "Gabriel Metsu, Woman Reading a Letter, 1665 · National Gallery of Ireland"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Woman_Reading_a_Letter_by_Gabri%C3%ABl_Metsu.jpg"
+coverFocus: "center 45%"
+category: "method"
 ---
 
 Cerca libri bilingui e la maggior parte di ciò che trovi è fatta per bambini: albi con l'inglese da un lato e la lingua di casa dall'altro, venduti a scuole e famiglie bilingui. Quei libri fanno bene il loro lavoro. Per un adulto che impara da solo a leggere lo spagnolo, il francese o il tedesco, sono una cattiva guida, perché le edizioni per adulti esistono anche loro; sono solo archiviate con un altro nome, testi paralleli, e funzionano con altre regole.

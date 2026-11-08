@@ -3,6 +3,12 @@ title: "読書でドイツ語を学ぶ"
 excerpt: "ドイツ語そのものに合わせたはしごで読書を通してドイツ語を学ぶ。まず学習者向け読み物、次に格と動詞末尾の従属節の解説、10分間の試し読みテスト、ページと音を結ぶ習慣。"
 publishedAt: "2026-10-27"
 draft: false
+cover: cover.jpg
+coverCredit: "Franz Marc, The Bewitched Mill, 1913 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Franz_Marc_-_The_Bewitched_Mill_-_Google_Art_Project.jpg"
+coverFocus: "center 42%"
+category: "language"
 ---
 
 ドイツ語は読者に先手と警告を同時に与える。先手は語彙だ。英語とドイツ語は同じ語源を持つため、ドイツ語のページを開いた初心者は至る所で見慣れた形に出会う。*Haus* と house、*Wasser* と water、*Buch* と book、*Freund* と friend である。警告は文法だ。ドイツ語は文法をページの上に着ている。小さな語は形を変え、動詞は移動し、知っている二つの語がくっついて知らない一語になる。この四つの動きを早めに見抜けば、ドイツ語のページは新しい単語の山に見えなくなる。

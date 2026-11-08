@@ -3,6 +3,12 @@ title: "Come imparare il francese leggendo"
 excerpt: "Impara il francese leggendo, con una scala costruita per questa lingua: prima le letture graduate, il passé simple e le elisioni spiegati, un test di prova di dieci minuti e una routine che unisce la pagina al suono."
 publishedAt: "2026-10-18"
 draft: false
+cover: cover.jpg
+coverCredit: "Gustave Caillebotte, Paris Street; Rainy Day, 1877 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Gustave_Caillebotte_-_Paris_Street,_Rainy_Day_-_1964.336_-_Art_Institute_of_Chicago.jpg"
+coverFocus: "center 45%"
+category: "language"
 ---
 
 Il francese dà al lettore un vantaggio e un avvertimento allo stesso tempo. Il vantaggio è il vocabolario. Buona parte delle parole inglesi di tutti i giorni viene dal francese, e un principiante che apre una pagina in francese incontra ovunque forme familiari: *famille*, *important*, *arriver*, *commencer*. L'avvertimento è il suono. L'ortografia francese conserva lettere che la pronuncia ha abbandonato secoli fa, e la parola che sai leggere spesso non è quella che riconosceresti a orecchio. Leggere bene in francese significa lavorare con entrambi i fatti fin dall'inizio.

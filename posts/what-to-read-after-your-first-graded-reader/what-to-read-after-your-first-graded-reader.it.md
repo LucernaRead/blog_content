@@ -4,6 +4,12 @@ excerpt: "Finire la tua prima lettura graduata è il vero traguardo: il secondo 
 publishedAt: "2026-10-09"
 updatedAt: "2026-10-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Claude Monet, Springtime, 1872 · Walters Art Museum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Springtime_-_Walters_3711.jpg"
+coverFocus: "center 55%"
+category: "method"
 ---
 
 Finire la tua prima lettura graduata è il vero traguardo. Hai letto un intero libro in un'altra lingua — non un dialogo da manuale, ma una storia completa, dalla prima all'ultima pagina. Conta più di quanto possa sembrare il giorno in cui lo chiudi.

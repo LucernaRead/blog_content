@@ -3,6 +3,12 @@ title: "中国語初心者のための本：最初に読む価値のある本"
 excerpt: "最初の一冊は名声ではなく種類で選ぶ。読み切れる学習者向け小説、二言語のセーフティネット、学習者版のなじみの物語、レベル明記の短編集。各書誌情報を版で確認し、中国語のページに潜む罠も添える。"
 publishedAt: "2026-10-30"
 draft: false
+cover: cover.jpg
+coverCredit: "Anonymous (Ming dynasty), The Eighteen Scholars, detail · National Palace Museum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:The_Eighteen_Scholars_by_an_anonymous_Ming_artist_1.jpg"
+coverFocus: "center 40%"
+category: "lists"
 ---
 
 中国語初心者向けの本を検索すると、教科書のリストばかり出てくる。Integrated Chinese、New Practical Chinese Reader、Chinese Made Easy。どれも堅実なコースで、課ごとに構成されているが、どれも座って最後まで読む本ではない。教科書はコースを教える。最初の読書用の本の仕事は別だ。実際に追える言語で最初から最後のページまで連れていき、読み終えたときに中国語の本は読み切れるものだと分からせることだ。

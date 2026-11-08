@@ -3,6 +3,12 @@ title: "Contos em alemão para iniciantes: o que ler primeiro"
 excerpt: "Comece por contos em alemão que você realmente consegue terminar: clássicos gratuitos para calibrar seu nível, uma coletânea que é de verdade A1 e um comparativo das coletâneas A2–B1 verificado por edição."
 publishedAt: "2026-10-23"
 draft: false
+cover: cover.jpg
+coverCredit: "Caspar David Friedrich, Wanderer above the Sea of Fog, c. 1817 · Hamburger Kunsthalle"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg"
+coverFocus: "center 35%"
+category: "lists"
 ---
 
 Seu primeiro livro em alemão não precisa ser um romance. Um conto dá uma trama completa em uma ou duas sessões, e uma coletânea devolve essa sensação de ter terminado várias e várias vezes, com personagens novos a cada vez em vez do mesmo elenco por um mês. As coletâneas de contos em alemão para iniciantes existem para esse ritmo.

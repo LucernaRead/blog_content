@@ -3,6 +3,12 @@ title: "Histoires courtes en français pour débutants : par quoi commencer"
 excerpt: "Commencez par des histoires courtes en français que vous pouvez vraiment terminer : des textes gratuits A1-A2, un livre d'entrée avec glossaire sous chaque paragraphe et deux recueils A2-B1 vérifiés par édition."
 publishedAt: "2026-10-14"
 draft: false
+cover: cover.jpg
+coverCredit: "Pierre-Auguste Renoir, La Liseuse, c. 1874–76"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Renoir_liseuse.jpg"
+coverFocus: "center 35%"
+category: "lists"
 ---
 
 Votre premier livre en français n'a pas besoin d'être un roman. Une histoire courte vous donne une intrigue complète en une ou deux séances, et un recueil vous donne cette fin encore et encore, avec de nouveaux personnages à chaque fois au lieu du même casting pendant un mois. Les recueils d'histoires courtes en français pour débutants sont faits pour ce rythme.

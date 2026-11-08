@@ -3,6 +3,12 @@ title: "Ler com a tradução aberta: ajuda ou muleta?"
 excerpt: "Quase todo mundo que aprende a ler num idioma novo tenta: o original numa mão, a tradução na outra. Quando isso ajuda — e quando impede você de um dia ler sozinho."
 publishedAt: "2026-06-29"
 draft: false
+cover: cover.jpg
+coverCredit: "Henri Fantin-Latour, The Reading, 1877 · Musée des Beaux-Arts de Lyon"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Fantin-Latour-La_Lecture-Lyon.jpg"
+coverFocus: "center 40%"
+category: "method"
 ---
 
 # Ler com a tradução aberta: ajuda ou muleta?

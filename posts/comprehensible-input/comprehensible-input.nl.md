@@ -3,6 +3,12 @@ title: "Begrijpelijke input: wat het is en hoe je het gebruikt bij het lezen"
 excerpt: "Begrijpelijke input is taal die je kunt begrijpen en die een beetje nieuws bevat. Wat Krashens i+1 in de praktijk betekent, hoeveel van een tekst je moet kennen, en hoe je bij het lezen input op je niveau vindt en gebruikt."
 publishedAt: "2026-10-16"
 draft: false
+cover: cover.jpg
+coverCredit: "Mary Cassatt, Nurse Reading to a Little Girl, 1895 · Metropolitan Museum of Art"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:Nurse_Reading_to_a_Little_Girl_MET_DT7250.jpg"
+coverFocus: "center 30%"
+category: "method"
 ---
 
 Je bent het advies waarschijnlijk in een of andere vorm tegengekomen: stop met oefeningen, lees en luister naar dingen die je begrijpt, en de taal volgt vanzelf. Het materiaal waar dat advies naar wijst heet begrijpelijke input (comprehensible input). De term wordt online losjes gebruikt, soms voor elke gemakkelijke inhoud. De oorspronkelijke betekenis is smaller, en de smallere betekenis is de nuttige als je een boek kiest.

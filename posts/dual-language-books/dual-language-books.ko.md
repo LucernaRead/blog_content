@@ -3,6 +3,12 @@ title: "이중 언어 책: 초보자를 위한 병렬 텍스트 가이드"
 excerpt: "이중 언어 책은 원문과 번역을 함께 실어, 이야기를 떠나지 않고도 이해를 확인할 수 있게 합니다. 어떤 레이아웃을 고를지, 성인용으로 어디서 시작할지, 번역에 기대지 않고 읽는 법, 그리고 번역 없는 책으로 넘어갈 때를 설명합니다."
 publishedAt: "2026-10-17"
 draft: false
+cover: cover.jpg
+coverCredit: "Gabriel Metsu, Woman Reading a Letter, 1665 · National Gallery of Ireland"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Woman_Reading_a_Letter_by_Gabri%C3%ABl_Metsu.jpg"
+coverFocus: "center 45%"
+category: "method"
 ---
 
 '이중 언어 책'을 검색하면 나오는 것 대부분은 아이들을 위한 것입니다. 한쪽에는 영어, 다른 쪽에는 집에서 쓰는 언어를 실어 학교와 이중 언어 가정에 파는 그림책입니다. 그 책들은 제 역할을 합니다. 하지만 스페인어, 프랑스어, 독일어를 혼자 읽으려는 성인에게는 나쁜 길잡이입니다. 성인용 판본도 존재하는데, 다른 이름인 병렬 텍스트로 서가에 꽂혀 있고 규칙도 다르기 때문입니다.

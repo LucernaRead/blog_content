@@ -3,6 +3,12 @@ title: "Apprendre du vocabulaire en lisant (et arrêter enfin les cartes)"
 excerpt: "Les cartes enseignent les mots dans le vide ; la lecture les enseigne là où ils vivent. Comment faire des livres que vous voulez déjà lire le seul système de vocabulaire dont vous ayez besoin."
 publishedAt: "2026-07-12"
 draft: false
+cover: cover.jpg
+coverCredit: "Albert Anker, The Village School in 1848, 1896 · Kunstmuseum Basel"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Anker_Die_Dorfschule_von_1848_1896.jpg"
+coverFocus: "center"
+category: "method"
 ---
 
 # Apprendre du vocabulaire en lisant (et arrêter enfin de moudre des cartes)

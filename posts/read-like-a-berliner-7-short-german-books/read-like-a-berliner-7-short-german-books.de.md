@@ -3,6 +3,12 @@ title: "Lesen wie in Berlin: 7 kurze deutsche Bücher für diesen Sommer"
 excerpt: "Eine Leseleiter von A2 bis C1, alle kostenlos im Project Gutenberg, und keines lang genug, um deine Geduld zu überdauern."
 publishedAt: "2026-06-26"
 draft: false
+cover: cover.jpg
+coverCredit: "Caspar David Friedrich, Woman at a Window, 1822 · Alte Nationalgalerie"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Frau_am_Fenster_-_Google_Art_Project.jpg"
+coverFocus: "center 40%"
+category: "lists"
 ---
 
 # Lesen wie in Berlin: 7 kurze deutsche Bücher für diesen Sommer

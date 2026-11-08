@@ -3,6 +3,12 @@ title: "Recursos gratuitos para aprender idiomas que vale la pena guardar"
 excerpt: "Una selección de lectura y práctica realmente gratuitas: libros de dominio público, lecturas graduadas, noticias fáciles y lecciones para principiantes. Verificado el 18-10-2026 y mantenido al día."
 publishedAt: "2026-10-18"
 draft: false
+cover: cover.jpg
+coverCredit: "Giuseppe Maria Crespi, Bookshelves with Music Books, 1725 · International Museum and Library of Music"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Giuseppe_Maria_Crespi_-_Buchregal_mit_Musikschriften_1725-30.jpeg"
+coverFocus: "center 40%"
+category: "tools"
 ---
 
 Aprender un idioma leyendo depende del material. Necesitas libros a tu nivel, más libros después de esos, y algo corto para los días en que un libro se hace demasiado. Buena parte de ese material es gratuito, legalmente, si sabes dónde vive.

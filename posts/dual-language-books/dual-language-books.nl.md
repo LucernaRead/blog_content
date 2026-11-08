@@ -3,6 +3,12 @@ title: "Tweetalige boeken: een gids voor beginners over parallelle teksten"
 excerpt: "Een tweetalig boek drukt het origineel en de vertaling samen af, zodat je jezelf kunt controleren zonder het verhaal te verlaten. Welke opmaak je kiest, met welke uitgaven voor volwassenen je het beste begint, hoe je er een leest zonder erop te leunen, en wanneer je overstapt naar een boek zonder vertaling ernaast."
 publishedAt: "2026-10-17"
 draft: false
+cover: cover.jpg
+coverCredit: "Gabriel Metsu, Woman Reading a Letter, 1665 · National Gallery of Ireland"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Woman_Reading_a_Letter_by_Gabri%C3%ABl_Metsu.jpg"
+coverFocus: "center 45%"
+category: "method"
 ---
 
 Zoek naar tweetalige boeken en het meeste van wat je vindt is voor kinderen gemaakt: prentenboeken met Engels aan de ene kant en een thuistaal aan de andere, verkocht aan scholen en tweetalige gezinnen. Die boeken doen hun werk goed. Voor een volwassene die in zijn eentje Spaans, Frans of Duits leert lezen, zijn ze een slechte gids — want de uitgaven voor volwassenen bestaan ook; ze staan alleen onder een andere naam in de kast, parallelle teksten, en ze werken volgens andere regels.

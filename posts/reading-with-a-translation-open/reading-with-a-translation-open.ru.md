@@ -3,6 +3,12 @@ title: "Чтение с открытым переводом: помощь или
 excerpt: "Перевод может прояснить предложение или заменить попытку его понять. Важен момент, когда вы к нему обращаетесь."
 publishedAt: "2026-06-29"
 draft: false
+cover: cover.jpg
+coverCredit: "Henri Fantin-Latour, The Reading, 1877 · Musée des Beaux-Arts de Lyon"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Fantin-Latour-La_Lecture-Lyon.jpg"
+coverFocus: "center 40%"
+category: "method"
 ---
 
 Почти все пробуют такую схему: оригинал открыт, перевод в соседней вкладке. Прочитали абзац, проверили, пошли дальше. Кажется эффективно, но способ использования решает, помогает ли перевод самостоятельности или откладывает её.

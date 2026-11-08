@@ -3,6 +3,12 @@ title: "읽으면서 언어를 배우는 법(하루 다섯 쪽 방법)"
 excerpt: "아주 작은 하루 습관으로 유창함까지. 왜 매일 밤 십오 분이 몰아치기 공부를 이기는지, 그리고 그 루틴을 만드는 법."
 publishedAt: "2026-06-10"
 draft: false
+cover: cover.jpg
+coverCredit: "Gerard ter Borch, Woman Reading a Book · National Museum in Warsaw"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Gerard_ter_Borch_II_-_Woman_reading_a_book_-_M.Ob.847_MNW_-_National_Museum_in_Warsaw.jpg"
+coverFocus: "center 55%"
+category: "method"
 ---
 
 우리는 주말에 읽을 수 있는 양을 과대평가하고, 일 년에 읽을 수 있는 양을 과소평가한다. 마라톤식 몰아치기 — 사전을 끼고 다섯 시간, 새 결심까지 — 는 진전처럼 느껴지지만 두 번째 주말까지 살아남는 일은 드물다. 반면 매일 밤 한 쪽씩 넘기는 독자는 봄이 되면 책장 한 칸을 끝내 놓고도, 자신이 오르막을 올랐다는 걸 거의 알아채지 못한다.

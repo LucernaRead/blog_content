@@ -3,6 +3,12 @@ title: "Spanish Books for Beginners: The First Books Worth Reading"
 excerpt: "Choose your first Spanish book by kind, not by fame: a learner novella, a dual-language reader, and two familiar stories in translation — each checked by edition, each with a job to do."
 publishedAt: "2026-10-11"
 draft: false
+cover: cover.jpg
+coverCredit: "Joaquín Sorolla, Strolling along the Seashore, 1909 · Museo Sorolla"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Joaqu%C3%ADn_Sorolla_y_Bastida_-_Strolling_along_the_Seashore_-_Google_Art_Project.jpg"
+coverFocus: "center 30%"
+category: "lists"
 ---
 
 Search for Spanish books for beginners and you get a wall of lists that mix everything together: textbooks, story collections, children's picture books and famous novels, as if they were interchangeable. They are not. A book written for learners, a book with a translation beside it, and a famous book you already know in another language ask for three different kinds of effort — and the right first book is the one whose effort you can repeat tomorrow.

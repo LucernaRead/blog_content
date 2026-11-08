@@ -3,6 +3,12 @@ title: "¿Hay que buscar todas las palabras al leer? Solo las que bloquean la fr
 excerpt: "No busques todas las palabras: busca solo las que bloquean la frase — las que se repiten, las que hacen que la frase se derrumbe o las que llevan la acción — y deja pasar el resto. Unas pocas búsquedas por página bastan para mantener la historia en marcha."
 publishedAt: "2026-06-13"
 draft: false
+cover: cover.jpg
+coverCredit: "Quentin Matsys, The Moneylender and His Wife, 1514 · Louvre"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Massysm_Quentin_%E2%80%94_The_Moneylender_and_his_Wife_%E2%80%94_1514.jpg"
+coverFocus: "center 65%"
+category: "method"
 ---
 
 Todo aprendiz se topa con la misma bifurcación en la primera página: aparece una palabra desconocida y hay que decidir. ¿Parar y buscarla, o seguir leyendo y confiar en que el sentido aflore? Exagera en cualquiera de las dos direcciones y leer se vuelve una tarea pesada: una marcha a trompicones por el diccionario, o una niebla de frases entendidas a medias. La buena noticia es que hay una regla sencilla.

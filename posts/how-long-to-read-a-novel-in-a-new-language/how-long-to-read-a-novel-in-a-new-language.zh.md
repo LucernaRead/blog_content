@@ -3,6 +3,12 @@ title: "用一门新语言读小说,需要多久?"
 excerpt: "老实的答案:方法对就比你以为的早,等到「觉得准备好」就永远不会。一份现实的时间表 —— 以及决定它的那一个变量。"
 publishedAt: "2026-07-01"
 draft: false
+cover: cover.jpg
+coverCredit: "Vincent van Gogh, The Novel Reader, 1888"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Vincent_Van_Gogh_-_Une_liseuse_de_romans_(1888).jpg"
+coverFocus: "center 35%"
+category: "method"
 ---
 
 # 多久才能用一门新语言读小说?

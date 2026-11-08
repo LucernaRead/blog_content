@@ -3,6 +3,12 @@ title: "De wereld heeft nooit maar één versie"
 excerpt: "Waarom lezen we? Waarom leren we een vreemde taal? Ik heb lang het gevoel gehad dat het dezelfde vraag is — allebei nemen ze je mee uit je eigen wereld, en laten ze je terugkomen met iets onbekends. Daarom bouwen we Lucerna."
 publishedAt: "2026-08-11"
 draft: false
+cover: cover.jpg
+coverCredit: "Abraham Ortelius, Typus Orbis Terrarum, 1572"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:1572_Typus_Orbis_Terrarum_Ortelius.jpg"
+coverFocus: "center"
+category: "method"
 ---
 
 # De wereld heeft nooit maar één versie

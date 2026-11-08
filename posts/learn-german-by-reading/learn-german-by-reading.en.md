@@ -3,6 +3,12 @@ title: "How to Learn German by Reading"
 excerpt: "Learn German by reading with a ladder built for German itself: graded readers first, the case system and verb-final clauses explained, a ten-minute sample test, and a routine that pairs the page with sound."
 publishedAt: "2026-10-27"
 draft: false
+cover: cover.jpg
+coverCredit: "Franz Marc, The Bewitched Mill, 1913 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Franz_Marc_-_The_Bewitched_Mill_-_Google_Art_Project.jpg"
+coverFocus: "center 42%"
+category: "language"
 ---
 
 German gives a reader a head start and a warning at the same time. The head start is vocabulary. English and German share a root, so a beginner opening a German page meets familiar shapes everywhere: *Haus* and house, *Wasser* and water, *Buch* and book, *Freund* and friend. The warning is grammar. German wears its grammar on the page. The little words change shape, the verb moves around, and two words you know can glue themselves into one you do not. Reading German well means learning to spot those four moves early, so they stop looking like new vocabulary.

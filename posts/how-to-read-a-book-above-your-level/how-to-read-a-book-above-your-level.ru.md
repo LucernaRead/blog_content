@@ -3,6 +3,12 @@ title: "Как читать книгу выше своего уровня и н�
 excerpt: "Читать книгу на один-два уровня выше своего можно — если вы знаете разрыв в покрытии, пользуетесь тактиками «сначала общий смысл» и судите по двум главам, а не по двум страницам."
 publishedAt: "2026-10-09"
 draft: false
+cover: cover.jpg
+coverCredit: "Vittore Carpaccio, Saint Augustine in His Study, 1502 · Scuola di San Giorgio degli Schiavoni"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Vittore_Carpaccio_026.jpg"
+coverFocus: "center"
+category: "method"
 ---
 
 Книга, которую вы действительно хотите прочитать, слишком трудна. Ваши адаптированные книги ещё на уровне A2 или B1, а книга, которая вас зовёт, — роман в оригинале: живой диалог, идиомы, длинные предложения, никакого контроля лексики. Вы застреваете на втором абзаце и гадаете, не переоценили ли себя.

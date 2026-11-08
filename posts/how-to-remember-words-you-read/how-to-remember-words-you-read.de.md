@@ -3,6 +3,12 @@ title: "Wie du dir die Wörter merkst, die du liest (ohne Karteikarten)"
 excerpt: "Karteikarten sind nicht der einzige Weg, Vokabeln haften zu lassen. Wie wiederholtes Lesen im Kontext ein Gedächtnis baut, das bleibt — und was du mit den Wörtern machst, die sich weigern."
 publishedAt: "2026-06-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Jean-Baptiste-Siméon Chardin, The Young Schoolmistress, c. 1736 · National Gallery, London"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Jean_Sim%C3%A9on_Chardin_-_The_Young_Schoolmistress_-_WGA04750.jpg"
+coverFocus: "center 35%"
+category: "method"
 ---
 
 Es gibt eine bestimmte Frustration beim Sprachenlernen: Du schlägst ein Wort nach, nickst, und begegnest ihm drei Seiten später als völlig Fremdem. Die Standardlösung heißt Karteikarten — das Wort drillen, bis es sitzt. Aber es gibt eine ältere, stillere Methode, die nichts kostet und sich wie Lesen anfühlt, weil sie Lesen ist.

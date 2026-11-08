@@ -3,6 +3,12 @@ title: "Read like a Parisian: 7 short French novels to start this summer"
 excerpt: "A reading ladder from A2 to C1, all of them on Project Gutenberg for free, none of them long enough to ruin your June."
 publishedAt: "2026-06-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Claude Monet, Impression, Sunrise, 1872 · Musée Marmottan Monet"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Monet_-_Impression,_Sunrise.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 # Read like a Parisian: 7 short French novels to start this summer

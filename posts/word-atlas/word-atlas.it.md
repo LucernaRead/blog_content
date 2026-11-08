@@ -3,6 +3,12 @@ title: "Word Atlas: cosa può insegnarti una mappa illustrata di vocaboli e cosa
 excerpt: "Cerca word atlas e ottieni libri di mappe. Ma esiste un altro tipo di atlante: una mappa di parole, in cui ogni parola riceve un'immagine, frasi di esempio e un piano di ripasso. Ecco a cosa serve questa mappa, dove si ferma e come collegarla alla lettura vera."
 publishedAt: "2026-10-29"
 draft: false
+cover: cover.jpg
+coverCredit: "England, Sampler (map of the Americas), 19th century · Cleveland Museum of Art"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:England,_19th_century_-_Sampler_-_1943.117_-_Cleveland_Museum_of_Art.jpg"
+coverFocus: "center 35%"
+category: "method"
 ---
 
 Cerca "word atlas" e i primi risultati parlano di libri di mappe. È il significato più antico della parola, ed è quello che vuole la maggior parte di chi cerca. Questo articolo parla dell'altro significato: un atlante di parole. Al posto dei paesi su una mappa ci sono parole, ordinate per tema, ognuna con un'immagine, una definizione, frasi di esempio e una pronuncia. La domanda non è se le immagini sono belle. È quali parole un'immagine aiuta davvero a imparare, e cosa fare con le parole che non riesce a reggere.

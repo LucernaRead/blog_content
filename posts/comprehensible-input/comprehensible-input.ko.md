@@ -3,6 +3,12 @@ title: "이해 가능한 입력: 무엇이며 읽을 때 어떻게 활용하는�
 excerpt: "이해 가능한 입력은 이해할 수 있으면서 조금은 새로운 요소가 담긴 언어입니다. Krashen의 i+1이 실제로 무엇을 뜻하는지, 글을 얼마나 알아야 하는지, 그리고 읽을 때 내 수준에 맞는 입력을 어떻게 찾고 활용하는지 설명합니다."
 publishedAt: "2026-10-16"
 draft: false
+cover: cover.jpg
+coverCredit: "Mary Cassatt, Nurse Reading to a Little Girl, 1895 · Metropolitan Museum of Art"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:Nurse_Reading_to_a_Little_Girl_MET_DT7250.jpg"
+coverFocus: "center 30%"
+category: "method"
 ---
 
 아마 어떤 형태로든 이 조언을 들어봤을 겁니다. 문제 풀이를 멈추고, 이해할 수 있는 것을 읽고 듣기 시작하면 언어는 따라온다는 것. 그 조언이 가리키는 재료의 이름이 이해 가능한 입력(comprehensible input)입니다. 이 용어는 온라인에서 느슨하게 쓰여, 때로는 쉬운 콘텐츠 전반을 뜻하기도 합니다. 원래 의미는 더 좁고, 그 좁은 의미가 책을 고를 때 실제로 쓸모 있습니다.

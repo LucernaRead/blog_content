@@ -3,6 +3,12 @@ title: "初心者向けスペイン語の本：最初に読む価値のある本
 excerpt: "最初のスペイン語の本は知名度ではなく種類で選ぶ：学習者向け小説、二言語対訳リーダー、そして翻訳で読む馴染みの物語2冊——版を確認し、それぞれ役割を持たせた。"
 publishedAt: "2026-10-11"
 draft: false
+cover: cover.jpg
+coverCredit: "Joaquín Sorolla, Strolling along the Seashore, 1909 · Museo Sorolla"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Joaqu%C3%ADn_Sorolla_y_Bastida_-_Strolling_along_the_Seashore_-_Google_Art_Project.jpg"
+coverFocus: "center 30%"
+category: "lists"
 ---
 
 「初心者向けスペイン語の本」を検索すると、教科書、短編集、子どもの絵本、有名な小説がすべて混ざったリストの壁が出てきます。まるで互いに代用できるかのように。しかし実際は違います。学習者のために書かれた本、隣に訳文がある本、別の言語で既に知っている有名な本は、それぞれ異なる種類の努力を求めます——そして正しい最初の一冊とは、その努力を明日も続けられる本です。

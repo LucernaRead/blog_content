@@ -3,6 +3,12 @@ title: "理解可能なインプット：その意味と、読書での使い方
 excerpt: "理解可能なインプットとは、理解できて、しかも少しだけ新しい要素を含む言語のこと。Krashen の i+1 が実際には何を意味するのか、文章のどれくらいを知っていればよいのか、自分のレベルに合ったインプットを読書でどう見つけ、どう使うか。"
 publishedAt: "2026-10-16"
 draft: false
+cover: cover.jpg
+coverCredit: "Mary Cassatt, Nurse Reading to a Little Girl, 1895 · Metropolitan Museum of Art"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:Nurse_Reading_to_a_Little_Girl_MET_DT7250.jpg"
+coverFocus: "center 30%"
+category: "method"
 ---
 
 おそらく何らかの形でこの助言に出会ったことがあるはずです。ドリルをやめて、理解できるものを読んだり聞いたりすれば、言語は後からついてくる。その助言が指す素材の名前が、理解可能なインプット（comprehensible input）です。この言葉はオンラインでは緩く使われ、簡単なコンテンツ全般を指すこともあります。本来の意味はもっと狭く、その狭い意味こそが本を選ぶときに役立ちます。

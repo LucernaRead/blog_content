@@ -3,6 +3,12 @@ title: "Lire avec une traduction ouverte : aide ou béquille ?"
 excerpt: "Presque tous ceux qui apprennent à lire dans une nouvelle langue l'essaient : l'original d'un côté, la traduction de l'autre. Quand cela aide — et quand cela vous empêche discrètement de lire seul."
 publishedAt: "2026-06-29"
 draft: false
+cover: cover.jpg
+coverCredit: "Henri Fantin-Latour, The Reading, 1877 · Musée des Beaux-Arts de Lyon"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Fantin-Latour-La_Lecture-Lyon.jpg"
+coverFocus: "center 40%"
+category: "method"
 ---
 
 # Lire avec une traduction ouverte : aide ou béquille ?

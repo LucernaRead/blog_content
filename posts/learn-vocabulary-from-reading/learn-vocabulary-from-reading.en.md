@@ -3,6 +3,12 @@ title: "How to learn vocabulary from reading (and finally stop grinding flashcar
 excerpt: "Flashcards teach you words in a vacuum. Reading teaches you words where they live. Here is how to turn the books you already want to read into the only vocabulary system you need."
 publishedAt: "2026-07-12"
 draft: false
+cover: cover.jpg
+coverCredit: "Albert Anker, The Village School in 1848, 1896 · Kunstmuseum Basel"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Anker_Die_Dorfschule_von_1848_1896.jpg"
+coverFocus: "center"
+category: "method"
 ---
 
 # How to learn vocabulary from reading (and finally stop grinding flashcards)

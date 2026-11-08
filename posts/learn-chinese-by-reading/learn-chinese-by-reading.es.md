@@ -3,6 +3,12 @@ title: "Cómo aprender chino leyendo"
 excerpt: "Aprende chino leyendo desde tu primer cuento con pinyin: cómo ver palabras en un texto sin espacios, cómo retirar el pinyin por etapas, cómo subir de lecturas graduadas a noticias graduadas y cómo evitar las tres trampas que detienen a los lectores de chino."
 publishedAt: "2026-10-25"
 draft: false
+cover: cover.jpg
+coverCredit: "Fan Kuan, Travelers Among Mountains and Streams, c. 1000 · National Palace Museum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Fan_Kuan_-_Travelers_Among_Mountains_and_Streams_-_Google_Art_Project.jpg"
+coverFocus: "center 45%"
+category: "language"
 ---
 
 Se puede aprender chino leyendo, pero el chino cambia el orden de las operaciones. En español o en francés, el alfabeto permite leer una página en voz alta desde el primer día, y el único muro es el vocabulario. En chino, la página misma es parte de la lección: no hay espacios entre palabras, los caracteres no deletrean su propio sonido y los tonos cambian el significado.

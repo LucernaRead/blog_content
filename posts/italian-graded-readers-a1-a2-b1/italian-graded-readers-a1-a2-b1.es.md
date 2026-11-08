@@ -3,6 +3,12 @@ title: "Lecturas graduadas en italiano: cómo elegir libros A1–B1"
 excerpt: "Las lecturas graduadas en italiano se reparten entre dos editoriales —A1 en Alma, A2–B1 en Black Cat—. Aquí te explicamos cómo elegir el nivel adecuado y probar un libro en diez minutos."
 publishedAt: "2026-10-09"
 draft: false
+cover: cover.jpg
+coverCredit: "Sandro Botticelli, Primavera, 1480–85 · Uffizi"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Botticelli-primavera.jpg"
+coverFocus: "center 30%"
+category: "lists"
 ---
 
 Abres una novela en italiano y, en una página, te estás ahogando en formas verbales. Cada tres frases te mandan al diccionario, la historia nunca arranca y el libro vuelve a la estantería. Eso no es un veredicto sobre tu italiano. Normalmente significa que el paso era demasiado grande.

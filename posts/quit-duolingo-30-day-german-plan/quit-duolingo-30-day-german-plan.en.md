@@ -3,6 +3,12 @@ title: "I quit Duolingo. Here's the 30-day plan that's actually getting me fluen
 excerpt: "A reading-first method for adult learners, built around the comprehensible input that AI-generated lessons can't replace."
 publishedAt: "2026-05-29"
 draft: false
+cover: cover.jpg
+coverCredit: "Hans Holbein the Younger, The Ambassadors, 1533 · National Gallery, London"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg"
+coverFocus: "center 40%"
+category: "language"
 ---
 
 > A reading-first method for adult learners, built around the comprehensible input that AI-generated lessons can't replace.

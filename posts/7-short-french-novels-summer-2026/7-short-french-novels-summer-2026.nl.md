@@ -3,6 +3,12 @@ title: "Lezen als een Parijzenaar: 7 korte Franse romans voor deze zomer"
 excerpt: "Een leesladder van A2 tot C1, allemaal gratis op Project Gutenberg, geen ervan lang genoeg om je juni te verpesten."
 publishedAt: "2026-06-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Claude Monet, Impression, Sunrise, 1872 · Musée Marmottan Monet"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Monet_-_Impression,_Sunrise.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 # Lezen als een Parijzenaar: 7 korte Franse romans om deze zomer te beginnen

@@ -3,6 +3,12 @@ title: "Apprendre l'allemand en lisant"
 excerpt: "Apprendre l'allemand en lisant avec une échelle construite pour l'allemand lui-même : d'abord des lectures graduées, puis les cas et les propositions à verbe final expliqués, un test d'échantillon de dix minutes, et une routine qui associe la page au son."
 publishedAt: "2026-10-27"
 draft: false
+cover: cover.jpg
+coverCredit: "Franz Marc, The Bewitched Mill, 1913 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Franz_Marc_-_The_Bewitched_Mill_-_Google_Art_Project.jpg"
+coverFocus: "center 42%"
+category: "language"
 ---
 
 L'allemand donne au lecteur une avance et un avertissement en même temps. L'avance, c'est le vocabulaire. L'anglais et l'allemand partagent une racine, si bien qu'un débutant qui ouvre une page allemande rencontre partout des formes familières : *Haus* et house, *Wasser* et water, *Buch* et book, *Freund* et friend. L'avertissement, c'est la grammaire. L'allemand porte sa grammaire sur la page. Les petits mots changent de forme, le verbe se déplace, et deux mots connus se collent en un seul qu'on ne connaît pas. Repérer ces quatre mouvements tôt, c'est cesser de voir une page allemande comme un tas de mots nouveaux.

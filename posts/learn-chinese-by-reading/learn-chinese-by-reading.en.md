@@ -3,6 +3,12 @@ title: "How to Learn Chinese by Reading"
 excerpt: "Learn Chinese by reading from your first pinyin-annotated story: how to see words in a text with no spaces, fade pinyin in stages, climb from graded readers to graded news, and dodge the three traps that stall Chinese readers."
 publishedAt: "2026-10-25"
 draft: false
+cover: cover.jpg
+coverCredit: "Fan Kuan, Travelers Among Mountains and Streams, c. 1000 · National Palace Museum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Fan_Kuan_-_Travelers_Among_Mountains_and_Streams_-_Google_Art_Project.jpg"
+coverFocus: "center 45%"
+category: "language"
 ---
 
 You can learn Chinese by reading, but Chinese changes the order of operations. In Spanish or French, the alphabet lets you sound out a page on day one, and the only wall is vocabulary. In Chinese, the page itself is part of the lesson: no spaces between words, characters that do not spell their own sound, and tones that change meaning.

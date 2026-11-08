@@ -3,6 +3,12 @@ title: "Short Stories in French for Beginners: What to Read First"
 excerpt: "Start with short stories in French you can actually finish: free A1-A2 texts, a glossed starter with the dictionary under each paragraph, and two A2-B1 collections checked by edition."
 publishedAt: "2026-10-14"
 draft: false
+cover: cover.jpg
+coverCredit: "Pierre-Auguste Renoir, La Liseuse, c. 1874–76"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Renoir_liseuse.jpg"
+coverFocus: "center 35%"
+category: "lists"
 ---
 
 Your first French book does not have to be a novel. A short story gives you a complete plot in one or two sittings, and a collection gives you that finish again and again, with new characters each time instead of the same cast for a month. Collections of short stories in French for beginners are built for that rhythm.

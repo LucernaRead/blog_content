@@ -3,6 +3,12 @@ title: "Lectures graduées en français : choisir son premier livre, de A1 à B1
 excerpt: "Distinguez adaptation et texte original, vérifiez le niveau de l’édition et utilisez un essai de dix minutes pour choisir une lecture que vous aurez envie de terminer."
 publishedAt: "2026-10-03"
 draft: false
+cover: cover.jpg
+coverCredit: "Georges Seurat, A Sunday on La Grande Jatte, 1884–86 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:A_Sunday_on_La_Grande_Jatte,_Georges_Seurat,_1884.png"
+coverFocus: "center 55%"
+category: "lists"
 ---
 
 Vous ouvrez un roman français, reconnaissez quelques mots, puis passez le reste du paragraphe dans le dictionnaire. L’histoire disparaît derrière le déchiffrage. Une lecture graduée offre une étape plus accessible : un récit écrit ou adapté pour un niveau d’apprentissage donné.

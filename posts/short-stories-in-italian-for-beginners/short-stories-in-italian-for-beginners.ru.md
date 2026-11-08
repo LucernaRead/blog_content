@@ -3,6 +3,12 @@ title: "Короткие рассказы на итальянском для н�
 excerpt: "Начните с коротких рассказов на итальянском, которые вы действительно сможете дочитать: бесплатные тексты A1 для проверки уровня, один честно A1 рассказ и два сборника A2-B1, проверенные по изданию."
 publishedAt: "2026-10-22"
 draft: false
+cover: cover.jpg
+coverCredit: "Canaletto, The Bacino di San Marco, c. 1738 · Museum of Fine Arts, Boston"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Boston,_Museum_of_Fine_Art_-_Il_bacino_di_San_Marco_c.1738_-_Canaletto.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 Ваша первая книга на итальянском не обязана быть романом. Короткий рассказ даёт завершённый сюжет за одно-два приседания, а сборник даёт это завершение снова и снова, каждый раз с новыми персонажами вместо одного состава на месяц. Сборники коротких рассказов на итальянском для начинающих сделаны именно для этого ритма.

@@ -3,6 +3,12 @@ title: "Cuentos en francés para principiantes: qué leer primero"
 excerpt: "Empieza con cuentos en francés que sí puedas terminar: textos gratuitos A1-A2, un libro de entrada con glosario bajo cada párrafo y dos colecciones A2-B1 verificadas por edición."
 publishedAt: "2026-10-14"
 draft: false
+cover: cover.jpg
+coverCredit: "Pierre-Auguste Renoir, La Liseuse, c. 1874–76"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Renoir_liseuse.jpg"
+coverFocus: "center 35%"
+category: "lists"
 ---
 
 Tu primer libro en francés no tiene que ser una novela. Un cuento te da una trama completa en una o dos sesiones, y una colección te da ese final una y otra vez, con personajes nuevos cada vez en lugar del mismo reparto durante un mes. Las colecciones de cuentos en francés para principiantes están hechas para ese ritmo.

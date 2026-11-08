@@ -3,6 +3,12 @@ title: "怎樣從閱讀裡學詞彙(終於不用再刷閃卡)"
 excerpt: "閃卡在真空裡教你詞,閱讀在詞生活的地方教你詞。怎麼把你本來就想讀的書,變成你唯一需要的詞彙系統。"
 publishedAt: "2026-07-12"
 draft: false
+cover: cover.jpg
+coverCredit: "Albert Anker, The Village School in 1848, 1896 · Kunstmuseum Basel"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Anker_Die_Dorfschule_von_1848_1896.jpg"
+coverFocus: "center"
+category: "method"
 ---
 
 # 怎樣從閱讀裡學詞彙(並且終於不用再刷閃卡)

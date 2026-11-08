@@ -3,6 +3,12 @@ title: "Contos em francês para iniciantes: o que ler primeiro"
 excerpt: "Comece com contos em francês que você consegue realmente terminar: textos gratuitos A1-A2, um livro de entrada com glossário sob cada parágrafo e duas coleções A2-B1 verificadas por edição."
 publishedAt: "2026-10-14"
 draft: false
+cover: cover.jpg
+coverCredit: "Pierre-Auguste Renoir, La Liseuse, c. 1874–76"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Renoir_liseuse.jpg"
+coverFocus: "center 35%"
+category: "lists"
 ---
 
 Seu primeiro livro em francês não precisa ser um romance. Um conto oferece um enredo completo em uma ou duas sessões, e uma coleção oferece esse final de novo e de novo, com personagens novos a cada vez, em vez do mesmo elenco por um mês. As coleções de contos em francês para iniciantes foram feitas para esse ritmo.

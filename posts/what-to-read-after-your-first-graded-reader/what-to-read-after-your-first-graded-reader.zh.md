@@ -4,6 +4,12 @@ excerpt: "读完第一本分级读物才是真正的里程碑——第二本书�
 publishedAt: "2026-10-09"
 updatedAt: "2026-10-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Claude Monet, Springtime, 1872 · Walters Art Museum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Springtime_-_Walters_3711.jpg"
+coverFocus: "center 55%"
+category: "method"
 ---
 
 读完第一本分级读物，才是真正的里程碑。你用另一种语言读完了一整本书——不是课本对话，而是一个完整的故事，从第一页读到最后一页。合上书的那一天，你可能感觉不到这件事有多重要，但它确实重要。

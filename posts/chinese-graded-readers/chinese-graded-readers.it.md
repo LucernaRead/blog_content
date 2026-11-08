@@ -3,6 +3,12 @@ title: "Letture graduali in cinese: come scegliere libri al tuo livello HSK"
 excerpt: "Scegli una lettura graduale in cinese che puoi finire: come differiscono livelli HSK, conteggio dei caratteri e conteggio delle parole, cinque serie dal primo libro da 150 caratteri ai romanzi classici, e un test di prova di dieci minuti."
 publishedAt: "2026-10-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Ma Yuan, Walking on a Mountain Path in Spring, 1190 · National Palace Museum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Ma_Yuan_mountain_path_in_spring.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 Il cinese chiede a un principiante più della maggior parte delle lingue. Non c'è un alfabeto a cui appoggiarsi, ogni parola nuova è anche un disegno da memorizzare, e un testo che sulla pagina sembra breve può essere denso di caratteri che non hai mai visto.

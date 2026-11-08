@@ -3,6 +3,12 @@ title: "Hoe je de woorden onthoudt die je leest (zonder flashcards)"
 excerpt: "Flashcards zijn niet de enige manier om woordenschat te laten beklijven. Hoe herhaald, contextueel lezen een geheugen bouwt dat blijft — en wat je doet met de woorden die weigeren."
 publishedAt: "2026-06-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Jean-Baptiste-Siméon Chardin, The Young Schoolmistress, c. 1736 · National Gallery, London"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Jean_Sim%C3%A9on_Chardin_-_The_Young_Schoolmistress_-_WGA04750.jpg"
+coverFocus: "center 35%"
+category: "method"
 ---
 
 Er is een specifieke frustratie bij het leren van een taal: je zoekt een woord op, knikt, en komt het drie bladzijden later tegen als een volslagen vreemde. De standaardoplossing is flashcards — drillen tot het blijft plakken. Maar er bestaat een oudere, stillere methode die niets kost en aanvoelt als lezen, omdat het lezen is.

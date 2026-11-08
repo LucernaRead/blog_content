@@ -3,6 +3,12 @@ title: "Как действительно дочитать книгу на ин�
 excerpt: "Пять привычек, которые помогают дойти до последней страницы вместо бесконечного возвращения к первой."
 publishedAt: "2026-06-28"
 draft: false
+cover: cover.jpg
+coverCredit: "Winslow Homer, The New Novel, 1877 · Springfield Museums"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:1877-winslow-homer-the-new-novel.jpg"
+coverFocus: "40% center"
+category: "method"
 ---
 
 Почти каждый начинающий открывал книгу на изучаемом языке. Дочитали её гораздо меньше людей. Первый раздел читается дважды, второй — в удачный вечер, третий не наступает. Закладка замирает, книга попадает в стопку «вернусь потом».

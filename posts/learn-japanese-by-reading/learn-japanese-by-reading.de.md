@@ -3,6 +3,12 @@ title: "Japanisch lernen durch Lesen"
 excerpt: "Lernen Sie Japanisch durch Lesen ab dem ersten Kana: erst Furigana und Tadoku-Graded-Reader, dann hinauf zu NHK News Web Easy und vertrauten Manga — und behandeln Sie Kanji als ein Problem, das das Lesen selbst löst."
 publishedAt: "2026-10-12"
 draft: false
+cover: cover.jpg
+coverCredit: "Katsushika Hokusai, The Great Wave off Kanagawa, c. 1830–32 · Metropolitan Museum of Art"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Tsunami_by_hokusai_19th_century.jpg"
+coverFocus: "center"
+category: "language"
 ---
 
 Man kann Japanisch durch Lesen lernen — aber Japanisch ändert die Reihenfolge. Im Spanischen oder Französischen können Sie dank des Alphabets am ersten Tag eine Seite laut lesen; die einzige Wand ist der Wortschatz. Im Japanischen ist die Seite selbst Teil der Lektion: drei Schriften gemischt, keine Leerzeichen zwischen den Wörtern, und Kanji, deren Lesungen Sie vielleicht noch nicht kennen.

@@ -3,6 +3,12 @@ title: "독일어 단계별 리더: A1–B1 첫 책 고르는 법"
 excerpt: "판본과 레벨로 고르고, 사기 전에 샘플로 테스트하세요. A1 동화에서 첫 원서 소설까지 가는 길을 만듭니다."
 publishedAt: "2026-10-09"
 draft: false
+cover: cover.jpg
+coverCredit: "Albrecht Dürer, Young Hare, 1502 · Albertina"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Hare,_1502_-_Google_Art_Project.jpg"
+coverFocus: "center 45%"
+category: "lists"
 ---
 
 독일어 소설을 펼치고 처음 몇 단어는 알아봤지만, 나머지 단락은 사전을 찾느라 다 써 버립니다. 동사는 문장 끝에 가서야 나타나고, 이야기는 해독하는 노동 뒤로 사라지며, 격 변화가 한 번 더 덮칩니다. 단계별 리더는 더 작은 계단을 줍니다. 명시된 레벨에 맞춰 쓰거나 각색한, 완결된 이야기입니다.

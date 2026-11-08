@@ -3,6 +3,12 @@ title: "Lecture intensive ou extensive : laquelle rend fluide ?"
 excerpt: "Il y a deux façons de lire dans une langue qu'on apprend, et la plupart pratiquent la lente sans le savoir. Voici la différence — et celle qui rend réellement fluide."
 publishedAt: "2026-07-02"
 draft: false
+cover: cover.jpg
+coverCredit: "François Bonvin after Pieter Janssens Elinga, A Woman Reading, 1846–47 · Metropolitan Museum of Art"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:A_Woman_Reading,_after_Pieter_Janssens_Elinga_MET_DP805444.jpg"
+coverFocus: "center 60%"
+category: "method"
 ---
 
 # Lecture intensive ou extensive : laquelle construit la fluidité ?

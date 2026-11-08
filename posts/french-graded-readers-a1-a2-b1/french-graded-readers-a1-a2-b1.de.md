@@ -3,6 +3,12 @@ title: "Französische Lernlektüren: Das erste Buch von A1 bis B1 auswählen"
 excerpt: "Ausgabe und Niveau prüfen, eine Leseprobe testen und mit französischen Lernlektüren den Weg zum ersten Original finden."
 publishedAt: "2026-10-03"
 draft: false
+cover: cover.jpg
+coverCredit: "Georges Seurat, A Sunday on La Grande Jatte, 1884–86 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:A_Sunday_on_La_Grande_Jatte,_Georges_Seurat,_1884.png"
+coverFocus: "center 55%"
+category: "lists"
 ---
 
 Du öffnest einen französischen Roman, erkennst einige Wörter und verbringst den Rest des Absatzes im Wörterbuch. Eine abgestufte Lernlektüre bietet einen kleineren Schritt: eine zusammenhängende Geschichte, die für ein bestimmtes Lernniveau geschrieben oder bearbeitet wurde.

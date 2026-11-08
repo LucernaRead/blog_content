@@ -3,6 +3,12 @@ title: "读一本外语书需要认识多少词?"
 excerpt: "老实的数字:大致理解约 5000 个词族,舒服地独立阅读 8000–9000。但更有用的答案是:你不必等到那时候 —— 阅读本身就是到那儿的方式。"
 publishedAt: "2026-07-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Jan Davidsz. de Heem, Still Life with Books and a Lute, 1625–30 · Rijksmuseum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Stilleven_met_boeken_Rijksmuseum_SK-A-2565.jpeg"
+coverFocus: "center"
+category: "method"
 ---
 
 # 读一本外语书,需要认识多少词?

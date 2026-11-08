@@ -3,6 +3,12 @@ title: "읽기로 일본어 배우는 법"
 excerpt: "가나 단계부터 읽기로 일본어를 배우세요: 먼저 후리가나와 다독 등급 리더를 쓰고, NHK News Web Easy와 익숙한 만화로 올라가며, 한자는 읽기 자체가 해결할 문제로 다루세요."
 publishedAt: "2026-10-12"
 draft: false
+cover: cover.jpg
+coverCredit: "Katsushika Hokusai, The Great Wave off Kanagawa, c. 1830–32 · Metropolitan Museum of Art"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Tsunami_by_hokusai_19th_century.jpg"
+coverFocus: "center"
+category: "language"
 ---
 
 읽기로 일본어를 배우는 것은 가능합니다. 다만 일본어에서는 순서가 달라집니다. 스페인어나 프랑스어에서는 알파벳 덕분에 첫날부터 한 페이지를 소리 내어 읽을 수 있고, 벽은 어휘뿐입니다. 일본어에서는 페이지 자체가 수업의 일부입니다. 세 가지 문자가 섞여 있고, 단어 사이에는 공백이 없으며, 읽는 법을 아직 모르는 한자가 나옵니다.

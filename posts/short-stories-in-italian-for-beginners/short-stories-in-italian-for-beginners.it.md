@@ -3,6 +3,12 @@ title: "Racconti in italiano per principianti: cosa leggere per primo"
 excerpt: "Comincia con racconti in italiano che puoi davvero finire: testi A1 gratuiti per misurare il tuo livello, un racconto onestamente A1 e due raccolte A2-B1 verificate per edizione."
 publishedAt: "2026-10-22"
 draft: false
+cover: cover.jpg
+coverCredit: "Canaletto, The Bacino di San Marco, c. 1738 · Museum of Fine Arts, Boston"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Boston,_Museum_of_Fine_Art_-_Il_bacino_di_San_Marco_c.1738_-_Canaletto.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 Il tuo primo libro in italiano non deve essere un romanzo. Un racconto ti dà una trama completa in una o due sedute, e una raccolta ti dà quel traguardo ancora e ancora, con personaggi nuovi ogni volta invece dello stesso cast per un mese. Le raccolte di racconti in italiano per principianti sono fatte per quel ritmo.

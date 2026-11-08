@@ -3,6 +3,12 @@ title: "초보자를 위한 일본어 책: 처음 읽을 가치가 있는 책"
 excerpt: "명성이 아니라 종류로 고르는 첫 일본어 책: 무료 다독 스타터, 대역본 안전망, 후리가나가 있는 만화, 익숙한 이야기, 그리고 단계별 단편집. 각 판본을 확인했습니다."
 publishedAt: "2026-10-21"
 draft: false
+cover: cover.jpg
+coverCredit: "Kitagawa Utamaro, Woman Reading a Letter, 1806 · Cleveland Museum of Art"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Woman_Reading_a_Letter_(from_the_series_Seven_Episodes_in_the_Life_of_Komac_-_1943.23_-_Cleveland_Museum_of_Art.jpg"
+coverFocus: "center 22%"
+category: "lists"
 ---
 
 초보자를 위한 일본어 책을 검색하면 대부분의 목록이 건네는 것은 교과서입니다. Genki, Minna no Nihongo, 한자 워크북과 문법 사전. 일본어를 배우는 것과 일본어를 읽는 것이 같은 일인 것처럼 말입니다. 그렇지 않습니다. 교과서는 수업으로 언어를 가르칩니다. 첫 책은 이야기를 위해 읽을 수 있는 일본어를 줍니다. 페이지가 퍼즐처럼 느껴지지 않을 때까지 한 페이지씩. 두 책장의 겹침은 목록이 보여 주는 것보다 작습니다.

@@ -3,6 +3,12 @@ title: "Lectura intensiva vs. extensiva: ¿cuál da fluidez?"
 excerpt: "Hay dos formas de leer en un idioma que estás aprendiendo, y la mayoría hace la lenta sin querer. Aquí está la diferencia y cuál te vuelve fluido de verdad."
 publishedAt: "2026-07-02"
 draft: false
+cover: cover.jpg
+coverCredit: "François Bonvin after Pieter Janssens Elinga, A Woman Reading, 1846–47 · Metropolitan Museum of Art"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:A_Woman_Reading,_after_Pieter_Janssens_Elinga_MET_DP805444.jpg"
+coverFocus: "center 60%"
+category: "method"
 ---
 
 # Lectura intensiva o extensiva: ¿cuál construye la fluidez?

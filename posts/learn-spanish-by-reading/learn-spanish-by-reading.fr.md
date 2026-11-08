@@ -3,6 +3,12 @@ title: "Apprendre l'espagnol en lisant : un parcours adapté aux débutants"
 excerpt: "Commencez par des lectures graduées, montez un escalier simple et lisez un peu chaque jour — avec un test de dix minutes pour choisir le bon livre."
 publishedAt: "2026-10-09"
 draft: false
+cover: cover.jpg
+coverCredit: "Diego Velázquez, Las Meninas, 1656–57 · Museo del Prado"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Las_Meninas_01.jpg"
+coverFocus: "center 45%"
+category: "language"
 ---
 
 Apprendre l'espagnol en lisant présente un avantage que peu de langues offrent : l'orthographe espagnole est transparente. Une fois les règles de base des sons connues, on peut en général prononcer ce que l'on voit, et ce que l'on entend s'écrit en général comme cela sonne. Une grande partie du vocabulaire quotidien recoupe aussi l'anglais par des racines latines communes, si bien qu'un débutant reconnaît souvent plus qu'il ne l'attendait.
