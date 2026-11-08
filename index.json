@@ -2,6 +2,90 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "english-books-for-beginners",
+      "publishedAt": "2026-11-08",
+      "cover": "cover.jpg",
+      "coverCredit": "Gerrit Dou, Old Woman Reading a Book, 1665 · Hermitage Museum",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Gerard_Dou_-_Old_Woman_Reading_a_Book.jpg",
+      "coverFocus": "center 40%",
+      "category": "lists",
+      "locales": {
+        "de": {
+          "slug": "english-books-for-beginners",
+          "title": "Englische Bücher für Anfänger: Die ersten Bücher, die sich lohnen",
+          "excerpt": "Erst kostenlos lesen, dann eine Lektürereihe kaufen und auf einer kurzen Leiter von Roald Dahl bis Steinbeck steigen. Vor jedem Kauf zehn Minuten testen, ob das Niveau passt.",
+          "draft": false
+        },
+        "en": {
+          "slug": "english-books-for-beginners",
+          "title": "English Books for Beginners: The First Books Worth Reading",
+          "excerpt": "Start free, buy one graded reader series, then climb a short ladder from Roald Dahl to Steinbeck. Test every book in ten minutes before you pay for it.",
+          "draft": false
+        },
+        "es": {
+          "slug": "english-books-for-beginners",
+          "title": "Libros en inglés para principiantes: los primeros libros que valen la pena",
+          "excerpt": "Empieza gratis, compra una colección de lecturas graduadas y sube una escalera corta de Roald Dahl a Steinbeck. Antes de cada compra, comprueba el nivel en diez minutos.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "english-books-for-beginners",
+          "title": "Livres en anglais pour débutants : les premiers livres qui valent la peine",
+          "excerpt": "Commencer gratuitement, acheter une collection de lectures graduées, puis monter une courte échelle de Roald Dahl à Steinbeck. Avant chaque achat, tester le niveau en dix minutes.",
+          "draft": false
+        },
+        "it": {
+          "slug": "english-books-for-beginners",
+          "title": "Libri in inglese per principianti: i primi libri che valgono la pena",
+          "excerpt": "Comincia gratis, compra una collana di letture graduate e sali una scala corta da Roald Dahl a Steinbeck. Prima di ogni acquisto, verifica il livello in dieci minuti.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "english-books-for-beginners",
+          "title": "英語の最初の本：初心者におすすめの本",
+          "excerpt": "無料の本から始め、分級リーダーを1冊買い、ロアルド・ダールからスタインベックへと短い階段を上る。買う前に10分でレベルを確かめる方法も紹介する。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "english-books-for-beginners",
+          "title": "영어 초보자의 첫 책 고르기",
+          "excerpt": "무료 책부터 시작해 단계별 독본 한 권을 사고, 로알드 달에서 스타인벡까지 짧은 계단을 오른다. 사기 전 10분 만에 수준을 확인하는 방법도 담았다.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "english-books-for-beginners",
+          "title": "Engelse boeken voor beginners: de eerste boeken die de moeite waard zijn",
+          "excerpt": "Begin gratis, koop één reeks graded readers en beklim een korte ladder van Roald Dahl tot Steinbeck. Test vóór elke aankoop in tien minuten of het niveau past.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "english-books-for-beginners",
+          "title": "Livros em inglês para iniciantes: os primeiros livros que valem a pena",
+          "excerpt": "Comece de graça, compre uma coleção de leituras graduadas e suba uma escada curta de Roald Dahl a Steinbeck. Antes de cada compra, teste o nível em dez minutos.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "english-books-for-beginners",
+          "title": "Книги на английском для начинающих: первые книги, которые стоит прочитать",
+          "excerpt": "Начните бесплатно, купите одну серию адаптированных книг и поднимитесь по короткой лестнице от Роальда Даля до Стейнбека. Перед каждой покупкой проверяйте уровень за десять минут.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "english-books-for-beginners",
+          "title": "英語入門書單：值得讀的第一批書",
+          "excerpt": "先免費讀，再買一本分級讀物，然後沿著短梯從羅爾德·達爾爬到史坦貝克。每本書買前花十分鐘測一下難度。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "english-books-for-beginners",
+          "title": "英语入门书单：值得读的第一批书",
+          "excerpt": "先免费读，再买一本分级读物，然后沿着短梯从罗尔德·达尔爬到斯坦贝克。每本书买前花十分钟测一下难度。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "short-stories-in-english-for-beginners",
       "publishedAt": "2026-11-07",
       "cover": "cover.jpg",
