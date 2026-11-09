@@ -1,6 +1,6 @@
 ---
-title: "German Graded Readers: How to Choose A1–B1 Books"
-excerpt: "Choose a German graded reader by edition and level, test a sample before buying, and build a path from A1 fairy tales to your first original novel."
+title: "German Graded Readers: Pick the Edition, Not Just the Level"
+excerpt: "Three graded readers to start with — Grimm tales at A1, Sisi at A2, Kafka at B1 — and why the same title can be a school edition, an old adaptation, or the original."
 publishedAt: "2026-10-09"
 draft: false
 ---
