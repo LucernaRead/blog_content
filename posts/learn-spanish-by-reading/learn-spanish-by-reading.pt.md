@@ -1,6 +1,6 @@
 ---
-title: "Como aprender espanhol a ler: um caminho acessível para principiantes"
-excerpt: "Comece com leituras graduadas, suba uma escada simples e leia um pouco todos os dias — com um teste de dez minutos para escolher o livro certo."
+title: "Aprender espanhol lendo: um caminho simples para principiantes"
+excerpt: "O espanhol escreve-se como se lê, e muito do vocabulário parece-se com o inglês — comece com leituras graduadas, suba uma escada simples e leia um pouco todos os dias."
 publishedAt: "2026-10-09"
 draft: false
 cover: cover.jpg
