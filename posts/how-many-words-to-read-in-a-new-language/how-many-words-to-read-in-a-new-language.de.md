@@ -3,6 +3,12 @@ title: "Wie viele Wörter du lesen musst, bis es leicht wird"
 excerpt: "Es gibt eine Schwelle — bei etwa 1.000 Wörtern —, ab der Lesen sich nicht mehr nach Entziffern anfühlt, sondern nach Lesen. Was sie ist und wie du sie schneller erreichst."
 publishedAt: "2026-06-07"
 draft: false
+cover: cover.jpg
+coverCredit: "Kate Greenaway, A Apple Pie, 1886"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:A_Apple_Pie,_C.jpg"
+coverFocus: "center 30%"
+category: "method"
 ---
 
 Die ersten tausend Wörter sind die schwersten, weil jedes einzelne ein Halt ist. Du triffst ein Wort, schlägst es nach, verlierst den Faden, beginnst den Satz von vorn. Es fühlt sich weniger nach Lesen an als nach Archäologie — du putzt ein Fundstück nach dem anderen frei und siehst die Grabung nie als Ganzes.

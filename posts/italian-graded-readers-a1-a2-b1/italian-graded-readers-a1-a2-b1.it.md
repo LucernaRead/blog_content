@@ -3,6 +3,12 @@ title: "Letture graduate in italiano: come scegliere libri A1–B1"
 excerpt: "Le letture graduate in italiano sono divise tra due editori — A1 da Alma, A2–B1 da Black Cat. Ecco come scegliere il livello giusto e provare un libro in dieci minuti."
 publishedAt: "2026-10-09"
 draft: false
+cover: cover.jpg
+coverCredit: "Sandro Botticelli, Primavera, 1480–85 · Uffizi"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Botticelli-primavera.jpg"
+coverFocus: "center 30%"
+category: "lists"
 ---
 
 Apri un romanzo in italiano e, nel giro di una pagina, stai annegando nelle forme verbali. Una frase su tre ti manda al dizionario, la storia non parte mai e il libro torna sullo scaffale. Non è un giudizio sul tuo italiano. Di solito significa solo che il passo era troppo grande.

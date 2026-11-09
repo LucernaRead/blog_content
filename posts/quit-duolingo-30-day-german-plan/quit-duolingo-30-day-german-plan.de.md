@@ -3,6 +3,12 @@ title: "Ich habe Duolingo gekündigt. Das ist der 30-Tage-Plan, der mich wirklic
 excerpt: "Eine leseorientierte Methode für erwachsene Lernende, gebaut um den verständlichen Input, den KI-generierte Lektionen nicht ersetzen können."
 publishedAt: "2026-05-29"
 draft: false
+cover: cover.jpg
+coverCredit: "Hans Holbein the Younger, The Ambassadors, 1533 · National Gallery, London"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg"
+coverFocus: "center 40%"
+category: "language"
 ---
 
 > Eine leseorientierte Methode für erwachsene Lernende, gebaut um genau den verständlichen Input, den KI-generierte Lektionen nicht ersetzen können.

@@ -3,6 +3,12 @@ title: "Libri in spagnolo per principianti: i primi libri che vale la pena legge
 excerpt: "Scegli il tuo primo libro in spagnolo per tipo, non per fama: un romanzo breve per studenti, un lettore bilingue e due storie familiari in traduzione — ogni edizione verificata, ognuna con un compito."
 publishedAt: "2026-10-11"
 draft: false
+cover: cover.jpg
+coverCredit: "Joaquín Sorolla, Strolling along the Seashore, 1909 · Museo Sorolla"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Joaqu%C3%ADn_Sorolla_y_Bastida_-_Strolling_along_the_Seashore_-_Google_Art_Project.jpg"
+coverFocus: "center 30%"
+category: "lists"
 ---
 
 Cerca libri in spagnolo per principianti e otterrai un muro di elenchi che mescolano tutto: manuali, raccolte di racconti, albi illustrati per bambini e romanzi famosi, come se fossero intercambiabili. Non lo sono. Un libro scritto per studenti, un libro con una traduzione a fianco e un libro famoso che conosci già in un'altra lingua richiedono tre tipi di sforzo diversi — e il primo libro giusto è quello il cui sforzo puoi ripetere domani.

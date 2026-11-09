@@ -3,6 +3,12 @@ title: "German Graded Readers: Pick the Edition, Not Just the Level"
 excerpt: "Three graded readers to start with — Grimm tales at A1, Sisi at A2, Kafka at B1 — and why the same title can be a school edition, an old adaptation, or the original."
 publishedAt: "2026-10-09"
 draft: false
+cover: cover.jpg
+coverCredit: "Albrecht Dürer, Young Hare, 1502 · Albertina"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Hare,_1502_-_Google_Art_Project.jpg"
+coverFocus: "center 45%"
+category: "lists"
 ---
 
 You open a German novel, recognise the first few words, and spend the rest of the paragraph in a dictionary. The verb arrives at the end, and the story disappears behind the work of decoding it. A graded reader gives you a smaller step: a complete story written or adapted for a stated level.

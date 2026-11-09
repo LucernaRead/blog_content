@@ -3,6 +3,12 @@ title: "Italienische Bücher für Anfänger: Die ersten Bücher, die sich lohnen
 excerpt: "Wähle dein erstes italienisches Buch nach seiner Art, nicht nach seinem Ruhm: ein Lernerroman, ein zweisprachiges Lesebuch, ein vertrauter Originaltext und eine Kurzgeschichtensammlung mit ausgewiesener Stufe, jedes nach Ausgabe geprüft und jedes mit einer eigenen Aufgabe."
 publishedAt: "2026-10-24"
 draft: false
+cover: cover.jpg
+coverCredit: "Bernardo Bellotto, View of the Grand Canal from Punta della Dogana · Museo del Settecento Veneziano"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:(Venice)_Veduta_del_Canal_Grande_dalla_Punta_della_Dogana_-_Bernardo_Bellotto.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 Wer nach italienischen Büchern für Anfänger sucht, bekommt eine Wand aus Listen, in denen alles vermischt wird: Lehrbücher, Redewendungsbücher, Kurzgeschichtensammlungen, Kinderklassiker und berühmte Romane, als wären sie austauschbar. Das sind sie nicht. Ein Buch, das für Lernende geschrieben wurde, ein Buch mit einer Übersetzung daneben und ein berühmtes Buch, das man bereits in einer anderen Sprache kennt, verlangen drei verschiedene Arten von Anstrengung. Das richtige erste Buch ist das, dessen Anstrengung man morgen wiederholen kann.

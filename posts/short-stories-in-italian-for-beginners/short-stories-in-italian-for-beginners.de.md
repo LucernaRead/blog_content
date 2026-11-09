@@ -3,6 +3,12 @@ title: "Kurzgeschichten auf Italienisch für Anfänger: Was du zuerst lesen soll
 excerpt: "Beginne mit italienischen Kurzgeschichten, die du wirklich beenden kannst: kostenlose A1-Texte zum Einstufen, eine ehrlich A1 kurze Geschichte und zwei anhand der Ausgabe geprüfte Sammlungen für A2-B1."
 publishedAt: "2026-10-22"
 draft: false
+cover: cover.jpg
+coverCredit: "Canaletto, The Bacino di San Marco, c. 1738 · Museum of Fine Arts, Boston"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Boston,_Museum_of_Fine_Art_-_Il_bacino_di_San_Marco_c.1738_-_Canaletto.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 Dein erstes italienisches Buch muss kein Roman sein. Eine Kurzgeschichte gibt dir eine abgeschlossene Handlung in ein oder zwei Sitzungen, und eine Sammlung gibt dir dieses Finish immer wieder, jedes Mal mit neuen Figuren statt einen Monat lang mit derselben Besetzung. Sammlungen von Kurzgeschichten auf Italienisch für Anfänger sind genau für diesen Rhythmus gemacht.

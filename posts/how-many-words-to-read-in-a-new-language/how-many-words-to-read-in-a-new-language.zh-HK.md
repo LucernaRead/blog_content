@@ -3,6 +3,12 @@ title: "一門新語言要讀多少詞才開始變輕鬆"
 excerpt: "有一個門檻——大約一千個詞——過了它,閱讀就不再像解碼,而開始像閱讀。它是甚麼,以及怎麼更快到達。"
 publishedAt: "2026-06-07"
 draft: false
+cover: cover.jpg
+coverCredit: "Kate Greenaway, A Apple Pie, 1886"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:A_Apple_Pie,_C.jpg"
+coverFocus: "center 30%"
+category: "method"
 ---
 
 最初的一千個詞最難,因為每一個都是一次停頓。你遇到一個詞,查它,線索斷了,句子只好重唸一遍。那感覺不太像閱讀,更像考古——一次刷掉一件文物上的土,始終看不見整個遺址。

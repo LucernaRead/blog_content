@@ -3,6 +3,12 @@ title: "번역본을 펼쳐 놓고 읽기: 도움일까, 목발일까"
 excerpt: "새 언어로 읽기를 배우는 사람은 거의 다 해본다: 한 손에 원서, 한 손에 번역본. 언제 도움이 되고, 언제 조용히 혼자 읽는 능력을 막는지."
 publishedAt: "2026-06-29"
 draft: false
+cover: cover.jpg
+coverCredit: "Henri Fantin-Latour, The Reading, 1877 · Musée des Beaux-Arts de Lyon"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Fantin-Latour-La_Lecture-Lyon.jpg"
+coverFocus: "center 40%"
+category: "method"
 ---
 
 # 번역본을 펼쳐 놓고 읽기: 도움인가, 목발인가

@@ -3,6 +3,12 @@ title: "法语入门书籍：第一批值得读的书"
 excerpt: "按书的种类而不是名气选你的第一本法语书：一本带导读的读本、一本双语对照、一本熟悉的故事、一本短章节经典和一本漫画，每本都核对了版本。"
 publishedAt: "2026-10-19"
 draft: false
+cover: cover.jpg
+coverCredit: "Édouard Manet, Woman Reading, 1878–79 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:%C3%89douard_Manet_-_Woman_Reading_-_1933.435_-_Art_Institute_of_Chicago.jpg"
+coverFocus: "center 28%"
+category: "lists"
 ---
 
 搜「法语入门书籍」，多数书单把所有东西混在一起：语法教材、动词表、故事集、儿童经典和名著，好像一种书能干所有的活。不能。为学习者写的读本、正文旁带译文的书、和一本你已经用另一种语言读过的名著，要求的是三种不同的努力。正确的第一本书，是那种你明天还愿意重复的努力。
@@ -78,7 +84,7 @@ draft: false
 
 ---
 
-## 选书前的问题
+## 常见问题
 
 ### 我的法语几乎为零。这几本里能从哪本开始？
 

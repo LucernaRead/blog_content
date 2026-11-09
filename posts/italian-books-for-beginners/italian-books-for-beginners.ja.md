@@ -3,6 +3,12 @@ title: "イタリア語の初心者向け本：最初に読むべき本"
 excerpt: "初めてのイタリア語の本は有名さではなく種類で選ぶ。学習者向け小説、二言語読本、なじみのある原作、レベル表示のある短編集。各巻を版ごとに確認し、それぞれの役割を示す。"
 publishedAt: "2026-10-24"
 draft: false
+cover: cover.jpg
+coverCredit: "Bernardo Bellotto, View of the Grand Canal from Punta della Dogana · Museo del Settecento Veneziano"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:(Venice)_Veduta_del_Canal_Grande_dalla_Punta_della_Dogana_-_Bernardo_Bellotto.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 イタリア語の初心者向け本を検索すると、教科書、フレーズ集、短編集、児童向け古典、名作がごちゃ混ぜになった一覧が出てくる。だがそれらは同じものではない。学習者のために書かれた本、訳文が横にある本、別の言語で既に知っている有名な本では、求められる努力がそれぞれ違う。適切な最初の本とは、明日も繰り返せる努力で読める本である。

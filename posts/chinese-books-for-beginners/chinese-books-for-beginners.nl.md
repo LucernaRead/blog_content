@@ -3,6 +3,12 @@ title: "Chinese boeken voor beginners: de eerste boeken die de moeite waard zijn
 excerpt: "Kies je eerste Chinese boek op soort, niet op faam: een lezersroman die je kunt uitlezen, een tweetalig vangnet, een bekend verhaal in een lezerseditie en een verhalenbundel met een vermeld niveau, elk gecontroleerd op editie, plus de valkuilen van een Chinese pagina."
 publishedAt: "2026-10-30"
 draft: false
+cover: cover.jpg
+coverCredit: "Anonymous (Ming dynasty), The Eighteen Scholars, detail · National Palace Museum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:The_Eighteen_Scholars_by_an_anonymous_Ming_artist_1.jpg"
+coverFocus: "center 40%"
+category: "lists"
 ---
 
 Zoeken naar Chinese boeken voor beginners levert vooral lijsten met leerboeken op. Integrated Chinese, New Practical Chinese Reader, Chinese Made Easy: allemaal degelijke cursussen, allemaal opgebouwd per les, en geen ervan is een boek waar je voor gaat zitten om het uit te lezen. Een leerboek geeft een cursus. Een eerste leesboek heeft een andere taak. Het moet je van de eerste tot de laatste pagina dragen in een taal die je echt kunt volgen, zodat je na het uitlezen weet dat Chinese boeken uit te lezen zijn.

@@ -3,6 +3,12 @@ title: "中文入門書：第一批值得讀的書"
 excerpt: "按種類而不是按名氣選第一本中文書：一本能讀完的學習者小說、一個雙語安全網、一本學習者版的熟悉故事、一本有明確級別的故事集，每本都核對過版本資訊，再加上讓中文讀者卡住的版面陷阱。"
 publishedAt: "2026-10-30"
 draft: false
+cover: cover.jpg
+coverCredit: "Anonymous (Ming dynasty), The Eighteen Scholars, detail · National Palace Museum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:The_Eighteen_Scholars_by_an_anonymous_Ming_artist_1.jpg"
+coverFocus: "center 40%"
+category: "lists"
 ---
 
 搜「中文入門書」，搜到的大多是教材清單。Integrated Chinese（《中文聽說讀寫》）、New Practical Chinese Reader（《新實用漢語課本》）、Chinese Made Easy：都是紮實的課程，都按課組織，但沒有一本是你坐下來能從頭讀到尾的書。教材是用來上課的。第一本閱讀書的任務不一樣：它必須用你能跟得上的語言把你從第一頁帶到最後一頁，讓你讀完之後知道，中文書是可以讀完的。
@@ -93,7 +99,7 @@ AL Language Cafe 的 Chinese Stories for Language Learners，Basic Level，就�
 
 ---
 
-## 選擇之前的問題
+## 常見問題
 
 ### 課本算我的第一本書嗎？
 

@@ -3,6 +3,12 @@ title: "用一门新语言读小说,需要多久?"
 excerpt: "老实的答案:方法对就比你以为的早,等到「觉得准备好」就永远不会。一份现实的时间表 —— 以及决定它的那一个变量。"
 publishedAt: "2026-07-01"
 draft: false
+cover: cover.jpg
+coverCredit: "Vincent van Gogh, The Novel Reader, 1888"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Vincent_Van_Gogh_-_Une_liseuse_de_romans_(1888).jpg"
+coverFocus: "center 35%"
+category: "method"
 ---
 
 # 多久才能用一门新语言读小说?
@@ -36,6 +42,6 @@ draft: false
 
 正确的动作不是等待某个未来的"准备好"。而是今天就开始 —— 拿一本比你的自尊心想要的低一档的书,每晚读五页,只查挡住你的词。你在等的那份"准备好",*是靠这么做制造出来的*,不是在这之前就有的。
 
-[Lucerna](https://lucernaread.com) 的存在,就是为了杀掉那个决定时间表的摩擦。上传任何 EPUB,或者从古腾堡计划拉一本书,点任何一个词就能看到释义、发音,以及完整的动词变位或格变化表,而你的生词本会在你读的过程中自己长起来 —— 不用词典,不丢位置,不开第二个标签页。今天支持英语、德语和法语的查词,更多在路上。查词越早不要钱,"总有一天"就越早变成"今年"。
+[Lucerna](https://lucernaread.com) 的存在,就是为了杀掉那个决定时间表的摩擦。上传任何 EPUB,或者从古腾堡计划拉一本书,点任何一个词就能看到释义、发音,以及完整的动词变位或格变化表,而你的生词本会在你读的过程中自己长起来 —— 不用词典,不丢位置,不开第二个标签页。71 种语言的书都能读,其中 12 种功能更全。查词越早不要钱,"总有一天"就越早变成"今年"。
 
 *《阅读日志》是 [Lucerna](https://lucernaread.com) 的编辑角落 —— 一款给语言学习者的阅读 app。这里写的是慢慢变流利的短文:一本书,五页,每晚。*

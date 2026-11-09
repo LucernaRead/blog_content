@@ -3,6 +3,12 @@ title: "세상은 결코 하나의 버전이 아니다"
 excerpt: "독서는 무엇을 위해 하는가? 외국어를 배우는 것은 또 무엇을 위해 하는가? 오랫동안 나는 이 두 질문이 사실 같은 질문이라고 느껴 왔다 — 둘 다 한 사람을 자기 세계 밖으로 데려가, 낯선 무언가를 품고 돌아오게 한다. 이것이 우리가 Lucerna를 만드는 이유다."
 publishedAt: "2026-08-11"
 draft: false
+cover: cover.jpg
+coverCredit: "Abraham Ortelius, Typus Orbis Terrarum, 1572"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:1572_Typus_Orbis_Terrarum_Ortelius.jpg"
+coverFocus: "center"
+category: "method"
 ---
 
 # 세상은 결코 하나의 버전이 아니다

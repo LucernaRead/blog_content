@@ -3,6 +3,12 @@ title: "Comprehensible Input: Was es ist und wie Sie es beim Lesen nutzen"
 excerpt: "Comprehensible Input ist Sprache, die Sie verstehen und die ein wenig Neues enthält. Was Krashens i+1 in der Praxis bedeutet, wie viel eines Textes Sie kennen müssen und wie Sie beim Lesen Input auf Ihrem Niveau finden und nutzen."
 publishedAt: "2026-10-16"
 draft: false
+cover: cover.jpg
+coverCredit: "Mary Cassatt, Nurse Reading to a Little Girl, 1895 · Metropolitan Museum of Art"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:Nurse_Reading_to_a_Little_Girl_MET_DT7250.jpg"
+coverFocus: "center 30%"
+category: "method"
 ---
 
 Sie sind dem Rat vermutlich in irgendeiner Form begegnet: Hören Sie auf zu pauken, lesen und hören Sie Dinge, die Sie verstehen, und die Sprache folgt von selbst. Das Material, auf das dieser Rat zeigt, heißt comprehensible input, verständlicher Input. Der Begriff wird online locker verwendet, manchmal für jeden leichten Inhalt. Seine ursprüngliche Bedeutung ist enger, und die engere Bedeutung ist die nützliche, wenn Sie ein Buch wählen.

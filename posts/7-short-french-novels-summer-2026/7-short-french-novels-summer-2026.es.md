@@ -3,6 +3,12 @@ title: "Leer como un parisino: 7 novelas francesas breves para este verano"
 excerpt: "Una escalera de lectura de A2 a C1, todas gratis en el Proyecto Gutenberg, ninguna lo bastante larga como para arruinarte junio."
 publishedAt: "2026-06-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Claude Monet, Impression, Sunrise, 1872 · Musée Marmottan Monet"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Monet_-_Impression,_Sunrise.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 # Leer como un parisino: 7 novelas francesas breves para empezar este verano

@@ -3,6 +3,12 @@ title: "J'ai quitté Duolingo. Voici le plan de 30 jours qui me rend vraiment fl
 excerpt: "Une méthode centrée sur la lecture pour adultes, bâtie autour de l'input compréhensible que les leçons générées par IA ne peuvent pas remplacer."
 publishedAt: "2026-05-29"
 draft: false
+cover: cover.jpg
+coverCredit: "Hans Holbein the Younger, The Ambassadors, 1533 · National Gallery, London"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg"
+coverFocus: "center 40%"
+category: "language"
 ---
 
 > Une méthode centrée sur la lecture pour apprenants adultes, bâtie autour de l'input compréhensible que les leçons générées par IA ne peuvent pas remplacer.

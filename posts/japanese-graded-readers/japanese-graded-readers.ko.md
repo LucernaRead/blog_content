@@ -4,6 +4,12 @@ excerpt: "일본어 다독 등급별 리더를 설명합니다: NPO 자체 레�
 publishedAt: "2026-10-09"
 updatedAt: "2026-10-19"
 draft: false
+cover: cover.jpg
+coverCredit: "Utagawa Hiroshige, Sudden Shower over Shin-Ōhashi Bridge and Atake, 1857"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Hiroshige,_Sudden_shower_over_Shin-%C5%8Chashi_bridge_and_Atake,_1857.jpg"
+coverFocus: "center 30%"
+category: "lists"
 ---
 
 일본어에는 다른 많은 언어에는 없는 벽이 하나 더 있습니다. 바로 문자 체계 자체입니다. 교과서 회화를 마치고도 진짜 책 앞에서는 멈출 수 있습니다. 모든 페이지에서 가나, 한자, 낯선 어휘를 동시에 처리해야 하기 때문입니다.

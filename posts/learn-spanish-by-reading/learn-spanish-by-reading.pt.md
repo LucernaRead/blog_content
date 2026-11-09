@@ -3,6 +3,12 @@ title: "Aprender espanhol lendo: um caminho simples para principiantes"
 excerpt: "O espanhol escreve-se como se lê, e muito do vocabulário parece-se com o inglês — comece com leituras graduadas, suba uma escada simples e leia um pouco todos os dias."
 publishedAt: "2026-10-09"
 draft: false
+cover: cover.jpg
+coverCredit: "Diego Velázquez, Las Meninas, 1656–57 · Museo del Prado"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Las_Meninas_01.jpg"
+coverFocus: "center 45%"
+category: "language"
 ---
 
 Aprender espanhol a ler tem uma vantagem que poucas línguas oferecem: a ortografia espanhola é transparente. Depois de conhecer as regras básicas dos sons, normalmente consegue pronunciar o que vê, e o que ouve escreve-se normalmente tal como soa. Grande parte do vocabulário quotidiano também coincide com o inglês através de raízes latinas partilhadas, pelo que um principiante reconhece muitas vezes mais do que esperava.

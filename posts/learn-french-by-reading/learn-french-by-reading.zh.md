@@ -3,6 +3,12 @@ title: "如何通过阅读学法语"
 excerpt: "按法语自身的特点搭一条阅读阶梯来学法语：先读分级读物，讲清简单过去时与省音词，用十分钟抽样测试选书，再用把页面与声音配对的日常读法推进。"
 publishedAt: "2026-10-18"
 draft: false
+cover: cover.jpg
+coverCredit: "Gustave Caillebotte, Paris Street; Rainy Day, 1877 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Gustave_Caillebotte_-_Paris_Street,_Rainy_Day_-_1964.336_-_Art_Institute_of_Chicago.jpg"
+coverFocus: "center 45%"
+category: "language"
 ---
 
 法语给读者一个先手，也给一个警告。先手是词汇：日常英语词里有很大一部分来自法语，初学者打开一页法语，处处能碰到眼熟的形状：*famille*、*important*、*arriver*、*commencer*。警告是声音：法语拼写保留了语音在几个世纪前就丢掉的字母，所以你能读出的词，往往不是你凭耳朵能认出的词。要把法语读好，从一开始就得同时处理这两件事。
@@ -85,7 +91,7 @@ draft: false
 
 ---
 
-## 开始之前的问题
+## 常见问题
 
 ### 只靠阅读能学会法语吗？
 

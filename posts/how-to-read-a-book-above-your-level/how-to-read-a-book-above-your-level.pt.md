@@ -3,6 +3,12 @@ title: "Como ler um livro acima do seu nível sem se afogar"
 excerpt: "Ler um livro um ou dois níveis acima do seu pode funcionar — se você conhecer a lacuna de cobertura, usar táticas de sentido geral e julgar depois de dois capítulos, não de duas páginas."
 publishedAt: "2026-10-09"
 draft: false
+cover: cover.jpg
+coverCredit: "Vittore Carpaccio, Saint Augustine in His Study, 1502 · Scuola di San Giorgio degli Schiavoni"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Vittore_Carpaccio_026.jpg"
+coverFocus: "center"
+category: "method"
 ---
 
 O livro que você realmente quer ler é difícil demais. Suas leituras graduadas ainda estão em A2 ou B1, e o livro que chama você é um romance original — diálogo real, expressões idiomáticas, frases longas, nenhum controle de vocabulário. Você trava no segundo parágrafo e se pergunta se não está sendo irrealista.

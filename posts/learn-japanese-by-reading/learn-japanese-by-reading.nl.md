@@ -3,6 +3,12 @@ title: "Japans leren door te lezen"
 excerpt: "Leer Japans door te lezen vanaf je eerste kana: eerst furigana en tadoku-graded readers, dan omhoog naar NHK News Web Easy en vertrouwde manga — en behandel kanji als een probleem dat lezen zelf oplost."
 publishedAt: "2026-10-12"
 draft: false
+cover: cover.jpg
+coverCredit: "Katsushika Hokusai, The Great Wave off Kanagawa, c. 1830–32 · Metropolitan Museum of Art"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Tsunami_by_hokusai_19th_century.jpg"
+coverFocus: "center"
+category: "language"
 ---
 
 Je kunt Japans leren door te lezen — maar Japans verandert de volgorde. In het Spaans of Frans kun je dankzij het alfabet op dag één een pagina hardop lezen; de enige muur is woordenschat. In het Japans is de pagina zelf deel van de les: drie schriften door elkaar, geen spaties tussen woorden, en kanji waarvan je de lezing misschien nog niet kent.

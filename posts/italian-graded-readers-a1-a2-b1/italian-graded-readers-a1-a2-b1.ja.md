@@ -3,6 +3,12 @@ title: "イタリア語グレイディッド・リーダー：A1–B1 の本の�
 excerpt: "イタリア語のグレイディッド・リーダーは2つの出版社に分かれています。A1 は Alma、A2–B1 は Black Cat。本稿ではレベルの選び方と、10分で本が合うか試す方法を紹介します。"
 publishedAt: "2026-10-09"
 draft: false
+cover: cover.jpg
+coverCredit: "Sandro Botticelli, Primavera, 1480–85 · Uffizi"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Botticelli-primavera.jpg"
+coverFocus: "center 30%"
+category: "lists"
 ---
 
 イタリア語の小説を開くと、1ページも進まないうちに動詞の活用に溺れてしまいます。3文ごとに辞書を引き、物語は一向に進まず、本は棚に戻ります。それはあなたのイタリア語の評価ではありません。たいていは、ステップが大きすぎただけです。

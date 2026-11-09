@@ -3,6 +3,12 @@ title: "초보자를 위한 독일어 책: 처음 읽을 가치가 있는 책"
 excerpt: "유명세가 아니라 책의 종류로 첫 독일어 책을 고르세요. 베를린을 배경으로 한 학습자 이야기, 대역 안전망, 아는 이야기, 짧은 장의 고전, 단계별 단편집. 모두 판본을 확인했습니다."
 publishedAt: "2026-10-20"
 draft: false
+cover: cover.jpg
+coverCredit: "Adolph Menzel, The Balcony Room, 1845 · Alte Nationalgalerie"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Adolph_Menzel_-_Das_Balkonzimmer_-_Google_Art_Project.jpg"
+coverFocus: "center 45%"
+category: "lists"
 ---
 
 "초보자를 위한 독일어 책"을 검색하면 대부분의 목록은 교재를 건넵니다. 문법 코스, 동사표, 그림 사전, 올인원 매뉴얼까지, 마치 독일어를 배우는 것과 독일어를 읽는 것이 같은 일인 것처럼요. 같은 일이 아닙니다. 교재는 언어에 대해 가르쳐 줍니다. 첫 책은 읽기가 해독처럼 느껴지지 않을 때까지, 페이지마다 실제로 읽을 수 있는 독일어를 줍니다. 두 서가가 겹치는 부분은 목록이 시사하는 것보다 적습니다.

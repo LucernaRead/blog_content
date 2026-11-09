@@ -4,6 +4,12 @@ excerpt: "Die erste Lektüre zu Ende zu lesen ist der eigentliche Meilenstein �
 publishedAt: "2026-10-09"
 updatedAt: "2026-10-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Claude Monet, Springtime, 1872 · Walters Art Museum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Springtime_-_Walters_3711.jpg"
+coverFocus: "center 55%"
+category: "method"
 ---
 
 Die erste Lektüre in einfacher Sprache zu Ende zu lesen, ist der eigentliche Meilenstein. Du hast ein ganzes Buch in einer anderen Sprache gelesen — keinen Lehrbuchdialog, sondern eine vollständige Geschichte, von der ersten bis zur letzten Seite. Das zählt mehr, als es sich an dem Tag anfühlen mag, an dem du es zuklappst.

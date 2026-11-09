@@ -3,6 +3,12 @@ title: "파리지앵처럼 읽기: 이번 여름에 시작할 짧은 프랑스�
 excerpt: "A2에서 C1까지 올라가는 독서 사다리. 전부 구텐베르크 프로젝트에 무료로 있고, 어느 것도 6월을 망칠 만큼 길지 않다."
 publishedAt: "2026-06-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Claude Monet, Impression, Sunrise, 1872 · Musée Marmottan Monet"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Monet_-_Impression,_Sunrise.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 # 파리지앵처럼 읽기: 이번 여름에 시작할 짧은 프랑스어 소설 7권

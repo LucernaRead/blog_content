@@ -3,6 +3,12 @@ title: "どの言語でも無料の本が見つかる場所"
 excerpt: "学んでいる言語で無料の書棚をつくる。Project Gutenberg、Wikisource、レベル別読み物ほか——一銭もかけずに読むための実地ガイド。"
 publishedAt: "2026-05-30"
 draft: false
+cover: cover.jpg
+coverCredit: "Carl Spitzweg, The Bookworm, c. 1850 · Museum Georg Schäfer"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Carl_Spitzweg_-_%22The_Bookworm%22.jpg"
+coverFocus: "center 30%"
+category: "lists"
 ---
 
 読書で言語を学ぶことには、静かな贅沢がある。ほとんどお金がかからないのだ。何世紀もの文学がすでにパブリックドメインに入っていて、その大半は検索ひとつ先にある——無料で、合法で、入場料のいらない棚で待っている。難しいのは本を見つけることではない。その中から選ぶことだ。

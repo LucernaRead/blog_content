@@ -3,6 +3,12 @@ title: "Verhalen in het Italiaans voor beginners: wat je eerst moet lezen"
 excerpt: "Begin met korte verhalen in het Italiaans die je echt kunt uitkrijgen: gratis A1-teksten om je niveau te testen, één eerlijk A1-verhaal en twee op editie gecontroleerde bundels voor A2-B1."
 publishedAt: "2026-10-22"
 draft: false
+cover: cover.jpg
+coverCredit: "Canaletto, The Bacino di San Marco, c. 1738 · Museum of Fine Arts, Boston"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Boston,_Museum_of_Fine_Art_-_Il_bacino_di_San_Marco_c.1738_-_Canaletto.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 Je eerste Italiaanse boek hoeft geen roman te zijn. Een kort verhaal geeft je een complete plot in een of twee sessies, en een bundel geeft je die finish telkens opnieuw, met elke keer nieuwe personages in plaats van een maand lang dezelfde cast. Bundels met korte verhalen in het Italiaans voor beginners zijn gemaakt voor dat ritme.

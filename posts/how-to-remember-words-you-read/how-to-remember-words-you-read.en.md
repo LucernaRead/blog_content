@@ -3,6 +3,12 @@ title: "How to Remember the Words You Read (Without Flashcards)"
 excerpt: "Flashcards aren't the only way to make vocabulary stick. How repeated, contextual reading builds a memory that lasts — and what to do with the words that won't."
 publishedAt: "2026-06-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Jean-Baptiste-Siméon Chardin, The Young Schoolmistress, c. 1736 · National Gallery, London"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Jean_Sim%C3%A9on_Chardin_-_The_Young_Schoolmistress_-_WGA04750.jpg"
+coverFocus: "center 35%"
+category: "method"
 ---
 
 There's a particular frustration in language learning: you look a word up, nod, and meet it again three pages later as a total stranger. The standard fix is flashcards — drill the word until it sticks. But there's an older, quieter method that costs nothing and feels like reading, because it is reading.

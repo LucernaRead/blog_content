@@ -3,6 +3,12 @@ title: "如何通过阅读学日语"
 excerpt: "从假名开始通过阅读学日语：先用振假名和多读分级读物，再爬到 NHK 简易新闻和熟悉的漫画，把汉字当作阅读本身会解决的问题。"
 publishedAt: "2026-10-12"
 draft: false
+cover: cover.jpg
+coverCredit: "Katsushika Hokusai, The Great Wave off Kanagawa, c. 1830–32 · Metropolitan Museum of Art"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Tsunami_by_hokusai_19th_century.jpg"
+coverFocus: "center"
+category: "language"
 ---
 
 通过阅读学日语完全可行——但日语改变了步骤的顺序。在西班牙语或法语里，字母让你第一天就能把一页书念出声，唯一的墙是词汇。在日语里，页面本身就是课程的一部分：三种文字混写、词与词之间没有空格、汉字读音你可能还不认识。
@@ -85,7 +91,7 @@ draft: false
 
 ---
 
-## 学习者常问的问题
+## 常见问题
 
 ### 开始读日语之前必须先学汉字吗？
 

@@ -3,6 +3,12 @@ title: "Читать как в Берлине: семь немецких кни�
 excerpt: "От сказок до Томаса Манна: семь возможных ступеней с ориентировочной сложностью, а не официальными уровнями."
 publishedAt: "2026-06-26"
 draft: false
+cover: cover.jpg
+coverCredit: "Caspar David Friedrich, Woman at a Window, 1822 · Alte Nationalgalerie"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Frau_am_Fenster_-_Google_Art_Project.jpg"
+coverFocus: "center 40%"
+category: "lists"
 ---
 
 Немецкий приходит вместе с репутацией: длинные составные слова, глагол в конце, четыре падежа. Можно месяцами готовиться, так и не открыв книгу. Чтение предлагает встретить грамматику в предложениях, которым есть что рассказывать.

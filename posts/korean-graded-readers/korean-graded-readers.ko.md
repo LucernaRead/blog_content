@@ -3,6 +3,12 @@ title: "한국어 등급별 리더: 내 수준에 맞는 책으로 시작하기"
 excerpt: "등급별 리더로 한국어 읽기를 시작하세요: TOPIK, TTMIK, CEFR 수준 체계가 어떻게 다른지, 무료 온라인 텍스트부터 B1 이야기 모음집까지 다섯 가지 정직한 출발점, 그리고 10분 샘플 테스트를 소개합니다."
 publishedAt: "2026-10-13"
 draft: false
+cover: cover.jpg
+coverCredit: "Anonymous, Munja-Chaekgeori Screen (Character-Books Screen), detail · Cleveland Museum of Art"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Anonymous_-_Munja-Chaekgeori_Screen_(Character-Books_Screen)_-_2017.6_-_Cleveland_Museum_of_Art.tiff"
+coverFocus: "center 40%"
+category: "lists"
 ---
 
 한국어는 알파벳은 친절하지만 도약은 가혹하다는 평판을 갖고 있습니다. 한글은 며칠이면 익힐 수 있지만, 실제 책 앞에서는 여전히 대부분의 초보자가 멈춰 서게 됩니다. 어휘가 유럽 언어들과 친족 관계가 없고, 문장 순서가 반대이기 때문입니다.

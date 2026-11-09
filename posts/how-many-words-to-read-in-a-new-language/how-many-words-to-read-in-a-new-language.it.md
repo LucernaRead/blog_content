@@ -3,6 +3,12 @@ title: "Quante parole servono prima che leggere diventi più facile?"
 excerpt: "Dalla decodifica alla lettura: perché il lessico frequente cambia l’esperienza e come incontrarlo più spesso."
 publishedAt: "2026-06-07"
 draft: false
+cover: cover.jpg
+coverCredit: "Kate Greenaway, A Apple Pie, 1886"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:A_Apple_Pie,_C.jpg"
+coverFocus: "center 30%"
+category: "method"
 ---
 
 Le prime parole sono le più faticose: ognuna può diventare una pausa. Cerchi, perdi il filo, ricominci. Sembra un lavoro di archeologia, un frammento alla volta senza vedere il sito completo.

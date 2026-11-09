@@ -3,6 +3,12 @@ title: "Word Atlas: 그림 단어 지도가 가르칠 수 있는 것과 가르�
 excerpt: "word atlas를 검색하면 지도책이 나온다. 하지만 또 다른 지도책이 있다. 단어의 지도다. 단어마다 그림과 예문, 복습 계획이 붙는다. 이 지도가 잘하는 것, 멈추는 지점, 그리고 실제 읽기로 어떻게 연결하는지를 설명한다."
 publishedAt: "2026-10-29"
 draft: false
+cover: cover.jpg
+coverCredit: "England, Sampler (map of the Americas), 19th century · Cleveland Museum of Art"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:England,_19th_century_-_Sampler_-_1943.117_-_Cleveland_Museum_of_Art.jpg"
+coverFocus: "center 35%"
+category: "method"
 ---
 
 "word atlas"를 검색하면 상위 결과는 지도책 이야기다. 그것이 이 단어의 오래된 뜻이고, 대부분의 검색자가 원하는 것이다. 이 글은 다른 뜻, 단어의 지도책에 대한 것이다. 국가 대신 단어가 주제별로 정리되고, 단어마다 그림과 정의, 예문, 발음이 붙는다. 문제는 그림이 예쁜지가 아니다. 그림이 실제로 배우는 데 도움이 되는 단어가 어떤 것인지, 그리고 그림이 감당하지 못하는 단어를 어떻게 할 것인지다.

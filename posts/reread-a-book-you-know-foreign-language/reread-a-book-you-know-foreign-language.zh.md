@@ -3,6 +3,12 @@ title: "读一本你已经知道的书:通往第一本外语小说的捷径"
 excerpt: "第一本外语小说最难的不是语法,是不知道接下来会发生什么。那就把这个问题拿掉:读一本你已经读过的书。"
 publishedAt: "2026-07-14"
 draft: false
+cover: cover.jpg
+coverCredit: "Gerrit Dou, Old Woman Reading, 1631–32 · Rijksmuseum"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:Lezende_oude_vrouw_Oude_vrouw_lezend_in_een_lectionarium_zogenaamd_portret_van_Rembrandts_moeder,_Neeltgen_Willemsdr_van_Zuijdtbroeck_(gest_1640),_SK-A-2627.jpg"
+coverFocus: "center 45%"
+category: "method"
 ---
 
 # 重读一本你已经知道的书:通往第一本外语小说的捷径
@@ -46,6 +52,6 @@ draft: false
 
 ## 把一本你爱的书,变成一本你读得了的书
 
-[Lucerna](https://lucernaread.com) 就是为这件事造的。上传一本你已经知道的书的 EPUB —— 或者从古腾堡计划拉一本免费经典 —— 任何词离它的释义、IPA 和完整的动词变位或格变化表都只有一次点击,就在页面上解决,不用第二个标签页,不用离开句子。你停下来的那些词会自己聚成一份生词表,于是你复习的正是你真正遇见过的,在你早就爱着的那些场景里。今天支持英语、德语和法语,更多在路上。挑那本你烂熟于心的书,用你正在学的语言读它。
+[Lucerna](https://lucernaread.com) 就是为这件事造的。上传一本你已经知道的书的 EPUB —— 或者从古腾堡计划拉一本免费经典 —— 任何词离它的释义、IPA 和完整的动词变位或格变化表都只有一次点击,就在页面上解决,不用第二个标签页,不用离开句子。你停下来的那些词会自己聚成一份生词表,于是你复习的正是你真正遇见过的,在你早就爱着的那些场景里。71 种语言的书都能读,其中 12 种功能更全。挑那本你烂熟于心的书,用你正在学的语言读它。
 
 *《阅读日志》是 [Lucerna](https://lucernaread.com) 的编辑角落 —— 一款给语言学习者的阅读 app。这里写的是慢慢变流利的短文:一本书,五页,每晚。*

@@ -4,6 +4,12 @@ excerpt: "Книги тадоку для чтения по-японски с о�
 publishedAt: "2026-10-09"
 updatedAt: "2026-10-19"
 draft: false
+cover: cover.jpg
+coverCredit: "Utagawa Hiroshige, Sudden Shower over Shin-Ōhashi Bridge and Atake, 1857"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Hiroshige,_Sudden_shower_over_Shin-%C5%8Chashi_bridge_and_Atake,_1857.jpg"
+coverFocus: "center 30%"
+category: "lists"
 ---
 
 Японский язык добавляет стену, которой нет во многих других языках: саму письменность. Можно пройти диалоги из учебника и всё равно остановиться перед настоящей книгой, потому что каждая страница требует одновременно справляться с каной, кандзи и незнакомой лексикой.

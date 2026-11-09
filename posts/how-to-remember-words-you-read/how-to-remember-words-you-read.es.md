@@ -3,6 +3,12 @@ title: "Cómo recordar las palabras que lees (sin tarjetas)"
 excerpt: "Las tarjetas no son la única forma de fijar vocabulario. Cómo la lectura repetida y en contexto construye una memoria que dura, y qué hacer con las palabras que se resisten."
 publishedAt: "2026-06-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Jean-Baptiste-Siméon Chardin, The Young Schoolmistress, c. 1736 · National Gallery, London"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Jean_Sim%C3%A9on_Chardin_-_The_Young_Schoolmistress_-_WGA04750.jpg"
+coverFocus: "center 35%"
+category: "method"
 ---
 
 Hay una frustración particular al aprender un idioma: buscas una palabra, asientes y la vuelves a encontrar tres páginas después como a una completa desconocida. La solución habitual son las tarjetas: repetir hasta que se fije. Pero existe un método más antiguo y silencioso que no cuesta nada y se siente como leer, porque es leer.

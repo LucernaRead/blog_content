@@ -3,6 +3,12 @@ title: "Адаптированные книги на итальянском: к�
 excerpt: "Адаптированные книги на итальянском разделены между двумя издательствами — A1 у Alma, A2–B1 у Black Cat. Рассказываем, как выбрать нужный уровень и проверить книгу за десять минут."
 publishedAt: "2026-10-09"
 draft: false
+cover: cover.jpg
+coverCredit: "Sandro Botticelli, Primavera, 1480–85 · Uffizi"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Botticelli-primavera.jpg"
+coverFocus: "center 30%"
+category: "lists"
 ---
 
 Вы открываете итальянский роман — и уже на первой странице тонете в формах глаголов. Каждое третье предложение отправляет вас к словарю, история никак не продвигается, и книга возвращается на полку. Это не приговор вашему итальянскому. Обычно это просто означает, что шаг был слишком большим.

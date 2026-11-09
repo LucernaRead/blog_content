@@ -3,6 +3,12 @@ title: "O mundo nunca tem uma versão só"
 excerpt: "Para que ler? Para que aprender uma língua estrangeira? Há muito tempo sinto que são a mesma pergunta — as duas tiram você do seu próprio mundo e deixam você voltar carregando algo estranho. É por isso que estamos construindo o Lucerna."
 publishedAt: "2026-08-11"
 draft: false
+cover: cover.jpg
+coverCredit: "Abraham Ortelius, Typus Orbis Terrarum, 1572"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:1572_Typus_Orbis_Terrarum_Ortelius.jpg"
+coverFocus: "center"
+category: "method"
 ---
 
 # O mundo nunca tem uma versão só

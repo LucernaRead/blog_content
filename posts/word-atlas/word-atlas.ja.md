@@ -3,6 +3,12 @@ title: "Word Atlas：イラスト付き単語地図が教えられること、�
 excerpt: "word atlasを検索すると地図帳が出てくる。だがもう一つの地図帳がある。単語の地図だ。単語ごとに絵と例文と復習計画が付く。この地図が得意なこと、その限界、そして実際の読書にどうつなげるかを説明する。"
 publishedAt: "2026-10-29"
 draft: false
+cover: cover.jpg
+coverCredit: "England, Sampler (map of the Americas), 19th century · Cleveland Museum of Art"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:England,_19th_century_-_Sampler_-_1943.117_-_Cleveland_Museum_of_Art.jpg"
+coverFocus: "center 35%"
+category: "method"
 ---
 
 "word atlas"を検索すると、上位には地図帳の話が出てくる。それがこの言葉の古い意味であり、検索者の大半が求めているものだ。この記事で扱うのはもう一つの意味、単語の地図帳である。国名の代わりに単語が並び、テーマ別に整理され、単語ごとに絵と定義と例文と発音が付く。問題は、絵がきれいかどうかではない。絵が実際に覚える助けになる単語はどれか、そして絵では運べない単語をどうするかだ。

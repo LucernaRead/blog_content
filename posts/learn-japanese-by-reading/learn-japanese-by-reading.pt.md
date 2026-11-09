@@ -3,6 +3,12 @@ title: "Como aprender japonês lendo"
 excerpt: "Aprenda japonês lendo desde os primeiros kana: primeiro furigana e leituras graduadas tadoku, depois NHK News Web Easy e mangás familiares, tratando os kanji como um problema que a própria leitura resolve."
 publishedAt: "2026-10-12"
 draft: false
+cover: cover.jpg
+coverCredit: "Katsushika Hokusai, The Great Wave off Kanagawa, c. 1830–32 · Metropolitan Museum of Art"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Tsunami_by_hokusai_19th_century.jpg"
+coverFocus: "center"
+category: "language"
 ---
 
 É possível aprender japonês lendo — mas o japonês muda a ordem das operações. Em espanhol ou francês, o alfabeto permite ler uma página em voz alta no primeiro dia, e o único muro é o vocabulário. Em japonês, a própria página faz parte da lição: três escritas misturadas, sem espaços entre as palavras, e kanji cujas leituras talvez ainda não conheça.

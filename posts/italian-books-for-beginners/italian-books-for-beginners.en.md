@@ -3,6 +3,12 @@ title: "Italian Books for Beginners: The First Books Worth Reading"
 excerpt: "Choose your first Italian book by kind, not by fame: a learner novella, a dual-language reader, a familiar original, and a story collection at a stated level, each checked by edition, each with a job to do."
 publishedAt: "2026-10-24"
 draft: false
+cover: cover.jpg
+coverCredit: "Bernardo Bellotto, View of the Grand Canal from Punta della Dogana · Museo del Settecento Veneziano"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:(Venice)_Veduta_del_Canal_Grande_dalla_Punta_della_Dogana_-_Bernardo_Bellotto.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 Search for Italian books for beginners and you get a wall of lists that mix everything together: textbooks, phrase books, story collections, children's classics and famous novels, as if they were interchangeable. They are not. A book written for learners, a book with a translation beside it, and a famous book you already know in another language ask for three different kinds of effort, and the right first book is the one whose effort you can repeat tomorrow.

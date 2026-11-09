@@ -3,6 +3,12 @@ title: "Franse leesboeken op niveau: je eerste boek kiezen van A1 tot B1"
 excerpt: "Controleer de editie en het niveau, lees tien minuten een proeftekst en vind een Frans boek dat je wilt uitlezen."
 publishedAt: "2026-10-03"
 draft: false
+cover: cover.jpg
+coverCredit: "Georges Seurat, A Sunday on La Grande Jatte, 1884–86 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:A_Sunday_on_La_Grande_Jatte,_Georges_Seurat,_1884.png"
+coverFocus: "center 55%"
+category: "lists"
 ---
 
 Je opent een Franse roman, herkent enkele woorden en zit de rest van de alinea in het woordenboek. Een leesboek op niveau biedt een kleinere stap: een volledig verhaal dat voor een bepaald leerniveau is geschreven of bewerkt.

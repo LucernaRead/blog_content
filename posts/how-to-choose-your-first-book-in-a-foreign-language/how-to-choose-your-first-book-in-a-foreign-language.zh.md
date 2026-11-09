@@ -3,6 +3,12 @@ title: "怎么挑你的第一本外语书"
 excerpt: "选对第一本书,一半的力气就替你省了。一份实用的、对新手友好的指南:怎么挑一本你真的会读完的外语书。"
 publishedAt: "2026-06-03"
 draft: false
+cover: cover.jpg
+coverCredit: "Berthe Morisot, Reading, 1873 · Cleveland Museum of Art"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Berthe_Morisot_-_Reading_-_1950.89_-_Cleveland_Museum_of_Art.tiff"
+coverFocus: "center"
+category: "method"
 ---
 
 大多数人挑第一本外语书的方式,和许新年愿望差不多:野心勃勃,还带着点赌气。他们伸手去拿那本"一直想读"的经典,在第二页撞上一堵陌生语法的墙,然后断定自己还没准备好。是书不对,不是你不行。

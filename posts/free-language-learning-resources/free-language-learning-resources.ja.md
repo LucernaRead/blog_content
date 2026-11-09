@@ -3,6 +3,12 @@ title: "ブックマークしておきたい無料の語学学習リソース"
 excerpt: "本当に無料で使える読みもの教材を厳選。パブリックドメインの本、多読本、やさしいニュース、初級レッスンまで。2026-10-18に確認済み、随時更新。"
 publishedAt: "2026-10-18"
 draft: false
+cover: cover.jpg
+coverCredit: "Giuseppe Maria Crespi, Bookshelves with Music Books, 1725 · International Museum and Library of Music"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Giuseppe_Maria_Crespi_-_Buchregal_mit_Musikschriften_1725-30.jpeg"
+coverFocus: "center 40%"
+category: "tools"
 ---
 
 読んで言語を学ぶには、材料が必要です。自分のレベルに合った本、その次の一冊、そして本を読む気力がない日に読み切れる短い文章。その材料のかなりの部分は、探し方さえ知っていれば、合法的に無料で手に入ります。

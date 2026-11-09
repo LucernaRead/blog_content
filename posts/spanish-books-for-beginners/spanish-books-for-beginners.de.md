@@ -3,6 +3,12 @@ title: "Spanische Bücher für Anfänger: Die ersten Bücher, die sich lohnen"
 excerpt: "Wählen Sie Ihr erstes spanisches Buch nach Art, nicht nach Ruhm: eine Lernnovelle, ein zweisprachiger Reader und zwei vertraute Geschichten in Übersetzung — jede Ausgabe geprüft, jede mit einer Aufgabe."
 publishedAt: "2026-10-11"
 draft: false
+cover: cover.jpg
+coverCredit: "Joaquín Sorolla, Strolling along the Seashore, 1909 · Museo Sorolla"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Joaqu%C3%ADn_Sorolla_y_Bastida_-_Strolling_along_the_Seashore_-_Google_Art_Project.jpg"
+coverFocus: "center 30%"
+category: "lists"
 ---
 
 Wer nach spanischen Büchern für Anfänger sucht, bekommt eine Wand aus Listen, die alles vermischen: Lehrbücher, Geschichtensammlungen, Kinderbilderbücher und berühmte Romane, als wären sie austauschbar. Sind sie nicht. Ein Buch, das für Lernende geschrieben wurde, ein Buch mit Übersetzung daneben und ein berühmtes Buch, das Sie bereits in einer anderen Sprache kennen, verlangen drei verschiedene Arten von Anstrengung — und das richtige erste Buch ist das, dessen Anstrengung Sie morgen wiederholen können.

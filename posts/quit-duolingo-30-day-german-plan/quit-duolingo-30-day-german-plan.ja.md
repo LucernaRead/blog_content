@@ -3,6 +3,12 @@ title: "Duolingo をやめた。ドイツ語が本当に伸びている30日プ�
 excerpt: "大人の学習者のための読書優先メソッド。中心にあるのは、AI生成レッスンでは代替できない理解可能な入力。"
 publishedAt: "2026-05-29"
 draft: false
+cover: cover.jpg
+coverCredit: "Hans Holbein the Younger, The Ambassadors, 1533 · National Gallery, London"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg"
+coverFocus: "center 40%"
+category: "language"
 ---
 
 > 大人の学習者のための、読書を軸にした方法。中心にあるのは、AI生成のレッスンでは代替できない「理解可能な入力」だ。

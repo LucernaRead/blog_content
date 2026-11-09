@@ -3,6 +3,12 @@ title: "Dónde encontrar libros gratis en cualquier idioma"
 excerpt: "Arma una biblioteca gratuita en tu idioma objetivo. Project Gutenberg, Wikisource, lecturas graduadas y más: una guía para leer sin gastar un céntimo."
 publishedAt: "2026-05-30"
 draft: false
+cover: cover.jpg
+coverCredit: "Carl Spitzweg, The Bookworm, c. 1850 · Museum Georg Schäfer"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Carl_Spitzweg_-_%22The_Bookworm%22.jpg"
+coverFocus: "center 30%"
+category: "lists"
 ---
 
 Uno de los lujos silenciosos de aprender un idioma leyendo es lo poco que cuesta. Siglos de literatura ya son de dominio público, y la mayor parte está a una búsqueda de distancia: gratis, legal y esperando en un estante donde nadie cobra entrada. Lo difícil no es encontrar libros; es elegir entre ellos.

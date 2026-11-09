@@ -3,6 +3,12 @@ title: "德语分级读物：从 A1 到 B1 挑好你的第一本书"
 excerpt: "按版本和级别挑一本德语分级读物，买之前先试读一段，从 A1 的童话一路读到第一本原版小说。"
 publishedAt: "2026-10-09"
 draft: false
+cover: cover.jpg
+coverCredit: "Albrecht Dürer, Young Hare, 1502 · Albertina"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Hare,_1502_-_Google_Art_Project.jpg"
+coverFocus: "center 45%"
+category: "lists"
 ---
 
 你翻开一本德语小说，认出了开头几个词，剩下的段落却全耗在查词典上。动词在句尾才姗姗来迟，故事情节消失在解码的劳动里，格的变化又来补上一刀。分级读物给你的台阶要小得多：一本完整的故事，按标明的级别写成或改编而成。
@@ -81,7 +87,7 @@ Lucerna 支持导入 EPUB、PDF 和 TXT，但它不提供这些商业分级读�
 
 ---
 
-## 选之前先问这几个问题
+## 常见问题
 
 ### 我可以从 A1 的德语分级读物开始吗？
 

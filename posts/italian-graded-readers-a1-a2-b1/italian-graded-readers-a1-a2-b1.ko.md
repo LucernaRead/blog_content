@@ -3,6 +3,12 @@ title: "이탈리아어 등급 리더: A1–B1 책 고르는 법"
 excerpt: "이탈리아어 등급 리더는 두 출판사로 나뉩니다. A1은 Alma, A2–B1은 Black Cat에서 나오죠. 이 글에서는 맞는 레벨을 고르는 법과 10분 테스트로 책이 맞는지 확인하는 법을 소개합니다."
 publishedAt: "2026-10-09"
 draft: false
+cover: cover.jpg
+coverCredit: "Sandro Botticelli, Primavera, 1480–85 · Uffizi"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Botticelli-primavera.jpg"
+coverFocus: "center 30%"
+category: "lists"
 ---
 
 이탈리아어 소설을 펼치면 한 페이지도 지나지 않아 동사 활용에 빠져 허우적대게 됩니다. 세 문장마다 사전을 찾고, 이야기는 좀처럼 앞으로 나아가지 않으며, 책은 다시 서가로 돌아갑니다. 그것은 여러분의 이탈리아어에 대한 평가가 아닙니다. 보통은 단계가 너무 컸다는 신호입니다.

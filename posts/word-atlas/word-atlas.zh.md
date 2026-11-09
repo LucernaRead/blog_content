@@ -3,6 +3,12 @@ title: "Word Atlas：图解词汇地图能教会你什么、不能教会你什�
 excerpt: "搜 word atlas，出来的是地图册。但还有另一种地图册：词的地图，每个词配一张图、例句和复习计划。这里讲这张图擅长什么、在哪里到头，以及怎样把它接回真正的阅读。"
 publishedAt: "2026-10-29"
 draft: false
+cover: cover.jpg
+coverCredit: "England, Sampler (map of the Americas), 19th century · Cleveland Museum of Art"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:England,_19th_century_-_Sampler_-_1943.117_-_Cleveland_Museum_of_Art.jpg"
+coverFocus: "center 35%"
+category: "method"
 ---
 
 搜 "word atlas"，排在前面的结果讲的都是地图册。这是这个词更老的意思，也是大多数搜索者想要的东西。本文讲的是另一种意思：词的地图册。地图上的条目不再是国家，而是词，按主题排列，每个词配一张图、一条释义、例句和发音。问题不在于图好不好看，而在于：图真正能帮你学会哪些词，图带不动的词又该怎么办。
@@ -59,7 +65,7 @@ draft: false
 
 ---
 
-## 开始之前的问题
+## 常见问题
 
 ### Word Atlas 免费吗？
 

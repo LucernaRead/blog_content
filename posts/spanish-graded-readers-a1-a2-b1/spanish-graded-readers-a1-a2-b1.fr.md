@@ -3,6 +3,12 @@ title: "Lectures graduées en espagnol : choisir son premier livre, de A1 à B1"
 excerpt: "Distinguez adaptation et texte original, vérifiez le niveau de l'édition et utilisez un essai de dix minutes pour choisir une lecture que vous aurez envie de terminer."
 publishedAt: "2026-10-08"
 draft: false
+cover: cover.jpg
+coverCredit: "Francisco Goya, The Parasol, 1777 · Museo del Prado"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:El_Quitasol_(Goya).jpg"
+coverFocus: "center 40%"
+category: "lists"
 ---
 
 Vous ouvrez un roman en espagnol, vous reconnaissez les premiers mots, et vous passez le reste du paragraphe dans le dictionnaire. L'histoire disparaît derrière le travail de décodage. Une lecture graduée vous donne une marche plus petite : une histoire complète, écrite ou adaptée pour un niveau d'apprentissage indiqué.

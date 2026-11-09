@@ -3,6 +3,12 @@ title: "Des ressources gratuites pour apprendre les langues, à garder en favori
 excerpt: "Une sélection de lectures et d'exercices vraiment gratuits : livres du domaine public, lectures graduées, actualités faciles et leçons pour débutants. Vérifié le 18-10-2026 et tenu à jour."
 publishedAt: "2026-10-18"
 draft: false
+cover: cover.jpg
+coverCredit: "Giuseppe Maria Crespi, Bookshelves with Music Books, 1725 · International Museum and Library of Music"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Giuseppe_Maria_Crespi_-_Buchregal_mit_Musikschriften_1725-30.jpeg"
+coverFocus: "center 40%"
+category: "tools"
 ---
 
 Apprendre une langue en lisant repose sur la matière. Il faut des livres à votre niveau, d'autres livres ensuite, et quelque chose de court pour les jours où un livre semble de trop. Une bonne partie de cette matière est gratuite, légalement, à condition de savoir où elle se trouve.

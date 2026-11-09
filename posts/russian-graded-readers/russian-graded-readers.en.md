@@ -3,6 +3,12 @@ title: "Russian Graded Readers: How to Choose Books at Your Level"
 excerpt: "Choose a Russian graded reader you can finish: how CEFR levels and publishers' own scales differ, five starting points from a free A1 story to a B2 ladder, and a ten-minute sample test."
 publishedAt: "2026-10-26"
 draft: false
+cover: cover.jpg
+coverCredit: "Vasily Kandinsky, Landscape with Two Poplars, 1912 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Vasily_Kandinsky_-_Landscape_with_Two_Poplars_-_1931.508_-_Art_Institute_of_Chicago.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 Russian asks more of a beginner than most European languages do. The alphabet is new, the stress of a word is not marked in ordinary text, and the same word changes its ending depending on its job in the sentence. A page of real Russian can therefore feel much harder than its vocabulary suggests.

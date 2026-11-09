@@ -3,6 +3,12 @@ title: "독서로 프랑스어 배우는 법"
 excerpt: "프랑스어 자체에 맞춘 독서 사다리로 배우기: 등급 리더부터 읽고, 단순과거와 축약형을 설명하고, 10분 샘플 테스트로 책을 고르고, 페이지와 소리를 짝짓는 습관으로 나아가기."
 publishedAt: "2026-10-18"
 draft: false
+cover: cover.jpg
+coverCredit: "Gustave Caillebotte, Paris Street; Rainy Day, 1877 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Gustave_Caillebotte_-_Paris_Street,_Rainy_Day_-_1964.336_-_Art_Institute_of_Chicago.jpg"
+coverFocus: "center 45%"
+category: "language"
 ---
 
 프랑스어는 독자에게 유리한 출발과 경고를 동시에 줍니다. 유리한 출발은 어휘입니다. 일상 영어 단어의 상당 부분이 프랑스어에서 왔기 때문에, 초보자가 프랑스어 페이지를 열면 *famille*, *important*, *arriver*, *commencer*처럼 익숙한 모양을 곳곳에서 만납니다. 경고는 소리입니다. 프랑스어 철자는 발음이 수 세기 전에 버린 글자들을 그대로 간직하고 있어서, 읽을 수 있는 단어가 귀로 알아들을 수 있는 단어와 다를 때가 많습니다. 프랑스어를 잘 읽으려면 이 두 사실을 처음부터 함께 다뤄야 합니다.

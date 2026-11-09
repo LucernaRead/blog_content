@@ -3,6 +3,12 @@ title: "Korte verhalen in het Duits voor beginners: wat je eerst moet lezen"
 excerpt: "Begin met Duitse korte verhalen die je echt kunt uitlezen: gratis literaire verhalen om je niveau te testen, één bundel die echt A1 is, en een vergelijking van A2-B1-bundels, gecontroleerd per editie."
 publishedAt: "2026-10-23"
 draft: false
+cover: cover.jpg
+coverCredit: "Caspar David Friedrich, Wanderer above the Sea of Fog, c. 1817 · Hamburger Kunsthalle"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg"
+coverFocus: "center 35%"
+category: "lists"
 ---
 
 Je eerste Duitse boek hoeft geen roman te zijn. Een kort verhaal geeft je een compleet plot in één of twee zittingen, en een bundel geeft je dat uitgelezen-gevoel steeds opnieuw, telkens met nieuwe personages in plaats van een maand lang dezelfde cast. Bundels met korte verhalen in het Duits voor beginners zijn precies voor dat ritme gemaakt.

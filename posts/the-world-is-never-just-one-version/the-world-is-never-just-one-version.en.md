@@ -3,6 +3,12 @@ title: "The world is never just one version"
 excerpt: "Why do we read? Why learn a foreign language? For a long time I've felt they are the same question — both take you out of your own world, and let you come back carrying something unfamiliar. This is why we're building Lucerna."
 publishedAt: "2026-08-11"
 draft: false
+cover: cover.jpg
+coverCredit: "Abraham Ortelius, Typus Orbis Terrarum, 1572"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:1572_Typus_Orbis_Terrarum_Ortelius.jpg"
+coverFocus: "center"
+category: "method"
 ---
 
 # The world is never just one version

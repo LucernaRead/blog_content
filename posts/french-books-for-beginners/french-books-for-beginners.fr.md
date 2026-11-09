@@ -3,6 +3,12 @@ title: "Livres en français pour débutants : les premiers livres qui valent la 
 excerpt: "Choisissez votre premier livre en français par type, pas par célébrité : un lecteur guidé, un filet bilingue, une histoire connue, un classique en chapitres courts et une bande dessinée, chaque édition vérifiée."
 publishedAt: "2026-10-19"
 draft: false
+cover: cover.jpg
+coverCredit: "Édouard Manet, Woman Reading, 1878–79 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:%C3%89douard_Manet_-_Woman_Reading_-_1933.435_-_Art_Institute_of_Chicago.jpg"
+coverFocus: "center 28%"
+category: "lists"
 ---
 
 Cherchez des livres en français pour débutants et la plupart des listes mélangent tout : manuels de grammaire, tableaux de verbes, recueils de nouvelles, classiques pour enfants et romans célèbres, comme si un seul type de livre pouvait faire tous les métiers. Il ne le peut pas. Un lecteur écrit pour les apprenants, un livre avec une traduction à côté du texte et une histoire célèbre que vous connaissez déjà dans une autre langue demandent trois types d'effort différents. Le bon premier livre est celui dont vous pouvez répéter l'effort demain.

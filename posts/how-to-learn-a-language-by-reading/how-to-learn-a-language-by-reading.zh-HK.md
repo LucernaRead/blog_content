@@ -3,6 +3,12 @@ title: "靠閱讀學一門語言(每晚五頁法)"
 excerpt: "用一個極小的日常習慣讀到流利。為甚麼每晚十五分鐘勝過馬拉松式攻讀 —— 以及怎麼把這個習慣搭起來。"
 publishedAt: "2026-06-10"
 draft: false
+cover: cover.jpg
+coverCredit: "Gerard ter Borch, Woman Reading a Book · National Museum in Warsaw"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Gerard_ter_Borch_II_-_Woman_reading_a_book_-_M.Ob.847_MNW_-_National_Museum_in_Warsaw.jpg"
+coverFocus: "center 55%"
+category: "method"
 ---
 
 我們總是高估自己一個週末能讀多少,又低估自己一年能讀多少。馬拉松式的攻讀 —— 五個小時、一本詞典、一腔新決心 —— 感覺像是進展,但它很少熬得過第二個週末。而每晚只翻一頁的讀者,到了春天已經讀完一整排書,幾乎沒察覺自己在爬坡。

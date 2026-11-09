@@ -3,6 +3,12 @@ title: "Aprender un idioma leyendo (el método de cinco páginas por noche)"
 excerpt: "Llega a la fluidez con un hábito diario minúsculo. Por qué quince minutos cada noche le ganan a las sesiones maratón, y cómo montar la rutina."
 publishedAt: "2026-06-10"
 draft: false
+cover: cover.jpg
+coverCredit: "Gerard ter Borch, Woman Reading a Book · National Museum in Warsaw"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Gerard_ter_Borch_II_-_Woman_reading_a_book_-_M.Ob.847_MNW_-_National_Museum_in_Warsaw.jpg"
+coverFocus: "center 55%"
+category: "method"
 ---
 
 Sobrestimamos lo que podemos leer en un fin de semana y subestimamos lo que podemos leer en un año. La sesión maratón —cinco horas con un diccionario y un propósito recién estrenado— parece progreso, pero rara vez sobrevive al segundo fin de semana. En cambio, quien pasa una página cada noche termina un estante para la primavera y apenas nota la cuesta.

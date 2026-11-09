@@ -3,6 +3,12 @@ title: "Letture graduate in coreano: come iniziare a leggere al tuo livello"
 excerpt: "Inizia a leggere il coreano con le letture graduate: come differiscono i sistemi di livelli TOPIK, TTMIK e QCER, cinque punti di partenza onesti, dai testi gratuiti online a una raccolta B1, e un test di prova di dieci minuti."
 publishedAt: "2026-10-13"
 draft: false
+cover: cover.jpg
+coverCredit: "Anonymous, Munja-Chaekgeori Screen (Character-Books Screen), detail · Cleveland Museum of Art"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Anonymous_-_Munja-Chaekgeori_Screen_(Character-Books_Screen)_-_2017.6_-_Cleveland_Museum_of_Art.tiff"
+coverFocus: "center 40%"
+category: "lists"
 ---
 
 Il coreano ha la reputazione di un alfabeto amichevole e di un salto poco amichevole. L'hangul si impara in pochi giorni, eppure i libri veri continuano a fermare la maggior parte dei principianti: il vocabolario non ha alcuna relazione con le lingue europee e le frasi scorrono in ordine inverso.

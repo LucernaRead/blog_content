@@ -3,6 +3,12 @@ title: "精读 vs 泛读:哪一种能造出流利?"
 excerpt: "用正在学的语言读书有两种方式,大多数人误打误撞选了慢的那种。这里是区别 —— 以及哪一种真的会让你流利。"
 publishedAt: "2026-07-02"
 draft: false
+cover: cover.jpg
+coverCredit: "François Bonvin after Pieter Janssens Elinga, A Woman Reading, 1846–47 · Metropolitan Museum of Art"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:A_Woman_Reading,_after_Pieter_Janssens_Elinga_MET_DP805444.jpg"
+coverFocus: "center 60%"
+category: "method"
 ---
 
 # 精读还是泛读:哪一种真的能带来流利?
@@ -35,6 +41,6 @@ draft: false
 
 泛读只有在摩擦足够低的时候才成立。查一个词一旦变成苦差,你就会默认漂回精读模式 —— 停下、挖掘、丢掉线索 —— 于是量就死了。所以整个诀窍就是:让偶尔的一次查词几乎不要钱,这样你既能清掉挡路的词,又能留在故事的流里。
 
-[Lucerna](https://lucernaread.com) 就是为泛读造的。上传任何 EPUB 或从古腾堡计划拉一本书,为故事而读,而当某个词真的挡住你时,一次点击就给你释义、发音和完整的动词变位或格变化表 —— 然后你就回到句子里了,不用词典,不丢位置。你的生词本会用你停下来的那些词自己长起来,于是精读的活儿在你只管读的时候,悄悄在后台完成了。今天支持英语、德语和法语的查词,更多在路上。
+[Lucerna](https://lucernaread.com) 就是为泛读造的。上传任何 EPUB 或从古腾堡计划拉一本书,为故事而读,而当某个词真的挡住你时,一次点击就给你释义、发音和完整的动词变位或格变化表 —— 然后你就回到句子里了,不用词典,不丢位置。你的生词本会用你停下来的那些词自己长起来,于是精读的活儿在你只管读的时候,悄悄在后台完成了。71 种语言的书都能读,其中 12 种功能更全。
 
 *《阅读日志》是 [Lucerna](https://lucernaread.com) 的编辑角落 —— 一款给语言学习者的阅读 app。这里写的是慢慢变流利的短文:一本书,五页,每晚。*

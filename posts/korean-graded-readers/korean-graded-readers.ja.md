@@ -3,6 +3,12 @@ title: "韓国語グレーデッドリーダー：自分のレベルから読み
 excerpt: "韓国語グレーデッドリーダーで読み始めましょう。TOPIK、TTMIK、CEFR のレベル体系の違い、無料オンラインテキストから B1 短編集までの正直な5つの出発点、そして10分サンプルテストを紹介します。"
 publishedAt: "2026-10-13"
 draft: false
+cover: cover.jpg
+coverCredit: "Anonymous, Munja-Chaekgeori Screen (Character-Books Screen), detail · Cleveland Museum of Art"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Anonymous_-_Munja-Chaekgeori_Screen_(Character-Books_Screen)_-_2017.6_-_Cleveland_Museum_of_Art.tiff"
+coverFocus: "center 40%"
+category: "lists"
 ---
 
 韓国語には、文字はやさしいが跳躍は厳しい、という評判があります。ハングルは数日で覚えられますが、それでも本物の本の前ではほとんどの初級者が止まってしまいます。語彙がヨーロッパの言語と縁がなく、文の語順も逆だからです。

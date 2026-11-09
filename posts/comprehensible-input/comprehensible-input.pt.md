@@ -3,6 +3,12 @@ title: "Input compreensível: o que é e como usá-lo quando você lê"
 excerpt: "Input compreensível é linguagem que você entende e que contém um pouco de novidade. O que o i+1 de Krashen significa na prática, quanto de um texto você precisa conhecer e como encontrar e usar input no seu nível ao ler."
 publishedAt: "2026-10-16"
 draft: false
+cover: cover.jpg
+coverCredit: "Mary Cassatt, Nurse Reading to a Little Girl, 1895 · Metropolitan Museum of Art"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:Nurse_Reading_to_a_Little_Girl_MET_DT7250.jpg"
+coverFocus: "center 30%"
+category: "method"
 ---
 
 Você provavelmente já encontrou o conselho de alguma forma: pare de fazer exercícios, leia e ouça coisas que você entende, e a língua virá atrás. O material para o qual esse conselho aponta chama-se input compreensível (comprehensible input). O termo é usado de forma solta na internet, às vezes para qualquer conteúdo fácil. Seu sentido original é mais estreito, e o sentido estreito é o útil quando você escolhe um livro.

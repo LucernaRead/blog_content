@@ -3,6 +3,12 @@ title: "Alternative a LingQ: scegli lo strumento di lettura che si adatta a ciò
 excerpt: "LingQ è un lettore solido, con un piano gratuito stretto e senza aiuto per trovare materiale del tuo livello. L'alternativa giusta dipende da ciò che leggi davvero: libri che scegli tu, articoli sul web, sottotitoli o testi paralleli."
 publishedAt: "2026-10-28"
 draft: false
+cover: cover.jpg
+coverCredit: "Johannes Vermeer, Woman Reading a Letter, c. 1662–63 · Rijksmuseum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Vermeer,_Johannes_-_Woman_reading_a_letter_-_ca._1662-1663.jpg"
+coverFocus: "center 35%"
+category: "tools"
 ---
 
 Cerca alternative a LingQ e le prime pagine che incontri sono elenchi, non guide. Ordinano i prodotti per voti e mettono app di corsi accanto a strumenti di lettura, come se facessero lo stesso lavoro. Non è così. Un corso insegna lezioni in ordine. Un lettore ti lascia aprire qualcosa di reale, cercare una parola sul posto e continuare a leggere. Se vuoi la seconda cosa, la maggior parte dei nomi di quegli elenchi è rumore, e una volta filtrati la scelta diventa molto più piccola.

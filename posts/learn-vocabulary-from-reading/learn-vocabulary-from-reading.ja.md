@@ -3,6 +3,12 @@ title: "読書から語彙を学ぶ方法(フラッシュカード地獄の終�
 excerpt: "フラッシュカードは真空で語を教え、読書は語が生きる場所で教える。もともと読みたい本を、必要な唯一の語彙システムに変える方法。"
 publishedAt: "2026-07-12"
 draft: false
+cover: cover.jpg
+coverCredit: "Albert Anker, The Village School in 1848, 1896 · Kunstmuseum Basel"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Anker_Die_Dorfschule_von_1848_1896.jpg"
+coverFocus: "center"
+category: "method"
 ---
 
 # 読書から語彙を学ぶ方法(そしてフラッシュカード地獄を終わらせる)

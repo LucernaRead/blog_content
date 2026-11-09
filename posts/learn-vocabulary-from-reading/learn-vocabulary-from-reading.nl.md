@@ -3,6 +3,12 @@ title: "Woordenschat leren door te lezen (en stoppen met flashcards malen)"
 excerpt: "Flashcards leren je woorden in een vacuüm; lezen leert ze waar ze wonen. Hoe je de boeken die je toch al wilt lezen tot je enige woordenschatsysteem maakt."
 publishedAt: "2026-07-12"
 draft: false
+cover: cover.jpg
+coverCredit: "Albert Anker, The Village School in 1848, 1896 · Kunstmuseum Basel"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Anker_Die_Dorfschule_von_1848_1896.jpg"
+coverFocus: "center"
+category: "method"
 ---
 
 # Hoe je woordenschat leert door te lezen (en eindelijk stopt met flashcards malen)

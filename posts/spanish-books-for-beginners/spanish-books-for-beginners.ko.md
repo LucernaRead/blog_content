@@ -3,6 +3,12 @@ title: "초보자를 위한 스페인어 책: 처음 읽을 가치가 있는 책
 excerpt: "첫 스페인어 책은 유명세가 아니라 종류로 고르세요: 학습자용 소설, 이중 언어 대역 리더, 그리고 번역으로 읽는 익숙한 이야기 두 권 — 판본을 확인했고, 각각 역할이 있습니다."
 publishedAt: "2026-10-11"
 draft: false
+cover: cover.jpg
+coverCredit: "Joaquín Sorolla, Strolling along the Seashore, 1909 · Museo Sorolla"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Joaqu%C3%ADn_Sorolla_y_Bastida_-_Strolling_along_the_Seashore_-_Google_Art_Project.jpg"
+coverFocus: "center 30%"
+category: "lists"
 ---
 
 "초보자를 위한 스페인어 책"을 검색하면 교재, 단편집, 어린이 그림책, 유명한 소설이 뒤섞인 목록의 벽이 나옵니다. 서로 대체할 수 있는 것처럼 말이죠. 하지만 그렇지 않습니다. 학습자를 위해 쓰인 책, 옆에 번역이 있는 책, 다른 언어로 이미 아는 유명한 책은 서로 다른 종류의 노력을 요구합니다 — 그리고 올바른 첫 책이란 그 노력을 내일도 반복할 수 있는 책입니다.

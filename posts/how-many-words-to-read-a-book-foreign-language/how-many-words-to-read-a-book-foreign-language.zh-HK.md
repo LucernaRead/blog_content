@@ -3,6 +3,12 @@ title: "讀一本外語書需要認識多少詞?"
 excerpt: "老實的數字:大致理解約 5000 個詞族,舒服地獨立閱讀 8000–9000。但更有用的答案是:你不必等到那時候 —— 閱讀本身就是到那兒的方式。"
 publishedAt: "2026-07-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Jan Davidsz. de Heem, Still Life with Books and a Lute, 1625–30 · Rijksmuseum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Stilleven_met_boeken_Rijksmuseum_SK-A-2565.jpeg"
+coverFocus: "center"
+category: "method"
 ---
 
 # 讀一本外語書,需要認識多少詞?

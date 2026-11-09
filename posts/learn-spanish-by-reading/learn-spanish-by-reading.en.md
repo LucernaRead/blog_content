@@ -3,6 +3,12 @@ title: "How to Learn Spanish by Reading: A Beginner-Friendly Path"
 excerpt: "Learn Spanish by reading graded readers first, climbing a simple ladder, and reading a little every day — with a ten-minute test to pick the right book."
 publishedAt: "2026-10-09"
 draft: false
+cover: cover.jpg
+coverCredit: "Diego Velázquez, Las Meninas, 1656–57 · Museo del Prado"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Las_Meninas_01.jpg"
+coverFocus: "center 45%"
+category: "language"
 ---
 
 Learning Spanish by reading has one advantage few languages can match: Spanish spelling is transparent. Once you know the basic sound rules, you can usually pronounce what you see, and what you hear is usually written the way it sounds. Much everyday vocabulary also overlaps with English through shared Latin roots, so a beginner can often recognise more than expected.

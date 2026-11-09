@@ -3,6 +3,12 @@ title: "Lectures graduées en chinois : choisir des livres à votre niveau HSK"
 excerpt: "Choisissez une lecture graduée en chinois que vous pouvez terminer : différences entre niveaux HSK, nombre de caractères et nombre de mots, cinq collections du premier livre à 150 caractères aux romans classiques, et un test d'échantillon de dix minutes."
 publishedAt: "2026-10-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Ma Yuan, Walking on a Mountain Path in Spring, 1190 · National Palace Museum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Ma_Yuan_mountain_path_in_spring.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 Le chinois demande plus à un débutant que la plupart des langues. Il n'y a pas d'alphabet sur lequel s'appuyer, chaque mot nouveau est aussi un dessin à mémoriser, et un texte qui semble court sur la page peut être dense de caractères que vous n'avez jamais vus.

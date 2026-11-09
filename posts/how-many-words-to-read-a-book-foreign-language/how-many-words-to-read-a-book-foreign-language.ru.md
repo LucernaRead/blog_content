@@ -3,6 +3,12 @@ title: "Сколько слов нужно знать, чтобы читать �
 excerpt: "Лексическое покрытие и семейства слов: полезные ориентиры, которые не должны откладывать начало чтения."
 publishedAt: "2026-07-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Jan Davidsz. de Heem, Still Life with Books and a Lute, 1625–30 · Rijksmuseum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Stilleven_met_boeken_Rijksmuseum_SK-A-2565.jpeg"
+coverFocus: "center"
+category: "method"
 ---
 
 Глядя на плотный роман, хочется узнать необходимое число слов. Полезно отделить цель самостоятельного чтения от начала с поддержкой.

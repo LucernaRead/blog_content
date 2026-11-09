@@ -3,6 +3,12 @@ title: "像巴黎人一樣讀書:今夏可以開讀的 7 本法語短篇小說"
 excerpt: "一道從 A2 到 C1 的閱讀階梯,全部在古騰堡計劃上免費,沒有一本長到能毀掉你的六月。"
 publishedAt: "2026-06-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Claude Monet, Impression, Sunrise, 1872 · Musée Marmottan Monet"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Monet_-_Impression,_Sunrise.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 # 像巴黎人一樣讀書:今夏可以開讀的 7 本法語短篇小說

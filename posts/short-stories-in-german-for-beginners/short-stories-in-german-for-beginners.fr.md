@@ -3,6 +3,12 @@ title: "Histoires courtes en allemand pour débutants : par quoi commencer"
 excerpt: "Commencez par des histoires courtes en allemand que vous pouvez vraiment finir : des classiques gratuits pour tester votre niveau, un recueil vraiment A1, et un comparatif des recueils A2-B1 vérifiés par édition."
 publishedAt: "2026-10-23"
 draft: false
+cover: cover.jpg
+coverCredit: "Caspar David Friedrich, Wanderer above the Sea of Fog, c. 1817 · Hamburger Kunsthalle"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg"
+coverFocus: "center 35%"
+category: "lists"
 ---
 
 Votre premier livre en allemand n'a pas besoin d'être un roman. Une histoire courte vous donne une intrigue complète en une ou deux séances, et un recueil vous redonne cette sensation d'avoir fini, encore et encore, avec des personnages nouveaux à chaque fois au lieu de la même distribution pendant un mois. Les recueils d'histoires courtes en allemand pour débutants sont faits pour ce rythme.

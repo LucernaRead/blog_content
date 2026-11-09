@@ -3,6 +3,12 @@ title: "Libri italiani per principianti: i primi libri che valgono la pena"
 excerpt: "Scegli il tuo primo libro italiano per tipo, non per fama: un romanzo per studenti, un lettore bilingue, un originale familiare e una raccolta di racconti con livello indicato, ciascuno verificato per edizione e ciascuno con un compito da svolgere."
 publishedAt: "2026-10-24"
 draft: false
+cover: cover.jpg
+coverCredit: "Bernardo Bellotto, View of the Grand Canal from Punta della Dogana · Museo del Settecento Veneziano"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:(Venice)_Veduta_del_Canal_Grande_dalla_Punta_della_Dogana_-_Bernardo_Bellotto.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 Cercare libri italiani per principianti restituisce un muro di liste che mescolano tutto: manuali, frasari, raccolte di racconti, classici per bambini e romanzi famosi, come se fossero intercambiabili. Non lo sono. Un libro scritto per studenti, un libro con una traduzione accanto e un libro famoso che conosci già in un'altra lingua richiedono tre sforzi diversi, e il primo libro giusto è quello il cui sforzo puoi ripetere domani.

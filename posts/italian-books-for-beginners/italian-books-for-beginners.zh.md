@@ -3,6 +3,12 @@ title: "意大利语初学者书单：第一批值得读的书"
 excerpt: "别按名气挑第一本意大利语书，按书的种类挑：一本学习者小说、一本双语读本、一本熟悉的原著、一本标明级别的故事集，每本都按版本核查过，各有各的用处。"
 publishedAt: "2026-10-24"
 draft: false
+cover: cover.jpg
+coverCredit: "Bernardo Bellotto, View of the Grand Canal from Punta della Dogana · Museo del Settecento Veneziano"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:(Venice)_Veduta_del_Canal_Grande_dalla_Punta_della_Dogana_-_Bernardo_Bellotto.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 搜“意大利语初学者书单”，你会看到一堵清单墙：教材、短语手册、故事集、儿童经典、名著全混在一起，好像它们可以互换。其实不能。为学习者写的书、旁边带译文的书、你已经在别的语言里读过的名著，要求的努力各不相同，而合适的第一本书，是那种你明天还能重复付出的努力。
@@ -82,7 +88,7 @@ draft: false
 
 ---
 
-## 选择之前的问题
+## 常见问题
 
 ### 我几乎不会意大利语，从哪本开始？
 

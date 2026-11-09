@@ -3,6 +3,12 @@ title: "Word Atlas: qué puede enseñarte un mapa ilustrado de vocabulario y qu�
 excerpt: "Busca word atlas y obtendrás libros de mapas. Pero hay otra clase de atlas: un mapa de palabras, donde cada palabra recibe una imagen, frases de ejemplo y un plan de repaso. Esto es para qué sirve ese mapa, dónde se detiene y cómo conectarlo con la lectura real."
 publishedAt: "2026-10-29"
 draft: false
+cover: cover.jpg
+coverCredit: "England, Sampler (map of the Americas), 19th century · Cleveland Museum of Art"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:England,_19th_century_-_Sampler_-_1943.117_-_Cleveland_Museum_of_Art.jpg"
+coverFocus: "center 35%"
+category: "method"
 ---
 
 Busca "word atlas" y los primeros resultados hablan de libros de mapas. Ese es el significado más antiguo de la palabra, y es lo que quiere la mayoría de quienes buscan. Este artículo trata del otro significado: un atlas de palabras. En lugar de países en un mapa, contiene palabras, ordenadas por tema, cada una con una imagen, una definición, frases de ejemplo y una pronunciación. La pregunta no es si las imágenes son bonitas. Es qué palabras ayuda realmente una imagen a aprender, y qué hacer con las palabras que no puede sostener.

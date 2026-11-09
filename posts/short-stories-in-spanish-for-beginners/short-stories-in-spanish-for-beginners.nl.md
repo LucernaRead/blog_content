@@ -3,6 +3,12 @@ title: "Korte verhalen in het Spaans voor beginners: wat je eerst leest"
 excerpt: "Begin met korte verhalen in het Spaans die je echt kunt uit lezen: een gratis A1-lezer, twee op editie gecontroleerde beginnersbundels, en een test met één heel verhaal om goed te kiezen."
 publishedAt: "2026-10-10"
 draft: false
+cover: cover.jpg
+coverCredit: "Joaquín Sorolla, Boys on the Beach, 1910 · Museo del Prado"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Joaqu%C3%ADn_Sorolla_-_Chicos_en_la_playa.jpg"
+coverFocus: "center 50%"
+category: "lists"
 ---
 
 Je eerste Spaanse boek hoeft geen roman te zijn. Voor veel beginners is een beter eerste eindpunt één kort verhaal: een volledig plot in één of twee sessies, om de paar dagen nieuwe personages in plaats van een maand lang dezelfde cast, en het stille vertrouwen dat je steeds weer een einde bereikt. Bundels met korte verhalen in het Spaans voor beginners zijn precies voor dat ritme gemaakt.

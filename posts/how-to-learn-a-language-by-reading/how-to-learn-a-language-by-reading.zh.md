@@ -3,6 +3,12 @@ title: "靠阅读学一门语言(每晚五页法)"
 excerpt: "用一个极小的日常习惯读到流利。为什么每晚十五分钟胜过马拉松式攻读 —— 以及怎么把这个习惯搭起来。"
 publishedAt: "2026-06-10"
 draft: false
+cover: cover.jpg
+coverCredit: "Gerard ter Borch, Woman Reading a Book · National Museum in Warsaw"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Gerard_ter_Borch_II_-_Woman_reading_a_book_-_M.Ob.847_MNW_-_National_Museum_in_Warsaw.jpg"
+coverFocus: "center 55%"
+category: "method"
 ---
 
 我们总是高估自己一个周末能读多少,又低估自己一年能读多少。马拉松式的攻读 —— 五个小时、一本词典、一腔新决心 —— 感觉像是进展,但它很少熬得过第二个周末。而每晚只翻一页的读者,到了春天已经读完一整排书,几乎没察觉自己在爬坡。

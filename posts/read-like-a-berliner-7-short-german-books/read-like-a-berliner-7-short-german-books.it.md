@@ -3,6 +3,12 @@ title: "Leggere come a Berlino: sette libri tedeschi per cominciare"
 excerpt: "Dalle fiabe a Thomas Mann: sette letture da esplorare, con difficoltà indicative e senza scambiare i classici per testi graduati."
 publishedAt: "2026-06-26"
 draft: false
+cover: cover.jpg
+coverCredit: "Caspar David Friedrich, Woman at a Window, 1822 · Alte Nationalgalerie"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Frau_am_Fenster_-_Google_Art_Project.jpg"
+coverFocus: "center 40%"
+category: "lists"
 ---
 
 Il tedesco arriva accompagnato dalla reputazione: parole composte, verbi alla fine, quattro casi. È facile passare mesi a prepararsi senza aprire un libro. Leggere offre un altro modo di incontrare la grammatica, dentro frasi che hanno un motivo di esistere.

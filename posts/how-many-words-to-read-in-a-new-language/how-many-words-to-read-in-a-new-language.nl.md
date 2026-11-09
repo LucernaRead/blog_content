@@ -3,6 +3,12 @@ title: "Hoeveel woorden moet je lezen voordat het makkelijk wordt"
 excerpt: "Er is een drempel — rond de 1.000 woorden — waarop lezen ophoudt te voelen als ontcijferen en begint te voelen als lezen. Wat die drempel is, en hoe je er sneller komt."
 publishedAt: "2026-06-07"
 draft: false
+cover: cover.jpg
+coverCredit: "Kate Greenaway, A Apple Pie, 1886"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:A_Apple_Pie,_C.jpg"
+coverFocus: "center 30%"
+category: "method"
 ---
 
 De eerste duizend woorden zijn het zwaarst, want elk woord is een halte. Je komt een woord tegen, zoekt het op, verliest de draad, begint de zin opnieuw. Het voelt minder als lezen dan als archeologie — het ene voorwerp na het andere schoonborstelen zonder ooit de hele opgraving te zien.

@@ -4,6 +4,12 @@ excerpt: "Terminar tu primera lectura graduada es el verdadero hito: el segundo 
 publishedAt: "2026-10-09"
 updatedAt: "2026-10-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Claude Monet, Springtime, 1872 · Walters Art Museum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Springtime_-_Walters_3711.jpg"
+coverFocus: "center 55%"
+category: "method"
 ---
 
 Terminar tu primera lectura graduada es el verdadero hito. Has leído un libro entero en otro idioma: no un diálogo de libro de texto, sino una historia completa, de la primera página a la última. Eso cuenta más de lo que puede parecer el día en que lo cierras.

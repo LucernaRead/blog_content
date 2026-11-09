@@ -3,6 +3,12 @@ title: "Quanto tempo serve per leggere un romanzo in una nuova lingua?"
 excerpt: "Non esiste una data universale: la scelta del libro, la regolarità e gli ostacoli della lettura contano più del calendario."
 publishedAt: "2026-07-01"
 draft: false
+cover: cover.jpg
+coverCredit: "Vincent van Gogh, The Novel Reader, 1888"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Vincent_Van_Gogh_-_Une_liseuse_de_romans_(1888).jpg"
+coverFocus: "center 35%"
+category: "method"
 ---
 
 Prima o poi guardi un romanzo sullo scaffale e ti chiedi quando riuscirai davvero a leggerlo. La risposta non è una data. È un percorso, e una delle cose che lo accorciano è iniziare prima di sentirsi completamente pronti.

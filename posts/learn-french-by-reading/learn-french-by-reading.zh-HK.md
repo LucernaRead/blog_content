@@ -3,6 +3,12 @@ title: "如何透過閱讀學法語"
 excerpt: "按法語自身的特點搭一條閱讀階梯來學法語：先讀分級讀物，講清簡單過去時與省音詞，用十分鐘抽樣測試選書，再用把頁面與聲音配對的日常讀法推進。"
 publishedAt: "2026-10-18"
 draft: false
+cover: cover.jpg
+coverCredit: "Gustave Caillebotte, Paris Street; Rainy Day, 1877 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Gustave_Caillebotte_-_Paris_Street,_Rainy_Day_-_1964.336_-_Art_Institute_of_Chicago.jpg"
+coverFocus: "center 45%"
+category: "language"
 ---
 
 法語給讀者一個先手，也給一個警告。先手是詞彙：日常英語詞裏有很大一部分來自法語，初學者打開一頁法語，處處能碰到眼熟的形狀：*famille*、*important*、*arriver*、*commencer*。警告是聲音：法語拼寫保留了語音在幾個世紀前就丟掉的字母，所以你能讀出的詞，往往不是你憑耳朵能認出的詞。要把法語讀好，從一開始就要同時處理這兩件事。
@@ -85,7 +91,7 @@ draft: false
 
 ---
 
-## 開始之前的問題
+## 常見問題
 
 ### 只靠閱讀能學會法語嗎？
 

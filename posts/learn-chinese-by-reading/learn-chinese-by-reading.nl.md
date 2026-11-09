@@ -3,6 +3,12 @@ title: "Chinees leren door te lezen"
 excerpt: "Leer Chinees door te lezen, vanaf je eerste verhaal met pinyin: hoe je woorden herkent in een tekst zonder spaties, pinyin stap voor stap loslaat, opklimt van leesteksten op niveau naar nieuws op niveau, en de drie valkuilen vermijdt die Chinese lezers tot stilstand brengen."
 publishedAt: "2026-10-25"
 draft: false
+cover: cover.jpg
+coverCredit: "Fan Kuan, Travelers Among Mountains and Streams, c. 1000 · National Palace Museum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Fan_Kuan_-_Travelers_Among_Mountains_and_Streams_-_Google_Art_Project.jpg"
+coverFocus: "center 45%"
+category: "language"
 ---
 
 Je kunt Chinees leren door te lezen, maar Chinees verandert de volgorde. In het Spaans of Frans kun je dankzij het alfabet vanaf dag één een pagina hardop lezen, en is woordenschat de enige muur. In het Chinees is de pagina zelf onderdeel van de les: geen spaties tussen woorden, tekens die hun eigen klank niet spellen, en tonen die de betekenis veranderen.

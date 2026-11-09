@@ -3,6 +3,12 @@ title: "초보자를 위한 스페인어 단편: 무엇부터 읽을까"
 excerpt: "실제로 완독할 수 있는 스페인어 단편부터 시작하세요. 무료 A1 리더 하나, 판본으로 확인한 초보자용 단편집 둘, 그리고 한 편을 통째로 읽어 고르는 방법입니다."
 publishedAt: "2026-10-10"
 draft: false
+cover: cover.jpg
+coverCredit: "Joaquín Sorolla, Boys on the Beach, 1910 · Museo del Prado"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Joaqu%C3%ADn_Sorolla_-_Chicos_en_la_playa.jpg"
+coverFocus: "center 50%"
+category: "lists"
 ---
 
 스페인어 첫 책이 꼭 장편소설일 필요는 없습니다. 많은 초보자에게 더 나은 첫 완독은 단편 한 편입니다. 한두 번의 읽기로 끝나는 완전한 줄거리, 한 달 동안 같은 등장인물을 따라가는 대신 며칠마다 바뀌는 새 인물들, 그리고 결말에 반복해서 도달하는 조용한 자신감. 초보자를 위한 스페인어 단편집은 바로 그 리듬을 위해 만들어졌습니다.

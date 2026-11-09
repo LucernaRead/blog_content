@@ -3,6 +3,12 @@ title: "Apprendre le français en lisant"
 excerpt: "Apprendre le français par la lecture, avec une échelle pensée pour cette langue : d'abord les lectures graduées, le passé simple et les élisions expliqués, un test d'échantillon de dix minutes et une routine qui associe la page au son."
 publishedAt: "2026-10-18"
 draft: false
+cover: cover.jpg
+coverCredit: "Gustave Caillebotte, Paris Street; Rainy Day, 1877 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Gustave_Caillebotte_-_Paris_Street,_Rainy_Day_-_1964.336_-_Art_Institute_of_Chicago.jpg"
+coverFocus: "center 45%"
+category: "language"
 ---
 
 Le français donne au lecteur une avance et un avertissement en même temps. L'avance, c'est le vocabulaire. Une grande partie des mots anglais du quotidien vient du français, et un débutant qui ouvre une page en français rencontre partout des formes familières : *famille*, *important*, *arriver*, *commencer*. L'avertissement, c'est le son. L'orthographe française garde des lettres que la prononciation a abandonnées il y a des siècles, et le mot que vous savez lire n'est souvent pas celui que vous reconnaîtriez à l'oreille. Bien lire le français, c'est travailler avec ces deux faits dès le départ.

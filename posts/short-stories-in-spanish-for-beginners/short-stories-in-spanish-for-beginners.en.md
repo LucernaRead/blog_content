@@ -3,6 +3,12 @@ title: "Short Stories in Spanish for Beginners: What to Read First"
 excerpt: "Start with short stories in Spanish you can actually finish: one free A1 reader, two beginner collections checked by edition, and a one-story test to pick the right one."
 publishedAt: "2026-10-10"
 draft: false
+cover: cover.jpg
+coverCredit: "Joaquín Sorolla, Boys on the Beach, 1910 · Museo del Prado"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Joaqu%C3%ADn_Sorolla_-_Chicos_en_la_playa.jpg"
+coverFocus: "center 50%"
+category: "lists"
 ---
 
 Your first Spanish book does not have to be a novel. For many beginners, a better first finish is a single short story: a complete plot in one or two sittings, new characters every few days instead of the same cast for a month, and the quiet confidence of reaching an ending again and again. Collections of short stories in Spanish for beginners are built for exactly that rhythm.

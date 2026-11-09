@@ -3,6 +3,12 @@ title: "Lectores graduados en ruso: cómo elegir libros a tu nivel"
 excerpt: "Elige un lector graduado en ruso que puedas terminar: cómo difieren los niveles MCER y las escalas propias de cada editorial, cinco puntos de partida desde una historia gratuita A1 hasta una escalera B2, y una prueba de muestra de diez minutos."
 publishedAt: "2026-10-26"
 draft: false
+cover: cover.jpg
+coverCredit: "Vasily Kandinsky, Landscape with Two Poplars, 1912 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Vasily_Kandinsky_-_Landscape_with_Two_Poplars_-_1931.508_-_Art_Institute_of_Chicago.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 El ruso exige más de un principiante que la mayoría de las lenguas europeas. El alfabeto es nuevo, el acento de una palabra no se marca en un texto normal, y la misma palabra cambia su terminación según su función en la frase. Una página de ruso real puede parecer mucho más difícil de lo que su vocabulario sugiere.

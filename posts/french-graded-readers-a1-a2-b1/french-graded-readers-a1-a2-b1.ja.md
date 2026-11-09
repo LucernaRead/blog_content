@@ -3,6 +3,12 @@ title: "フランス語のレベル別リーダーの選び方：A1からB1、�
 excerpt: "翻案版と原著を区別し、版ごとのレベルを確認。10分の試し読みで、自分が読み続けたいフランス語の本を選びましょう。"
 publishedAt: "2026-10-03"
 draft: false
+cover: cover.jpg
+coverCredit: "Georges Seurat, A Sunday on La Grande Jatte, 1884–86 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:A_Sunday_on_La_Grande_Jatte,_Georges_Seurat,_1884.png"
+coverFocus: "center 55%"
+category: "lists"
 ---
 
 フランス語の小説を開いて、最初の数語は分かる。でも段落を読み終える前に辞書を何度も引いている。物語より解読が中心になってしまうとき、レベル別リーダーは小さな一歩になります。学習者のレベルに合わせて書かれた、または書き直された一つの物語です。

@@ -3,6 +3,12 @@ title: "Italienische Lektüren nach Niveau: So wählen Sie A1–B1-Bücher"
 excerpt: "Italienische gestufte Lektüren verteilen sich auf zwei Verlage — A1 bei Alma, A2–B1 bei Black Cat. So wählen Sie das richtige Niveau und testen ein Buch in zehn Minuten."
 publishedAt: "2026-10-09"
 draft: false
+cover: cover.jpg
+coverCredit: "Sandro Botticelli, Primavera, 1480–85 · Uffizi"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Botticelli-primavera.jpg"
+coverFocus: "center 30%"
+category: "lists"
 ---
 
 Sie öffnen einen italienischen Roman und ertrinken schon auf der ersten Seite in Verbformen. Jeder dritte Satz schickt Sie zum Wörterbuch, die Geschichte kommt nie in Gang, und das Buch wandert zurück ins Regal. Das ist kein Urteil über Ihr Italienisch. Meist heißt es nur: Der Schritt war zu groß.

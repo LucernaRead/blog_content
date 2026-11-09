@@ -8,11 +8,15 @@ O Lucerna é um leitor de ebooks multilíngue para aprender idiomas com livros d
 
 ## O Lucerna é grátis?
 
-Sim. Você pode experimentar sem conta (1 livro, 5 palavras salvas), e uma conta gratuita aumenta esses limites (5 livros, 200 palavras salvas) e sincroniza entre dispositivos. A tradução e a análise de frases com IA rodam na sua própria LLM API key (OpenAI, Anthropic ou Google) — os planos gratuitos delas costumam ser suficientes para ler. Ou sem nuvem nenhuma: o app de desktop funciona com modelos locais (Ollama, LM Studio, llama.cpp…), offline e de graça, e os livros ficam no seu dispositivo — sem limites de conta.
+Sim. Você pode experimentar sem conta (1 livro, 5 palavras salvas), e uma conta gratuita aumenta esses limites (5 livros, 200 palavras salvas) e sincroniza entre dispositivos. A tradução e a análise de frases com IA rodam na sua própria LLM API key (OpenAI, Anthropic, DeepSeek, Kimi, entre outros); os planos gratuitos costumam ser suficientes para ler. O app de desktop também pode fazer a análise de frases com um modelo local (Ollama, LM Studio, llama.cpp), sem nuvem e sem custo; os livros salvos no seu computador podem ser lidos offline e não contam para a biblioteca da conta.
+
+## Quanto custa o Lucerna?
+
+O app Lucerna é gratuito. O Lucerna Cloud é uma assinatura opcional: US$ 3/mês ou US$ 30/ano (na China continental, ¥18/mês ou ¥180/ano). Ele traz uma estante na nuvem maior, IA integrada sem precisar de API key e leitura em voz alta na nuvem.
 
 ## Em quais idiomas posso ler?
 
-O leitor funciona com 12 opciones de idioma (chino simplificado y tradicional incluidos): inglês, alemão, francês, espanhol, italiano, português, neerlandês, russo, japonês, coreano e chinês. A tradução e a análise de frases com IA cobrem atualmente inglês, alemão e francês, com mais a caminho.
+Você pode ler livros em 71 idiomas. Doze deles têm recursos mais completos: inglês, alemão, francês, espanhol, italiano, português, neerlandês, russo, chinês simplificado, chinês tradicional, japonês e coreano. Até onde cada recurso vai depende do idioma e do modelo que você conecta.
 
 ## Posso ler meus próprios livros?
 
@@ -28,4 +32,8 @@ Você nunca sai da frase que está lendo. Buscar uma palavra ou traduzir um trec
 
 ## Existe um app de desktop?
 
-Sim — macOS, Windows e Linux, com a mesma conta e biblioteca. O app de desktop adiciona leitura offline, conversão de texto em voz mais rápida e atalhos nativos do sistema.
+Sim — macOS, Windows e Linux, com a mesma conta e biblioteca. O app de desktop adiciona leitura offline, vozes locais e audiolivros com destaque palavra por palavra, e modelos locais.
+
+## O que significa o nome Lucerna?
+
+Lucerna é “lâmpada” em latim — uma luz para a página que você está lendo. Não é a cidade suíça de Lucerne, embora os dois nomes tenham a mesma raiz latina.

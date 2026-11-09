@@ -3,6 +3,12 @@ title: "¿Cuánto tardas en poder leer una novela en otro idioma?"
 excerpt: "La respuesta honesta: antes de lo que crees si lees bien, y nunca si esperas a sentirte preparado. Un calendario realista y la única variable que lo decide."
 publishedAt: "2026-07-01"
 draft: false
+cover: cover.jpg
+coverCredit: "Vincent van Gogh, The Novel Reader, 1888"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Vincent_Van_Gogh_-_Une_liseuse_de_romans_(1888).jpg"
+coverFocus: "center 35%"
+category: "method"
 ---
 
 # ¿Cuánto tardas en poder leer una novela en un idioma nuevo?

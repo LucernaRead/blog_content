@@ -3,6 +3,12 @@ title: "法文分級讀物點揀：由 A1 到 B1，走向第一本原著"
 excerpt: "分清改寫版同原著，按 A1、A2、B1 揀法文讀物，用十分鐘試讀搵出適合自己嘅書，再將查詞同複習放返入閱讀。"
 publishedAt: "2026-10-03"
 draft: false
+cover: cover.jpg
+coverCredit: "Georges Seurat, A Sunday on La Grande Jatte, 1884–86 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:A_Sunday_on_La_Grande_Jatte,_Georges_Seurat,_1884.png"
+coverFocus: "center 55%"
+category: "lists"
 ---
 
 打開一本法文小說，頭幾個字仲識，第一段未讀完已經查咗好耐字典。故事睇唔入，注意力全放喺逐句解碼。分級讀物提供一個細啲嘅台階：故事完整，但語言係為學習者編寫或者改寫。

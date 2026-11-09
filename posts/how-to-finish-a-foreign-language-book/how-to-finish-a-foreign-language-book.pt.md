@@ -3,6 +3,12 @@ title: "Como realmente terminar um livro em outro idioma"
 excerpt: "Começar é fácil — todo mundo tem um romance pela metade no idioma que estuda. Aqui vai como estar do outro lado: ser a pessoa que fecha a contracapa."
 publishedAt: "2026-06-28"
 draft: false
+cover: cover.jpg
+coverCredit: "Winslow Homer, The New Novel, 1877 · Springfield Museums"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:1877-winslow-homer-the-new-novel.jpg"
+coverFocus: "40% center"
+category: "method"
 ---
 
 # Como realmente terminar um livro em outro idioma

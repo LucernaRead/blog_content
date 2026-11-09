@@ -3,6 +3,12 @@ title: "스페인어 단계별 리더: A1–B1 첫 책 고르는 법"
 excerpt: "판본과 레벨로 고르고, 사기 전에 샘플로 테스트하세요. A1 이야기에서 첫 원서 소설까지 가는 길을 만듭니다."
 publishedAt: "2026-10-08"
 draft: false
+cover: cover.jpg
+coverCredit: "Francisco Goya, The Parasol, 1777 · Museo del Prado"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:El_Quitasol_(Goya).jpg"
+coverFocus: "center 40%"
+category: "lists"
 ---
 
 스페인어 소설을 펼치면 처음 몇 단어는 알아 보지만, 나머지 문단은 사전 속에서 보내게 됩니다. 이야기는 해독하는 작업 뒤로 사라집니다. 단계별 리더는 더 작은 계단을 제공합니다. 정해진 학습자 레벨에 맞춰 쓰이거나 각색된, 완결된 이야기입니다.

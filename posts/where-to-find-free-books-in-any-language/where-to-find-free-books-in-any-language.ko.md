@@ -3,6 +3,12 @@ title: "어떤 언어로든 무료 책을 찾는 곳"
 excerpt: "배우는 언어로 무료 서재를 만들자. Project Gutenberg, Wikisource, 단계별 읽기 교재까지 — 한 푼도 쓰지 않고 읽기 위한 안내서."
 publishedAt: "2026-05-30"
 draft: false
+cover: cover.jpg
+coverCredit: "Carl Spitzweg, The Bookworm, c. 1850 · Museum Georg Schäfer"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Carl_Spitzweg_-_%22The_Bookworm%22.jpg"
+coverFocus: "center 30%"
+category: "lists"
 ---
 
 읽기로 언어를 배우는 데에는 조용한 사치가 하나 있다. 돈이 거의 들지 않는다는 것이다. 수 세기의 문학이 이미 퍼블릭 도메인으로 넘어왔고, 그 대부분은 검색 한 번 거리에 있다 — 무료이고, 합법이며, 입장료를 받지 않는 서가에서 기다리고 있다. 어려운 건 책을 찾는 일이 아니라 그중에서 고르는 일이다.

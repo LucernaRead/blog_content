@@ -3,6 +3,12 @@ title: "值得收藏的免费语言学习资源"
 excerpt: "一份精选的、真正免费的阅读与练习资源：公版书、分级读物、简易新闻与初级课程，已于 2026-10-18 核查并持续更新。"
 publishedAt: "2026-10-18"
 draft: false
+cover: cover.jpg
+coverCredit: "Giuseppe Maria Crespi, Bookshelves with Music Books, 1725 · International Museum and Library of Music"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Giuseppe_Maria_Crespi_-_Buchregal_mit_Musikschriften_1725-30.jpeg"
+coverFocus: "center 40%"
+category: "tools"
 ---
 
 靠阅读学一门语言，靠的是材料。你需要适合自己水平的书，读完之后还要有下一本，还要有那种在没力气啃书的日子里能读完的短文。这类材料有相当一部分是免费的、合法的，前提是你知道去哪儿找。

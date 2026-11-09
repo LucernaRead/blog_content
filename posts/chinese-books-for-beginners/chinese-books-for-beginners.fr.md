@@ -3,6 +3,12 @@ title: "Livres chinois pour débutants : les premiers livres qui valent la peine
 excerpt: "Choisissez votre premier livre chinois par genre, pas par renommée : un roman pour apprenants que vous pouvez terminer, un filet de sécurité bilingue, une histoire connue en édition pour apprenants et un recueil de nouvelles à niveau indiqué, chacun vérifié par édition, plus les pièges d'une page chinoise."
 publishedAt: "2026-10-30"
 draft: false
+cover: cover.jpg
+coverCredit: "Anonymous (Ming dynasty), The Eighteen Scholars, detail · National Palace Museum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:The_Eighteen_Scholars_by_an_anonymous_Ming_artist_1.jpg"
+coverFocus: "center 40%"
+category: "lists"
 ---
 
 Chercher des livres chinois pour débutants donne surtout des listes de manuels. Integrated Chinese, New Practical Chinese Reader, Chinese Made Easy : tous de bons cours, tous organisés par leçon, et aucun n'est un livre qu'on s'assied pour lire jusqu'au bout. Un manuel enseigne un cours. Un premier livre de lecture a un autre travail. Il doit vous porter de la première à la dernière page dans une langue que vous pouvez vraiment suivre, pour qu'une fois terminé, vous sachiez que les livres chinois peuvent se terminer.

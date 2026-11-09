@@ -3,6 +3,12 @@ title: "Сколько слов нужно, чтобы читать стало �
 excerpt: "От расшифровки к чтению: как частотная лексика меняет опыт и как встречать её чаще."
 publishedAt: "2026-06-07"
 draft: false
+cover: cover.jpg
+coverCredit: "Kate Greenaway, A Apple Pie, 1886"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:A_Apple_Pie,_C.jpg"
+coverFocus: "center 30%"
+category: "method"
 ---
 
 Первые слова самые тяжёлые: каждое может превратиться в остановку. Вы ищете значение, теряете нить, начинаете снова. Это похоже на археологию: очищаете отдельные находки, не видя всего раскопа.

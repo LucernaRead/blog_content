@@ -3,6 +3,12 @@ title: "읽기로 스페인어 배우기: 초보자에게 친근한 경로"
 excerpt: "먼저 등급별 리더를 읽고, 사다리를 한 칸씩 오르며, 매일 조금씩 읽으세요. 책 고르기에는 10분 샘플 테스트를 사용합니다."
 publishedAt: "2026-10-09"
 draft: false
+cover: cover.jpg
+coverCredit: "Diego Velázquez, Las Meninas, 1656–57 · Museo del Prado"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Las_Meninas_01.jpg"
+coverFocus: "center 45%"
+category: "language"
 ---
 
 읽기로 스페인어를 배우는 일에는 다른 많은 언어가 갖지 못한 장점이 하나 있습니다. 스페인어 철자가 투명하다는 점입니다. 기본적인 소리 규칙을 알면 눈에 보이는 단어를 대개 발음할 수 있고, 귀로 들은 소리는 대개 들리는 그대로 쓰입니다. 일상 어휘 상당수도 영어와 라틴어 어근을 공유하므로, 초보자도 예상보다 더 많은 단어를 알아볼 수 있습니다.

@@ -3,6 +3,12 @@ title: "새 언어로 소설을 읽기까지 얼마나 걸릴까?"
 excerpt: "솔직한 답: 제대로 읽으면 생각보다 빠르고, 준비됐다고 느낄 때까지 기다리면 영원히 오지 않는다. 현실적인 일정표와 그것을 결정하는 하나의 변수."
 publishedAt: "2026-07-01"
 draft: false
+cover: cover.jpg
+coverCredit: "Vincent van Gogh, The Novel Reader, 1888"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Vincent_Van_Gogh_-_Une_liseuse_de_romans_(1888).jpg"
+coverFocus: "center 35%"
+category: "method"
 ---
 
 # 새 언어로 소설을 읽기까지 얼마나 걸릴까?

@@ -3,6 +3,12 @@ title: "西班牙语分级读物：从 A1 到 B1 挑好你的第一本书"
 excerpt: "按版本和级别挑一本西班牙语分级读物，买之前先试读一段，从 A1 的故事一路读到第一本原版小说。"
 publishedAt: "2026-10-08"
 draft: false
+cover: cover.jpg
+coverCredit: "Francisco Goya, The Parasol, 1777 · Museo del Prado"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:El_Quitasol_(Goya).jpg"
+coverFocus: "center 40%"
+category: "lists"
 ---
 
 你翻开一本西班牙语小说，认出了开头几个词，剩下的大半段却都耗在词典里。故事就这样消失在解码的工作后面。分级读物给你一个更小的台阶：一本完整的故事，专为某个明确的学习级别写作或改编。
@@ -81,7 +87,7 @@ Lucerna 接受 EPUB、PDF 和 TXT 导入，但它不提供这些商业分级读�
 
 ---
 
-## 挑选之前的问题
+## 常见问题
 
 ### 我可以从 A1 开始读西班牙语分级读物吗？
 

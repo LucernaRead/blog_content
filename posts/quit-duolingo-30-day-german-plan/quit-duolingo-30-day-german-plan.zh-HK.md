@@ -3,6 +3,12 @@ title: "我退出了多鄰國。這是真正讓我把德語學流利的 30 天�
 excerpt: "一套以閱讀為先的成人學習法,核心是 AI 生成的課程替代不了的可理解輸入。"
 publishedAt: "2026-05-29"
 draft: false
+cover: cover.jpg
+coverCredit: "Hans Holbein the Younger, The Ambassadors, 1533 · National Gallery, London"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg"
+coverFocus: "center 40%"
+category: "language"
 ---
 
 > 一套以閱讀為先的成人學習法,核心是 AI 生成的課程替代不了的可理解輸入。

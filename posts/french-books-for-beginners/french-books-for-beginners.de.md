@@ -3,6 +3,12 @@ title: "Französische Bücher für Anfänger: Die ersten Bücher, die sich lohne
 excerpt: "Wählen Sie Ihr erstes französisches Buch nach Art, nicht nach Ruhm: ein geführter Reader, eine zweisprachige Absicherung, eine bekannte Geschichte, ein Klassiker in kurzen Kapiteln und ein Comic, jede Ausgabe geprüft."
 publishedAt: "2026-10-19"
 draft: false
+cover: cover.jpg
+coverCredit: "Édouard Manet, Woman Reading, 1878–79 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:%C3%89douard_Manet_-_Woman_Reading_-_1933.435_-_Art_Institute_of_Chicago.jpg"
+coverFocus: "center 28%"
+category: "lists"
 ---
 
 Wer nach französischen Büchern für Anfänger sucht, bekommt auf den meisten Listen alles durcheinander: Grammatiklehrwerke, Verbtabellen, Geschichtensammlungen, Kinderklassiker und berühmte Romane, als könnte eine Art von Buch jede Aufgabe erfüllen. Kann sie nicht. Ein für Lernende geschriebener Reader, ein Buch mit Übersetzung neben dem Text und eine berühmte Geschichte, die Sie in einer anderen Sprache schon kennen, verlangen drei verschiedene Arten von Anstrengung. Das richtige erste Buch ist das, dessen Anstrengung Sie morgen wiederholen können.

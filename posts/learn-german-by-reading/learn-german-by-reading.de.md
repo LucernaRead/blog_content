@@ -3,6 +3,12 @@ title: "Deutsch durch Lesen lernen"
 excerpt: "Deutsch durch Lesen lernen, mit einer Leiter, die für das Deutsche selbst gebaut ist: erst Lesetexte für Lernende, dann Kasus und Verbstellung erklärt, ein Zehn-Minuten-Test zur Buchwahl und eine Routine, die Seite und Klang verbindet."
 publishedAt: "2026-10-27"
 draft: false
+cover: cover.jpg
+coverCredit: "Franz Marc, The Bewitched Mill, 1913 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Franz_Marc_-_The_Bewitched_Mill_-_Google_Art_Project.jpg"
+coverFocus: "center 42%"
+category: "language"
 ---
 
 Deutsch gibt dem Leser einen Vorsprung und eine Warnung zugleich. Der Vorsprung ist der Wortschatz. Englisch und Deutsch haben eine gemeinsame Wurzel, deshalb trifft ein Anfänger auf einer deutschen Seite überall auf vertraute Formen: *Haus* und house, *Wasser* und water, *Buch* und book, *Freund* und friend. Die Warnung ist die Grammatik. Deutsch trägt seine Grammatik offen auf der Seite. Die kleinen Wörter ändern ihre Form, das Verb wandert, und zwei bekannte Wörter kleben sich zu einem zusammen, das man nicht kennt. Wer diese vier Bewegungen früh erkennt, für den sieht eine deutsche Seite nicht mehr aus wie ein Haufen neuer Vokabeln.

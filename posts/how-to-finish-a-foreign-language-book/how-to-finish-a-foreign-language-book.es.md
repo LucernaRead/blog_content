@@ -3,6 +3,12 @@ title: "Cómo terminar de verdad un libro en otro idioma"
 excerpt: "Empezar es fácil: todo el mundo tiene una novela a medias en su idioma objetivo. Aquí va cómo pasar al otro lado: ser quien cierra la contraportada."
 publishedAt: "2026-06-28"
 draft: false
+cover: cover.jpg
+coverCredit: "Winslow Homer, The New Novel, 1877 · Springfield Museums"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:1877-winslow-homer-the-new-novel.jpg"
+coverFocus: "40% center"
+category: "method"
 ---
 
 # Cómo terminar de verdad un libro en otro idioma

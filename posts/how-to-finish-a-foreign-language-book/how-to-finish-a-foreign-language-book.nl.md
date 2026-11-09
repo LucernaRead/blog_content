@@ -3,6 +3,12 @@ title: "Hoe je een boek in een vreemde taal echt uitleest"
 excerpt: "Beginnen is makkelijk — iedereen heeft een halfgelezen roman in zijn doeltaal. Hier staat hoe je aan de andere kant komt: degene die de achterflap dichtslaat."
 publishedAt: "2026-06-28"
 draft: false
+cover: cover.jpg
+coverCredit: "Winslow Homer, The New Novel, 1877 · Springfield Museums"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:1877-winslow-homer-the-new-novel.jpg"
+coverFocus: "40% center"
+category: "method"
 ---
 
 # Hoe je een boek in een vreemde taal echt uitleest

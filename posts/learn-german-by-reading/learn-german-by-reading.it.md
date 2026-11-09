@@ -3,6 +3,12 @@ title: "Imparare il tedesco leggendo"
 excerpt: "Imparare il tedesco leggendo con una scala costruita per il tedesco stesso: prima letture graduate, poi casi e proposizioni con il verbo in fondo spiegati, un test di assaggio di dieci minuti e una routine che unisce la pagina al suono."
 publishedAt: "2026-10-27"
 draft: false
+cover: cover.jpg
+coverCredit: "Franz Marc, The Bewitched Mill, 1913 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Franz_Marc_-_The_Bewitched_Mill_-_Google_Art_Project.jpg"
+coverFocus: "center 42%"
+category: "language"
 ---
 
 Il tedesco dà al lettore un vantaggio e un avvertimento allo stesso tempo. Il vantaggio è il vocabolario. Inglese e tedesco condividono una radice, così un principiante che apre una pagina tedesca incontra ovunque forme familiari: *Haus* e house, *Wasser* e water, *Buch* e book, *Freund* e friend. L'avvertimento è la grammatica. Il tedesco indossa la sua grammatica sulla pagina. Le paroline cambiano forma, il verbo si sposta, e due parole note si incollano in una sola che non conosci. Riconoscere presto questi quattro movimenti fa sì che una pagina tedesca smetta di sembrare un mucchio di parole nuove.

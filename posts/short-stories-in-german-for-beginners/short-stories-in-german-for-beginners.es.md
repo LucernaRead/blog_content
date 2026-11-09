@@ -3,6 +3,12 @@ title: "Cuentos cortos en alemán para principiantes: qué leer primero"
 excerpt: "Empieza con cuentos cortos en alemán que de verdad puedas terminar: clásicos gratuitos para calibrar tu nivel, una colección que sí es A1, y una comparativa de colecciones A2-B1 verificada por edición."
 publishedAt: "2026-10-23"
 draft: false
+cover: cover.jpg
+coverCredit: "Caspar David Friedrich, Wanderer above the Sea of Fog, c. 1817 · Hamburger Kunsthalle"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg"
+coverFocus: "center 35%"
+category: "lists"
 ---
 
 Tu primer libro en alemán no tiene por qué ser una novela. Un cuento corto te da una trama completa en una o dos sesiones, y una colección te devuelve esa sensación de haber terminado una y otra vez, con personajes nuevos cada vez en lugar del mismo reparto durante un mes. Las colecciones de cuentos cortos en alemán para principiantes están hechas para ese ritmo.

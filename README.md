@@ -24,9 +24,16 @@ title: "How to choose your first book"
 excerpt: "一句话摘要,列表页和分享卡片用它。"
 publishedAt: "2026-08-06"
 draft: false
-cover: hero.jpg          # 可选,必须是本目录里的文件
+cover: cover.jpg         # 封面,必须是本目录里的文件;每篇必填(站点没有兜底图)
+coverCredit: "作者, 作品名, 年份 · 馆藏"
+coverLicense: "public-domain"   # 只能是 public-domain 或 CC0
+coverSource: "https://commons.wikimedia.org/wiki/File:..."
+coverFocus: "center 30%"        # 可选,裁切焦点(object-position)
+category: "method"              # lists / method / tools / language;每篇必填
 ---
 ```
+
+封面字段 12 个语言版本必须完全一致。怎么找图、怎么核实授权,见 [AGENTS.md](./AGENTS.md)「配图」。
 
 引用图片就用**相对文件名**:
 
@@ -89,4 +96,4 @@ node lint.mjs --write    # 校验 + 写出 index.json(改完 md 必须跑这个)
 
 ## 正文分节装饰
 
-主题章节之间用独立一行 `---`，上下留空行。站点将正文横线渲染为蓝蛾动画分割线。普通段落用空行即可；完整写作要求见 [AGENTS.md](./AGENTS.md)，Claude 入口见 [CLAUDE.md](./CLAUDE.md)。
+主题章节之间用独立一行 `---`，上下留空行。站点在每个 `---` 处切节，节间显示居中三个小圆点。普通段落用空行即可；完整写作要求见 [AGENTS.md](./AGENTS.md)，Claude 入口见 [CLAUDE.md](./CLAUDE.md)。

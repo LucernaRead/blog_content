@@ -3,6 +3,12 @@ title: "Короткие рассказы на немецком для начи�
 excerpt: "Начните с немецких рассказов, которые вы действительно сможете дочитать: бесплатные литературные рассказы для проверки уровня, один сборник, честно соответствующий A1, и сравнение сборников A2–B1, проверенное по изданиям."
 publishedAt: "2026-10-23"
 draft: false
+cover: cover.jpg
+coverCredit: "Caspar David Friedrich, Wanderer above the Sea of Fog, c. 1817 · Hamburger Kunsthalle"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg"
+coverFocus: "center 35%"
+category: "lists"
 ---
 
 Ваша первая книга на немецком не обязана быть романом. Рассказ даёт законченный сюжет за один-два захода, а сборник возвращает это чувство «дочитал» снова и снова, каждый раз с новыми героями вместо одного и того же состава на месяц. Сборники коротких рассказов на немецком для начинающих созданы именно под такой ритм.

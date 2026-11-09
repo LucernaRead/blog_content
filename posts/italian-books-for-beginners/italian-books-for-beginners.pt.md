@@ -3,6 +3,12 @@ title: "Livros italianos para iniciantes: os primeiros livros que valem a pena"
 excerpt: "Escolha seu primeiro livro italiano pelo tipo, não pela fama: um romance para estudantes, um leitor bilíngue, um original familiar e uma coletânea de contos com nível indicado, cada um verificado por edição e cada um com um trabalho a fazer."
 publishedAt: "2026-10-24"
 draft: false
+cover: cover.jpg
+coverCredit: "Bernardo Bellotto, View of the Grand Canal from Punta della Dogana · Museo del Settecento Veneziano"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:(Venice)_Veduta_del_Canal_Grande_dalla_Punta_della_Dogana_-_Bernardo_Bellotto.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 Procurar livros italianos para iniciantes dá um muro de listas que misturam tudo: manuais, livros de frases, coletâneas de contos, clássicos infantis e romances famosos, como se fossem intercambiáveis. Não são. Um livro escrito para estudantes, um livro com uma tradução ao lado e um livro famoso que você já conhece em outro idioma exigem três esforços diferentes, e o primeiro livro certo é aquele cujo esforço você pode repetir amanhã.

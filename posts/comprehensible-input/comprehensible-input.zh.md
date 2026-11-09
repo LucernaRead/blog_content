@@ -3,6 +3,12 @@ title: "可理解输入：它是什么，以及阅读时如何用它"
 excerpt: "可理解输入是你能听懂读懂、又带一点新东西的语言。Krashen 的 i+1 在实践中是什么意思，一篇文章你需要认识多少词，以及如何在阅读时找到并用好适合自己水平的输入。"
 publishedAt: "2026-10-16"
 draft: false
+cover: cover.jpg
+coverCredit: "Mary Cassatt, Nurse Reading to a Little Girl, 1895 · Metropolitan Museum of Art"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:Nurse_Reading_to_a_Little_Girl_MET_DT7250.jpg"
+coverFocus: "center 30%"
+category: "method"
 ---
 
 你大概见过某种形式的建议：别再刷题了，去读、去听你能懂的东西，语言自然会跟上。这条建议指向的材料，名字叫可理解输入（comprehensible input）。这个词在网上用得很松，有时指任何简单内容。它本来的意思更窄，而更窄的意思，才是选书时真正有用的。
@@ -80,7 +86,7 @@ Krashen 的强版本说，被理解的输入不只是必要，而是充分：仅
 
 ---
 
-## 关于可理解输入的问题
+## 常见问题
 
 ### 可理解输入就是简单内容吗？
 

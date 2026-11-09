@@ -3,6 +3,12 @@ title: "Как учить слова чтением, а не жить внутр
 excerpt: "От отдельного перевода к предложению: превращаем интересные книги в личный словарь для повторения."
 publishedAt: "2026-07-12"
 draft: false
+cover: cover.jpg
+coverCredit: "Albert Anker, The Village School in 1848, 1896 · Kunstmuseum Basel"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Anker_Die_Dorfschule_von_1848_1896.jpg"
+coverFocus: "center"
+category: "method"
 ---
 
 Рано или поздно появляется кладбище карточек: сотни слов узнаются в колоде, но не в предложении. Вы много раз повторяли *Vergangenheit* и всё равно теряетесь в тексте. Возможно, не хватает контекста, а не памяти.

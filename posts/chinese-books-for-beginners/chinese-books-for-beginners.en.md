@@ -3,6 +3,12 @@ title: "Chinese Books for Beginners: The First Books Worth Reading"
 excerpt: "Choose your first Chinese book by kind, not by fame: a learner novella you can finish, a dual-language safety net, a familiar story in a learner edition, and a story collection at a stated level, each checked by edition, plus the page traps that stall Chinese readers."
 publishedAt: "2026-10-30"
 draft: false
+cover: cover.jpg
+coverCredit: "Anonymous (Ming dynasty), The Eighteen Scholars, detail · National Palace Museum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:The_Eighteen_Scholars_by_an_anonymous_Ming_artist_1.jpg"
+coverFocus: "center 40%"
+category: "lists"
 ---
 
 Search for Chinese books for beginners and you get lists of textbooks. Integrated Chinese, New Practical Chinese Reader, Chinese Made Easy: all solid courses, all organised by lesson, and none of them is a book you sit down and read to the end. A textbook teaches a course. A first reading book has a different job. It has to carry you from the first page to the last on language you can actually follow, so that finishing it teaches you that Chinese books are finishable.

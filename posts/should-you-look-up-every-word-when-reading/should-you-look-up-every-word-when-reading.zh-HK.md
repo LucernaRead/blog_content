@@ -3,6 +3,12 @@ title: "讀外語時，每個詞都要查嗎？只查卡住句子的詞"
 excerpt: "不用每個詞都查：只查卡住句子的詞——反覆出現的、沒它句子就垮掉的、承載動作的——其餘放過。每頁查幾次，就夠讓故事一直往前走。"
 publishedAt: "2026-06-13"
 draft: false
+cover: cover.jpg
+coverCredit: "Quentin Matsys, The Moneylender and His Wife, 1514 · Louvre"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Massysm_Quentin_%E2%80%94_The_Moneylender_and_his_Wife_%E2%80%94_1514.jpg"
+coverFocus: "center 65%"
+category: "method"
 ---
 
 每個學習者都會在第一頁遇到同一個岔路口:一個不認識的詞出現了,你得做決定。停下來查,還是往下讀、指望意思自己浮出來?哪個方向做過頭,閱讀都會變成苦差 —— 要麼是在詞典裡走走停停的跋涉,要麼是一片半懂不懂的霧。好消息是,有一條很簡單的經驗法則。

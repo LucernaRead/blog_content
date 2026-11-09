@@ -3,6 +3,12 @@ title: "フランス語初心者向け短編小説：最初に読むべきもの
 excerpt: "本当に読み終えられるフランス語短編から始めましょう：無料のA1-A2テキスト、段落ごとに語彙表が付いた入門書、そして版を確認したA2-B1短編集2冊。"
 publishedAt: "2026-10-14"
 draft: false
+cover: cover.jpg
+coverCredit: "Pierre-Auguste Renoir, La Liseuse, c. 1874–76"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Renoir_liseuse.jpg"
+coverFocus: "center 35%"
+category: "lists"
 ---
 
 フランス語の最初の本は長編小説でなくて構いません。短編なら1回か2回で一つの物語を読み終えられ、短編集ならその達成感を何度も味わえます。登場人物は毎回新しく、同じ顔ぶれに1か月付き合う必要もありません。初心者向けのフランス語短編集は、まさにそのリズムのために作られています。

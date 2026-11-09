@@ -3,6 +3,12 @@ title: "我退出了多邻国。这是真正让我把德语学流利的 30 天�
 excerpt: "一套以阅读为先的成人学习法,核心是 AI 生成的课程替代不了的可理解输入。"
 publishedAt: "2026-05-29"
 draft: false
+cover: cover.jpg
+coverCredit: "Hans Holbein the Younger, The Ambassadors, 1533 · National Gallery, London"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg"
+coverFocus: "center 40%"
+category: "language"
 ---
 
 > 一套以阅读为先的成人学习法,核心是 AI 生成的课程替代不了的可理解输入。
@@ -67,7 +73,7 @@ draft: false
 
 第三样是"把阅读当学习"和"把阅读当表演"之间的分界。如果你看不见自己真正卡在哪里,你会一整个月反复查同样的 40 个词。
 
-[Lucerna](https://lucernaread.com) 就是我围绕这个循环做的工具:上传任何 EPUB 或 PDF,或者直接从古腾堡计划拉一本书,点任何一个词就能看到释义 + IPA + 完整动词变位,而你的生词表会在你读的过程中自己长起来。目前支持英语、德语和法语的查询;西班牙语、日语、中文等正在开发中。免费试用,没有连胜的愧疚感,没有 AI 生成的内容 —— 只有你的书,和读它需要的工具。
+[Lucerna](https://lucernaread.com) 就是我围绕这个循环做的工具:上传任何 EPUB 或 PDF,或者直接从古腾堡计划拉一本书,点任何一个词就能看到释义 + IPA + 完整动词变位,而你的生词表会在你读的过程中自己长起来。71 种语言的书都能读,其中 12 种(包括德语)功能更全。免费试用,没有连胜的愧疚感,没有 AI 生成的内容 —— 只有你的书,和读它需要的工具。
 
 ## 多邻国这一刻真正的含义
 

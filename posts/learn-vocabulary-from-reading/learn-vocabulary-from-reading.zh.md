@@ -3,6 +3,12 @@ title: "怎样从阅读里学词汇(终于不用再刷闪卡)"
 excerpt: "闪卡在真空里教你词,阅读在词生活的地方教你词。怎么把你本来就想读的书,变成你唯一需要的词汇系统。"
 publishedAt: "2026-07-12"
 draft: false
+cover: cover.jpg
+coverCredit: "Albert Anker, The Village School in 1848, 1896 · Kunstmuseum Basel"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Anker_Die_Dorfschule_von_1848_1896.jpg"
+coverFocus: "center"
+category: "method"
 ---
 
 # 怎样从阅读里学词汇(并且终于不用再刷闪卡)
@@ -49,6 +55,6 @@ draft: false
 
 ## 会替你建词表的阅读
 
-[Lucerna](https://lucernaread.com) 就是围绕这个更小的动作造的。上传任何 EPUB 或从古腾堡计划拉一本书,任何词离它的释义、IPA 和完整的动词变位或格变化表都只有一次点击 —— 就地解决,不用第二个标签页,不用离开句子。你停下来的每一个词都会自动落进生词表,于是你复习的正是你真正遇见过的词,在你遇见它们的那些句子里。今天支持英语、德语和法语,更多在路上。读那本书;留下那些词。
+[Lucerna](https://lucernaread.com) 就是围绕这个更小的动作造的。上传任何 EPUB 或从古腾堡计划拉一本书,任何词离它的释义、IPA 和完整的动词变位或格变化表都只有一次点击 —— 就地解决,不用第二个标签页,不用离开句子。你停下来的每一个词都会自动落进生词表,于是你复习的正是你真正遇见过的词,在你遇见它们的那些句子里。71 种语言的书都能读,其中 12 种功能更全。读那本书;留下那些词。
 
 *《阅读日志》是 [Lucerna](https://lucernaread.com) 的编辑角落 —— 一款给语言学习者的阅读 app。这里写的是慢慢变流利的短文:一本书,五页,每晚。*

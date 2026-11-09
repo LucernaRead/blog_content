@@ -3,6 +3,12 @@ title: "Free Language Learning Resources Worth Bookmarking"
 excerpt: "A curated shelf of genuinely free reading and practice: public-domain books, graded readers, easy news, and beginner lessons, checked on 2026-10-18 and kept up to date."
 publishedAt: "2026-10-18"
 draft: false
+cover: cover.jpg
+coverCredit: "Giuseppe Maria Crespi, Bookshelves with Music Books, 1725 · International Museum and Library of Music"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Giuseppe_Maria_Crespi_-_Buchregal_mit_Musikschriften_1725-30.jpeg"
+coverFocus: "center 40%"
+category: "tools"
 ---
 
 Learning a language by reading runs on material. You need books at your level, more books after those, and something short for the days when a book feels like too much. A good share of that material is free, legally, if you know where it lives.

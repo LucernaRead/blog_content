@@ -4,6 +4,12 @@ excerpt: "多読（Tadoku）のグレーデッドリーダーを解説します�
 publishedAt: "2026-10-09"
 updatedAt: "2026-10-19"
 draft: false
+cover: cover.jpg
+coverCredit: "Utagawa Hiroshige, Sudden Shower over Shin-Ōhashi Bridge and Atake, 1857"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Hiroshige,_Sudden_shower_over_Shin-%C5%8Chashi_bridge_and_Atake,_1857.jpg"
+coverFocus: "center 30%"
+category: "lists"
 ---
 
 日本語には、他の多くの言語にはない壁があります。文字そのものです。教科書の会話を終えても、本物の本の前で止まってしまうことがあります。どのページでも、かな、漢字、知らない語彙を同時に処理しなければならないからです。

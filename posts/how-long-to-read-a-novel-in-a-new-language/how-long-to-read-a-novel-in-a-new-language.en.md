@@ -3,6 +3,12 @@ title: "How long until you can read a novel in a new language?"
 excerpt: "The honest answer: sooner than you think if you read the right way, and never if you wait until you feel ready. A realistic timeline — and the one variable that decides it."
 publishedAt: "2026-07-01"
 draft: false
+cover: cover.jpg
+coverCredit: "Vincent van Gogh, The Novel Reader, 1888"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Vincent_Van_Gogh_-_Une_liseuse_de_romans_(1888).jpg"
+coverFocus: "center 35%"
+category: "method"
 ---
 
 # How long until you can read a novel in a new language?
@@ -36,6 +42,6 @@ Drop the cost of a lookup to almost nothing and the whole equation changes. You 
 
 The move is not to wait until some future readiness. It's to start today with a book one notch below where your pride wants to be, read five pages a night, and look up only what blocks you. The readiness you're waiting for is *manufactured by doing this*, not before it.
 
-[Lucerna](https://lucernaread.com) exists to kill the friction that decides the timeline. Upload any EPUB or pull a book from Project Gutenberg, tap any word for its meaning, pronunciation, and full conjugation or case table, and your vocabulary list builds itself as you read — no dictionary, no lost place, no second tab. English, German, and French lookups today, more on the way. The sooner the lookups cost nothing, the sooner "someday" becomes this year.
+[Lucerna](https://lucernaread.com) exists to kill the friction that decides the timeline. Upload any EPUB or pull a book from Project Gutenberg, tap any word for its meaning, pronunciation, and full conjugation or case table, and your vocabulary list builds itself as you read — no dictionary, no lost place, no second tab. Books in 71 languages, twelve with fuller support. The sooner the lookups cost nothing, the sooner "someday" becomes this year.
 
 *The Reading Journal is the editorial corner of [Lucerna](https://lucernaread.com) — a reading app for language learners. Short essays on getting fluent the slow way: one book, five pages, every night.*

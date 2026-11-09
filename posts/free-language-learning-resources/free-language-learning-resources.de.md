@@ -3,6 +3,12 @@ title: "Kostenlose Ressourcen zum Sprachenlernen, die ein Lesezeichen verdienen"
 excerpt: "Eine kuratierte Auswahl wirklich kostenloser Lektüre und Übung: gemeinfreie Bücher, gestufte Lektüre, einfache Nachrichten und Anfängerlektionen. Geprüft am 18.10.2026 und laufend aktualisiert."
 publishedAt: "2026-10-18"
 draft: false
+cover: cover.jpg
+coverCredit: "Giuseppe Maria Crespi, Bookshelves with Music Books, 1725 · International Museum and Library of Music"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Giuseppe_Maria_Crespi_-_Buchregal_mit_Musikschriften_1725-30.jpeg"
+coverFocus: "center 40%"
+category: "tools"
 ---
 
 Wer eine Sprache durch Lesen lernt, braucht Material: Bücher auf dem eigenen Niveau, weitere Bücher danach und etwas Kurzes für die Tage, an denen ein Buch zu viel ist. Ein guter Teil dieses Materials ist kostenlos und legal zu haben, wenn man weiß, wo es liegt.

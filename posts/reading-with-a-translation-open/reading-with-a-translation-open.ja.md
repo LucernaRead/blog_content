@@ -3,6 +3,12 @@ title: "翻訳を開いたまま読むのは、助けか松葉杖か"
 excerpt: "新しい言語で読もうとする人はほぼ全員が試す:片手に原書、片手に翻訳。それが助けになるときと、静かに「自分で読む力」を奪うとき。"
 publishedAt: "2026-06-29"
 draft: false
+cover: cover.jpg
+coverCredit: "Henri Fantin-Latour, The Reading, 1877 · Musée des Beaux-Arts de Lyon"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Fantin-Latour-La_Lecture-Lyon.jpg"
+coverFocus: "center 40%"
+category: "method"
 ---
 
 # 翻訳を横に置いて読む:助けか、松葉杖か

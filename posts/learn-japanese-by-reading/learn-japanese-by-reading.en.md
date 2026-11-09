@@ -3,6 +3,12 @@ title: "How to Learn Japanese by Reading"
 excerpt: "Learn Japanese by reading from your first kana: use furigana and tadoku graded readers first, climb to NHK News Web Easy and familiar manga, and treat kanji as a problem reading itself solves."
 publishedAt: "2026-10-12"
 draft: false
+cover: cover.jpg
+coverCredit: "Katsushika Hokusai, The Great Wave off Kanagawa, c. 1830–32 · Metropolitan Museum of Art"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Tsunami_by_hokusai_19th_century.jpg"
+coverFocus: "center"
+category: "language"
 ---
 
 You can learn Japanese by reading — but Japanese changes the order of operations. In Spanish or French, the alphabet lets you sound out a page on day one and the only wall is vocabulary. In Japanese, the page itself is part of the lesson: three scripts mixed together, no spaces between words, and kanji whose readings you may not know yet.

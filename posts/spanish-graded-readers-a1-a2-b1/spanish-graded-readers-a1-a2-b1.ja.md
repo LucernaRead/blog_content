@@ -3,6 +3,12 @@ title: "スペイン語グレーデッドリーダー：A1〜B1の最初の1冊�
 excerpt: "版とレベルで選び、買う前にサンプルでテスト。A1の物語から、初めての原書小説までの道筋を作ります。"
 publishedAt: "2026-10-08"
 draft: false
+cover: cover.jpg
+coverCredit: "Francisco Goya, The Parasol, 1777 · Museo del Prado"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:El_Quitasol_(Goya).jpg"
+coverFocus: "center 40%"
+category: "lists"
 ---
 
 スペイン語の小説を開き、最初の数語は分かったのに、段落の残りは辞書に費やしてしまう。物語は、読み解く作業の後ろに消えていきます。グレーデッドリーダーは、もっと小さな一歩を用意します。明示された学習者レベルに合わせて書かれた、あるいは翻案された、完結した物語です。

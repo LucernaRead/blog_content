@@ -3,6 +3,12 @@ title: "How to Learn French by Reading"
 excerpt: "Learn French by reading with a ladder built for French itself: graded readers first, the passé simple and elided words explained, a ten-minute sample test, and a routine that pairs the page with sound."
 publishedAt: "2026-10-18"
 draft: false
+cover: cover.jpg
+coverCredit: "Gustave Caillebotte, Paris Street; Rainy Day, 1877 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Gustave_Caillebotte_-_Paris_Street,_Rainy_Day_-_1964.336_-_Art_Institute_of_Chicago.jpg"
+coverFocus: "center 45%"
+category: "language"
 ---
 
 French gives a reader a head start and a warning at the same time. The head start is vocabulary. A large share of everyday English words came from French, so a beginner opening a French page meets familiar shapes everywhere: *famille*, *important*, *arriver*, *commencer*. The warning is sound. French spelling keeps letters that speech dropped centuries ago, so the word you can read is often not the word you would recognise by ear. Reading French well means working with both facts from the start.

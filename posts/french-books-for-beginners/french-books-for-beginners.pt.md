@@ -3,6 +3,12 @@ title: "Livros em francês para iniciantes: os primeiros livros que vale a pena 
 excerpt: "Escolha o seu primeiro livro em francês pelo tipo, não pela fama: um leitor guiado, uma rede bilingue, uma história conhecida, um clássico de capítulos curtos e uma banda desenhada, cada edição verificada."
 publishedAt: "2026-10-19"
 draft: false
+cover: cover.jpg
+coverCredit: "Édouard Manet, Woman Reading, 1878–79 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:%C3%89douard_Manet_-_Woman_Reading_-_1933.435_-_Art_Institute_of_Chicago.jpg"
+coverFocus: "center 28%"
+category: "lists"
 ---
 
 Procure livros em francês para iniciantes e a maioria das listas mistura tudo: manuais de gramática, tabelas de verbos, antologias de contos, clássicos infantis e romances famosos, como se um só tipo de livro pudesse fazer todos os trabalhos. Não pode. Um leitor escrito para estudantes, um livro com tradução ao lado do texto e uma história famosa que já conhece noutra língua pedem três tipos de esforço diferentes. O primeiro livro certo é aquele cujo esforço consegue repetir amanhã.

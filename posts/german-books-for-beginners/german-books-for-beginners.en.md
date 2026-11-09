@@ -3,6 +3,12 @@ title: "German Books for Beginners: The First Books Worth Reading"
 excerpt: "Choose your first German book by kind, not by fame: a learner story set in Berlin, a dual-language safety net, a familiar story, a short-chapter classic and a graded story collection, each checked by edition."
 publishedAt: "2026-10-20"
 draft: false
+cover: cover.jpg
+coverCredit: "Adolph Menzel, The Balcony Room, 1845 · Alte Nationalgalerie"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Adolph_Menzel_-_Das_Balkonzimmer_-_Google_Art_Project.jpg"
+coverFocus: "center 45%"
+category: "lists"
 ---
 
 Search for German books for beginners and most lists hand you textbooks: grammar courses, verb tables, visual dictionaries and all-in-one manuals, as if learning German and reading German were the same job. They are not. A textbook teaches you about the language. A first book gives you German you can actually read, page after page, until reading stops feeling like decoding. The two shelves overlap less than the lists suggest.

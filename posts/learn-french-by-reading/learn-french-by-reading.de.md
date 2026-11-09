@@ -3,6 +3,12 @@ title: "Französisch lernen durch Lesen"
 excerpt: "Französisch durch Lesen lernen, mit einer Leiter, die für diese Sprache gebaut ist: erst Stufenlektüren, Passé simple und Elisionen erklärt, ein Zehn-Minuten-Test und eine Routine, die Seite und Klang verbindet."
 publishedAt: "2026-10-18"
 draft: false
+cover: cover.jpg
+coverCredit: "Gustave Caillebotte, Paris Street; Rainy Day, 1877 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Gustave_Caillebotte_-_Paris_Street,_Rainy_Day_-_1964.336_-_Art_Institute_of_Chicago.jpg"
+coverFocus: "center 45%"
+category: "language"
 ---
 
 Französisch gibt einem Leser einen Vorsprung und eine Warnung zugleich. Der Vorsprung ist der Wortschatz. Ein großer Teil der alltäglichen englischen Wörter stammt aus dem Französischen, und ein Anfänger, der eine französische Seite aufschlägt, trifft überall auf vertraute Formen: *famille*, *important*, *arriver*, *commencer*. Die Warnung ist der Klang. Die französische Rechtschreibung bewahrt Buchstaben, die die Aussprache vor Jahrhunderten fallen ließ. Das Wort, das Sie lesen können, ist oft nicht das Wort, das Sie am Klang erkennen würden. Französisch gut zu lesen heißt, von Anfang an mit beiden Tatsachen zu arbeiten.

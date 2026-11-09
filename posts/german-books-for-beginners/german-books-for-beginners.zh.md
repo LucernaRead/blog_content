@@ -3,6 +3,12 @@ title: "德语入门书籍：第一批值得读的书"
 excerpt: "搜「德语入门书籍」，多数书单给你的都是教材；但学德语和读德语不是同一种活。这篇按书的种类，帮你选第一本能真正读下去的德语书。"
 publishedAt: "2026-10-20"
 draft: false
+cover: cover.jpg
+coverCredit: "Adolph Menzel, The Balcony Room, 1845 · Alte Nationalgalerie"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Adolph_Menzel_-_Das_Balkonzimmer_-_Google_Art_Project.jpg"
+coverFocus: "center 45%"
+category: "lists"
 ---
 
 搜「德语入门书籍」，多数书单递给你的都是教材：语法课本、动词表、图解词典和大而全的手册，好像学德语和读德语是同一种活。不是。教材教你关于这门语言的知识；第一本书给你能真正读下去的德语，一页接一页，直到阅读不再像解码。这两个书架的重合，比书单暗示的要少得多。
@@ -78,7 +84,7 @@ draft: false
 
 ---
 
-## 选书前的问题
+## 常见问题
 
 ### 我几乎不会德语。这几本里哪本能开始？
 

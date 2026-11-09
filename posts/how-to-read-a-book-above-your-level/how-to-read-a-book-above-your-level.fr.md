@@ -3,6 +3,12 @@ title: "Comment lire un livre au-dessus de votre niveau sans couler"
 excerpt: "Lire un livre un ou deux niveaux au-dessus du vôtre, c'est possible — à condition de connaître l'écart de couverture, d'utiliser des tactiques centrées sur le sens global, et de juger après deux chapitres, pas deux pages."
 publishedAt: "2026-10-09"
 draft: false
+cover: cover.jpg
+coverCredit: "Vittore Carpaccio, Saint Augustine in His Study, 1502 · Scuola di San Giorgio degli Schiavoni"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Vittore_Carpaccio_026.jpg"
+coverFocus: "center"
+category: "method"
 ---
 
 Le livre que vous voulez vraiment lire est trop difficile. Vos lectures graduées sont encore au niveau A2 ou B1, et le livre qui vous appelle est un roman original — dialogues réels, expressions idiomatiques, phrases longues, aucun contrôle du vocabulaire. Vous bloquez dès le deuxième paragraphe et vous vous demandez si vous n'êtes pas trop ambitieux.

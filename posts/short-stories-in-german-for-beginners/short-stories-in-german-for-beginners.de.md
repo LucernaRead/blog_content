@@ -3,6 +3,12 @@ title: "Kurzgeschichten auf Deutsch für Anfänger: Was du zuerst lesen solltest
 excerpt: "Beginne mit deutschen Kurzgeschichten, die du wirklich beenden kannst: kostenlose literarische Texte zum Einstufen, eine ehrlich A1 Geschichte und ein Vergleich der A2-B1 Sammlungen, anhand der Ausgabe geprüft."
 publishedAt: "2026-10-23"
 draft: false
+cover: cover.jpg
+coverCredit: "Caspar David Friedrich, Wanderer above the Sea of Fog, c. 1817 · Hamburger Kunsthalle"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg"
+coverFocus: "center 35%"
+category: "lists"
 ---
 
 Dein erstes deutsches Buch muss kein Roman sein. Eine Kurzgeschichte gibt dir eine vollständige Handlung in ein oder zwei Sitzungen, und eine Sammlung gibt dir dieses Fertig-Gefühl immer wieder, jedes Mal mit neuen Figuren statt einem Monat lang demselben Ensemble. Sammlungen deutscher Kurzgeschichten für Anfänger sind genau für diesen Rhythmus gemacht.

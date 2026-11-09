@@ -3,6 +3,12 @@ title: "초보자를 위한 프랑스어 단편 소설: 무엇부터 읽을까"
 excerpt: "실제로 끝까지 읽을 수 있는 프랑스어 단편으로 시작하세요: 무료 A1-A2 텍스트, 단락마다 단어장이 붙은 입문서, 판본을 확인한 A2-B1 단편집 두 권."
 publishedAt: "2026-10-14"
 draft: false
+cover: cover.jpg
+coverCredit: "Pierre-Auguste Renoir, La Liseuse, c. 1874–76"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Renoir_liseuse.jpg"
+coverFocus: "center 35%"
+category: "lists"
 ---
 
 첫 프랑스어 책이 장편소설일 필요는 없습니다. 단편 하나면 한두 번에 완전한 줄거리를 읽을 수 있고, 단편집이면 그 완독을 반복해서 맛볼 수 있습니다. 매번 새 인물이 등장하니 같은 등장인물과 한 달을 보낼 필요도 없습니다. 초보자를 위한 프랑스어 단편집은 바로 그 리듬을 위해 만들어졌습니다.

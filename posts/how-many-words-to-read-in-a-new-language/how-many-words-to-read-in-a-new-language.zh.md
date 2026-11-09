@@ -3,6 +3,12 @@ title: "一门新语言要读多少词才开始变轻松"
 excerpt: "有一个门槛——大约一千个词——过了它,阅读就不再像解码,而开始像阅读。它是什么,以及怎么更快到达。"
 publishedAt: "2026-06-07"
 draft: false
+cover: cover.jpg
+coverCredit: "Kate Greenaway, A Apple Pie, 1886"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:A_Apple_Pie,_C.jpg"
+coverFocus: "center 30%"
+category: "method"
 ---
 
 最初的一千个词最难,因为每一个都是一次停顿。你遇到一个词,查它,线索断了,句子只好重念一遍。那感觉不太像阅读,更像考古——一次刷掉一件文物上的土,始终看不见整个遗址。

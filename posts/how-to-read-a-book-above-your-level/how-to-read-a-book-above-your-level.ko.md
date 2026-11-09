@@ -3,6 +3,12 @@ title: "내 수준보다 어려운 책을 익사하지 않고 읽는 법"
 excerpt: "한두 단계 위의 책을 읽는 것은 가능합니다. 커버리지 격차를 알고, 요점 우선 전술을 쓰고, 두 페이지가 아니라 두 챕터로 판단한다면 말입니다."
 publishedAt: "2026-10-09"
 draft: false
+cover: cover.jpg
+coverCredit: "Vittore Carpaccio, Saint Augustine in His Study, 1502 · Scuola di San Giorgio degli Schiavoni"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Vittore_Carpaccio_026.jpg"
+coverFocus: "center"
+category: "method"
 ---
 
 정말 읽고 싶은 책이 너무 어렵습니다. 단계별 읽기 책은 아직 A2나 B1인데, 마음을 끄는 책은 원서 소설입니다. 실제 대화, 관용구, 긴 문장, 어휘 통제는 전혀 없습니다. 두 번째 문단에서 막히고, 무리하는 건 아닌지 의심이 듭니다.

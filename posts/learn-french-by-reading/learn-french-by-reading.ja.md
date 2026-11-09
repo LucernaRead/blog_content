@@ -3,6 +3,12 @@ title: "読書でフランス語を学ぶ方法"
 excerpt: "フランス語そのものに合わせた読書の階段で学ぶ：まずグレーデッドリーダー、単純過去と省略形の説明、10分サンプルテスト、そしてページと音を組にする読み方。"
 publishedAt: "2026-10-18"
 draft: false
+cover: cover.jpg
+coverCredit: "Gustave Caillebotte, Paris Street; Rainy Day, 1877 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Gustave_Caillebotte_-_Paris_Street,_Rainy_Day_-_1964.336_-_Art_Institute_of_Chicago.jpg"
+coverFocus: "center 45%"
+category: "language"
 ---
 
 フランス語は読者に先手と警告を同時によこします。先手は語彙です。日常英語の単語のかなりの部分がフランス語由来なので、初学者がフランス語のページを開くと、見覚えのある形にあちこちで出会います。*famille*、*important*、*arriver*、*commencer*。警告は音です。フランス語の綴りは、発音が何世紀も前に落とした文字を残しているので、読める単語が、耳で聞いて分かる単語とは限りません。フランス語をうまく読むには、この二つを最初から両方扱う必要があります。

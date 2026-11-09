@@ -3,6 +3,12 @@ title: "Japanse boeken voor beginners: de eerste boeken die de moeite waard zijn
 excerpt: "Kies je eerste Japanse boek op soort, niet op roem: een gratis tadoku-start, een tweetalig vangnet, een manga met furigana, een bekend verhaal en een gegradeerde verhalenbundel, elke editie gecontroleerd."
 publishedAt: "2026-10-21"
 draft: false
+cover: cover.jpg
+coverCredit: "Kitagawa Utamaro, Woman Reading a Letter, 1806 · Cleveland Museum of Art"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Woman_Reading_a_Letter_(from_the_series_Seven_Episodes_in_the_Life_of_Komac_-_1943.23_-_Cleveland_Museum_of_Art.jpg"
+coverFocus: "center 22%"
+category: "lists"
 ---
 
 Zoek naar Japanse boeken voor beginners en de meeste lijsten reiken je leerboeken aan: Genki, Minna no Nihongo, kanji-werkboeken en grammaticaboeken, alsof Japans leren en Japans lezen hetzelfde werk waren. Dat zijn ze niet. Een leerboek leert je de taal in lessen. Een eerste boek geeft je Japans dat je om het verhaal kunt lezen, pagina na pagina, tot de pagina niet meer als een puzzel voelt. De twee planken overlappen minder dan de lijsten suggereren.

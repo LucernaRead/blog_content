@@ -3,6 +3,12 @@ title: "Franse boeken voor beginners: de eerste boeken die de moeite waard zijn"
 excerpt: "Kies je eerste Franse boek op soort, niet op roem: een begeleide reader, een tweetalig vangnet, een bekend verhaal, een klassieker in korte hoofdstukken en een strip, elke editie gecontroleerd."
 publishedAt: "2026-10-19"
 draft: false
+cover: cover.jpg
+coverCredit: "Édouard Manet, Woman Reading, 1878–79 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:%C3%89douard_Manet_-_Woman_Reading_-_1933.435_-_Art_Institute_of_Chicago.jpg"
+coverFocus: "center 28%"
+category: "lists"
 ---
 
 Zoek naar Franse boeken voor beginners en de meeste lijsten gooien alles door elkaar: grammaticaboeken, werkwoordtabellen, verhalenbundels, kinderklassiekers en beroemde romans, alsof één soort boek elk werk kan doen. Dat kan niet. Een reader die voor leerders is geschreven, een boek met een vertaling naast de tekst en een beroemd verhaal dat je al in een andere taal kent, vragen om drie verschillende soorten inspanning. Het juiste eerste boek is het boek waarvan je de inspanning morgen kunt herhalen.

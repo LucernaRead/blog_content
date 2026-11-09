@@ -3,6 +3,12 @@ title: "読書で中国語を学ぶ方法"
 excerpt: "最初のピンイン付き物語から中国語を学ぶ：スペースのない文で単語を見分ける方法、ピンインを段階的に外す方法、分級リーダーから分級ニュースへ登る方法、そして中国語読者を止める三つの罠を避ける方法。"
 publishedAt: "2026-10-25"
 draft: false
+cover: cover.jpg
+coverCredit: "Fan Kuan, Travelers Among Mountains and Streams, c. 1000 · National Palace Museum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Fan_Kuan_-_Travelers_Among_Mountains_and_Streams_-_Google_Art_Project.jpg"
+coverFocus: "center 45%"
+category: "language"
 ---
 
 読書で中国語は学べるが、中国語は学ぶ順序を変える。スペイン語やフランス語なら、アルファベットのおかげで初日からページを音読でき、壁は語彙だけだ。中国語では、ページそのものが授業の一部になる。単語のあいだにスペースがなく、漢字は音を表さず、声調が意味を変える。

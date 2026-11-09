@@ -3,6 +3,12 @@ title: "Spanish Graded Readers: How to Choose A1–B1 Books"
 excerpt: "Choose a Spanish graded reader by edition and level, test a sample before buying, and build a path from A1 stories to your first original novel."
 publishedAt: "2026-10-08"
 draft: false
+cover: cover.jpg
+coverCredit: "Francisco Goya, The Parasol, 1777 · Museo del Prado"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:El_Quitasol_(Goya).jpg"
+coverFocus: "center 40%"
+category: "lists"
 ---
 
 You open a Spanish novel, recognise the first few words, and spend the rest of the paragraph in a dictionary. The story disappears behind the work of decoding it. A graded reader gives you a smaller step: a complete story written or adapted for a stated level.

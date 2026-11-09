@@ -3,6 +3,12 @@ title: "Spanische Lernlektüren: Das erste Buch von A1 bis B1 auswählen"
 excerpt: "Eine spanische Lernlektüre nach Ausgabe und Niveau auswählen, vor dem Kauf eine Leseprobe testen und den Weg von A1-Geschichten bis zum ersten Originalroman aufbauen."
 publishedAt: "2026-10-08"
 draft: false
+cover: cover.jpg
+coverCredit: "Francisco Goya, The Parasol, 1777 · Museo del Prado"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:El_Quitasol_(Goya).jpg"
+coverFocus: "center 40%"
+category: "lists"
 ---
 
 Sie öffnen einen spanischen Roman, erkennen die ersten Wörter und verbringen den Rest des Absatzes im Wörterbuch. Die Geschichte verschwindet hinter der Arbeit, sie zu entschlüsseln. Eine Lernlektüre gibt Ihnen einen kleineren Schritt: eine vollständige Geschichte, geschrieben oder bearbeitet für ein ausgewiesenes Lernerniveau.

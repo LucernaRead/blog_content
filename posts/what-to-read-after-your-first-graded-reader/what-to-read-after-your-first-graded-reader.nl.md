@@ -4,6 +4,12 @@ excerpt: "Je eerste graded reader uit lezen is de echte mijlpaal — het tweede 
 publishedAt: "2026-10-09"
 updatedAt: "2026-10-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Claude Monet, Springtime, 1872 · Walters Art Museum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Springtime_-_Walters_3711.jpg"
+coverFocus: "center 55%"
+category: "method"
 ---
 
 Je eerste graded reader uit lezen is de echte mijlpaal. Je hebt een heel boek in een andere taal gelezen — geen leerboekdialoog, maar een compleet verhaal, van de eerste tot de laatste pagina. Dat telt meer dan het misschien voelt op de dag dat je het boek dichtklapt.

@@ -3,6 +3,12 @@ title: "외국어로 책을 읽으려면 단어가 몇 개 필요할까?"
 excerpt: "솔직한 숫자: 대략적 이해에 약 5,000 어족, 편안한 독립 읽기에 8,000~9,000. 하지만 더 유용한 답은 거기 도달할 때까지 기다릴 필요가 없다는 것 — 읽는 것이 곧 도달하는 방법이다."
 publishedAt: "2026-07-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Jan Davidsz. de Heem, Still Life with Books and a Lute, 1625–30 · Rijksmuseum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Stilleven_met_boeken_Rijksmuseum_SK-A-2565.jpeg"
+coverFocus: "center"
+category: "method"
 ---
 
 # 외국어로 책 한 권을 읽으려면 단어가 몇 개 필요할까?

@@ -3,6 +3,12 @@ title: "Aprender alemão lendo"
 excerpt: "Aprender alemão lendo com uma escada construída para o próprio alemão: primeiro leituras graduadas, depois os casos e as orações com o verbo no fim explicados, um teste de amostra de dez minutos e uma rotina que une a página ao som."
 publishedAt: "2026-10-27"
 draft: false
+cover: cover.jpg
+coverCredit: "Franz Marc, The Bewitched Mill, 1913 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Franz_Marc_-_The_Bewitched_Mill_-_Google_Art_Project.jpg"
+coverFocus: "center 42%"
+category: "language"
 ---
 
 O alemão dá ao leitor uma vantagem e um aviso ao mesmo tempo. A vantagem é o vocabulário. O inglês e o alemão partilham uma raiz, de modo que um principiante que abre uma página alemã encontra formas familiares por todo o lado: *Haus* e house, *Wasser* e water, *Buch* e book, *Freund* e friend. O aviso é a gramática. O alemão usa a sua gramática na página. As palavrinhas mudam de forma, o verbo desloca-se, e duas palavras conhecidas colam-se numa só que não conheces. Reconhecer esses quatro movimentos cedo faz com que uma página alemã deixe de parecer um monte de palavras novas.

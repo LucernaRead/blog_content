@@ -8,11 +8,15 @@ Un lettore di ebook per imparare le lingue attraverso libri reali. Puoi consulta
 
 ## Lucerna è gratuito?
 
-Il software è gratuito. Come ospite puoi usare un libro e salvare cinque parole; un account gratuito permette cinque libri e 200 parole e la sincronizzazione. L’AI cloud usa la tua chiave API e le tariffe del fornitore. Il desktop supporta modelli locali, con libri conservati sul dispositivo e senza i limiti dell’archivio cloud.
+Il software è gratuito. Come ospite puoi usare un libro e salvare cinque parole; un account gratuito permette cinque libri e 200 parole e la sincronizzazione. Traduzione e analisi delle frasi usano la tua chiave API (OpenAI, Anthropic, DeepSeek, Kimi e altri) con le tariffe del fornitore. Sul desktop l’analisi delle frasi può girare anche su un modello locale, senza cloud e senza costi; i libri salvati sul computer si leggono offline e non contano nei limiti dell’account.
+
+## Quanto costa Lucerna?
+
+L’app Lucerna è gratuita. Lucerna Cloud è un abbonamento facoltativo: 3 $ al mese o 30 $ all’anno (nella Cina continentale 18 ¥ al mese o 180 ¥ all’anno). Aggiunge uno scaffale cloud più grande, AI integrata senza bisogno di una API key e lettura ad alta voce nel cloud.
 
 ## Quali lingue posso leggere?
 
-La lettura supporta numerose lingue; dodici opzioni ricevono supporto più approfondito, contando separatamente cinese semplificato e tradizionale. La profondità dell’analisi dipende anche dal modello scelto. Le lingue del blog e quelle dell’interfaccia del lettore sono elenchi distinti.
+Puoi leggere libri in 71 lingue. Dodici hanno funzioni più complete: inglese, tedesco, francese, spagnolo, italiano, portoghese, olandese, russo, cinese semplificato, cinese tradizionale, giapponese e coreano. Fin dove arriva ogni funzione dipende dalla lingua e dal modello che colleghi.
 
 ## Posso usare i miei libri?
 
@@ -28,4 +32,8 @@ Puoi chiarire un dubbio nel punto in cui leggi e conservare le parole utili per 
 
 ## Esiste un’app desktop?
 
-Sì, per macOS, Windows e Linux. Aggiunge lettura locale e offline, modelli locali e funzioni desktop come lettura ad alta voce e scorciatoie.
+Sì, per macOS, Windows e Linux. Aggiunge la lettura offline, voci locali e audiolibri con evidenziazione parola per parola, e i modelli locali.
+
+## Che cosa significa il nome Lucerna?
+
+Lucerna in latino vuol dire «lampada»: una luce per la pagina che stai leggendo. Non è la città svizzera di Lucerne, anche se i due nomi hanno la stessa radice latina.

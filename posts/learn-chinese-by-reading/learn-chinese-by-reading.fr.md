@@ -3,6 +3,12 @@ title: "Apprendre le chinois en lisant"
 excerpt: "Apprendre le chinois en lisant, dès la première histoire annotée en pinyin : comment repérer les mots dans un texte sans espaces, retirer le pinyin par étapes, grimper des lectures graduées aux actualités graduées, et éviter les trois pièges qui bloquent les lecteurs de chinois."
 publishedAt: "2026-10-25"
 draft: false
+cover: cover.jpg
+coverCredit: "Fan Kuan, Travelers Among Mountains and Streams, c. 1000 · National Palace Museum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Fan_Kuan_-_Travelers_Among_Mountains_and_Streams_-_Google_Art_Project.jpg"
+coverFocus: "center 45%"
+category: "language"
 ---
 
 On peut apprendre le chinois en lisant, mais le chinois change l'ordre des opérations. En espagnol ou en français, l'alphabet permet de déchiffrer une page dès le premier jour, et le seul mur est le vocabulaire. En chinois, la page elle-même fait partie de la leçon : pas d'espaces entre les mots, des caractères qui n'épellent pas leur propre son, et des tons qui changent le sens.

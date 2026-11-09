@@ -3,6 +3,12 @@ title: "イタリア語初心者のための短編小説：まず何を読むか
 excerpt: "実際に読み終えられるイタリア語の短編から始めましょう。レベルを測る無料の A1 テキスト、正直に A1 な物語1編、版で確認した A2-B1 の短編集2冊。"
 publishedAt: "2026-10-22"
 draft: false
+cover: cover.jpg
+coverCredit: "Canaletto, The Bacino di San Marco, c. 1738 · Museum of Fine Arts, Boston"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Boston,_Museum_of_Fine_Art_-_Il_bacino_di_San_Marco_c.1738_-_Canaletto.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 初めてのイタリア語の本は長編小説でなくて構いません。短編なら1回か2回座るだけで物語が完結し、短編集なら新しい登場人物でその「読み終えた」感覚を何度も味わえます。イタリア語初心者向けの短編集は、そのリズムのために作られています。

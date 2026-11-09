@@ -3,6 +3,12 @@ title: "Книги на японском для начинающих: первы
 excerpt: "Выбирайте первую книгу на японском по виду, а не по славе: бесплатный старт тадоку, двуязычная подстраховка, манга с фуриганой, знакомая история и градуированный сборник рассказов, каждое издание проверено."
 publishedAt: "2026-10-21"
 draft: false
+cover: cover.jpg
+coverCredit: "Kitagawa Utamaro, Woman Reading a Letter, 1806 · Cleveland Museum of Art"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Woman_Reading_a_Letter_(from_the_series_Seven_Episodes_in_the_Life_of_Komac_-_1943.23_-_Cleveland_Museum_of_Art.jpg"
+coverFocus: "center 22%"
+category: "lists"
 ---
 
 Поищите книги на японском для начинающих — и большинство списков вручат вам учебники: Genki, Minna no Nihongo, прописи кандзи и грамматические словари, как будто учить японский и читать по-японски — одна и та же работа. Это не так. Учебник учит языку по урокам. Первая книга даёт японский, который можно читать ради истории, страницу за страницей, пока страница не перестанет казаться загадкой. Две полки пересекаются меньше, чем внушают списки.

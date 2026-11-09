@@ -3,6 +3,12 @@ title: "ドイツ語グレーデッドリーダー：A1〜B1の最初の1冊の�
 excerpt: "版とレベルで選び、買う前にサンプルでテスト。A1の童話から、初めての原書小説までの道筋を作ります。"
 publishedAt: "2026-10-09"
 draft: false
+cover: cover.jpg
+coverCredit: "Albrecht Dürer, Young Hare, 1502 · Albertina"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Hare,_1502_-_Google_Art_Project.jpg"
+coverFocus: "center 45%"
+category: "lists"
 ---
 
 ドイツ語の小説を開き、最初の数語は分かるのに、残りの段落は辞書に費やしてしまう。動詞は文の最後にようやく現れ、物語は解読の作業の後ろに消え、格変化が追い打ちをかける。グレーデッドリーダーはもっと小さい一歩を用意します。明示されたレベルに合わせて書かれた、あるいは翻案された、完結した物語です。

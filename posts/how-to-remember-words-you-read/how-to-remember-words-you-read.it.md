@@ -3,6 +3,12 @@ title: "Ricordare le parole che leggi, senza dipendere dalle flashcard"
 excerpt: "Incontri ripetuti e contesto aiutano il lessico a restare. Cosa fare quando una parola continua a sfuggirti."
 publishedAt: "2026-06-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Jean-Baptiste-Siméon Chardin, The Young Schoolmistress, c. 1736 · National Gallery, London"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Jean_Sim%C3%A9on_Chardin_-_The_Young_Schoolmistress_-_WGA04750.jpg"
+coverFocus: "center 35%"
+category: "method"
 ---
 
 Cerchi una parola, capisci la definizione, e tre pagine dopo sembra di non averla mai vista. Le flashcard possono aiutare, ma non sono l’unica strada. Esiste un metodo più tranquillo: continuare a incontrarla leggendo.

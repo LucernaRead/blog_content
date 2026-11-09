@@ -3,6 +3,12 @@ title: "Chinese Graded Readers: How to Choose Books at Your HSK Level"
 excerpt: "Choose a Chinese graded reader you can finish: how HSK levels, character counts and word counts differ, five series from a 150-character first book to classical novels, and a ten-minute sample test."
 publishedAt: "2026-10-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Ma Yuan, Walking on a Mountain Path in Spring, 1190 · National Palace Museum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Ma_Yuan_mountain_path_in_spring.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 Chinese asks more of a beginner than most languages do. There is no alphabet to lean on, every new word is also a drawing to memorise, and a text that looks short on the page can still be dense with characters you have never seen.

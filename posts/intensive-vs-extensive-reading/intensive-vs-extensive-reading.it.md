@@ -3,6 +3,12 @@ title: "Lettura intensiva o estensiva: quale ti rende davvero fluente?"
 excerpt: "Ci sono due modi di leggere in una lingua che stai imparando, e la maggior parte fa quello lento senza accorgersene. Ecco la differenza — e quale ti rende davvero fluente."
 publishedAt: "2026-07-02"
 draft: false
+cover: cover.jpg
+coverCredit: "François Bonvin after Pieter Janssens Elinga, A Woman Reading, 1846–47 · Metropolitan Museum of Art"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:A_Woman_Reading,_after_Pieter_Janssens_Elinga_MET_DP805444.jpg"
+coverFocus: "center 60%"
+category: "method"
 ---
 
 Leggi nella lingua che studi, ma non ti sembra di diventare più rapido? Forse stai usando sempre la stessa modalità. Gli insegnanti distinguono lettura **intensiva** ed **estensiva**: dall’esterno sembrano uguali, ma hanno obiettivi diversi.

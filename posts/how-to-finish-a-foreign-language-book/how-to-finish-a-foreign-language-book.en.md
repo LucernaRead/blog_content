@@ -3,6 +3,12 @@ title: "How to actually finish a book in a foreign language"
 excerpt: "Starting is easy — everyone has a half-read novel in their target language. Here is how to be on the other side: the person who closes the back cover."
 publishedAt: "2026-06-28"
 draft: false
+cover: cover.jpg
+coverCredit: "Winslow Homer, The New Novel, 1877 · Springfield Museums"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:1877-winslow-homer-the-new-novel.jpg"
+coverFocus: "40% center"
+category: "method"
 ---
 
 # How to actually finish a book in a foreign language
@@ -45,6 +51,6 @@ Once you're past the first thirty or forty pages — the hardest stretch, where 
 
 The first book is the hardest one you will ever finish in a new language. The second is dramatically easier, and by the fifth you've stopped counting — you're just someone who reads in this language now. That's the whole game: not one heroic read, but the moment reading stops being an event and becomes a habit.
 
-[Lucerna](https://lucernaread.com) is built around exactly that loop: upload any EPUB or pull a book straight from Project Gutenberg, tap any word for its meaning, pronunciation, and full conjugation or case table, and your vocabulary list builds itself as you read. It supports English, German, and French lookups today, with more on the way. The friction that ends most attempts — the constant stopping — is the thing it's designed to remove, so the bookmark keeps moving and you're on the other side this time.
+[Lucerna](https://lucernaread.com) is built around exactly that loop: upload any EPUB or pull a book straight from Project Gutenberg, tap any word for its meaning, pronunciation, and full conjugation or case table, and your vocabulary list builds itself as you read. It reads books in 71 languages, twelve of them with fuller support. The friction that ends most attempts — the constant stopping — is the thing it's designed to remove, so the bookmark keeps moving and you're on the other side this time.
 
 *The Reading Journal is the editorial corner of [Lucerna](https://lucernaread.com) — a reading app for language learners. Short essays on getting fluent the slow way: one book, five pages, every night.*

@@ -3,6 +3,12 @@ title: "Contos em espanhol para iniciantes: o que ler primeiro"
 excerpt: "Comece com contos em espanhol que consegue mesmo terminar: uma leitura A1 gratuita, duas coleções verificadas por edição e um teste de um conto inteiro para escolher bem."
 publishedAt: "2026-10-10"
 draft: false
+cover: cover.jpg
+coverCredit: "Joaquín Sorolla, Boys on the Beach, 1910 · Museo del Prado"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Joaqu%C3%ADn_Sorolla_-_Chicos_en_la_playa.jpg"
+coverFocus: "center 50%"
+category: "lists"
 ---
 
 O seu primeiro livro em espanhol não tem de ser um romance. Para muitos iniciantes, uma melhor primeira chegada é um único conto: um enredo completo em uma ou duas sessões, personagens novos a cada poucos dias em vez do mesmo elenco durante um mês, e a confiança silenciosa de chegar a um final, uma e outra vez. As coleções de contos em espanhol para iniciantes são feitas exatamente para esse ritmo.

@@ -3,6 +3,12 @@ title: "Spanisch lernen durch Lesen: Ein anfängerfreundlicher Weg"
 excerpt: "Beginnen Sie mit gestuften Lektüren, steigen Sie eine einfache Leiter hinauf und lesen Sie jeden Tag ein wenig — mit einem Zehn-Minuten-Test für die richtige Buchwahl."
 publishedAt: "2026-10-09"
 draft: false
+cover: cover.jpg
+coverCredit: "Diego Velázquez, Las Meninas, 1656–57 · Museo del Prado"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Las_Meninas_01.jpg"
+coverFocus: "center 45%"
+category: "language"
 ---
 
 Spanisch durch Lesen zu lernen hat einen Vorteil, den nur wenige Sprachen bieten: Die spanische Rechtschreibung ist transparent. Wer die grundlegenden Lautregeln kennt, kann in der Regel aussprechen, was er sieht, und was er hört, wird in der Regel so geschrieben, wie es klingt. Viele alltägliche Wörter überschneiden sich zudem über gemeinsame lateinische Wurzeln mit dem Englischen, sodass Anfänger oft mehr erkennen, als sie erwarten.

@@ -3,6 +3,12 @@ title: "法語初學者短篇小說：先讀甚麼"
 excerpt: "由能真正讀完的法語短篇開始：免費 A1-A2 文本、每段下方帶詞彙表的入門讀本，以及兩套按版本核對過的 A2-B1 故事集。"
 publishedAt: "2026-10-14"
 draft: false
+cover: cover.jpg
+coverCredit: "Pierre-Auguste Renoir, La Liseuse, c. 1874–76"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Renoir_liseuse.jpg"
+coverFocus: "center 35%"
+category: "lists"
 ---
 
 你的第一本法語書不必是長篇小說。短篇故事一兩次就能讀完一個完整情節，故事集則讓你反覆體驗這種讀完的感覺，每次都是新人物，不用陪同一批角色耗上一個月。為法語初學者寫的短篇故事集，正是為這種節奏而做的。
@@ -87,7 +93,7 @@ draft: false
 
 ---
 
-## 選之前的問題
+## 常見問題
 
 ### 我是零基礎，能直接讀這些故事集嗎？
 

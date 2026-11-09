@@ -3,6 +3,12 @@ title: "Combien de temps avant de lire un roman dans une nouvelle langue ?"
 excerpt: "La réponse honnête : plus tôt que vous ne le croyez si vous lisez bien, et jamais si vous attendez de vous sentir prêt. Un calendrier réaliste — et la seule variable qui le décide."
 publishedAt: "2026-07-01"
 draft: false
+cover: cover.jpg
+coverCredit: "Vincent van Gogh, The Novel Reader, 1888"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Vincent_Van_Gogh_-_Une_liseuse_de_romans_(1888).jpg"
+coverFocus: "center 35%"
+category: "method"
 ---
 
 # Combien de temps avant de pouvoir lire un roman dans une nouvelle langue ?

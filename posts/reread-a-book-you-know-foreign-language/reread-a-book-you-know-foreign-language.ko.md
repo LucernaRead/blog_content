@@ -3,6 +3,12 @@ title: "이미 아는 책을 읽자: 첫 외국어 소설로 가는 지름길"
 excerpt: "첫 외국어 소설에서 가장 어려운 건 문법이 아니라 다음에 무슨 일이 일어날지 모른다는 것. 그러니 그 문제를 치우자: 이미 읽은 책을 읽자."
 publishedAt: "2026-07-14"
 draft: false
+cover: cover.jpg
+coverCredit: "Gerrit Dou, Old Woman Reading, 1631–32 · Rijksmuseum"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:Lezende_oude_vrouw_Oude_vrouw_lezend_in_een_lectionarium_zogenaamd_portret_van_Rembrandts_moeder,_Neeltgen_Willemsdr_van_Zuijdtbroeck_(gest_1640),_SK-A-2627.jpg"
+coverFocus: "center 45%"
+category: "method"
 ---
 
 # 이미 아는 책을 읽자: 첫 외국어 소설로 가는 지름길

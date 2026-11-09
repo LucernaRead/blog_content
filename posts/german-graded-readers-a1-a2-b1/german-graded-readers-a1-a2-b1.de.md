@@ -3,6 +3,12 @@ title: "Deutsche Lernlektüren: Das erste Buch von A1 bis B1 auswählen"
 excerpt: "Eine deutsche Lernlektüre nach Ausgabe und Niveau auswählen, vor dem Kauf eine Leseprobe testen und den Weg von A1-Märchen bis zum ersten Originalroman aufbauen."
 publishedAt: "2026-10-09"
 draft: false
+cover: cover.jpg
+coverCredit: "Albrecht Dürer, Young Hare, 1502 · Albertina"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Hare,_1502_-_Google_Art_Project.jpg"
+coverFocus: "center 45%"
+category: "lists"
 ---
 
 Sie öffnen einen deutschen Roman, erkennen die ersten Wörter – und verbringen den Rest des Absatzes im Wörterbuch. Das Verb kommt erst am Satzende, die Geschichte verschwindet hinter der Dekodierarbeit, und die Fälle erledigen den Rest. Eine Lernlektüre gibt Ihnen eine kleinere Stufe: eine vollständige Geschichte, geschrieben oder bearbeitet für ein angegebenes Niveau.

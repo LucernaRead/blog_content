@@ -3,6 +3,12 @@ title: "Imparare parole leggendo, senza vivere dentro un mazzo di flashcard"
 excerpt: "Dalla parola isolata alla frase: trasformare le letture che ti interessano in un lessico personale da ripassare."
 publishedAt: "2026-07-12"
 draft: false
+cover: cover.jpg
+coverCredit: "Albert Anker, The Village School in 1848, 1896 · Kunstmuseum Basel"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Anker_Die_Dorfschule_von_1848_1896.jpg"
+coverFocus: "center"
+category: "method"
 ---
 
 Prima o poi compare quel cimitero di carte: centinaia di parole riconosciute nel mazzo ma non in una frase. Hai ripetuto *Vergangenheit* tante volte e davanti a un testo torni a esitare. Forse manca il contesto, non la capacità di ricordare.

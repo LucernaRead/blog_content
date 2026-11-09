@@ -3,6 +3,12 @@ title: "Korean Graded Readers: How to Start Reading at Your Level"
 excerpt: "Start reading Korean with graded readers: how TOPIK, TTMIK and CEFR levels differ, five honest starting points from free online texts to a B1 story collection, and a ten-minute sample test."
 publishedAt: "2026-10-13"
 draft: false
+cover: cover.jpg
+coverCredit: "Anonymous, Munja-Chaekgeori Screen (Character-Books Screen), detail · Cleveland Museum of Art"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Anonymous_-_Munja-Chaekgeori_Screen_(Character-Books_Screen)_-_2017.6_-_Cleveland_Museum_of_Art.tiff"
+coverFocus: "center 40%"
+category: "lists"
 ---
 
 Korean has a reputation for a friendly alphabet and an unfriendly jump. Hangul can be learned in a few days, and then real books still stop most beginners cold: the vocabulary is unrelated to European languages, and sentences run in the opposite order.

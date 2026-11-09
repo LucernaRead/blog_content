@@ -3,6 +3,12 @@ title: "Когда получится прочитать роман на нов�
 excerpt: "Универсальной даты нет: выбор книги, регулярность и удобство чтения важнее самого календаря."
 publishedAt: "2026-07-01"
 draft: false
+cover: cover.jpg
+coverCredit: "Vincent van Gogh, The Novel Reader, 1888"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Vincent_Van_Gogh_-_Une_liseuse_de_romans_(1888).jpg"
+coverFocus: "center 35%"
+category: "method"
 ---
 
 Рано или поздно вы смотрите на роман на полке и спрашиваете: когда я смогу его прочитать? Ответ — не дата, а путь. Один из способов приблизить результат — начать до того, как появится полная уверенность.

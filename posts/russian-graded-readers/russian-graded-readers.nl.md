@@ -3,6 +3,12 @@ title: "Russische graded readers: boeken kiezen op jouw niveau"
 excerpt: "Kies een Russische graded reader die je uitleest: hoe CEFR-niveaus en uitgeversschalen verschillen, vijf startpunten van een gratis A1-verhaal tot een B2-ladder, en een tien-minuten-steekproef."
 publishedAt: "2026-10-26"
 draft: false
+cover: cover.jpg
+coverCredit: "Vasily Kandinsky, Landscape with Two Poplars, 1912 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Vasily_Kandinsky_-_Landscape_with_Two_Poplars_-_1931.508_-_Art_Institute_of_Chicago.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 Russisch vraagt meer van een beginner dan de meeste Europese talen. Het alfabet is nieuw, de klemtoon van een woord staat in gewone tekst niet aangegeven, en hetzelfde woord verandert van uitgang afhankelijk van zijn functie in de zin. Een bladzijde echt Russisch kan daardoor veel moeilijker aanvoelen dan de woordenschat doet vermoeden.

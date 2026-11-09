@@ -4,6 +4,12 @@ excerpt: "Les lectures graduées tadoku en japonais, expliquées : les niveaux 0
 publishedAt: "2026-10-09"
 updatedAt: "2026-10-19"
 draft: false
+cover: cover.jpg
+coverCredit: "Utagawa Hiroshige, Sudden Shower over Shin-Ōhashi Bridge and Atake, 1857"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Hiroshige,_Sudden_shower_over_Shin-%C5%8Chashi_bridge_and_Atake,_1857.jpg"
+coverFocus: "center 30%"
+category: "lists"
 ---
 
 Le japonais ajoute un mur que beaucoup d'autres langues n'ont pas : le système d'écriture lui-même. Vous pouvez terminer les dialogues d'un manuel et rester bloqué devant un vrai livre, parce que chaque page demande de gérer à la fois les kana, les kanji et un vocabulaire inconnu.

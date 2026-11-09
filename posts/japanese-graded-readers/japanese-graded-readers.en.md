@@ -4,6 +4,12 @@ excerpt: "Tadoku graded readers for Japanese, explained: the NPO’s Levels 0–
 publishedAt: "2026-10-09"
 updatedAt: "2026-10-19"
 draft: false
+cover: cover.jpg
+coverCredit: "Utagawa Hiroshige, Sudden Shower over Shin-Ōhashi Bridge and Atake, 1857"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Hiroshige,_Sudden_shower_over_Shin-%C5%8Chashi_bridge_and_Atake,_1857.jpg"
+coverFocus: "center 30%"
+category: "lists"
 ---
 
 Japanese adds a wall that many other languages do not have: the writing system itself. You can finish textbook dialogues and still stall in front of a real book, because every page asks you to handle kana, kanji, and unfamiliar vocabulary at once.

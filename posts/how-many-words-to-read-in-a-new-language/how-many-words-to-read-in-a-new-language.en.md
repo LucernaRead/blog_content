@@ -3,6 +3,12 @@ title: "How Many Words to Read in a New Language Before It Gets Easy"
 excerpt: "There's a threshold — around 1,000 words — where reading stops feeling like decoding and starts feeling like reading. What it is, and how to reach it faster."
 publishedAt: "2026-06-07"
 draft: false
+cover: cover.jpg
+coverCredit: "Kate Greenaway, A Apple Pie, 1886"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:A_Apple_Pie,_C.jpg"
+coverFocus: "center 30%"
+category: "method"
 ---
 
 The first thousand words are the hardest, because every one of them is a stop. You meet a word, you look it up, you lose the thread, you start the sentence again. It feels less like reading than like archaeology — brushing dirt off one artifact at a time and never seeing the whole site.

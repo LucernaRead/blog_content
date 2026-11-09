@@ -3,6 +3,12 @@ title: "Livres en allemand pour débutants : les premiers livres qui valent la p
 excerpt: "Choisissez votre premier livre en allemand par type, pas par célébrité : une histoire pour apprenants située à Berlin, un filet bilingue, une histoire connue, un classique en chapitres courts et un recueil de nouvelles graduées, chaque édition vérifiée."
 publishedAt: "2026-10-20"
 draft: false
+cover: cover.jpg
+coverCredit: "Adolph Menzel, The Balcony Room, 1845 · Alte Nationalgalerie"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Adolph_Menzel_-_Das_Balkonzimmer_-_Google_Art_Project.jpg"
+coverFocus: "center 45%"
+category: "lists"
 ---
 
 Cherchez des livres en allemand pour débutants et la plupart des listes vous tendent des manuels : cours de grammaire, tableaux de verbes, dictionnaires visuels et méthodes tout-en-un, comme si apprendre l'allemand et lire l'allemand étaient le même métier. Ils ne le sont pas. Un manuel vous apprend des choses sur la langue. Un premier livre vous donne de l'allemand que vous pouvez vraiment lire, page après page, jusqu'à ce que lire cesse de ressembler à du décodage. Les deux étagères se recouvrent moins que les listes ne le suggèrent.

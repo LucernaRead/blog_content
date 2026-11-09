@@ -3,6 +3,12 @@ title: "怎樣記住你讀到的詞(不用記憶卡)"
 excerpt: "記憶卡不是讓詞彙留下來的唯一辦法。反覆的、帶上下文的閱讀如何建立更持久的記憶——以及那些就是記不住的詞該怎麼處理。"
 publishedAt: "2026-06-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Jean-Baptiste-Siméon Chardin, The Young Schoolmistress, c. 1736 · National Gallery, London"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Jean_Sim%C3%A9on_Chardin_-_The_Young_Schoolmistress_-_WGA04750.jpg"
+coverFocus: "center 35%"
+category: "method"
 ---
 
 學語言有一種特別的挫敗:你查了一個詞,點點頭,三頁之後再遇見它,卻完全不認識。標準解法是記憶卡——反覆刷到記住為止。但有一種更老、更安靜的方法,不花錢,而且感覺就像在讀書,因為它就是讀書。

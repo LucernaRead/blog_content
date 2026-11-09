@@ -3,6 +3,12 @@ title: "外国語で本を読むには何語必要?"
 excerpt: "正直な数字:おおまかな理解に約5,000語族、快適に自力で読むには8,000〜9,000語族。ただし、もっと役立つ答えは「そこに着くまで待たなくていい」—— 読むことがそこへ着く方法だから。"
 publishedAt: "2026-07-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Jan Davidsz. de Heem, Still Life with Books and a Lute, 1625–30 · Rijksmuseum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Stilleven_met_boeken_Rijksmuseum_SK-A-2565.jpeg"
+coverFocus: "center"
+category: "method"
 ---
 
 # 外国語で一冊読むには、何語知っていればいい?

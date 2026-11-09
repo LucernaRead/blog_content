@@ -3,6 +3,12 @@ title: "Comment retenir les mots que vous lisez (sans fiches)"
 excerpt: "Les fiches ne sont pas le seul moyen de faire tenir le vocabulaire. Comment la lecture répétée et contextuelle construit une mémoire durable — et que faire des mots qui refusent de rester."
 publishedAt: "2026-06-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Jean-Baptiste-Siméon Chardin, The Young Schoolmistress, c. 1736 · National Gallery, London"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Jean_Sim%C3%A9on_Chardin_-_The_Young_Schoolmistress_-_WGA04750.jpg"
+coverFocus: "center 35%"
+category: "method"
 ---
 
 L'apprentissage d'une langue a une frustration bien à lui : tu cherches un mot, tu hoches la tête, et tu le retrouves trois pages plus loin en parfait inconnu. La solution habituelle, ce sont les fiches — répéter jusqu'à ce que ça tienne. Mais il existe une méthode plus ancienne et plus silencieuse, qui ne coûte rien et ressemble à de la lecture, parce que c'en est.

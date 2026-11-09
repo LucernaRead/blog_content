@@ -3,6 +3,12 @@ title: "Dual Language Books: A Beginner's Guide to Parallel Texts"
 excerpt: "A dual language book prints the original and its translation together, so you can check yourself without leaving the story. Which layout to choose, which adult editions are worth starting with, how to read one without leaning on it, and when to graduate to a book with no translation beside it."
 publishedAt: "2026-10-17"
 draft: false
+cover: cover.jpg
+coverCredit: "Gabriel Metsu, Woman Reading a Letter, 1665 · National Gallery of Ireland"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Woman_Reading_a_Letter_by_Gabri%C3%ABl_Metsu.jpg"
+coverFocus: "center 45%"
+category: "method"
 ---
 
 Search for dual language books and most of what you find is made for children: picture books with English on one side and a home language on the other, sold to schools and bilingual families. Those books are fine at what they do. They are a poor guide for an adult learning to read Spanish, French or German on their own, because the adult versions exist too — they are just shelved under a different name, parallel texts, and they work by different rules.

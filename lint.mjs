@@ -31,7 +31,7 @@
  * 为什么值得有这个 lint:这三条一旦破了,坏处都是**构建时才炸或者根本不炸**
  * (图片 404 上线了才发现)。结构约束在写的时候拦住最便宜。
  */
-import { readdirSync, readFileSync, writeFileSync, existsSync } from 'node:fs';
+import { readdirSync, readFileSync, writeFileSync, existsSync, statSync } from 'node:fs';
 import { join, extname } from 'node:path';
 
 /** 与 app 的 UI 语言一致(payload/locales.ts 的 BLOG_LOCALES)。 */
@@ -44,6 +44,8 @@ const ROOT_ALLOW = new Set([
   // 形态:faq/<locale>.md,frontmatter 带 section 标题,`## ` 是问题,下面是答案。
   'faq',
   'lint.mjs',
+  // 给文章配封面:图复制进文章目录,封面字段一次写进 12 个语言文件(用法见文件头、AGENTS.md「配图」)。
+  'set-cover.mjs',
   'index.json',
   'README.md',
   'AGENTS.md',
@@ -60,10 +62,52 @@ const ROOT_ALLOW = new Set([
   'node_modules',
   '.github',
   '.gitignore',
+  // 写作 skill(transcreation / humanizer / humanizer-zh),用法见 AGENTS.md「写法」。
+  '.claude',
 ]);
 const SLUG_RE = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
 const INDEX_FILE = 'index.json';
 const REQUIRED_FM = ['title', 'excerpt', 'publishedAt', 'draft'];
+
+/**
+ * 封面(配图)规则 —— 写作流程见 AGENTS.md「配图」。
+ *
+ * 博客改版后每篇文章都有一张公版名画做封面,列表卡片、首屏和文章题图都用它,
+ * 图下必须显示出处。规则在这里硬拦,而不是只写在文档里:内容由 AI 每天更新,
+ * 文档会被跳过,lint 不会。
+ *
+ * **每一篇**(非草稿)都必须有封面和栏目,站点没有兜底图(用户 2026-11-08:不要有 default 图在
+ * landingpage 仓里)。2026-10-31 之前的 46 篇当天补齐了封面(`set-cover.mjs`)。
+ * 封面出处 / 授权 / 来源必须齐;同一件作品(`coverSource`)只给一篇用。
+ */
+/** 标题 / 摘要长度上限从这天起发布的文章开始强制(见 LENGTH_LIMITS)。 */
+const LIMITS_FROM = '2026-10-31';
+/** 封面相关字段:12 个语言版本必须**完全一致**(站点按语言读 md,任一语言缺了就掉回兜底图)。 */
+const COVER_KEYS = ['cover', 'coverCredit', 'coverLicense', 'coverSource', 'coverFocus', 'category'];
+const COVER_LICENSES = ['CC0', 'public-domain'];
+const CATEGORIES = ['lists', 'method', 'tools', 'language'];
+const COVER_EXTS = ['.jpg', '.jpeg', '.png', '.webp'];
+/** 卡片上显示约 300px 宽;1000px 宽、质量 ~72 的 jpg 通常 100–300KB。超过多半是没压缩。 */
+const COVER_MAX_BYTES = 400 * 1024;
+/** object-position 的写法:`center` / `center 30%` / `40% 25%` 这类。 */
+const FOCUS_RE = /^(left|center|right|\d{1,3}%)( (top|center|bottom|\d{1,3}%))?$/;
+
+/**
+ * 标题 / 摘要的长度上限(#213)。只对 LIMITS_FROM 起发布的文章强制。
+ *
+ * 依据是站点的版式,不是审美:
+ *   - 列表卡片的摘要只显示 2 行,首屏头条 3 行,超出的被截成「…」;
+ *   - 摘要同时是搜索结果的描述,搜索引擎大约只显示 155–160 个拉丁字符;
+ *   - 中文标题超过 24 字,在手机首屏要占 4 行(实测 31 字的那篇)。
+ * 同一句话,日韩文的字数比中文多三到五成,拉丁字母语言里德法最长 —— 所以分三档。
+ * 按字符(Unicode 码点)计,中日韩一个字、拉丁字母一个字母都算 1。
+ */
+const LENGTH_LIMITS = [
+  { locales: ['zh', 'zh-HK'], title: 24, excerpt: 80 },
+  { locales: ['ja', 'ko'], title: 32, excerpt: 110 },
+  { locales: ['en', 'de', 'fr', 'es', 'pt', 'nl', 'it', 'ru'], title: 80, excerpt: 180 },
+];
+const limitFor = (loc) => LENGTH_LIMITS.find((l) => l.locales.includes(loc));
 
 const problems = [];
 const fail = (where, msg) => problems.push(`${where}: ${msg}`);
@@ -74,6 +118,9 @@ const index = [];
 
 /** frontmatter 的极简解析 —— 只认 `key: value`,足够校验存在性和格式。 */
 function frontmatter(raw, where) {
+  // Windows 检出(core.autocrlf=true)时文件是 CRLF。不统一的话 `---\n` 一条都对不上,
+  // 每个 md 都被判成「缺少 frontmatter」,提交钩子在 Windows 上必挂。
+  raw = raw.replace(/\r\n?/g, '\n');
   if (!raw.startsWith('---\n')) {
     fail(where, '缺少 frontmatter(文件必须以 `---` 开头)');
     return null;
@@ -107,6 +154,54 @@ function readFrontmatterOf(dir, locale) {
     return frontmatter(readFileSync(join('posts', dir, `${dir}.${locale}.md`), 'utf8'), '') ?? {};
   } catch {
     return {};
+  }
+}
+
+/** 封面与栏目:见 COVER_* 常量上方的说明。base = 默认语言(en)的 frontmatter。 */
+function checkCover(dir, base, files) {
+  const where = `posts/${dir}`;
+  const required = base.draft !== 'true';
+
+  // 12 个语言版本的封面字段必须一致。
+  for (const loc of LOCALES) {
+    if (loc === DEFAULT_LOCALE) continue;
+    const fm = readFrontmatterOf(dir, loc);
+    for (const k of COVER_KEYS) {
+      if ((fm[k] ?? '') !== (base[k] ?? '')) {
+        fail(`${where}/${dir}.${loc}.md`, `\`${k}\` 必须和 en 版完全一致(en:\`${base[k] ?? ''}\`,这里:\`${fm[k] ?? ''}\`)`);
+      }
+    }
+  }
+
+  if (base.category && !CATEGORIES.includes(base.category)) {
+    fail(where, `category 只能是 ${CATEGORIES.join(' / ')},现在是 \`${base.category}\``);
+  }
+  if (required && !base.category) {
+    fail(where, `每篇文章都必须写 category(${CATEGORIES.join(' / ')})`);
+  }
+
+  if (!base.cover) {
+    if (required) fail(where, '每篇文章都必须有封面 cover(站点没有兜底图)—— 找图流程见 AGENTS.md「配图」');
+    return;
+  }
+  if (!COVER_EXTS.includes(extname(base.cover).toLowerCase())) {
+    fail(where, `cover 必须是 ${COVER_EXTS.join(' / ')},现在是 \`${base.cover}\``);
+  }
+  if (files.includes(base.cover)) {
+    const size = statSync(join('posts', dir, base.cover)).size;
+    if (size > COVER_MAX_BYTES) {
+      fail(where, `cover 有 ${Math.round(size / 1024)}KB,上限 ${COVER_MAX_BYTES / 1024}KB —— 缩到 1000px 宽、jpg 质量 ~72`);
+    }
+  }
+  if (!base.coverCredit) fail(where, 'cover 必须配 coverCredit(作者, 作品名, 年份 · 馆藏 —— 查不到的不写)');
+  if (!COVER_LICENSES.includes(base.coverLicense ?? '')) {
+    fail(where, `coverLicense 只能是 ${COVER_LICENSES.join(' / ')},现在是 \`${base.coverLicense ?? ''}\` —— 其它授权的图不能用`);
+  }
+  if (!/^https:\/\/\S+$/.test(base.coverSource ?? '')) {
+    fail(where, 'cover 必须配 coverSource(授权可查的来源页 URL,如 Wikimedia Commons 的 File: 页)');
+  }
+  if (base.coverFocus && !FOCUS_RE.test(base.coverFocus)) {
+    fail(where, `coverFocus 写成 object-position 的形式,如 \`center 30%\`,现在是 \`${base.coverFocus}\``);
   }
 }
 
@@ -166,6 +261,13 @@ function checkPost(dir) {
       if (fm.draft && !['true', 'false'].includes(fm.draft)) {
         fail(w, `draft 只能是 true / false,现在是 \`${fm.draft}\``);
       }
+      const lim = limitFor(md.slice(dir.length + 1, -3));
+      if (lim && fm.publishedAt >= LIMITS_FROM && fm.draft !== 'true') {
+        for (const k of ['title', 'excerpt']) {
+          const n = [...(fm[k] ?? '')].length;
+          if (n > lim[k]) fail(w, `${k} 有 ${n} 字,上限 ${lim[k]} —— 见 AGENTS.md「标题与摘要」`);
+        }
+      }
       if (fm.slug && !SLUG_RE.test(fm.slug)) {
         fail(w, `slug 覆盖必须是小写 kebab,现在是 \`${fm.slug}\``);
       }
@@ -200,12 +302,18 @@ function checkPost(dir) {
     }
   }
 
-  // 收进索引。publishedAt / cover 不随语言变,取默认语言那份。
+  // 收进索引。publishedAt / 封面 / 栏目不随语言变,取默认语言那份。
   const base = readFrontmatterOf(dir, DEFAULT_LOCALE);
+  checkCover(dir, base, files);
   index.push({
     dir,
     publishedAt: base.publishedAt ?? '',
     cover: base.cover || null,
+    coverCredit: base.coverCredit || null,
+    coverLicense: base.coverLicense || null,
+    coverSource: base.coverSource || null,
+    coverFocus: base.coverFocus || null,
+    category: base.category || null,
     locales: byLocale,
   });
 
@@ -271,6 +379,16 @@ function main() {
   }
   checkFaq();
 
+  // ── 同一件作品只配一篇 ─────────────────────────────────────────────
+  // 「按语言浏览」筛出来整排同一张画,是原来兜底图的毛病(一张 Greenaway 配了 5 篇)。按来源页判同一件作品。
+  const bySource = new Map();
+  for (const p of index) {
+    if (!p.coverSource) continue;
+    const other = bySource.get(p.coverSource);
+    if (other) fail(`posts/${p.dir}`, `封面和 posts/${other} 是同一件作品(${p.coverSource});每篇换一张 —— 见 AGENTS.md「配图」`);
+    else bySource.set(p.coverSource, p.dir);
+  }
+
   if (problems.length) {
     console.error(`✗ ${problems.length} 处不合规:\n`);
     for (const p of problems) console.error('  ' + p);
@@ -296,7 +414,8 @@ function main() {
     return;
   }
 
-  const current = existsSync(INDEX_FILE) ? readFileSync(INDEX_FILE, 'utf8') : null;
+  // Windows 检出的 index.json 是 CRLF,比对前统一,否则永远判成「索引过期」。
+  const current = existsSync(INDEX_FILE) ? readFileSync(INDEX_FILE, 'utf8').replace(/\r\n?/g, '\n') : null;
   if (current !== json) {
     console.error(
       `✗ ${INDEX_FILE} 不是最新的 —— 改完 md 要跑 \`node lint.mjs --write\`。\n` +

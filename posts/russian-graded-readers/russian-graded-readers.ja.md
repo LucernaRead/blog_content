@@ -3,6 +3,12 @@ title: "ロシア語のグレーデッド・リーダー：レベルに合った
 excerpt: "読み切れるロシア語のグレーデッド・リーダーを選ぶ：CEFRレベルと出版社独自の基準の違い、無料のA1ストーリーからB2の階段まで5つの出発点、10分間の試し読みテスト。"
 publishedAt: "2026-10-26"
 draft: false
+cover: cover.jpg
+coverCredit: "Vasily Kandinsky, Landscape with Two Poplars, 1912 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Vasily_Kandinsky_-_Landscape_with_Two_Poplars_-_1931.508_-_Art_Institute_of_Chicago.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 ロシア語は、多くのヨーロッパ言語よりも初学者に多くを求める。文字は新しく、単語のアクセントは通常のテキストでは 表示されず、同じ単語が文中の役割によって語尾を変える。そのため、実際のロシア語の1ページは、語彙量から想像するよりずっと難しく感じられることがある。

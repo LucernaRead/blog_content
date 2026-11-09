@@ -3,6 +3,12 @@ title: "Duitse graded readers: zo kies je je eerste boek van A1 tot B1"
 excerpt: "Controleer de editie en het niveau, test een fragment voordat je koopt, en bouw een pad van A1-sprookjes naar je eerste originele roman."
 publishedAt: "2026-10-09"
 draft: false
+cover: cover.jpg
+coverCredit: "Albrecht Dürer, Young Hare, 1502 · Albertina"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Hare,_1502_-_Google_Art_Project.jpg"
+coverFocus: "center 45%"
+category: "lists"
 ---
 
 Je opent een Duitse roman, herkent de eerste paar woorden en brengt de rest van de alinea door in een woordenboek. Het werkwoord komt pas aan het einde van de zin, het verhaal verdwijnt achter het decodeerwerk en de naamvallen doen de rest. Een graded reader geeft je een kleinere stap: een compleet verhaal, geschreven of bewerkt voor een vermeld niveau.

@@ -3,6 +3,12 @@ title: "パリジャンのように読む:この夏に始める短いフラン�
 excerpt: "A2からC1までの読書のはしご。すべてプロジェクト・グーテンベルクで無料、どれもあなたの六月を台無しにするほど長くない。"
 publishedAt: "2026-06-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Claude Monet, Impression, Sunrise, 1872 · Musée Marmottan Monet"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Monet_-_Impression,_Sunrise.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 # パリジャンのように読む:この夏から始める短いフランス語小説7冊

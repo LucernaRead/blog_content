@@ -3,6 +3,12 @@ title: "Sollte man beim Lesen jedes Wort nachschlagen? Nur die, die den Satz blo
 excerpt: "Nicht jedes Wort nachschlagen: nur die Wörter, die den Satz blockieren — die immer wiederkommen, den Satz zum Einsturz bringen oder die Handlung tragen —, den Rest ziehen lassen. Eine Handvoll Nachschlagevorgänge pro Seite genügt, damit die Geschichte in Bewegung bleibt."
 publishedAt: "2026-06-13"
 draft: false
+cover: cover.jpg
+coverCredit: "Quentin Matsys, The Moneylender and His Wife, 1514 · Louvre"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Massysm_Quentin_%E2%80%94_The_Moneylender_and_his_Wife_%E2%80%94_1514.jpg"
+coverFocus: "center 65%"
+category: "method"
 ---
 
 Jeder Lernende trifft schon auf der ersten Seite auf dieselbe Weggabelung: Ein unbekanntes Wort taucht auf, und du musst dich entscheiden. Anhalten und nachschlagen, oder weiterlesen und hoffen, dass die Bedeutung von selbst auftaucht? Übertreib es in die eine oder andere Richtung, und Lesen wird zur Plackerei — entweder ein zerstückelter Marsch durchs Wörterbuch oder ein Nebel halb verstandener Sätze. Die gute Nachricht: Es gibt eine einfache Faustregel.

@@ -3,6 +3,12 @@ title: "Leituras graduadas em espanhol: como escolher o seu primeiro livro, de A
 excerpt: "Verifique a edição e o nível, teste uma amostra antes de comprar e construa um caminho das histórias A1 até ao seu primeiro romance original."
 publishedAt: "2026-10-08"
 draft: false
+cover: cover.jpg
+coverCredit: "Francisco Goya, The Parasol, 1777 · Museo del Prado"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:El_Quitasol_(Goya).jpg"
+coverFocus: "center 40%"
+category: "lists"
 ---
 
 Abre um romance em espanhol, reconhece as primeiras palavras e passa o resto do parágrafo no dicionário. A história desaparece atrás do trabalho de a decifrar. Uma leitura graduada dá-lhe um degrau mais pequeno: uma história completa, escrita ou adaptada para um nível de aprendizagem declarado.

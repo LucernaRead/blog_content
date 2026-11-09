@@ -3,6 +3,12 @@ title: "中文分級讀物：按你的 HSK 水平選書"
 excerpt: "選一本能讀完的中文分級讀物：HSK 等級、漢字量與詞彙量有何不同，從 150 個漢字的第一本書到古典名著改編的五套叢書，以及十分鐘試讀法。"
 publishedAt: "2026-10-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Ma Yuan, Walking on a Mountain Path in Spring, 1190 · National Palace Museum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Ma_Yuan_mountain_path_in_spring.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 中文對初學者要求比多數語言更高。沒有字母可以依憑，每個生詞同時也是一幅要記住的圖，一頁看起來不長的文字，可能密密麻麻全是你沒見過的漢字。
@@ -95,7 +101,7 @@ App 把同樣的分級包裝成每日習慣。Du Chinese 按等級組織了 3,00
 
 ---
 
-## 選書前的問題
+## 常見問題
 
 ### 我的第一本分級讀物該選哪個 HSK 級別？
 

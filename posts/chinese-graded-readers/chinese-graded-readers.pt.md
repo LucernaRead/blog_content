@@ -3,6 +3,12 @@ title: "Leituras graduadas em chinês: como escolher livros para o seu nível HS
 excerpt: "Escolha uma leitura graduada em chinês que consiga terminar: como diferem os níveis HSK, a contagem de caracteres e a de palavras, cinco séries do primeiro livro de 150 caracteres aos romances clássicos, e um teste de amostra de dez minutos."
 publishedAt: "2026-10-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Ma Yuan, Walking on a Mountain Path in Spring, 1190 · National Palace Museum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Ma_Yuan_mountain_path_in_spring.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 O chinês pede mais a um iniciante do que a maioria das línguas. Não há alfabeto em que se apoiar, cada palavra nova é também um desenho para memorizar, e um texto que na página parece curto pode estar denso de caracteres que você nunca viu.

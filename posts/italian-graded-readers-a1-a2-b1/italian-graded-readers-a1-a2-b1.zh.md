@@ -3,6 +3,12 @@ title: "意大利语分级读物：如何选择 A1–B1 的书"
 excerpt: "意大利语分级读物分属两家出版社——A1 来自 Alma，A2–B1 来自 Black Cat——本文教你如何选对级别，并用十分钟测试一本书是否适合你。"
 publishedAt: "2026-10-09"
 draft: false
+cover: cover.jpg
+coverCredit: "Sandro Botticelli, Primavera, 1480–85 · Uffizi"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Botticelli-primavera.jpg"
+coverFocus: "center 30%"
+category: "lists"
 ---
 
 你打开一本意大利语小说，不到一页就被动词变位淹没。每三句就要查一次词典，故事始终推进不下去，书又被放回了书架。这并不能说明你的意大利语不行，通常只是说明这一步迈得太大了。
@@ -75,7 +81,7 @@ A2 的额外选择：Black Cat 的《La Bella Italia》是介绍意大利各地�
 
 ---
 
-## 选择之前的问题
+## 常见问题
 
 ### 完全不会意大利语，可以从 A1 开始吗？
 

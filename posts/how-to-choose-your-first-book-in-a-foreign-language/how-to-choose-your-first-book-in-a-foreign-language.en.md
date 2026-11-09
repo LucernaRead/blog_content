@@ -3,6 +3,12 @@ title: "How to Choose Your First Book in a Foreign Language"
 excerpt: "The right first book does half the work for you. A practical, beginner-friendly guide to picking a book in your target language you'll actually finish."
 publishedAt: "2026-06-03"
 draft: false
+cover: cover.jpg
+coverCredit: "Berthe Morisot, Reading, 1873 · Cleveland Museum of Art"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Berthe_Morisot_-_Reading_-_1950.89_-_Cleveland_Museum_of_Art.tiff"
+coverFocus: "center"
+category: "method"
 ---
 
 Most people choose their first foreign-language book the way they choose a New Year’s resolution: ambitiously, and a little out of spite. They reach for the classic they’ve always meant to read, hit a wall of unfamiliar grammar on page two, and conclude that they’re not ready. The book was the problem, not you.

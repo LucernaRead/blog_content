@@ -3,6 +3,12 @@ title: "Как учить язык чтением: пять страниц ка�
 excerpt: "Небольшая ежедневная привычка устойчивее редких учебных марафонов. Как встроить чтение в обычный вечер."
 publishedAt: "2026-06-10"
 draft: false
+cover: cover.jpg
+coverCredit: "Gerard ter Borch, Woman Reading a Book · National Museum in Warsaw"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Gerard_ter_Borch_II_-_Woman_reading_a_book_-_M.Ob.847_MNW_-_National_Museum_in_Warsaw.jpg"
+coverFocus: "center 55%"
+category: "method"
 ---
 
 Мы переоцениваем, сколько прочитаем за выходные, и недооцениваем, сколько — за год. Пять часов со словарём похожи на серьёзный прогресс, но повторить их трудно. Страница каждый вечер кажется мелочью, пока за спиной не появляются законченные книги.

@@ -3,6 +3,12 @@ title: "如何通过阅读学中文"
 excerpt: "从第一篇带拼音标注的故事开始学中文：怎样在没有空格的文本里认出词、怎样分阶段去掉拼音、怎样从分级读物爬到分级新闻，以及避开让中文读者卡住的三个坑。"
 publishedAt: "2026-10-25"
 draft: false
+cover: cover.jpg
+coverCredit: "Fan Kuan, Travelers Among Mountains and Streams, c. 1000 · National Palace Museum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Fan_Kuan_-_Travelers_Among_Mountains_and_Streams_-_Google_Art_Project.jpg"
+coverFocus: "center 45%"
+category: "language"
 ---
 
 通过阅读学中文是可行的，但中文会改变学习的顺序。学西班牙语或法语时，字母表让你第一天就能拼读一页，唯一的障碍是词汇。学中文时，页面本身就是一课：词与词之间没有空格，汉字不表音，声调还会改变词义。

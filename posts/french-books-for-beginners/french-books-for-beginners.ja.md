@@ -3,6 +3,12 @@ title: "初心者のためのフランス語の本：最初に読む価値のあ
 excerpt: "有名かどうかではなく、本の種類で最初のフランス語の本を選ぶ。ガイド付きリーダー、対訳本、知っている物語、短い章の古典、漫画。各本とも版を確認済み。"
 publishedAt: "2026-10-19"
 draft: false
+cover: cover.jpg
+coverCredit: "Édouard Manet, Woman Reading, 1878–79 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:%C3%89douard_Manet_-_Woman_Reading_-_1933.435_-_Art_Institute_of_Chicago.jpg"
+coverFocus: "center 28%"
+category: "lists"
 ---
 
 「初心者向けフランス語の本」を検索すると、たいていのリストはすべてを一緒くたにします。文法教材、動詞表、短編集、子どもの古典、有名な小説。まるで1種類の本がすべての役割を果たせるかのようです。果たせません。学習者のために書かれたリーダー、本文の隣に訳がある本、別の言語ですでに知っている有名な物語は、求められる努力の種類が違います。正しい最初の1冊は、その努力を明日も繰り返せる本です。

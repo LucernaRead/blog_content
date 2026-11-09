@@ -3,6 +3,12 @@ title: "Italian Graded Readers: How to Choose A1–B1 Books"
 excerpt: "Italian graded readers are split across two publishers — A1 from Alma, A2–B1 from Black Cat — so here is how to choose the right level and test it in ten minutes."
 publishedAt: "2026-10-09"
 draft: false
+cover: cover.jpg
+coverCredit: "Sandro Botticelli, Primavera, 1480–85 · Uffizi"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Botticelli-primavera.jpg"
+coverFocus: "center 30%"
+category: "lists"
 ---
 
 You open an Italian novel and within a page you are drowning in verb forms. Every third sentence sends you to a dictionary, the story never gets moving, and the book goes back on the shelf. That is not a verdict on your Italian. It usually means the step was too big.

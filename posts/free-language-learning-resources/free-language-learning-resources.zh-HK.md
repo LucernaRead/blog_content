@@ -3,6 +3,12 @@ title: "值得收藏的免費語言學習資源"
 excerpt: "一份精選的、真正免費的閱讀與練習資源：公版書、分級讀物、簡易新聞與初級課程，已於 2026-10-18 核查並持續更新。"
 publishedAt: "2026-10-18"
 draft: false
+cover: cover.jpg
+coverCredit: "Giuseppe Maria Crespi, Bookshelves with Music Books, 1725 · International Museum and Library of Music"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Giuseppe_Maria_Crespi_-_Buchregal_mit_Musikschriften_1725-30.jpeg"
+coverFocus: "center 40%"
+category: "tools"
 ---
 
 靠閱讀學一門語言，靠的是材料。你需要適合自己程度的書，讀完之後還要有下一本，還要有那種在沒力氣啃書的日子裡能讀完的短文。這類材料有相當一部分是免費的、合法的，前提是你知道去哪兒找。

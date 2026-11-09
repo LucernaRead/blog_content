@@ -3,6 +3,12 @@ title: "読書で言語を学ぶ(毎晩5ページ法)"
 excerpt: "ごく小さな毎日の習慣で流暢さまで読み進む。なぜ毎晩十五分がマラソン学習に勝つのか、そしてその習慣の作り方。"
 publishedAt: "2026-06-10"
 draft: false
+cover: cover.jpg
+coverCredit: "Gerard ter Borch, Woman Reading a Book · National Museum in Warsaw"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Gerard_ter_Borch_II_-_Woman_reading_a_book_-_M.Ob.847_MNW_-_National_Museum_in_Warsaw.jpg"
+coverFocus: "center 55%"
+category: "method"
 ---
 
 人は週末に読める量を過大に見積もり、一年に読める量を過小に見積もる。マラソンのような一気読み —— 辞書を横に五時間、新しい決意つき —— は前進した気になるが、二度目の週末までもつことはめったにない。一方、毎晩一ページめくる読者は、春までに棚一段を読み終え、坂を登っていたことにほとんど気づかない。

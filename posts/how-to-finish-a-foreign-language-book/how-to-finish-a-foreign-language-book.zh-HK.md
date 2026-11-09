@@ -3,6 +3,12 @@ title: "怎樣才能真的讀完一本外語書"
 excerpt: "開始很容易 —— 每個人都有一本讀了一半的外語小說。這裡說的是怎麼站到另一邊:做那個合上封底的人。"
 publishedAt: "2026-06-28"
 draft: false
+cover: cover.jpg
+coverCredit: "Winslow Homer, The New Novel, 1877 · Springfield Museums"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:1877-winslow-homer-the-new-novel.jpg"
+coverFocus: "40% center"
+category: "method"
 ---
 
 # 怎樣才能真的讀完一本外語書

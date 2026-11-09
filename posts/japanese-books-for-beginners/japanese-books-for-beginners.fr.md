@@ -3,6 +3,12 @@ title: "Livres en japonais pour débutants : les premiers livres qui valent la p
 excerpt: "Choisissez votre premier livre en japonais par type, pas par célébrité : un départ tadoku gratuit, un filet bilingue, un manga avec furigana, une histoire familière et un recueil gradué, chaque édition vérifiée."
 publishedAt: "2026-10-21"
 draft: false
+cover: cover.jpg
+coverCredit: "Kitagawa Utamaro, Woman Reading a Letter, 1806 · Cleveland Museum of Art"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Woman_Reading_a_Letter_(from_the_series_Seven_Episodes_in_the_Life_of_Komac_-_1943.23_-_Cleveland_Museum_of_Art.jpg"
+coverFocus: "center 22%"
+category: "lists"
 ---
 
 Cherchez des livres en japonais pour débutants et la plupart des listes vous tendent des manuels : Genki, Minna no Nihongo, cahiers de kanji et dictionnaires de grammaire, comme si apprendre le japonais et lire le japonais étaient le même travail. Ce n'est pas le cas. Un manuel vous enseigne la langue par leçons. Un premier livre vous donne un japonais que vous pouvez lire pour l'histoire, page après page, jusqu'à ce que la page cesse de ressembler à une énigme. Les deux rayons se recouvrent moins que les listes ne le suggèrent.

@@ -3,6 +3,12 @@ title: "Intensive vs extensive reading: which one builds fluency?"
 excerpt: "There are two ways to read in a language you are learning, and most people do the slow one by accident. Here is the difference — and which one actually gets you fluent."
 publishedAt: "2026-07-02"
 draft: false
+cover: cover.jpg
+coverCredit: "François Bonvin after Pieter Janssens Elinga, A Woman Reading, 1846–47 · Metropolitan Museum of Art"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:A_Woman_Reading,_after_Pieter_Janssens_Elinga_MET_DP805444.jpg"
+coverFocus: "center 60%"
+category: "method"
 ---
 
 # Intensive vs extensive reading: which one builds fluency?
@@ -35,6 +41,6 @@ Most people have this exactly backwards. They read intensively (because that's w
 
 Extensive reading only works if the friction stays low. The instant looking up a word becomes a chore, you drift back into intensive mode by default — stopping, digging, losing the thread — and the volume dies. So the whole trick is making the occasional lookup cost almost nothing, so you can clear a blocking word and stay in the flow of the story.
 
-[Lucerna](https://lucernaread.com) is built for extensive reading. Upload any EPUB or pull a book from Project Gutenberg, read for the story, and when a word does block you, one tap gives you its meaning, pronunciation, and full conjugation or case table — then you're back in the sentence, no dictionary, no lost place. Your vocabulary list builds itself from the words you stopped on, so the intensive work happens quietly in the background while you just read. English, German, and French lookups today, more on the way.
+[Lucerna](https://lucernaread.com) is built for extensive reading. Upload any EPUB or pull a book from Project Gutenberg, read for the story, and when a word does block you, one tap gives you its meaning, pronunciation, and full conjugation or case table — then you're back in the sentence, no dictionary, no lost place. Your vocabulary list builds itself from the words you stopped on, so the intensive work happens quietly in the background while you just read. Books in 71 languages, twelve with fuller support.
 
 *The Reading Journal is the editorial corner of [Lucerna](https://lucernaread.com) — a reading app for language learners. Short essays on getting fluent the slow way: one book, five pages, every night.*

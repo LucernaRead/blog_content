@@ -3,6 +3,12 @@ title: "Come imparare il cinese leggendo"
 excerpt: "Impara il cinese leggendo, a partire dal primo racconto con pinyin: come riconoscere le parole in un testo senza spazi, come abbandonare il pinyin per gradi, come salire dai lettori graduati alle notizie graduate e come evitare le tre trappole che bloccano i lettori di cinese."
 publishedAt: "2026-10-25"
 draft: false
+cover: cover.jpg
+coverCredit: "Fan Kuan, Travelers Among Mountains and Streams, c. 1000 · National Palace Museum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Fan_Kuan_-_Travelers_Among_Mountains_and_Streams_-_Google_Art_Project.jpg"
+coverFocus: "center 45%"
+category: "language"
 ---
 
 Si può imparare il cinese leggendo, ma il cinese cambia l'ordine delle operazioni. In spagnolo o in francese, l'alfabeto permette di leggere una pagina ad alta voce fin dal primo giorno, e l'unico muro è il vocabolario. In cinese, la pagina stessa fa parte della lezione: niente spazi tra le parole, caratteri che non scandiscono il proprio suono e toni che cambiano il significato.

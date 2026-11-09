@@ -3,6 +3,12 @@ title: "ベルリンっ子のように読む:この夏に始める短いドイ�
 excerpt: "A2からC1までの読書のはしご。すべてプロジェクト・グーテンベルクで無料、どれもあなたの忍耐より長くない。"
 publishedAt: "2026-06-26"
 draft: false
+cover: cover.jpg
+coverCredit: "Caspar David Friedrich, Woman at a Window, 1822 · Alte Nationalgalerie"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Frau_am_Fenster_-_Google_Art_Project.jpg"
+coverFocus: "center 40%"
+category: "lists"
 ---
 
 # ベルリンっ子のように読む:この夏から始める短いドイツ語の本7冊

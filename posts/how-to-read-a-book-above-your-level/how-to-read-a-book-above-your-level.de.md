@@ -3,6 +3,12 @@ title: "Wie man ein Buch über seinem Niveau liest, ohne unterzugehen"
 excerpt: "Ein Buch ein oder zwei Stufen über Ihrem Niveau zu lesen kann funktionieren — wenn Sie die Abdeckungslücke kennen, mit Verständnis-fürs-Ganze-Taktiken arbeiten und nach zwei Kapiteln urteilen, nicht nach zwei Seiten."
 publishedAt: "2026-10-09"
 draft: false
+cover: cover.jpg
+coverCredit: "Vittore Carpaccio, Saint Augustine in His Study, 1502 · Scuola di San Giorgio degli Schiavoni"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Vittore_Carpaccio_026.jpg"
+coverFocus: "center"
+category: "method"
 ---
 
 Das Buch, das Sie wirklich lesen wollen, ist zu schwer. Ihre gestuften Lektüren sind noch auf A2 oder B1, und das Buch, das Sie ruft, ist ein Roman im Original — echte Dialoge, Idiome, lange Sätze, keinerlei Wortschatzkontrolle. Sie stocken im zweiten Absatz und fragen sich, ob Sie sich übernehmen.

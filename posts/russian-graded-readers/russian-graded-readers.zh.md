@@ -3,6 +3,12 @@ title: "俄语分级读物：如何按水平选书"
 excerpt: "选一本能读完的俄语分级读物：CEFR 等级与出版社自定标准有何不同、从免费 A1 故事到 B2 进阶阶梯的五个起点，以及十分钟试读法。"
 publishedAt: "2026-10-26"
 draft: false
+cover: cover.jpg
+coverCredit: "Vasily Kandinsky, Landscape with Two Poplars, 1912 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Vasily_Kandinsky_-_Landscape_with_Two_Poplars_-_1931.508_-_Art_Institute_of_Chicago.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 俄语对初学者提出的要求比多数欧洲语言更高。字母是新的，单词的重音在普通文本里不标注，同一个词还会根据在句中的作用改变词尾。一页真正的俄语读起来，可能比它的词汇量看上去难得多。
@@ -89,7 +95,7 @@ draft: false
 
 ---
 
-## 选择之前的问题
+## 常见问题
 
 ### 我的第一本俄语分级读物应该是什么水平？
 

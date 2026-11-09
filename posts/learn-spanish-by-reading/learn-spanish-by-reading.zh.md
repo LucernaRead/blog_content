@@ -3,6 +3,12 @@ title: "如何通过阅读学西班牙语：一条适合初学者的路径"
 excerpt: "先读分级读物，再沿着阶梯慢慢往上，每天读一点，并用十分钟测试挑到难度刚好的书。"
 publishedAt: "2026-10-09"
 draft: false
+cover: cover.jpg
+coverCredit: "Diego Velázquez, Las Meninas, 1656–57 · Museo del Prado"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Las_Meninas_01.jpg"
+coverFocus: "center 45%"
+category: "language"
 ---
 
 通过阅读学西班牙语，有一个很多语言都没有的优势：西班牙语拼写透明。掌握基本的发音规则后，看到的词通常就能读出来，听到的声音通常也正是那样写出来的。许多日常词汇还与英语共享拉丁词根，所以初学者往往能认出的东西比预想的更多。
@@ -71,7 +77,7 @@ draft: false
 
 ---
 
-## 开始之前的问题
+## 常见问题
 
 ### 只靠阅读就能学会西班牙语吗？
 

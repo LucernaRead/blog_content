@@ -3,6 +3,12 @@ title: "怎样记住你读到的词(不用记忆卡)"
 excerpt: "记忆卡不是让词汇留下来的唯一办法。反复的、带上下文的阅读如何建立更持久的记忆——以及那些就是记不住的词该怎么处理。"
 publishedAt: "2026-06-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Jean-Baptiste-Siméon Chardin, The Young Schoolmistress, c. 1736 · National Gallery, London"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Jean_Sim%C3%A9on_Chardin_-_The_Young_Schoolmistress_-_WGA04750.jpg"
+coverFocus: "center 35%"
+category: "method"
 ---
 
 学语言有一种特别的挫败:你查了一个词,点点头,三页之后再遇见它,却完全不认识。标准解法是记忆卡——反复刷到记住为止。但有一种更老、更安静的方法,不花钱,而且感觉就像在读书,因为它就是读书。

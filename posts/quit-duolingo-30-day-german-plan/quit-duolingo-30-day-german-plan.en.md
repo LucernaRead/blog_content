@@ -3,6 +3,12 @@ title: "I quit Duolingo. Here's the 30-day plan that's actually getting me fluen
 excerpt: "A reading-first method for adult learners, built around the comprehensible input that AI-generated lessons can't replace."
 publishedAt: "2026-05-29"
 draft: false
+cover: cover.jpg
+coverCredit: "Hans Holbein the Younger, The Ambassadors, 1533 · National Gallery, London"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg"
+coverFocus: "center 40%"
+category: "language"
 ---
 
 > A reading-first method for adult learners, built around the comprehensible input that AI-generated lessons can't replace.
@@ -67,7 +73,7 @@ You need three things, and you can get all of them free:
 
 That third one is the difference between reading as study and reading as performance. If you can't see what you've actually struggled with, you'll keep re-looking up the same 40 words for a month.
 
-[Lucerna](https://lucernaread.com) is the tool I built around this exact loop: upload any EPUB or PDF, or pull a book straight from Project Gutenberg, tap any word for definition + IPA + full verb conjugation, and your vocab list builds itself as you read. It currently supports English, German, and French queries; Spanish, Japanese, Chinese and more are in development. Free to try, no streak guilt, no AI-generated content — just your book and the tools to read it.
+[Lucerna](https://lucernaread.com) is the tool I built around this exact loop: upload any EPUB or PDF, or pull a book straight from Project Gutenberg, tap any word for definition + IPA + full verb conjugation, and your vocab list builds itself as you read. It reads books in 71 languages; twelve of them, German included, get fuller support. Free to try, no streak guilt, no AI-generated content — just your book and the tools to read it.
 
 ## What the Duolingo moment really means
 

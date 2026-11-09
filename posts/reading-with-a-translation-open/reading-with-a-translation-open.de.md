@@ -3,6 +3,12 @@ title: "Mit offener Übersetzung lesen: Hilfe oder Krücke?"
 excerpt: "Fast jeder, der in einer neuen Sprache lesen lernt, probiert es: das Original in der einen Hand, die Übersetzung in der anderen. Wann das hilft — und wann es dich still davon abhält, je allein zu lesen."
 publishedAt: "2026-06-29"
 draft: false
+cover: cover.jpg
+coverCredit: "Henri Fantin-Latour, The Reading, 1877 · Musée des Beaux-Arts de Lyon"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Fantin-Latour-La_Lecture-Lyon.jpg"
+coverFocus: "center 40%"
+category: "method"
 ---
 
 # Mit offener Übersetzung lesen: Hilfe oder Krücke?

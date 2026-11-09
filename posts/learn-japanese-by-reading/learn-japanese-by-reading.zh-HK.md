@@ -3,6 +3,12 @@ title: "如何透過閱讀學日語"
 excerpt: "從假名開始透過閱讀學日語：先用振假名和多讀分級讀物，再爬到 NHK 簡易新聞和熟悉的漫畫，把漢字當作閱讀本身會解決的問題。"
 publishedAt: "2026-10-12"
 draft: false
+cover: cover.jpg
+coverCredit: "Katsushika Hokusai, The Great Wave off Kanagawa, c. 1830–32 · Metropolitan Museum of Art"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Tsunami_by_hokusai_19th_century.jpg"
+coverFocus: "center"
+category: "language"
 ---
 
 透過閱讀學日語完全可行——但日語改變了步驟的次序。在西班牙語或法語裡，字母讓你第一天就能把一頁書唸出聲，唯一的牆是詞彙。在日語裡，頁面本身就是課程的一部分：三種文字混寫、詞與詞之間沒有空格、漢字讀音你可能還不認識。
@@ -85,7 +91,7 @@ draft: false
 
 ---
 
-## 學習者常問的問題
+## 常見問題
 
 ### 開始讀日語之前必須先學漢字嗎？
 

@@ -3,6 +3,12 @@ title: "初心者のためのドイツ語短編小説：最初に読むべきも
 excerpt: "読み切れるドイツ語短編から始めよう：レベル確認用の無料文学短編、本当に A1 の一冊、そして版元情報で裏取りした A2–B1 短編集の比較。"
 publishedAt: "2026-10-23"
 draft: false
+cover: cover.jpg
+coverCredit: "Caspar David Friedrich, Wanderer above the Sea of Fog, c. 1817 · Hamburger Kunsthalle"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg"
+coverFocus: "center 35%"
+category: "lists"
 ---
 
 最初のドイツ語の本は長編である必要はない。短編なら一、二回で完結した物語が読める。短編集ならその「読み切った」感覚を何度も味わえる。登場人物は毎回新しく、同じ顔ぶれに一か月付き合う必要もない。初心者向けドイツ語短編集は、そのリズムのためにある。

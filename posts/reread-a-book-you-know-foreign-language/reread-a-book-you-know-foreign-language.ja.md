@@ -3,6 +3,12 @@ title: "知っている本を読む:最初の原書への近道"
 excerpt: "新しい言語での最初の小説で難しいのは文法ではなく、次に何が起こるか分からないこと。ならその問題を消そう:すでに読んだ本を読めばいい。"
 publishedAt: "2026-07-14"
 draft: false
+cover: cover.jpg
+coverCredit: "Gerrit Dou, Old Woman Reading, 1631–32 · Rijksmuseum"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:Lezende_oude_vrouw_Oude_vrouw_lezend_in_een_lectionarium_zogenaamd_portret_van_Rembrandts_moeder,_Neeltgen_Willemsdr_van_Zuijdtbroeck_(gest_1640),_SK-A-2627.jpg"
+coverFocus: "center 45%"
+category: "method"
 ---
 
 # 知っている本を読む:最初の一冊への近道

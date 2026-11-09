@@ -3,6 +3,12 @@ title: "Chinesische Graded Readers: Bücher nach Ihrem HSK-Niveau wählen"
 excerpt: "Wählen Sie einen chinesischen Graded Reader, den Sie wirklich beenden: wie sich HSK-Stufen, Zeichenanzahl und Wortanzahl unterscheiden, fünf Reihen vom ersten Buch mit 150 Zeichen bis zu klassischen Romanen, und ein Zehn-Minuten-Probetest."
 publishedAt: "2026-10-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Ma Yuan, Walking on a Mountain Path in Spring, 1190 · National Palace Museum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Ma_Yuan_mountain_path_in_spring.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 Chinesisch verlangt Anfängern mehr ab als die meisten Sprachen. Es gibt kein Alphabet, auf das man sich stützen kann, jedes neue Wort ist zugleich eine Zeichnung, die man sich merken muss, und ein Text, der auf der Seite kurz aussieht, kann dicht mit Zeichen gefüllt sein, die Sie noch nie gesehen haben.

@@ -3,6 +3,12 @@ title: "Нужно ли проверять каждое слово при чте
 excerpt: "Проверяйте не каждое слово, а только те, что блокируют предложение, — те, что возвращаются снова и снова, без которых предложение рушится, или те, что несут действие, — а остальные пропускайте. Горсти проверок на страницу достаточно, чтобы сохранить нить истории."
 publishedAt: "2026-06-13"
 draft: false
+cover: cover.jpg
+coverCredit: "Quentin Matsys, The Moneylender and His Wife, 1514 · Louvre"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Massysm_Quentin_%E2%80%94_The_Moneylender_and_his_Wife_%E2%80%94_1514.jpg"
+coverFocus: "center 65%"
+category: "method"
 ---
 
 При первом незнакомом слове приходится выбирать: остановиться или надеяться на контекст? Обе крайности делают чтение тяжёлым: бесконечные паузы либо туман непонятных предложений. Поможет простое правило.

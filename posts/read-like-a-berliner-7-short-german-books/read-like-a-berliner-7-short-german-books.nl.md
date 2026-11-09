@@ -3,6 +3,12 @@ title: "Lezen als een Berlijner: 7 korte Duitse boeken voor deze zomer"
 excerpt: "Een leesladder van A2 tot C1, allemaal gratis op Project Gutenberg, geen ervan lang genoeg om je geduld te overleven."
 publishedAt: "2026-06-26"
 draft: false
+cover: cover.jpg
+coverCredit: "Caspar David Friedrich, Woman at a Window, 1822 · Alte Nationalgalerie"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Frau_am_Fenster_-_Google_Art_Project.jpg"
+coverFocus: "center 40%"
+category: "lists"
 ---
 
 # Lezen als een Berlijner: 7 korte Duitse boeken om deze zomer te beginnen

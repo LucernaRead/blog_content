@@ -3,6 +3,12 @@ title: "最初の外国語の一冊をどう選ぶか"
 excerpt: "最初の一冊が正しければ、半分は本が働いてくれる。実際に読み終えられる一冊を選ぶための、初心者向けの実践ガイド。"
 publishedAt: "2026-06-03"
 draft: false
+cover: cover.jpg
+coverCredit: "Berthe Morisot, Reading, 1873 · Cleveland Museum of Art"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Berthe_Morisot_-_Reading_-_1950.89_-_Cleveland_Museum_of_Art.tiff"
+coverFocus: "center"
+category: "method"
 ---
 
 多くの人が最初の外国語の本を選ぶやり方は、新年の抱負の立て方によく似ている。野心的で、少し意地になっている。ずっと読むつもりだった古典に手を伸ばし、二ページ目で見慣れない文法の壁にぶつかり、まだ自分には早いと結論づける。問題は本のほうで、あなたではない。

@@ -3,6 +3,12 @@ title: "LingQの代わり：自分が実際に読むものに合う読書ツー�
 excerpt: "LingQは優れたリーダーだが、無料プランの上限は厳しく、レベルに合った教材を探す手助けはない。適切な代わりは、自分が実際に何を読むかで決まる。本か、ウェブ記事か、字幕か、対訳テキストかだ。"
 publishedAt: "2026-10-28"
 draft: false
+cover: cover.jpg
+coverCredit: "Johannes Vermeer, Woman Reading a Letter, c. 1662–63 · Rijksmuseum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Vermeer,_Johannes_-_Woman_reading_a_letter_-_ca._1662-1663.jpg"
+coverFocus: "center 35%"
+category: "tools"
 ---
 
 「LingQの代わり」を検索すると、最初に出てくるのはガイドではなくディレクトリだ。投票順に製品を並べ、コースアプリと読書ツールを同じもののように並べる。しかし両者は別物だ。コースは順序立ててレッスンを教える。リーダーは実際の素材を開き、その場で単語を調べ、読み続けるためのものだ。後者が欲しいなら、リストの名前の大半はノイズで、ふるい落とせば選択肢はぐっと少なくなる。

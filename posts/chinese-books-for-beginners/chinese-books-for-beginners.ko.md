@@ -3,6 +3,12 @@ title: "초보자를 위한 중국어 책: 처음 읽을 만한 책들"
 excerpt: "첫 중국어 책은 명성이 아니라 종류로 고른다. 끝까지 읽을 수 있는 학습자 소설, 이중 언어 안전망, 학습자판 친숙한 이야기, 수준이 명시된 단편집. 각 책은 판본 정보로 확인했고, 중국어 페이지의 함정도 함께 다룬다."
 publishedAt: "2026-10-30"
 draft: false
+cover: cover.jpg
+coverCredit: "Anonymous (Ming dynasty), The Eighteen Scholars, detail · National Palace Museum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:The_Eighteen_Scholars_by_an_anonymous_Ming_artist_1.jpg"
+coverFocus: "center 40%"
+category: "lists"
 ---
 
 초보자용 중국어 책을 검색하면 대부분 교과서 목록이 나온다. Integrated Chinese, New Practical Chinese Reader, Chinese Made Easy. 모두 탄탄한 코스이고 과별로 구성되어 있지만, 어느 것도 앉아서 끝까지 읽는 책이 아니다. 교과서는 코스를 가르친다. 첫 읽기 책의 일은 다르다. 실제로 따라갈 수 있는 언어로 첫 페이지부터 마지막 페이지까지 데려가서, 다 읽고 나면 중국어 책도 끝까지 읽을 수 있다는 것을 알게 해야 한다.

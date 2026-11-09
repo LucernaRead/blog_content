@@ -3,6 +3,12 @@ title: "Hoeveel woorden heb je nodig voor een boek in een vreemde taal?"
 excerpt: "De eerlijke cijfers: zo'n 5.000 woordfamilies voor ruw begrip, 8.000–9.000 om zelfstandig comfortabel te lezen. Maar nuttiger: je hoeft niet te wachten — lezen is hoe je er komt."
 publishedAt: "2026-07-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Jan Davidsz. de Heem, Still Life with Books and a Lute, 1625–30 · Rijksmuseum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Stilleven_met_boeken_Rijksmuseum_SK-A-2565.jpeg"
+coverFocus: "center"
+category: "method"
 ---
 
 # Hoeveel woorden heb je nodig om een boek in een vreemde taal te lezen?

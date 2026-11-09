@@ -3,6 +3,12 @@ title: "Reading with a translation open: help or crutch?"
 excerpt: "Almost everyone learning to read in a new language tries it: the original in one hand, a translation in the other. Here is when that helps — and when it quietly stops you from ever reading on your own."
 publishedAt: "2026-06-29"
 draft: false
+cover: cover.jpg
+coverCredit: "Henri Fantin-Latour, The Reading, 1877 · Musée des Beaux-Arts de Lyon"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Fantin-Latour-La_Lecture-Lyon.jpg"
+coverFocus: "center 40%"
+category: "method"
 ---
 
 # Reading with a translation open: help or crutch?
@@ -43,6 +49,6 @@ The reason people reach for a full translation is usually one or two unknown wor
 
 That's the move: instead of leaving the sentence to read someone else's version of it, resolve the single word that blocks you — its meaning, its pronunciation, its grammar — and keep reading the original. You stay in the language; you just remove the splinter. Do that and the per-sentence translation habit simply has no reason to exist.
 
-[Lucerna](https://lucernaread.com) is built around that smaller move. Upload any EPUB or pull a book from Project Gutenberg, and any word is one tap from its meaning, IPA, and full conjugation or case table — no second tab, no parallel text, no leaving the sentence. Your vocabulary list builds itself from the words you actually stopped on. English, German, and French lookups today, more on the way. Keep the original open; close the translation.
+[Lucerna](https://lucernaread.com) is built around that smaller move. Upload any EPUB or pull a book from Project Gutenberg, and any word is one tap from its meaning, IPA, and full conjugation or case table — no second tab, no parallel text, no leaving the sentence. Your vocabulary list builds itself from the words you actually stopped on. Books in 71 languages, twelve with fuller support. Keep the original open; close the translation.
 
 *The Reading Journal is the editorial corner of [Lucerna](https://lucernaread.com) — a reading app for language learners. Short essays on getting fluent the slow way: one book, five pages, every night.*

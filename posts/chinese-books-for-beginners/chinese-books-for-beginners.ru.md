@@ -3,6 +3,12 @@ title: "Китайские книги для начинающих: первые 
 excerpt: "Выбирайте первую китайскую книгу по типу, а не по славе: учебный роман, который можно дочитать, двуязычная страховка, знакомая история в учебном издании и сборник рассказов с заявленным уровнем, каждый проверен по изданию, плюс ловушки китайской страницы."
 publishedAt: "2026-10-30"
 draft: false
+cover: cover.jpg
+coverCredit: "Anonymous (Ming dynasty), The Eighteen Scholars, detail · National Palace Museum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:The_Eighteen_Scholars_by_an_anonymous_Ming_artist_1.jpg"
+coverFocus: "center 40%"
+category: "lists"
 ---
 
 Поиск китайских книг для начинающих возвращает в основном списки учебников. Integrated Chinese, New Practical Chinese Reader, Chinese Made Easy: всё это солидные курсы, все построены по урокам, и ни один из них не является книгой, за которую садятся, чтобы дочитать до конца. Учебник преподаёт курс. У первой книги для чтения другая задача. Она должна провести вас от первой до последней страницы на языке, за которым вы действительно можете следить, чтобы, закрыв её, вы знали: китайские книги можно дочитывать.

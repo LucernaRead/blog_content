@@ -3,6 +3,12 @@ title: "読むことで日本語を学ぶ方法"
 excerpt: "かなの段階から読むことで日本語を学ぶ：まずふりがなと多読のレベル別リーダーを使い、NHK News Web Easy とおなじみのマンガへ進み、漢字は読書そのものが解決する問題として扱う。"
 publishedAt: "2026-10-12"
 draft: false
+cover: cover.jpg
+coverCredit: "Katsushika Hokusai, The Great Wave off Kanagawa, c. 1830–32 · Metropolitan Museum of Art"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Tsunami_by_hokusai_19th_century.jpg"
+coverFocus: "center"
+category: "language"
 ---
 
 読むことで日本語を学ぶことはできます。ただし日本語では手順の順序が変わります。スペイン語やフランス語では、アルファベットのおかげで初日から1ページを音読でき、壁は語彙だけです。日本語では、ページそのものがレッスンの一部です。3種類の文字が混ざり、単語の間にスペースがなく、読み方をまだ知らない漢字が出てきます。

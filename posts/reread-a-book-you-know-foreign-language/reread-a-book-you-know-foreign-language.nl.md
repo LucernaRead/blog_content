@@ -3,6 +3,12 @@ title: "Lees een boek dat je al kent: de sluiproute naar je eerste anderstalige 
 excerpt: "Het moeilijkste aan je eerste roman in een nieuwe taal is niet de grammatica, maar niet weten wat er gaat gebeuren. Haal dat probleem weg: lees een boek dat je al gelezen hebt."
 publishedAt: "2026-07-14"
 draft: false
+cover: cover.jpg
+coverCredit: "Gerrit Dou, Old Woman Reading, 1631–32 · Rijksmuseum"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:Lezende_oude_vrouw_Oude_vrouw_lezend_in_een_lectionarium_zogenaamd_portret_van_Rembrandts_moeder,_Neeltgen_Willemsdr_van_Zuijdtbroeck_(gest_1640),_SK-A-2627.jpg"
+coverFocus: "center 45%"
+category: "method"
 ---
 
 # Lees een boek dat je al kent: de sluiproute naar je eerste anderstalige roman

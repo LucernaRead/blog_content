@@ -3,6 +3,12 @@ title: "프랑스어 단계별 읽기책 고르기: A1에서 B1, 첫 원서까�
 excerpt: "각 판본의 수준을 확인하고 10분 동안 미리 읽어 보세요. 각색본과 원작을 구분하고 끝까지 읽고 싶은 프랑스어 책을 찾는 방법입니다."
 publishedAt: "2026-10-03"
 draft: false
+cover: cover.jpg
+coverCredit: "Georges Seurat, A Sunday on La Grande Jatte, 1884–86 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:A_Sunday_on_La_Grande_Jatte,_Georges_Seurat,_1884.png"
+coverFocus: "center 55%"
+category: "lists"
 ---
 
 프랑스어 소설을 펼쳐 몇 단어는 알아보지만, 첫 문단에서 사전을 계속 찾게 됩니다. 이야기는 사라지고 해독만 남습니다. 단계별 읽기책은 더 작은 발판입니다. 학습 수준에 맞춰 새로 쓰거나 각색한 완결된 이야기입니다.

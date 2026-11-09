@@ -3,6 +3,12 @@ title: "读一本外语书需要认识多少词?"
 excerpt: "老实的数字:大致理解约 5000 个词族,舒服地独立阅读 8000–9000。但更有用的答案是:你不必等到那时候 —— 阅读本身就是到那儿的方式。"
 publishedAt: "2026-07-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Jan Davidsz. de Heem, Still Life with Books and a Lute, 1625–30 · Rijksmuseum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Stilleven_met_boeken_Rijksmuseum_SK-A-2565.jpeg"
+coverFocus: "center"
+category: "method"
 ---
 
 # 读一本外语书,需要认识多少词?
@@ -42,6 +48,6 @@ draft: false
 
 ## 就在你现在的水平上读
 
-[Lucerna](https://lucernaread.com) 就是为"认识 3000 词"和"读得舒服"之间的那段差距造的。上传任何 EPUB,或从古腾堡计划拉一本免费书,每一个生词 —— 整条长尾 —— 离它的释义、IPA 和完整的动词变位或格变化表都只有一次点击,就在页面上解决,不用第二个标签页。你停下来的那些词会自己聚成一份生词表,于是你永远在学的,恰好是横在你和下一本书之间的那些词。今天支持英语、德语和法语,更多在路上。你不需要 8000 个词才能开始;你需要的是一种在通往那里的路上还能读书的办法。
+[Lucerna](https://lucernaread.com) 就是为"认识 3000 词"和"读得舒服"之间的那段差距造的。上传任何 EPUB,或从古腾堡计划拉一本免费书,每一个生词 —— 整条长尾 —— 离它的释义、IPA 和完整的动词变位或格变化表都只有一次点击,就在页面上解决,不用第二个标签页。你停下来的那些词会自己聚成一份生词表,于是你永远在学的,恰好是横在你和下一本书之间的那些词。71 种语言的书都能读,其中 12 种功能更全。你不需要 8000 个词才能开始;你需要的是一种在通往那里的路上还能读书的办法。
 
 *《阅读日志》是 [Lucerna](https://lucernaread.com) 的编辑角落 —— 一款给语言学习者的阅读 app。这里写的是慢慢变流利的短文:一本书,五页,每晚。*

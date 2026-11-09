@@ -3,6 +3,12 @@ title: "Hoe je een boek boven je niveau leest zonder te verdrinken"
 excerpt: "Een boek één of twee niveaus boven je niveau lezen kan werken — als je de dekkingskloof kent, tactieken voor het grote geheel gebruikt, en oordeelt na twee hoofdstukken, niet na twee bladzijden."
 publishedAt: "2026-10-09"
 draft: false
+cover: cover.jpg
+coverCredit: "Vittore Carpaccio, Saint Augustine in His Study, 1502 · Scuola di San Giorgio degli Schiavoni"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Vittore_Carpaccio_026.jpg"
+coverFocus: "center"
+category: "method"
 ---
 
 Het boek dat je echt wilt lezen, is te moeilijk. Je ingeschaalde leesboeken zitten nog op A2 of B1, en het boek dat je roept is een roman in het origineel — echte dialogen, idiomen, lange zinnen, helemaal geen woordenschatcontrole. Je strandt in de tweede alinea en vraagt je af of je onrealistisch bent.

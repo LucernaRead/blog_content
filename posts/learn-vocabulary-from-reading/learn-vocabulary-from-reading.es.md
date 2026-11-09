@@ -3,6 +3,12 @@ title: "Cómo aprender vocabulario leyendo (y dejar de machacar tarjetas)"
 excerpt: "Las tarjetas enseñan palabras en el vacío; la lectura las enseña donde viven. Cómo convertir los libros que ya quieres leer en el único sistema de vocabulario que necesitas."
 publishedAt: "2026-07-12"
 draft: false
+cover: cover.jpg
+coverCredit: "Albert Anker, The Village School in 1848, 1896 · Kunstmuseum Basel"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Anker_Die_Dorfschule_von_1848_1896.jpg"
+coverFocus: "center"
+category: "method"
 ---
 
 # Cómo aprender vocabulario leyendo (y dejar por fin de machacar tarjetas)

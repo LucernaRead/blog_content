@@ -3,6 +3,12 @@ title: "초보자를 위한 이탈리아어 책: 처음 읽을 만한 책"
 excerpt: "첫 이탈리아어 책은 유명세가 아니라 종류로 고르세요. 학습자용 소설, 이중 언어 독본, 익숙한 원작, 수준이 표시된 단편집. 각 책을 판본별로 확인했고, 각각의 역할이 다릅니다."
 publishedAt: "2026-10-24"
 draft: false
+cover: cover.jpg
+coverCredit: "Bernardo Bellotto, View of the Grand Canal from Punta della Dogana · Museo del Settecento Veneziano"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:(Venice)_Veduta_del_Canal_Grande_dalla_Punta_della_Dogana_-_Bernardo_Bellotto.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 초보자를 위한 이탈리아어 책을 검색하면 교재, 회화집, 단편집, 아동 고전, 유명 소설이 뒤섞인 목록이 나옵니다. 하지만 이들은 서로 바꿔 쓸 수 있는 것이 아닙니다. 학습자를 위해 쓰인 책, 옆에 번역이 있는 책, 다른 언어로 이미 알고 있는 유명한 책은 각각 다른 종류의 노력을 요구합니다. 적절한 첫 책이란 내일도 반복할 수 있는 노력으로 읽을 수 있는 책입니다.

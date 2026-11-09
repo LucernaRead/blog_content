@@ -4,6 +4,12 @@ excerpt: "Дочитать первую адаптированную книгу 
 publishedAt: "2026-10-09"
 updatedAt: "2026-10-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Claude Monet, Springtime, 1872 · Walters Art Museum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Springtime_-_Walters_3711.jpg"
+coverFocus: "center 55%"
+category: "method"
 ---
 
 Дочитать первую адаптированную книгу — вот настоящая веха. Вы прочитали целую книгу на другом языке — не диалог из учебника, а законченную историю, от первой страницы до последней. Это значит больше, чем может показаться в тот день, когда вы её закрываете.

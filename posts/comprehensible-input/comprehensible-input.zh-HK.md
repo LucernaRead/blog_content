@@ -3,6 +3,12 @@ title: "可理解輸入：它是甚麼，以及閱讀時如何運用"
 excerpt: "可理解輸入是你能聽懂讀懂、又帶一點新東西的語言。Krashen 的 i+1 在實踐中是甚麼意思，一篇文章你需要認識多少詞，以及如何在閱讀時找到並用好適合自己水平的輸入。"
 publishedAt: "2026-10-16"
 draft: false
+cover: cover.jpg
+coverCredit: "Mary Cassatt, Nurse Reading to a Little Girl, 1895 · Metropolitan Museum of Art"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:Nurse_Reading_to_a_Little_Girl_MET_DT7250.jpg"
+coverFocus: "center 30%"
+category: "method"
 ---
 
 你大概見過某種形式的建議：不要再操題了，去讀、去聽你能懂的東西，語言自然會跟上。這條建議指向的材料，名字叫可理解輸入（comprehensible input）。這個詞在網上用得很鬆，有時指任何簡單內容。它本來的意思更窄，而更窄的意思，才是選書時真正有用的。
@@ -80,7 +86,7 @@ Krashen 的強版本說，被理解的輸入不只是必要，而是充分：僅
 
 ---
 
-## 關於可理解輸入的問題
+## 常見問題
 
 ### 可理解輸入就是簡單內容嗎？
 

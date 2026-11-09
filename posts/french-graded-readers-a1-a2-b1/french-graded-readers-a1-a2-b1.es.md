@@ -3,6 +3,12 @@ title: "Lecturas graduadas en francés: cómo elegir tu primer libro, de A1 a B1
 excerpt: "Comprueba la edición y el nivel, prueba un fragmento durante diez minutos y encuentra una lectura en francés que quieras terminar."
 publishedAt: "2026-10-03"
 draft: false
+cover: cover.jpg
+coverCredit: "Georges Seurat, A Sunday on La Grande Jatte, 1884–86 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:A_Sunday_on_La_Grande_Jatte,_Georges_Seurat,_1884.png"
+coverFocus: "center 55%"
+category: "lists"
 ---
 
 Abres una novela francesa, reconoces unas palabras y pasas el resto del párrafo consultando el diccionario. Una lectura graduada ofrece un paso más pequeño: una historia completa escrita o adaptada para un nivel de aprendizaje.

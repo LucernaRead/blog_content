@@ -3,6 +3,12 @@ title: "Chinese graded readers: boeken kiezen op jouw HSK-niveau"
 excerpt: "Kies een Chinese graded reader die je echt uit kunt lezen: hoe HSK-niveaus, tekentelling en woordtelling verschillen, vijf series van een eerste boek met 150 tekens tot klassieke romans, en een proeftest van tien minuten."
 publishedAt: "2026-10-15"
 draft: false
+cover: cover.jpg
+coverCredit: "Ma Yuan, Walking on a Mountain Path in Spring, 1190 · National Palace Museum"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Ma_Yuan_mountain_path_in_spring.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 Chinees vraagt meer van een beginner dan de meeste talen. Er is geen alfabet om op te leunen, elk nieuw woord is ook een tekening die je moet onthouden, en een tekst die op de pagina kort lijkt, kan dicht gevuld zijn met tekens die je nog nooit hebt gezien.

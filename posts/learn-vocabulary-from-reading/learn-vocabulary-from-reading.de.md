@@ -3,6 +3,12 @@ title: "Wie du Vokabeln durch Lesen lernst (und endlich mit Karteikarten aufhör
 excerpt: "Karteikarten lehren Wörter im luftleeren Raum, Lesen lehrt sie dort, wo sie leben. Wie du die Bücher, die du ohnehin lesen willst, zum einzigen Vokabelsystem machst, das du brauchst."
 publishedAt: "2026-07-12"
 draft: false
+cover: cover.jpg
+coverCredit: "Albert Anker, The Village School in 1848, 1896 · Kunstmuseum Basel"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Anker_Die_Dorfschule_von_1848_1896.jpg"
+coverFocus: "center"
+category: "method"
 ---
 
 # Wie du Vokabeln durch Lesen lernst (und endlich mit dem Karteikartenmahlen aufhörst)

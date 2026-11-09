@@ -3,6 +3,12 @@ title: "듀오링고를 그만뒀다. 독일어를 진짜로 늘려준 30일 계
 excerpt: "성인 학습자를 위한 읽기 우선 방법. 중심에는 AI가 생성한 강의로 대체할 수 없는 이해 가능한 입력이 있다."
 publishedAt: "2026-05-29"
 draft: false
+cover: cover.jpg
+coverCredit: "Hans Holbein the Younger, The Ambassadors, 1533 · National Gallery, London"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg"
+coverFocus: "center 40%"
+category: "language"
 ---
 
 > 성인 학습자를 위한 읽기 우선 방법. 중심에는 AI가 생성한 강의로는 대체할 수 없는 이해 가능한 입력이 있다.

@@ -3,6 +3,12 @@ title: "Como aprender francês a ler"
 excerpt: "Aprenda francês a ler com uma escada pensada para esta língua: primeiro leituras graduadas, o passé simple e as elisões explicados, um teste de amostra de dez minutos e uma rotina que junta a página ao som."
 publishedAt: "2026-10-18"
 draft: false
+cover: cover.jpg
+coverCredit: "Gustave Caillebotte, Paris Street; Rainy Day, 1877 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Gustave_Caillebotte_-_Paris_Street,_Rainy_Day_-_1964.336_-_Art_Institute_of_Chicago.jpg"
+coverFocus: "center 45%"
+category: "language"
 ---
 
 O francês dá ao leitor uma vantagem e um aviso ao mesmo tempo. A vantagem é o vocabulário. Grande parte das palavras quotidianas do inglês vem do francês, e um principiante que abre uma página em francês encontra formas familiares por todo o lado: *famille*, *important*, *arriver*, *commencer*. O aviso é o som. A ortografia francesa conserva letras que a pronúncia abandonou há séculos, e a palavra que sabe ler muitas vezes não é a que reconheceria de ouvido. Ler bem em francês significa trabalhar com os dois factos desde o início.

@@ -3,6 +3,12 @@ title: "Comment vraiment finir un livre en langue étrangère"
 excerpt: "Commencer est facile — tout le monde a un roman à moitié lu dans sa langue cible. Voici comment passer de l'autre côté : devenir celui qui referme le livre."
 publishedAt: "2026-06-28"
 draft: false
+cover: cover.jpg
+coverCredit: "Winslow Homer, The New Novel, 1877 · Springfield Museums"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:1877-winslow-homer-the-new-novel.jpg"
+coverFocus: "40% center"
+category: "method"
 ---
 
 # Comment vraiment finir un livre en langue étrangère

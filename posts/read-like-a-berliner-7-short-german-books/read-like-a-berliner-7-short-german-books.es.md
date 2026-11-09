@@ -3,6 +3,12 @@ title: "Leer como un berlinés: 7 libros alemanes breves para este verano"
 excerpt: "Una escalera de lectura de A2 a C1, todos gratis en el Proyecto Gutenberg, ninguno lo bastante largo como para agotar tu paciencia."
 publishedAt: "2026-06-26"
 draft: false
+cover: cover.jpg
+coverCredit: "Caspar David Friedrich, Woman at a Window, 1822 · Alte Nationalgalerie"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Frau_am_Fenster_-_Google_Art_Project.jpg"
+coverFocus: "center 40%"
+category: "lists"
 ---
 
 # Leer como un berlinés: 7 libros alemanes breves para empezar este verano

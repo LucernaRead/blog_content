@@ -3,6 +3,12 @@ title: "Livres en espagnol pour débutants : les premiers livres qui valent la p
 excerpt: "Choisissez votre premier livre en espagnol par type, pas par célébrité : un roman pour apprenants, un lecteur bilingue, et deux histoires familières en traduction — chaque édition vérifiée, chacune avec un rôle."
 publishedAt: "2026-10-11"
 draft: false
+cover: cover.jpg
+coverCredit: "Joaquín Sorolla, Strolling along the Seashore, 1909 · Museo Sorolla"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Joaqu%C3%ADn_Sorolla_y_Bastida_-_Strolling_along_the_Seashore_-_Google_Art_Project.jpg"
+coverFocus: "center 30%"
+category: "lists"
 ---
 
 Cherchez des livres en espagnol pour débutants et vous tombez sur un mur de listes qui mélangent tout : manuels, recueils de nouvelles, albums pour enfants et romans célèbres, comme s'ils étaient interchangeables. Ils ne le sont pas. Un livre écrit pour les apprenants, un livre avec une traduction à côté, et un livre célèbre que vous connaissez déjà dans une autre langue demandent trois sortes d'efforts différentes — et le bon premier livre est celui dont vous pouvez répéter l'effort demain.

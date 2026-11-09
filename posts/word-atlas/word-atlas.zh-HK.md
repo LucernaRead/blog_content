@@ -3,6 +3,12 @@ title: "Word Atlas：圖解詞彙地圖能教會你什麼、不能教會你什�
 excerpt: "搜 word atlas，出來的是地圖冊。但還有另一種地圖冊：詞的地圖，每個詞配一張圖、例句和複習計劃。這裏講這張圖擅長什麼、在哪裏到頭，以及怎樣把它接回真正的閱讀。"
 publishedAt: "2026-10-29"
 draft: false
+cover: cover.jpg
+coverCredit: "England, Sampler (map of the Americas), 19th century · Cleveland Museum of Art"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:England,_19th_century_-_Sampler_-_1943.117_-_Cleveland_Museum_of_Art.jpg"
+coverFocus: "center 35%"
+category: "method"
 ---
 
 搜 "word atlas"，排在前面的結果講的都是地圖冊。這是這個詞更老的意思，也是大多數搜尋者想要的東西。本文講的是另一種意思：詞的地圖冊。地圖上的條目不再是國家，而是詞，按主題排列，每個詞配一張圖、一條釋義、例句和發音。問題不在於圖好不好看，而在於：圖真正能幫你學會哪些詞，圖帶不動的詞又該怎麼辦。
@@ -59,7 +65,7 @@ draft: false
 
 ---
 
-## 開始之前的問題
+## 常見問題
 
 ### Word Atlas 免費嗎？
 

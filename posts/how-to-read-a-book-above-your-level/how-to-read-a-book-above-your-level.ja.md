@@ -3,6 +3,12 @@ title: "自分のレベルより難しい本を、溺れずに読む方法"
 excerpt: "1〜2レベル上の本を読むことは可能です。大意優先の戦術を知り、2ページではなく2章で判断すれば。"
 publishedAt: "2026-10-09"
 draft: false
+cover: cover.jpg
+coverCredit: "Vittore Carpaccio, Saint Augustine in His Study, 1502 · Scuola di San Giorgio degli Schiavoni"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Vittore_Carpaccio_026.jpg"
+coverFocus: "center"
+category: "method"
 ---
 
 本当に読みたい本が、難しすぎます。グレーデッドリーダーはまだ A2 や B1 なのに、心惹かれるのは原書の小説——生の対話、イディオム、長い文、語彙の統制は一切なし。2段落目で止まり、無謀なのではないかと不安になります。

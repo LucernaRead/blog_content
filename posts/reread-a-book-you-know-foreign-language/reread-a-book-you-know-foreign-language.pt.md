@@ -3,6 +3,12 @@ title: "Leia um livro que você já conhece: o atalho para o primeiro romance em
 excerpt: "O mais difícil do primeiro romance num idioma novo não é a gramática — é não saber o que vai acontecer. Tire esse problema da mesa: leia um livro que você já leu."
 publishedAt: "2026-07-14"
 draft: false
+cover: cover.jpg
+coverCredit: "Gerrit Dou, Old Woman Reading, 1631–32 · Rijksmuseum"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:Lezende_oude_vrouw_Oude_vrouw_lezend_in_een_lectionarium_zogenaamd_portret_van_Rembrandts_moeder,_Neeltgen_Willemsdr_van_Zuijdtbroeck_(gest_1640),_SK-A-2627.jpg"
+coverFocus: "center 45%"
+category: "method"
 ---
 
 # Leia um livro que você já conhece: o atalho para o seu primeiro romance em outro idioma

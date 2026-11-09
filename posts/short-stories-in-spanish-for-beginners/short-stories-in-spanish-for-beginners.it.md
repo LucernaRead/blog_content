@@ -3,6 +3,12 @@ title: "Racconti brevi in spagnolo per principianti: cosa leggere per primo"
 excerpt: "Inizia con racconti brevi in spagnolo che puoi davvero finire: una lettura A1 gratuita, due raccolte verificate per edizione e un test di un racconto intero per scegliere bene."
 publishedAt: "2026-10-10"
 draft: false
+cover: cover.jpg
+coverCredit: "Joaquín Sorolla, Boys on the Beach, 1910 · Museo del Prado"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Joaqu%C3%ADn_Sorolla_-_Chicos_en_la_playa.jpg"
+coverFocus: "center 50%"
+category: "lists"
 ---
 
 Il tuo primo libro in spagnolo non deve essere un romanzo. Per molti principianti, un primo traguardo migliore è un singolo racconto breve: una trama completa in una o due sessioni, personaggi nuovi ogni pochi giorni invece dello stesso cast per un mese, e la fiducia tranquilla di arrivare a una fine, ancora e ancora. Le raccolte di racconti brevi in spagnolo per principianti sono fatte esattamente per quel ritmo.

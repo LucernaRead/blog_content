@@ -3,6 +3,12 @@ title: "Italiaanse leesboeken op niveau: zo kies je A1–B1-boeken"
 excerpt: "Italiaanse leesboeken op niveau zijn verdeeld over twee uitgevers — A1 bij Alma, A2–B1 bij Black Cat. Zo kies je het juiste niveau en test je een boek in tien minuten."
 publishedAt: "2026-10-09"
 draft: false
+cover: cover.jpg
+coverCredit: "Sandro Botticelli, Primavera, 1480–85 · Uffizi"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Botticelli-primavera.jpg"
+coverFocus: "center 30%"
+category: "lists"
 ---
 
 Je slaat een Italiaanse roman open en verdrinkt binnen één pagina in werkwoordsvormen. Elke derde zin stuurt je naar het woordenboek, het verhaal komt nooit op gang en het boek gaat terug op de plank. Dat is geen oordeel over jouw Italiaans. Meestal betekent het gewoon dat de stap te groot was.

@@ -3,6 +3,12 @@ title: "初心者向けの日本語の本：最初に読む価値のある本"
 excerpt: "有名だからではなく、種類で選ぶ初めての日本語の本：無料の多読スターター、対訳の安全網、ふりがな付き漫画、知っている物語、そして段階別ストーリー集。各版を確認済み。"
 publishedAt: "2026-10-21"
 draft: false
+cover: cover.jpg
+coverCredit: "Kitagawa Utamaro, Woman Reading a Letter, 1806 · Cleveland Museum of Art"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Woman_Reading_a_Letter_(from_the_series_Seven_Episodes_in_the_Life_of_Komac_-_1943.23_-_Cleveland_Museum_of_Art.jpg"
+coverFocus: "center 22%"
+category: "lists"
 ---
 
 「初心者向けの日本語の本」を検索すると、たいていのリストが差し出すのは教科書です。Genki、みんなの日本語、漢字ドリル、文法辞典。日本語を学ぶことと、日本語を読むことは同じ仕事だと言わんばかりです。違います。教科書はレッスンで言語を教えます。最初の一冊は、物語のために読める日本語をくれます。ページがパズルのように感じられなくなるまで、一ページずつ。この二つの棚の重なりは、リストが見せるより小さいのです。

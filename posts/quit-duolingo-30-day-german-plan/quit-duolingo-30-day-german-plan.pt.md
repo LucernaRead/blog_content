@@ -3,6 +3,12 @@ title: "Larguei o Duolingo. Este é o plano de 30 dias que está me deixando flu
 excerpt: "Um método com a leitura em primeiro lugar, para adultos, construído em torno do input compreensível que aulas geradas por IA não substituem."
 publishedAt: "2026-05-29"
 draft: false
+cover: cover.jpg
+coverCredit: "Hans Holbein the Younger, The Ambassadors, 1533 · National Gallery, London"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg"
+coverFocus: "center 40%"
+category: "language"
 ---
 
 > Um método com a leitura em primeiro lugar, para aprendizes adultos, construído em torno do input compreensível que aulas geradas por IA não conseguem substituir.

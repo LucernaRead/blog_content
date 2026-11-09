@@ -3,6 +3,12 @@ title: "Lettori graduati in russo: come scegliere libri al tuo livello"
 excerpt: "Scegli un lettore graduato in russo che riuscirai a finire: come differiscono i livelli QCER e le scale proprie degli editori, cinque punti di partenza da una storia gratuita A1 a una scala B2, e un test di assaggio di dieci minuti."
 publishedAt: "2026-10-26"
 draft: false
+cover: cover.jpg
+coverCredit: "Vasily Kandinsky, Landscape with Two Poplars, 1912 · Art Institute of Chicago"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Vasily_Kandinsky_-_Landscape_with_Two_Poplars_-_1931.508_-_Art_Institute_of_Chicago.jpg"
+coverFocus: "center"
+category: "lists"
 ---
 
 Il russo chiede di più a un principiante rispetto alla maggior parte delle lingue europee. L'alfabeto è nuovo, l'accento di una parola non è segnato in un testo normale, e la stessa parola cambia desinenza a seconda della sua funzione nella frase. Una pagina di vero russo può quindi sembrare molto più difficile di quanto il suo vocabolario suggerisca.

@@ -3,6 +3,12 @@ title: "开着译本读原文:帮助还是拐杖?"
 excerpt: "几乎每个学着用新语言读书的人都试过:一手原文,一手译本。这里说的是它什么时候帮你 —— 以及它什么时候悄悄让你永远学不会自己读。"
 publishedAt: "2026-06-29"
 draft: false
+cover: cover.jpg
+coverCredit: "Henri Fantin-Latour, The Reading, 1877 · Musée des Beaux-Arts de Lyon"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Fantin-Latour-La_Lecture-Lyon.jpg"
+coverFocus: "center 40%"
+category: "method"
 ---
 
 # 开着译本读原文:是帮助还是拐杖?
@@ -43,6 +49,6 @@ draft: false
 
 正确的动作就是这个:与其离开这个句子去读别人的版本,不如解决掉那一个挡住你的词 —— 它的意思、发音、语法 —— 然后继续读原文。你留在语言里,只是把刺挑掉了。这么做之后,"逐句对译"这个习惯就干脆没有存在的理由了。
 
-[Lucerna](https://lucernaread.com) 就是围绕这个更小的动作造的。上传任何 EPUB,或者从古腾堡计划拉一本书,任何词离它的释义、IPA 和完整的动词变位或格变化表都只有一次点击 —— 不用第二个标签页,不用对照本,不用离开句子。你的生词本会用你真正停下来的那些词自己长起来。今天支持英语、德语和法语的查词,更多在路上。留着原文,关掉译本。
+[Lucerna](https://lucernaread.com) 就是围绕这个更小的动作造的。上传任何 EPUB,或者从古腾堡计划拉一本书,任何词离它的释义、IPA 和完整的动词变位或格变化表都只有一次点击 —— 不用第二个标签页,不用对照本,不用离开句子。你的生词本会用你真正停下来的那些词自己长起来。71 种语言的书都能读,其中 12 种功能更全。留着原文,关掉译本。
 
 *《阅读日志》是 [Lucerna](https://lucernaread.com) 的编辑角落 —— 一款给语言学习者的阅读 app。这里写的是慢慢变流利的短文:一本书,五页,每晚。*

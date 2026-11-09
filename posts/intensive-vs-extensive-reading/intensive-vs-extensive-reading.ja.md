@@ -3,6 +3,12 @@ title: "精読と多読:流暢さを作るのはどっち?"
 excerpt: "学習中の言語で読むやり方は二つあり、多くの人はうっかり遅いほうをやっている。その違いと、実際に流暢さをもたらすのはどちらか。"
 publishedAt: "2026-07-02"
 draft: false
+cover: cover.jpg
+coverCredit: "François Bonvin after Pieter Janssens Elinga, A Woman Reading, 1846–47 · Metropolitan Museum of Art"
+coverLicense: "CC0"
+coverSource: "https://commons.wikimedia.org/wiki/File:A_Woman_Reading,_after_Pieter_Janssens_Elinga_MET_DP805444.jpg"
+coverFocus: "center 60%"
+category: "method"
 ---
 
 # 精読か多読か:流暢さを作るのはどちらか

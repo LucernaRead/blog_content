@@ -3,6 +3,12 @@ title: "Apprendre une langue en lisant (la méthode des cinq pages par soir)"
 excerpt: "Atteindre la fluidité avec une toute petite habitude quotidienne. Pourquoi quinze minutes par soir valent mieux que les séances marathon — et comment installer la routine."
 publishedAt: "2026-06-10"
 draft: false
+cover: cover.jpg
+coverCredit: "Gerard ter Borch, Woman Reading a Book · National Museum in Warsaw"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Gerard_ter_Borch_II_-_Woman_reading_a_book_-_M.Ob.847_MNW_-_National_Museum_in_Warsaw.jpg"
+coverFocus: "center 55%"
+category: "method"
 ---
 
 On surestime ce qu'on peut lire en un week-end et on sous-estime ce qu'on peut lire en un an. La séance marathon — cinq heures avec un dictionnaire et une résolution toute neuve — donne une impression de progrès, mais elle survit rarement au deuxième week-end. Le lecteur qui tourne une page chaque soir, lui, termine une étagère avant le printemps et remarque à peine la montée.

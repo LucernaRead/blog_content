@@ -3,6 +3,12 @@ title: "У мира никогда не бывает только одной в�
 excerpt: "Чтение и новый язык выводят нас за пределы собственного мира. Поэтому мы и создаём Lucerna."
 publishedAt: "2026-08-11"
 draft: false
+cover: cover.jpg
+coverCredit: "Abraham Ortelius, Typus Orbis Terrarum, 1572"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:1572_Typus_Orbis_Terrarum_Ortelius.jpg"
+coverFocus: "center"
+category: "method"
 ---
 
 Зачем читать?

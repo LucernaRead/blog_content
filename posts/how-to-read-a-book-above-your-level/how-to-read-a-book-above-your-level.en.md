@@ -3,6 +3,12 @@ title: "How to Read a Book Above Your Level Without Drowning"
 excerpt: "Reading a book one or two levels above you can work — if you know the coverage gap, use gist-first tactics, and judge it after two chapters, not two pages."
 publishedAt: "2026-10-09"
 draft: false
+cover: cover.jpg
+coverCredit: "Vittore Carpaccio, Saint Augustine in His Study, 1502 · Scuola di San Giorgio degli Schiavoni"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Vittore_Carpaccio_026.jpg"
+coverFocus: "center"
+category: "method"
 ---
 
 The book you actually want to read is too hard. Your graded readers are still at A2 or B1, and the book calling to you is an original novel — real dialogue, idioms, long sentences, no vocabulary control. You stall on the second paragraph and wonder if you are being unrealistic.

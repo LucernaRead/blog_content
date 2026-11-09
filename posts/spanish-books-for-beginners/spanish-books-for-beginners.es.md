@@ -3,6 +3,12 @@ title: "Libros en español para principiantes: los primeros libros que vale la p
 excerpt: "Elige tu primer libro en español por tipo, no por fama: una novela para estudiantes, un lector bilingüe y dos historias conocidas en traducción, cada edición verificada y cada una con una función."
 publishedAt: "2026-10-11"
 draft: false
+cover: cover.jpg
+coverCredit: "Joaquín Sorolla, Strolling along the Seashore, 1909 · Museo Sorolla"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Joaqu%C3%ADn_Sorolla_y_Bastida_-_Strolling_along_the_Seashore_-_Google_Art_Project.jpg"
+coverFocus: "center 30%"
+category: "lists"
 ---
 
 Busca libros en español para principiantes y obtendrás un muro de listas que lo mezclan todo: libros de texto, colecciones de cuentos, álbumes infantiles y novelas famosas, como si fueran intercambiables. No lo son. Un libro escrito para estudiantes, un libro con una traducción al lado y un libro famoso que ya conoces en otro idioma exigen tres tipos de esfuerzo distintos, y el primer libro acertado es aquel cuyo esfuerzo puedes repetir mañana.

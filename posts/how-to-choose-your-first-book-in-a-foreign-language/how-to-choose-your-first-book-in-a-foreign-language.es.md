@@ -3,6 +3,12 @@ title: "Cómo elegir tu primer libro en otro idioma"
 excerpt: "El primer libro adecuado hace la mitad del trabajo por ti. Una guía práctica y para principiantes: cómo escoger, en tu idioma objetivo, un libro que de verdad vayas a terminar."
 publishedAt: "2026-06-03"
 draft: false
+cover: cover.jpg
+coverCredit: "Berthe Morisot, Reading, 1873 · Cleveland Museum of Art"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Berthe_Morisot_-_Reading_-_1950.89_-_Cleveland_Museum_of_Art.tiff"
+coverFocus: "center"
+category: "method"
 ---
 
 La mayoría elige su primer libro en otro idioma como elige un propósito de Año Nuevo: con ambición y algo de terquedad. Cogen el clásico que siempre quisieron leer, chocan en la página dos con un muro de gramática desconocida y concluyen que aún no están listos. El problema era el libro, no tú.

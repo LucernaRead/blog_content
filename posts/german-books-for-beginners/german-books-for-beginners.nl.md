@@ -3,6 +3,12 @@ title: "Duitse boeken voor beginners: de eerste boeken die de moeite waard zijn"
 excerpt: "Kies je eerste Duitse boek op soort, niet op roem: een leerboekverhaal dat zich afspeelt in Berlijn, een tweetalig vangnet, een bekend verhaal, een klassieker in korte hoofdstukken en een gegradeerde verhalenbundel, elke editie gecontroleerd."
 publishedAt: "2026-10-20"
 draft: false
+cover: cover.jpg
+coverCredit: "Adolph Menzel, The Balcony Room, 1845 · Alte Nationalgalerie"
+coverLicense: "public-domain"
+coverSource: "https://commons.wikimedia.org/wiki/File:Adolph_Menzel_-_Das_Balkonzimmer_-_Google_Art_Project.jpg"
+coverFocus: "center 45%"
+category: "lists"
 ---
 
 Zoek naar Duitse boeken voor beginners en de meeste lijsten geven je leerboeken: grammaticacursussen, werkwoordtabellen, beeldwoordenboeken en alles-in-één-handleidingen, alsof Duits leren en Duits lezen hetzelfde werk waren. Dat zijn ze niet. Een leerboek leert je iets over de taal. Een eerste boek geeft je Duits dat je echt kunt lezen, pagina na pagina, tot lezen niet meer als ontcijferen voelt. Die twee planken overlappen minder dan de lijsten suggereren.
