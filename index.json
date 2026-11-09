@@ -2,6 +2,90 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "english-graded-readers",
+      "publishedAt": "2026-11-09",
+      "cover": "cover.jpg",
+      "coverCredit": "Carl Spitzweg, The Poor Poet, 1839 · Neue Pinakothek, Munich",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Carl_Spitzweg_-_Der_arme_Poet_(Neue_Pinakothek).jpg",
+      "coverFocus": "center 40%",
+      "category": "lists",
+      "locales": {
+        "de": {
+          "slug": "english-graded-readers",
+          "title": "Englische Graded Reader: Das richtige Niveau wählen und weiterlesen",
+          "excerpt": "Graded Reader sind der leichteste Weg, ein Buch auf Englisch zu lesen. So finden Sie das passende Niveau, testen es in zehn Minuten und wissen, wann Sie eine Stufe höher gehen.",
+          "draft": false
+        },
+        "en": {
+          "slug": "english-graded-readers",
+          "title": "English Graded Readers: Pick Your Level and Read Your Way Up",
+          "excerpt": "Graded readers are the easiest way to finish a whole book in English. Here is how to pick the right level, test it in ten minutes, and know when to move up.",
+          "draft": false
+        },
+        "es": {
+          "slug": "english-graded-readers",
+          "title": "Lecturas graduadas en inglés: elige tu nivel y sigue avanzando",
+          "excerpt": "Las lecturas graduadas son la forma más fácil de terminar un libro completo en inglés. Así se elige el nivel adecuado, se comprueba en diez minutos y se sabe cuándo subir de nivel.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "english-graded-readers",
+          "title": "Lectures graduées en anglais : choisir son niveau et progresser",
+          "excerpt": "Les lectures graduées sont le moyen le plus simple de finir un livre en anglais. Comment choisir le bon niveau, le tester en dix minutes et savoir quand passer au niveau supérieur.",
+          "draft": false
+        },
+        "it": {
+          "slug": "english-graded-readers",
+          "title": "Letture graduate in inglese: scegli il livello e vai avanti",
+          "excerpt": "Le letture graduate sono il modo più semplice per finire un libro in inglese. Come scegliere il livello giusto, verificarlo in dieci minuti e capire quando salire di livello.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "english-graded-readers",
+          "title": "英語のグレーデッド・リーダー：レベルを選んで読み進める",
+          "excerpt": "グレーデッド・リーダーは、英語の本を一冊読み切る一番やさしい道。レベルの選び方、10分で確かめる方法、レベルアップのタイミングを説明します。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "english-graded-readers",
+          "title": "영어 단계별 읽기: 수준에 맞는 책 고르기",
+          "excerpt": "단계별 읽기 책은 영어 책 한 권을 끝까지 읽는 가장 쉬운 길입니다. 수준 고르는 법, 10분 판정법, 다음 단계로 넘어갈 때를 설명합니다.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "english-graded-readers",
+          "title": "Graded readers in het Engels: kies je niveau en lees verder",
+          "excerpt": "Graded readers zijn de makkelijkste manier om een boek in het Engels uit te lezen. Zo kies je het juiste niveau, test je het in tien minuten en weet je wanneer je omhoog gaat.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "english-graded-readers",
+          "title": "Leituras graduadas em inglês: escolha o nível e continue avançando",
+          "excerpt": "As leituras graduadas são a maneira mais fácil de terminar um livro inteiro em inglês. Veja como escolher o nível certo, testá-lo em dez minutos e saber quando avançar.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "english-graded-readers",
+          "title": "Адаптированные книги на английском: выберите уровень и читайте дальше",
+          "excerpt": "Адаптированные книги — самый простой способ дочитать книгу на английском до конца. Как выбрать уровень, проверить его за десять минут и понять, когда переходить дальше.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "english-graded-readers",
+          "title": "英語分級讀物：先定級別，再往上讀",
+          "excerpt": "分級讀物是讀完一整本英文書最容易的路。這篇講怎麼定級別、十分鐘驗級、以及何時升一級。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "english-graded-readers",
+          "title": "英语分级读物：先定级别，再往上读",
+          "excerpt": "分级读物是读完一整本英文书最容易的路。这篇讲怎么定级别、十分钟验级、以及何时升一级。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "english-books-for-beginners",
       "publishedAt": "2026-11-08",
       "cover": "cover.jpg",
