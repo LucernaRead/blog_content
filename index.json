@@ -2,6 +2,90 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "portuguese-books-for-beginners",
+      "publishedAt": "2026-11-10",
+      "cover": "cover.jpg",
+      "coverCredit": "José Ferraz de Almeida Júnior, Leitura, 1892",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Almeida_J%C3%BAnior_-_Leitura.jpg",
+      "coverFocus": "center 40%",
+      "category": "lists",
+      "locales": {
+        "de": {
+          "slug": "portuguese-books-for-beginners",
+          "title": "Portugiesische Bücher für Anfänger: Erste Bücher, die sich lohnen",
+          "excerpt": "Die meisten Portugiesisch-Listen sind Lehrbuchlisten oder Kinderklassiker. Sortiere nach Aufgabe: ein Hauptkurs, eine Grammatik, ein Vokabelbuch und ein kostenloser Lesestart.",
+          "draft": false
+        },
+        "en": {
+          "slug": "portuguese-books-for-beginners",
+          "title": "Portuguese Books for Beginners: First Books Worth Reading",
+          "excerpt": "Most Portuguese book lists are textbook lists or children's classics. Start by job instead: one main course, one grammar reference, one vocabulary book, and a free reading start.",
+          "draft": false
+        },
+        "es": {
+          "slug": "portuguese-books-for-beginners",
+          "title": "Libros en portugués para principiantes: las primeras lecturas que valen la pena",
+          "excerpt": "La mayoría de las listas de libros en portugués son manuales o clásicos infantiles. Empieza por la función: un curso, una gramática, un libro de vocabulario y una lectura gratis.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "portuguese-books-for-beginners",
+          "title": "Livres en portugais pour débutants : les premiers livres à lire",
+          "excerpt": "La plupart des listes sont des manuels ou des classiques pour enfants. Triez par fonction : un cours principal, une grammaire, un vocabulaire et un début de lecture gratuit.",
+          "draft": false
+        },
+        "it": {
+          "slug": "portuguese-books-for-beginners",
+          "title": "Libri in portoghese per principianti: i primi libri che vale la pena leggere",
+          "excerpt": "Le liste di libri in portoghese sono manuali o classici per bambini. Parti dal ruolo: un corso principale, una grammatica, un libro di lessico e un inizio di lettura gratuito.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "portuguese-books-for-beginners",
+          "title": "ポルトガル語初心者の本：まず読むべき一冊",
+          "excerpt": "教科書のリストでも児童文学の名作リストでもない、役割で選ぶ入門書ガイド。メイン教材、文法書、単語帳、無料の読み物を一冊ずつ。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "portuguese-books-for-beginners",
+          "title": "포르투갈어 초보자를 위한 책: 처음 읽을 만한 책",
+          "excerpt": "교과서 목록도 어린이 고전 목록도 아닙니다. 역할별로 고르는 입문서 안내서입니다. 주교재, 문법책, 단어장, 무료 읽기 자료를 하나씩 고릅니다.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "portuguese-books-for-beginners",
+          "title": "Portugese boeken voor beginners: de eerste boeken die de moeite waard zijn",
+          "excerpt": "De meeste Portugese boekenlijsten zijn lijsten met lesboeken of kinderklassiekers. Begin per taak: één hoofdcursus, één grammaticaboek, één woordenboek en een gratis leesstart.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "portuguese-books-for-beginners",
+          "title": "Livros em português para iniciantes: as primeiras leituras que valem a pena",
+          "excerpt": "A maioria das listas de livros em português são manuais ou clássicos infantis. Comece pela função: um curso, uma gramática, um livro de vocabulário e uma leitura grátis.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "portuguese-books-for-beginners",
+          "title": "Книги на португальском для начинающих: первые книги, которые стоит прочитать",
+          "excerpt": "Большинство списков книг на португальском — это учебники или детские классики. Начните с задачи: один основной курс, грамматика, одна книга по лексике и бесплатный старт чтения.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "portuguese-books-for-beginners",
+          "title": "葡語初級書單：先讀這幾本",
+          "excerpt": "市面上的葡語書單多半是教材或兒童名著。這篇按用途分書：主教材一本、語法一本、詞彙一本，再加一個免費起步讀法。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "portuguese-books-for-beginners",
+          "title": "葡萄牙语初级书单：先读这几本",
+          "excerpt": "市面上的葡语书单多半是教材或儿童名著。这篇按用途分书：主教材一本、语法一本、词汇一本，再加一个免费起步读法。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "english-graded-readers",
       "publishedAt": "2026-11-09",
       "cover": "cover.jpg",
