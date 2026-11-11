@@ -2,6 +2,90 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "dutch-books-for-beginners",
+      "publishedAt": "2026-11-11",
+      "cover": "cover.jpg",
+      "coverCredit": "Pieter de Hooch, Man Reading a Letter to a Woman, 1674–1676",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Pieter_de_Hooch_-_Man_reading_letter_to_a_woman.jpg",
+      "coverFocus": "center 40%",
+      "category": "lists",
+      "locales": {
+        "de": {
+          "slug": "dutch-books-for-beginners",
+          "title": "Niederländische Bücher für Anfänger: Erste Bücher, die sich lohnen",
+          "excerpt": "Niederländisch-Listen sind meist Lehrbuchlisten oder Stapel nach Fähigkeiten. Sortiere nach Aufgabe: ein Hauptkurs, eine Grammatik, ein Vokabelbuch und ein kostenloser Lesestart.",
+          "draft": false
+        },
+        "en": {
+          "slug": "dutch-books-for-beginners",
+          "title": "Dutch Books for Beginners: The First Books Worth Reading",
+          "excerpt": "Most Dutch book lists are textbook lists or skill-split piles. Start by job instead, with one main course, one grammar reference, one vocabulary book and a free reading start.",
+          "draft": false
+        },
+        "es": {
+          "slug": "dutch-books-for-beginners",
+          "title": "Libros en neerlandés para principiantes: las primeras lecturas",
+          "excerpt": "La mayoría de las listas de libros en neerlandés son listas de manuales o pilas por destreza. Ordena por uso: un curso, una gramática, un vocabulario y lectura gratis.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "dutch-books-for-beginners",
+          "title": "Livres en néerlandais pour débutants : les premiers livres à lire",
+          "excerpt": "La plupart des listes de livres néerlandais sont des listes de manuels ou des piles par compétence. Triez par usage : cours, grammaire, vocabulaire et lecture gratuite.",
+          "draft": false
+        },
+        "it": {
+          "slug": "dutch-books-for-beginners",
+          "title": "Libri in olandese per principianti: i primi libri che valgono la pena",
+          "excerpt": "La maggior parte delle liste di libri in olandese sono liste di manuali o pile per abilità. Ordina per uso: un corso, una grammatica, un vocabolario e una lettura gratuita.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "dutch-books-for-beginners",
+          "title": "オランダ語初心者の本：まず読むべき一冊",
+          "excerpt": "オランダ語の本選びは、教科書のリストか技能別の寄せ集めになりがち。役割で選ぶ。メイン教材、文法書、単語帳、そして無料の読み始め。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "dutch-books-for-beginners",
+          "title": "네덜란드어 초보자를 위한 책: 처음 읽을 만한 책",
+          "excerpt": "네덜란드어 책 목록은 교재 나열이나 기능별 모음이 대부분이다. 용도별로 고르자. 주교재, 문법책, 단어장, 그리고 무료로 시작하는 읽기.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "dutch-books-for-beginners",
+          "title": "Nederlandse boeken voor beginners: de eerste boeken die de moeite waard zijn",
+          "excerpt": "De meeste lijsten met Nederlandse boeken zijn leerboekenlijsten of stapels per vaardigheid. Sorteer op taak: hoofdcursus, grammatica, woordenboek en gratis leesstart.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "dutch-books-for-beginners",
+          "title": "Livros em neerlandês para iniciantes: as primeiras leituras que valem a pena",
+          "excerpt": "A maioria das listas de livros em neerlandês é lista de manuais ou pilha por habilidade. Ordene por uso: um curso, uma gramática, um vocabulário e leitura grátis.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "dutch-books-for-beginners",
+          "title": "Книги на нидерландском для начинающих: первые книги, которые стоит прочитать",
+          "excerpt": "Большинство списков книг на нидерландском — списки учебников или подборки по навыкам. Сортируйте по задаче: курс, грамматика, словарь и бесплатное начало чтения.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "dutch-books-for-beginners",
+          "title": "荷蘭語初學者書單：先讀這幾本",
+          "excerpt": "市面上的荷語書單多半是教材，或按技能分欄的書堆。這篇按用途分書：主教材一本、語法一本、詞彙一本，再加一個免費起步讀法。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "dutch-books-for-beginners",
+          "title": "荷兰语初级书单：先读这几本",
+          "excerpt": "市面上的荷语书单多半是教材，或按技能分栏的书堆。这篇按用途分书：主教材一本、语法一本、词汇一本，再加一个免费起步读法。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "portuguese-books-for-beginners",
       "publishedAt": "2026-11-10",
       "cover": "cover.jpg",
