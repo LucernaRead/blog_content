@@ -2,6 +2,90 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "short-stories-in-japanese-for-beginners",
+      "publishedAt": "2026-11-12",
+      "cover": "cover.jpg",
+      "coverCredit": "Kitagawa Utamaro, Woman of the Yoshiwara Reading Scroll · Cleveland Museum of Art",
+      "coverLicense": "CC0",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Woman_of_the_Yoshiwara_Reading_Scroll_-_1940.1038_-_Cleveland_Museum_of_Art.jpg",
+      "coverFocus": "center 40%",
+      "category": "lists",
+      "locales": {
+        "de": {
+          "slug": "short-stories-in-japanese-for-beginners",
+          "title": "Japanische Kurzgeschichten für Anfänger: Womit du anfangen solltest",
+          "excerpt": "Eine Kurzgeschichte zeigt dir am schnellsten, ob ein japanischer Text zu deinem Stand passt. Lies erst eine Geschichte zu Ende und öffne dann die nächste.",
+          "draft": false
+        },
+        "en": {
+          "slug": "short-stories-in-japanese-for-beginners",
+          "title": "Short Stories in Japanese for Beginners: What to Read First",
+          "excerpt": "A short story is the fastest way to tell whether a Japanese text is at your level. Test one story first, finish it, and only then open the next.",
+          "draft": false
+        },
+        "es": {
+          "slug": "short-stories-in-japanese-for-beginners",
+          "title": "Cuentos cortos en japonés para principiantes: qué leer primero",
+          "excerpt": "Un cuento corto es la forma más rápida de saber si un texto en japonés está a tu nivel. Prueba un cuento, termínalo y solo después abre el siguiente.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "short-stories-in-japanese-for-beginners",
+          "title": "Nouvelles en japonais pour débutants : par quoi commencer",
+          "excerpt": "Une nouvelle est le test le plus rapide pour savoir si un texte japonais est à votre niveau. Lisez-en une, terminez-la, puis ouvrez la suivante.",
+          "draft": false
+        },
+        "it": {
+          "slug": "short-stories-in-japanese-for-beginners",
+          "title": "Racconti in giapponese per principianti: da dove cominciare",
+          "excerpt": "Un racconto è il modo più veloce per capire se un testo giapponese è al tuo livello. Leggine uno, finiscilo, e solo dopo passa al successivo.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "short-stories-in-japanese-for-beginners",
+          "title": "日本語の短編小説、初心者は何から読む?",
+          "excerpt": "短編は、自分の日本語がどのレベルかを知るいちばん速い方法です。まず一編読んで、読み切ってから次へ進みましょう。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "short-stories-in-japanese-for-beginners",
+          "title": "일본어 단편소설, 처음 읽을 책은?",
+          "excerpt": "단편소설 한 편이면 내 일본어 실력이 어느 정도인지 바로 알 수 있다. 한 편을 끝까지 읽고, 다음 권을 펼치자.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "short-stories-in-japanese-for-beginners",
+          "title": "Korte verhalen in het Japans voor beginners: wat lees je eerst?",
+          "excerpt": "Een kort verhaal laat je in één keer zien of een Japanse tekst op jouw niveau is. Lees eerst één verhaal uit, en pak pas daarna het volgende.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "short-stories-in-japanese-for-beginners",
+          "title": "Contos em japonês para iniciantes: o que ler primeiro",
+          "excerpt": "Um conto é o teste mais rápido para saberes se um texto em japonês está no teu nível. Lê um até ao fim e só depois abre o próximo.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "short-stories-in-japanese-for-beginners",
+          "title": "Короткие рассказы на японском для начинающих: с чего начать",
+          "excerpt": "Короткий рассказ быстро покажет, по зубам ли вам японский текст. Прочтите один рассказ до конца и только потом берите следующий.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "short-stories-in-japanese-for-beginners",
+          "title": "日文短篇小說：新手先讀哪本",
+          "excerpt": "一篇短篇，最快試出你的日文程度。先讀完一篇，再開下一篇。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "short-stories-in-japanese-for-beginners",
+          "title": "日语入门短篇：先读哪一篇",
+          "excerpt": "一篇短故事最快能测出你的日语阅读水平。先读完一篇，再打开下一篇。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "dutch-books-for-beginners",
       "publishedAt": "2026-11-11",
       "cover": "cover.jpg",
