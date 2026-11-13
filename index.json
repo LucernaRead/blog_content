@@ -2,6 +2,90 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "short-stories-in-dutch-for-beginners",
+      "publishedAt": "2026-11-13",
+      "cover": "cover.jpg",
+      "coverCredit": "Quirijn van Brekelenkam, De voorlezer, 1650–1668 · Rijksmuseum",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:De_voorlezer._Rijksmuseum_SK-A-673.jpeg",
+      "coverFocus": "center 40%",
+      "category": "lists",
+      "locales": {
+        "de": {
+          "slug": "short-stories-in-dutch-for-beginners",
+          "title": "Kurze Geschichten auf Niederländisch für Anfänger: Womit zuerst anfangen",
+          "excerpt": "Eine Kurzgeschichte zeigt schnell, ob ein niederländischer Text zu deinem Niveau passt. Lies eine Geschichte zu Ende, bevor du die nächste aufschlägst.",
+          "draft": false
+        },
+        "en": {
+          "slug": "short-stories-in-dutch-for-beginners",
+          "title": "Short Stories in Dutch for Beginners: What to Read First",
+          "excerpt": "A short story is a fast way to tell whether a Dutch text is at your level. Test one story first, finish it, and only then open the next.",
+          "draft": false
+        },
+        "es": {
+          "slug": "short-stories-in-dutch-for-beginners",
+          "title": "Cuentos cortos en neerlandés para principiantes: por dónde empezar",
+          "excerpt": "Un cuento corto te dice rápido si un texto en neerlandés está a tu nivel. Prueba un cuento, termínalo y solo después abre el siguiente.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "short-stories-in-dutch-for-beginners",
+          "title": "Histoires courtes en néerlandais pour débutants : par quoi commencer",
+          "excerpt": "Une histoire courte montre vite si un texte néerlandais est à ton niveau. Termine une histoire avant d'en ouvrir une autre.",
+          "draft": false
+        },
+        "it": {
+          "slug": "short-stories-in-dutch-for-beginners",
+          "title": "Racconti brevi in olandese per principianti: da cosa cominciare",
+          "excerpt": "Un racconto breve ti dice in fretta se un testo in olandese è al tuo livello. Prova un racconto, finiscilo e solo dopo apri il successivo.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "short-stories-in-dutch-for-beginners",
+          "title": "初心者向けオランダ語短編、まず読む一冊",
+          "excerpt": "短編なら一晩で読み切れる。レベルに合うかどうか、1話読めばすぐわかる。初心者向けオランダ語短編の選び方と、最初の一冊を決める方法。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "short-stories-in-dutch-for-beginners",
+          "title": "초보자 네덜란드어 읽기, 단편소설부터",
+          "excerpt": "단편소설은 하룻밤이면 다 읽을 수 있다. 한 편만 읽어봐도 내 수준에 맞는지 바로 알 수 있다. 초보자를 위한 네덜란드어 단편소설 고르는 법과 첫 책 정하는 법.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "short-stories-in-dutch-for-beginners",
+          "title": "Korte verhalen in het Nederlands voor beginners: waar begin je?",
+          "excerpt": "Een kort verhaal laat snel zien of een Nederlandse tekst op jouw niveau zit. Lees eerst één verhaal uit, en open pas dan het volgende.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "short-stories-in-dutch-for-beginners",
+          "title": "Contos curtos em neerlandês para iniciantes: por onde começar",
+          "excerpt": "Um conto curto mostra rápido se um texto em neerlandês está no seu nível. Teste um conto, termine-o e só depois abra o próximo.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "short-stories-in-dutch-for-beginners",
+          "title": "Короткие рассказы на нидерландском для начинающих: с чего начать",
+          "excerpt": "Короткий рассказ быстро покажет, подходит ли вам текст на нидерландском по уровню. Прочитайте один рассказ до конца и только потом открывайте следующий.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "short-stories-in-dutch-for-beginners",
+          "title": "荷蘭語初學者短篇故事：先讀哪本",
+          "excerpt": "一篇短篇故事就能測出荷蘭語文本合不合你的水平。先讀完一篇，再打開下一篇。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "short-stories-in-dutch-for-beginners",
+          "title": "荷兰语初学者短篇故事：先读哪本",
+          "excerpt": "一篇短篇故事就能测出荷兰语文本合不合你的水平。先读完一篇，再打开下一篇。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "short-stories-in-japanese-for-beginners",
       "publishedAt": "2026-11-12",
       "cover": "cover.jpg",
