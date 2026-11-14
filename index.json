@@ -2,6 +2,90 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "learn-dutch-by-reading",
+      "publishedAt": "2026-11-14",
+      "cover": "cover.jpg",
+      "coverCredit": "Frans van Mieris the Elder, A Woman Reading and a Man Seated at a Table, c. 1676 · The Leiden Collection",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:FM-107-Frans_van_Mieris-A_Woman_Reading_and_a_Man_Seated_at_a_Table.jpg",
+      "coverFocus": "center 40%",
+      "category": "method",
+      "locales": {
+        "de": {
+          "slug": "learn-dutch-by-reading",
+          "title": "Niederländisch lesen lernen: So gelingt der Einstieg mit Büchern",
+          "excerpt": "Eine Lesemethode für das Niederländische selbst: der Vorteil der verwandten Wörter, vier Fallen auf der Seite, ein Zehn-Minuten-Test und eine Routine, die Seite und Ton verbindet.",
+          "draft": false
+        },
+        "en": {
+          "slug": "learn-dutch-by-reading",
+          "title": "How to Learn Dutch by Reading Books",
+          "excerpt": "A reading method built for Dutch itself, with the cognate head start, four page traps, a ten-minute sample test, and a routine that pairs the page with sound.",
+          "draft": false
+        },
+        "es": {
+          "slug": "learn-dutch-by-reading",
+          "title": "Cómo aprender neerlandés leyendo libros",
+          "excerpt": "Un método de lectura pensado para el neerlandés: las palabras que ya conoces, las cuatro trampas de la página, una prueba de diez minutos y una rutina que une texto y sonido.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "learn-dutch-by-reading",
+          "title": "Le néerlandais par la lecture : la méthode qui marche",
+          "excerpt": "Une méthode de lecture pensée pour le néerlandais lui-même : les mots transparents, quatre pièges de la page, un test de dix minutes et une routine qui associe la page au son.",
+          "draft": false
+        },
+        "it": {
+          "slug": "learn-dutch-by-reading",
+          "title": "Imparare l'olandese leggendo: il metodo che funziona",
+          "excerpt": "Un metodo di lettura pensato per l'olandese: parole simili all'inglese, quattro trappole della pagina, un test di dieci minuti e una routine che unisce pagina e audio.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "learn-dutch-by-reading",
+          "title": "オランダ語は本で学ぶのがいちばん",
+          "excerpt": "オランダ語の同族語の助け、つまずきやすい四つの罠、10分の試し読みテスト、音と組み合わせた読書の習慣を紹介する。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "learn-dutch-by-reading",
+          "title": "책으로 배우는 네덜란드어",
+          "excerpt": "네덜란드어에 맞는 읽기 방법. 동족어라는 출발점, 페이지의 네 가지 함정, 열 분짜리 샘플 테스트, 소리와 함께하는 읽기 습관을 정리했다.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "learn-dutch-by-reading",
+          "title": "Zo leer je Nederlands met boeken",
+          "excerpt": "Een leesmethode die past bij het Nederlands zelf: herkenbare woorden als voorsprong, vier valkuilen, een test van tien minuten en een routine die lezen koppelt aan luisteren.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "learn-dutch-by-reading",
+          "title": "Holandês pela leitura: um guia para ler livros",
+          "excerpt": "Um método de leitura pensado para o neerlandês: as palavras parecidas com o inglês, as quatro armadilhas da página, um teste de dez minutos e uma rotina que junta a página ao som.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "learn-dutch-by-reading",
+          "title": "Как учить нидерландский язык по книгам",
+          "excerpt": "Метод чтения, построенный под сам нидерландский: родственные слова, четыре ловушки страницы, десятиминутная проба книги и привычка читать вместе со звуком.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "learn-dutch-by-reading",
+          "title": "靠讀書學荷蘭語",
+          "excerpt": "荷蘭語比想像中容易上手。同源詞是起點，四個閱讀陷阱要避開，十分鐘試讀幫你挑到第一本合適的書。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "learn-dutch-by-reading",
+          "title": "读荷兰语书学荷兰语",
+          "excerpt": "针对荷兰语本身的读书方法：同源词的起跑优势、四个页面陷阱、十分钟选书测试，以及读书配听音的日常安排。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "short-stories-in-dutch-for-beginners",
       "publishedAt": "2026-11-13",
       "cover": "cover.jpg",
