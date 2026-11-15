@@ -2,6 +2,90 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "dutch-graded-readers",
+      "publishedAt": "2026-11-15",
+      "cover": "cover.jpg",
+      "coverCredit": "Johannes Vermeer, Girl Reading a Letter at an Open Window, c. 1657–59 · Gemäldegalerie Alte Meister, Dresden",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_Girl_Reading_a_Letter_by_an_Open_Window_-_Google_Art_Project.jpg",
+      "coverFocus": "center 40%",
+      "category": "lists",
+      "locales": {
+        "de": {
+          "slug": "dutch-graded-readers",
+          "title": "Niederländisch lesen: So findest du das passende Buch",
+          "excerpt": "Gestufte Lesebücher auf Niederländisch, Niveau für Niveau: Wie sich CEFR und NT2 unterscheiden, ein Zehn-Minuten-Test, der mehr sagt als das Etikett, und wo du kostenlos anfängst.",
+          "draft": false
+        },
+        "en": {
+          "slug": "dutch-graded-readers",
+          "title": "Dutch Graded Readers: How to Pick the Right Level",
+          "excerpt": "Dutch graded readers at every level. How CEFR and NT2 labels differ, a ten-minute sample test that beats the label, and where to start for free.",
+          "draft": false
+        },
+        "es": {
+          "slug": "dutch-graded-readers",
+          "title": "Lectores graduados de neerlandés: cómo elegir el nivel adecuado",
+          "excerpt": "Lectores graduados de neerlandés, nivel por nivel: qué diferencia las etiquetas CEFR y NT2, una prueba de diez minutos que supera a la etiqueta y dónde empezar gratis.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "dutch-graded-readers",
+          "title": "Livres gradués en néerlandais : comment choisir le bon niveau",
+          "excerpt": "Lectures graduées en néerlandais, niveau par niveau : les étiquettes CECR et NT2, un test d'échantillon de dix minutes et où commencer gratuitement.",
+          "draft": false
+        },
+        "it": {
+          "slug": "dutch-graded-readers",
+          "title": "Letture graduate in olandese: come scegliere il livello giusto",
+          "excerpt": "Letture graduate in olandese, livello per livello: come differiscono le etichette CEFR e NT2, un test di dieci minuti che vale più dell'etichetta e da dove cominciare gratis.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "dutch-graded-readers",
+          "title": "オランダ語の段階別読本、選び方",
+          "excerpt": "オランダ語の段階別読本をレベル別に紹介。CEFRとNT2の違い、10分でできる試し読みテスト、無料で始められる本まで。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "dutch-graded-readers",
+          "title": "네덜란드어 단계별 읽기: 수준 고르는 법",
+          "excerpt": "네덜란드어 단계별 읽기책을 수준별로 정리했다. CEFR와 NT2 표기의 차이, 10분 샘플 테스트, 무료로 시작하는 방법까지 담았다.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "dutch-graded-readers",
+          "title": "Nederlandse graded readers: zo kies je het juiste niveau",
+          "excerpt": "Nederlandse graded readers, niveau voor niveau: waarin CEFR- en NT2-labels verschillen, een steekproeftest van tien minuten die beter werkt dan het label, en waar je gratis begint.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "dutch-graded-readers",
+          "title": "Leitores graduados de neerlandês: como escolher o nível certo",
+          "excerpt": "Leitores graduados de neerlandês, nível a nível: como as etiquetas CEFR e NT2 diferem, um teste de dez minutos que vale mais que a etiqueta, e onde começar de graça.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "dutch-graded-readers",
+          "title": "Грейдед-ридеры на нидерландском: как выбрать свой уровень",
+          "excerpt": "Грейдед-ридеры на нидерландском по уровням: чем различаются шкалы CEFR и NT2, десятиминутный тест, который точнее ярлыка, и с чего начать бесплатно.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "dutch-graded-readers",
+          "title": "荷蘭文分級讀物：如何選對程度",
+          "excerpt": "荷蘭文分級讀物逐級拆解：CEFR 與 NT2 標籤有何不同、十分鐘抽樣測試如何勝過封面標籤，以及免費起步的方法。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "dutch-graded-readers",
+          "title": "荷兰语分级读物：怎么挑对级别",
+          "excerpt": "荷兰语分级读物怎么按级别挑：CEFR 与 NT2 的区别、十分钟抽样测试，以及免费从哪起步。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "learn-dutch-by-reading",
       "publishedAt": "2026-11-14",
       "cover": "cover.jpg",
