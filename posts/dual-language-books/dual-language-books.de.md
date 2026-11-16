@@ -110,6 +110,6 @@ Das Buch ist eine Art dieser Anordnung — die vom Verlag ausgerichtete, bei der
 
 ### Funktionieren zweisprachige Bücher für Sprachen wie Japanisch oder Chinesisch?
 
-Es gibt sie — Penguins Liste enthält einen japanischen Band —, aber das Regal ist weit dünner als für europäische Sprachen, und Schriften fügen ein zweites Problem hinzu: Eine Übersetzung kann Ihnen nicht helfen, Zeichen zu entziffern, die Sie noch nicht lesen können. Für diese Sprachen kommen meist zuerst gestufte Lektüren mit Aussprachehilfe, und Paralleltexte stoßen später dazu.
+Es gibt sie — Penguins Liste enthält einen japanischen Band —, aber das Regal ist weit dünner als für europäische Sprachen, und Schriften fügen ein zweites Problem hinzu: Eine Übersetzung kann Ihnen nicht helfen, Zeichen zu entziffern, die Sie noch nicht lesen können. Für diese Sprachen kommen meist zuerst [gestufte Lektüren mit Aussprachehilfe](https://lucernaread.com/landing/blog/japanese-graded-readers), und Paralleltexte stoßen später dazu.
 
 *Angaben zu den Ausgaben geprüft am 17. Oktober 2026 gegen Penguins Parallel-Texts-Reihenseite, die von Buchhändlerseiten übernommenen Dover-Beschreibungen und Treasure Bays eigene Produktseite. Die Ratschläge zu Aufmachung und Routine sind unsere eigenen.*

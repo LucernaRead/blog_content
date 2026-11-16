@@ -110,6 +110,6 @@ The book is one kind of that setup — the publisher-aligned kind, where the mat
 
 ### Do dual language books work for languages like Japanese or Chinese?
 
-They exist — Penguin's list includes a Japanese volume — but the shelf is far thinner than for European languages, and scripts add a second problem: a translation cannot help you decode characters you cannot yet read. For those languages, graded readers with pronunciation support usually come first, and parallel texts join later.
+They exist — Penguin's list includes a Japanese volume — but the shelf is far thinner than for European languages, and scripts add a second problem: a translation cannot help you decode characters you cannot yet read. For those languages, [graded readers with pronunciation support](https://lucernaread.com/landing/blog/japanese-graded-readers) usually come first, and parallel texts join later.
 
 *Edition details checked on 17 October 2026 against Penguin's Parallel Texts series page, Dover descriptions carried by bookseller pages, and Treasure Bay's own product page. Layout and routine advice is our own.*
