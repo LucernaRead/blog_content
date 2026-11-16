@@ -2,6 +2,90 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "short-stories-in-portuguese-for-beginners",
+      "publishedAt": "2026-11-16",
+      "cover": "cover.jpg",
+      "coverCredit": "José Malhoa, O Fado, 1910 · Museu de Lisboa",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Jose_malhoa_fado.jpg",
+      "coverFocus": "center 40%",
+      "category": "lists",
+      "locales": {
+        "de": {
+          "slug": "short-stories-in-portuguese-for-beginners",
+          "title": "Portugiesische Kurzgeschichten für Anfänger: So fängst du an",
+          "excerpt": "Kurzgeschichten auf Portugiesisch im passenden Niveau. Ein Zehn-Minuten-Test, die vier Fallen auf einer portugiesischen Seite, kostenlose Legenden und der Weg zu Machado de Assis.",
+          "draft": false
+        },
+        "en": {
+          "slug": "short-stories-in-portuguese-for-beginners",
+          "title": "Portuguese Short Stories for Beginners: Where to Start",
+          "excerpt": "Portuguese short stories at the right level. A ten-minute test, the four traps on a Portuguese page, free legends to start with, and the bridge to Machado de Assis.",
+          "draft": false
+        },
+        "es": {
+          "slug": "short-stories-in-portuguese-for-beginners",
+          "title": "Cuentos cortos en portugués para principiantes: por dónde empezar",
+          "excerpt": "Cuentos cortos en portugués al nivel adecuado. Una prueba de diez minutos, cuatro trampas de la página, leyendas gratis para empezar y el puente hacia Machado de Assis.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "short-stories-in-portuguese-for-beginners",
+          "title": "Nouvelles portugaises pour débutants : par où commencer",
+          "excerpt": "Des nouvelles portugaises au bon niveau. Un test de dix minutes, les quatre pièges d'une page en portugais, des légendes gratuites, et le pont vers Machado de Assis.",
+          "draft": false
+        },
+        "it": {
+          "slug": "short-stories-in-portuguese-for-beginners",
+          "title": "Racconti brevi in portoghese per principianti: da dove cominciare",
+          "excerpt": "Racconti brevi in portoghese al livello giusto. Un test di dieci minuti, le quattro trappole di una pagina in portoghese, leggende gratuite e il ponte verso Machado de Assis.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "short-stories-in-portuguese-for-beginners",
+          "title": "初心者のためのポルトガル語短編入門",
+          "excerpt": "レベルに合う短編の選び方。10分で試す方法、ページに潜む4つの落とし穴、無料で読める伝説、そこからマシャードへ。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "short-stories-in-portuguese-for-beginners",
+          "title": "포르투갈어 단편소설, 어디서부터 읽을까",
+          "excerpt": "수준에 맞는 포르투갈어 단편소설을 고르는 법. 10분 테스트, 포르투갈어 페이지의 네 가지 함정, 무료 전설로 시작해 마샤두 지 아시스까지 가는 길.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "short-stories-in-portuguese-for-beginners",
+          "title": "Portugese korte verhalen voor beginners: waar begin je?",
+          "excerpt": "Korte verhalen in het Portugees op het juiste niveau. Een test van tien minuten, vier valkuilen, gratis legendes om mee te beginnen en de brug naar Machado de Assis.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "short-stories-in-portuguese-for-beginners",
+          "title": "Contos em português para iniciantes: por onde começar",
+          "excerpt": "Contos em português no nível certo. Um teste de dez minutos, as quatro armadilhas de uma página em português, lendas grátis para começar e a ponte até Machado de Assis.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "short-stories-in-portuguese-for-beginners",
+          "title": "Короткие рассказы на португальском: с чего начать новичку",
+          "excerpt": "Рассказы на португальском нужного уровня. Десятиминутный тест, четыре ловушки на португальской странице, бесплатные легенды для старта и мост к Машаду де Ассису.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "short-stories-in-portuguese-for-beginners",
+          "title": "葡語短篇故事入門：從哪裡開始",
+          "excerpt": "程度合適的葡語短篇故事。十分鐘測試、葡語頁面四個陷阱、免費傳說入門，以及通往 Machado de Assis 的橋。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "short-stories-in-portuguese-for-beginners",
+          "title": "初学葡语，从短篇故事开始",
+          "excerpt": "找一本难度合适的葡语短篇故事。十分钟试读法、书页上的四个陷阱、免费的民间传说入门，再到马沙多·德·阿西斯的桥梁。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "dutch-graded-readers",
       "publishedAt": "2026-11-15",
       "cover": "cover.jpg",
