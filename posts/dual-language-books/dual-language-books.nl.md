@@ -110,6 +110,6 @@ Het boek is een vorm van die opstelling — de door de uitgever uitgelijnde, waa
 
 ### Werken tweetalige boeken voor talen als Japans of Chinees?
 
-Ze bestaan — Penguins lijst bevat een Japans deel — maar de kast is veel dunner dan voor Europese talen, en schriftsystemen voegen een tweede probleem toe: een vertaling kan je niet helpen tekens te ontcijferen die je nog niet kunt lezen. Voor die talen komen meestal eerst gegradeerde readers met uitspraaksteun, en parallelle teksten sluiten later aan.
+Ze bestaan — Penguins lijst bevat een Japans deel — maar de kast is veel dunner dan voor Europese talen, en schriftsystemen voegen een tweede probleem toe: een vertaling kan je niet helpen tekens te ontcijferen die je nog niet kunt lezen. Voor die talen komen meestal eerst [gegradeerde readers met uitspraaksteun](https://lucernaread.com/landing/blog/japanese-graded-readers), en parallelle teksten sluiten later aan.
 
 *Uitgavegegevens gecontroleerd op 17 oktober 2026 aan de hand van Penguins Parallel-Texts-reekspagina, de door boekhandelaarspagina's overgenomen Dover-beschrijvingen en Treasure Bay's eigen productpagina. De adviezen over opmaak en routine zijn onze eigen.*

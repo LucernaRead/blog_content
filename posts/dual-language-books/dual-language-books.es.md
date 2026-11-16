@@ -110,6 +110,6 @@ El libro es una forma de ese montaje: la alineada por la editorial, donde el pas
 
 ### ¿Funcionan los libros bilingües para idiomas como el japonés o el chino?
 
-Existen —la lista de Penguin incluye un volumen japonés—, pero el estante es mucho más delgado que para las lenguas europeas, y los sistemas de escritura añaden un segundo problema: una traducción no puede ayudarte a descifrar caracteres que aún no sabes leer. Para esas lenguas, las lecturas graduadas con apoyo de pronunciación suelen ir primero, y los textos paralelos se incorporan después.
+Existen —la lista de Penguin incluye un volumen japonés—, pero el estante es mucho más delgado que para las lenguas europeas, y los sistemas de escritura añaden un segundo problema: una traducción no puede ayudarte a descifrar caracteres que aún no sabes leer. Para esas lenguas, [las lecturas graduadas con apoyo de pronunciación](https://lucernaread.com/landing/blog/japanese-graded-readers) suelen ir primero, y los textos paralelos se incorporan después.
 
 *Datos de edición comprobados el 17 de octubre de 2026 frente a la página de la colección Parallel Texts de Penguin, las descripciones de Dover recogidas por páginas de librerías y la página de producto de Treasure Bay. Los consejos de diseño y de rutina son nuestros.*
