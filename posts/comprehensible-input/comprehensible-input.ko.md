@@ -2,6 +2,7 @@
 title: "이해 가능한 입력: 무엇이며 읽을 때 어떻게 활용하는가"
 excerpt: "이해 가능한 입력은 이해할 수 있으면서 조금은 새로운 요소가 담긴 언어입니다. Krashen의 i+1이 실제로 무엇을 뜻하는지, 글을 얼마나 알아야 하는지, 그리고 읽을 때 내 수준에 맞는 입력을 어떻게 찾고 활용하는지 설명합니다."
 publishedAt: "2026-10-16"
+updatedAt: "2026-11-17"
 draft: false
 cover: cover.jpg
 coverCredit: "Mary Cassatt, Nurse Reading to a Little Girl, 1895 · Metropolitan Museum of Art"
@@ -47,6 +48,28 @@ Krashen은 목표를 **i+1**이라 썼습니다. *i*는 현재 수준이고, *+1
 98%는 가혹하게 들리지만 환산하면 이해됩니다. 250단어짜리 페이지에서 98%는 모르는 단어가 약 5개라는 뜻입니다. 95%에서는 12~13개, 대략 두 문장마다 하나씩으로, 95%가 일처럼 느껴지고 98%가 읽기처럼 느껴지는 이유입니다. 등급별 리더는 이 범위의 위쪽에 당신을 머물게 하려고 존재합니다. 통제된 어휘는 책을 펼치기 전에 설계된 커버리지입니다.
 
 커버리지는 안내이지 관문이 아닙니다. 익숙한 이야기, 잘 아는 주제, 그림과 맥락은 이 수치보다 낮은 글도 받쳐줄 수 있고, 추상적인 글은 수치보다 위에서도 당신을 이길 수 있습니다. 이 수치들은 샘플을 판단하는 데 쓰세요. 다음 절이 거기서 시작합니다.
+
+---
+
+## 직접 해보기: 같은 글을 세 가지 수준으로
+
+위에서 본 커버리지 수치는 계산하는 것보다 직접 느껴보는 편이 쉽습니다. 같은 짧은 글을 세 가지 수준으로 썼습니다. 하나씩 읽으면서 메시지가 어디까지 또렷하고 어디서부터 끊기기 시작하는지 살펴보세요.
+
+Level 1. Anna takes the train to work every morning. She buys a ticket, finds a seat by the window, and reads her book. The train is slow today. She looks out of the window and watches the houses go past.
+
+Level 2. Anna catches the 7:40 train to the city each morning. She buys a weekly ticket from the machine, settles into a window seat, and opens the novel she started last weekend. This morning the train crawls between stations, and she watches rows of brick houses slide past the glass.
+
+Level 3. Anna boards the 7:40 commuter train each weekday, a ritual so fixed she no longer checks the departure board. She taps her season ticket against the reader, claims her usual window seat, and resumes the novel she began on Saturday. This morning the service dawdles inexplicably between stops, and she finds herself studying the procession of brick terraces beyond the glass, wondering how many of their occupants are making precisely the same journey.
+
+**60초 테스트.** 고려 중인 책의 중간 페이지를 펼쳐 100단어쯤 읽고, 모르는 단어를 세어보세요.
+
+- **0–2개**: 98% 커버리지에 가깝습니다. 이 책이 맞습니다. 계속 읽으세요.
+- **3–5개**: 95% 커버리지쯤입니다. 읽을 수 있지만 힘이 들고, 사전을 곁에 두세요.
+- **6개 이상**: 95% 아래입니다. 의미가 계속 끊깁니다. 일단 내려놓고 한 수준 아래로 가세요.
+
+==이야기가 또렷한데 새 단어가 조금 있다. 그게 맞는 수준입니다.==
+
+사기 전에 이 테스트로 책을 확인하고, 수준이 정해지면 다음 절에서 그 수준의 책을 찾으세요.
 
 ---
 

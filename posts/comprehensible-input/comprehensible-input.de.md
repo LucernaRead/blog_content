@@ -2,6 +2,7 @@
 title: "Comprehensible Input: Was es ist und wie Sie es beim Lesen nutzen"
 excerpt: "Comprehensible Input ist Sprache, die Sie verstehen und die ein wenig Neues enthält. Was Krashens i+1 in der Praxis bedeutet, wie viel eines Textes Sie kennen müssen und wie Sie beim Lesen Input auf Ihrem Niveau finden und nutzen."
 publishedAt: "2026-10-16"
+updatedAt: "2026-11-17"
 draft: false
 cover: cover.jpg
 coverCredit: "Mary Cassatt, Nurse Reading to a Little Girl, 1895 · Metropolitan Museum of Art"
@@ -47,6 +48,28 @@ Die Leseforschung gibt der Formel eine grobe numerische Kante, in Form der **Abd
 98 % klingt streng, bis Sie es umrechnen. Auf einer Seite mit 250 Wörtern bedeutet 98 % Abdeckung etwa fünf unbekannte Wörter. Bei 95 % sind es zwölf oder dreizehn, ungefähr eines in jedem zweiten Satz, weshalb sich 95 % wie Arbeit anfühlt und 98 % wie Lesen. Graded Readers existieren, um Sie nahe am oberen Ende dieser Spanne zu halten: Ihr kontrollierter Wortschatz ist Abdeckung, die konstruiert wurde, bevor Sie das Buch öffnen.
 
 Abdeckung ist ein Leitfaden, kein Tor. Eine vertraute Geschichte, ein Thema, das Sie gut kennen, oder Bilder und Kontext können Sie durch einen Text unter diesen Werten tragen, und ein abstrakter Text kann Sie über ihnen besiegen. Nutzen Sie die Zahlen, um Leseproben zu beurteilen, und dort beginnt der nächste Abschnitt.
+
+---
+
+## Ein Versuch: dieselbe Passage in drei Stufen
+
+Die Zahlen zur Abdeckung lassen sich leichter fühlen als berechnen. Hier steht dieselbe kurze Passage in drei Stufen. Lesen Sie jede und achten Sie darauf, wo die Botschaft klar bleibt und wo sie zu bröckeln beginnt.
+
+Level 1. Anna takes the train to work every morning. She buys a ticket, finds a seat by the window, and reads her book. The train is slow today. She looks out of the window and watches the houses go past.
+
+Level 2. Anna catches the 7:40 train to the city each morning. She buys a weekly ticket from the machine, settles into a window seat, and opens the novel she started last weekend. This morning the train crawls between stations, and she watches rows of brick houses slide past the glass.
+
+Level 3. Anna boards the 7:40 commuter train each weekday, a ritual so fixed she no longer checks the departure board. She taps her season ticket against the reader, claims her usual window seat, and resumes the novel she began on Saturday. This morning the service dawdles inexplicably between stops, and she finds herself studying the procession of brick terraces beyond the glass, wondering how many of their occupants are making precisely the same journey.
+
+**Der 60-Sekunden-Test.** Schlagen Sie in einem Buch, das Sie in Betracht ziehen, eine Seite in der Mitte auf und lesen Sie etwa 100 Wörter. Zählen Sie die Wörter, die Sie nicht kennen.
+
+- **0–2** unbekannte Wörter: nahe an 98 % Abdeckung. Das Buch passt. Lesen Sie weiter.
+- **3–5** unbekannte Wörter: um 95 % Abdeckung. Lesbar, aber mit Anstrengung, und ein Wörterbuch in Reichweite.
+- **6 oder mehr** unbekannte Wörter: unter 95 %. Die Bedeutung bricht immer wieder ab. Legen Sie das Buch vorerst weg und gehen Sie eine Stufe tiefer.
+
+==Wenn die Geschichte klar bleibt und ein paar Wörter neu sind, stimmt das Niveau.==
+
+Testen Sie ein Buch vor dem Kauf mit diesem Verfahren und suchen Sie im nächsten Abschnitt nach weiteren Büchern auf dem Niveau, das der Test ergibt.
 
 ---
 

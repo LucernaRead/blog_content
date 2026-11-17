@@ -2,6 +2,7 @@
 title: "可理解输入：它是什么，以及阅读时如何用它"
 excerpt: "可理解输入是你能听懂读懂、又带一点新东西的语言。Krashen 的 i+1 在实践中是什么意思，一篇文章你需要认识多少词，以及如何在阅读时找到并用好适合自己水平的输入。"
 publishedAt: "2026-10-16"
+updatedAt: "2026-11-17"
 draft: false
 cover: cover.jpg
 coverCredit: "Mary Cassatt, Nurse Reading to a Little Girl, 1895 · Metropolitan Museum of Art"
@@ -47,6 +48,28 @@ Krashen 把目标写成 **i+1**。*i* 是你当前的水平，*+1* 是高出一�
 98% 听起来苛刻，换算一下就明白了。一页 250 个词，98% 覆盖率意味着约 5 个生词；95% 则是 12 到 13 个，差不多每隔一句就有一个——这正是 95% 像干活、98% 像阅读的原因。分级读物存在的意义，就是把你稳在区间的上沿：它受控的词汇量，本质上是你在开书前就被设计好的覆盖率。
 
 覆盖率是指南，不是关卡。熟悉的故事、你懂的题材、图片与上下文，都能托住一篇低于这些数字的文章；抽象的文章则能在数字之上难倒你。用这些数字去判断试读样本——下一节就从这里开始。
+
+---
+
+## 试一下：同一段话，三个难度
+
+上面的覆盖率数字，亲手测一次比算一次更直观。下面是同一段话的三个难度版本。逐个读一读，留意故事在哪个版本里还清楚，在哪个版本里开始断掉。
+
+Level 1. Anna takes the train to work every morning. She buys a ticket, finds a seat by the window, and reads her book. The train is slow today. She looks out of the window and watches the houses go past.
+
+Level 2. Anna catches the 7:40 train to the city each morning. She buys a weekly ticket from the machine, settles into a window seat, and opens the novel she started last weekend. This morning the train crawls between stations, and she watches rows of brick houses slide past the glass.
+
+Level 3. Anna boards the 7:40 commuter train each weekday, a ritual so fixed she no longer checks the departure board. She taps her season ticket against the reader, claims her usual window seat, and resumes the novel she began on Saturday. This morning the service dawdles inexplicably between stops, and she finds herself studying the procession of brick terraces beyond the glass, wondering how many of their occupants are making precisely the same journey.
+
+**60 秒测试。** 找一本正在考虑的书，翻到中间一页，读大约 100 个词，数一数里面有多少生词。
+
+- **0–2 个生词**：接近 98% 覆盖率。这本书合适，接着读。
+- **3–5 个生词**：大约 95% 覆盖率。能读，但要费力，字典放手边。
+- **6 个以上生词**：低于 95%。意思会一直断开。这本书先放一放，降一个难度。
+
+==故事还清楚、又有几个生词，这就是合适的难度。==
+
+买书之前，先拿这个办法测一测；测出级别，再去下一节找这个级别的书。
 
 ---
 

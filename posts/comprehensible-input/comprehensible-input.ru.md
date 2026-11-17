@@ -2,6 +2,7 @@
 title: "Понятный вход: что это такое и как использовать его при чтении"
 excerpt: "Понятный вход — это язык, который вы понимаете и в котором есть немного нового. Что формула i+1 Крэшена означает на практике, какую часть текста нужно знать и как находить и использовать вход своего уровня при чтении."
 publishedAt: "2026-10-16"
+updatedAt: "2026-11-17"
 draft: false
 cover: cover.jpg
 coverCredit: "Mary Cassatt, Nurse Reading to a Little Girl, 1895 · Metropolitan Museum of Art"
@@ -47,6 +48,28 @@ category: "method"
 98% звучат сурово, пока не пересчитаешь. На странице в 250 слов 98% покрытия означают около пяти незнакомых слов. При 95% их двенадцать или тринадцать, примерно одно на каждое второе предложение, и поэтому 95% ощущаются как работа, а 98% могут ощущаться как чтение. Адаптированные книги (graded readers) существуют, чтобы держать вас у верхнего края этого диапазона: их контролируемый словарь — это покрытие, спроектированное до того, как вы открыли книгу.
 
 Покрытие — ориентир, а не ворота. Знакомая история, хорошо известная вам тема или картинки и контекст могут провести вас через текст ниже этих цифр, а абстрактный текст может победить вас выше них. Используйте цифры, чтобы судить образцы, и с этого начинается следующий раздел.
+
+---
+
+## Попробуйте: один отрывок на трёх уровнях
+
+Цифры покрытия легче почувствовать, чем посчитать. Вот один и тот же короткий отрывок, написанный на трёх уровнях. Прочтите каждый и заметьте, где сообщение остаётся ясным, а где начинает рассыпаться.
+
+Level 1. Anna takes the train to work every morning. She buys a ticket, finds a seat by the window, and reads her book. The train is slow today. She looks out of the window and watches the houses go past.
+
+Level 2. Anna catches the 7:40 train to the city each morning. She buys a weekly ticket from the machine, settles into a window seat, and opens the novel she started last weekend. This morning the train crawls between stations, and she watches rows of brick houses slide past the glass.
+
+Level 3. Anna boards the 7:40 commuter train each weekday, a ritual so fixed she no longer checks the departure board. She taps her season ticket against the reader, claims her usual window seat, and resumes the novel she began on Saturday. This morning the service dawdles inexplicably between stops, and she finds herself studying the procession of brick terraces beyond the glass, wondering how many of their occupants are making precisely the same journey.
+
+**Тест на 60 секунд.** Возьмите книгу, которую рассматриваете, откройте страницу в середине и прочтите около 100 слов. Сосчитайте слова, которых вы не знаете.
+
+- **0–2** незнакомых слова: почти 98% покрытия. Книга подходит. Читайте дальше.
+- **3–5** незнакомых слов: около 95% покрытия. Читать можно, но с усилием и со словарём под рукой.
+- **6 или больше** незнакомых слов: ниже 95%. Смысл будет всё время прерываться. Отложите книгу пока и спуститесь на уровень ниже.
+
+==Если история остаётся ясной, а несколько слов — новыми, уровень верный.==
+
+Проверьте книгу этим тестом перед покупкой, а затем в следующем разделе найдите больше книг того уровня, который дал тест.
 
 ---
 
