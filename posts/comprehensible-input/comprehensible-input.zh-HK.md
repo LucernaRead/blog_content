@@ -2,6 +2,7 @@
 title: "可理解輸入：它是甚麼，以及閱讀時如何運用"
 excerpt: "可理解輸入是你能聽懂讀懂、又帶一點新東西的語言。Krashen 的 i+1 在實踐中是甚麼意思，一篇文章你需要認識多少詞，以及如何在閱讀時找到並用好適合自己水平的輸入。"
 publishedAt: "2026-10-16"
+updatedAt: "2026-11-17"
 draft: false
 cover: cover.jpg
 coverCredit: "Mary Cassatt, Nurse Reading to a Little Girl, 1895 · Metropolitan Museum of Art"
@@ -47,6 +48,28 @@ Krashen 把目標寫成 **i+1**。*i* 是你當前的水平，*+1* 是高出一�
 98% 聽起來苛刻，換算一下就明白了。一頁 250 個詞，98% 覆蓋率意味著約 5 個生詞；95% 則是 12 到 13 個，差不多每隔一句就有一個——這正是 95% 像做工、98% 像閱讀的原因。分級讀物存在的意義，就是把你穩在區間的上沿：它受控的詞彙量，本質上是你在開書前就被設計好的覆蓋率。
 
 覆蓋率是指南，不是關卡。熟悉的故事、你懂的題材、圖片與上下文，都能托住一篇低於這些數字的文章；抽象的文章則能在數字之上難倒你。用這些數字去判斷試讀樣本——下一節就從這裏開始。
+
+---
+
+## 試一試：同一段話，三個難度
+
+上面的覆蓋率數字，親自測一次比計算一次更直觀。下面是同一段話的三個難度版本。逐個讀一讀，留意故事在哪個版本還清楚，在哪個版本開始斷掉。
+
+Level 1. Anna takes the train to work every morning. She buys a ticket, finds a seat by the window, and reads her book. The train is slow today. She looks out of the window and watches the houses go past.
+
+Level 2. Anna catches the 7:40 train to the city each morning. She buys a weekly ticket from the machine, settles into a window seat, and opens the novel she started last weekend. This morning the train crawls between stations, and she watches rows of brick houses slide past the glass.
+
+Level 3. Anna boards the 7:40 commuter train each weekday, a ritual so fixed she no longer checks the departure board. She taps her season ticket against the reader, claims her usual window seat, and resumes the novel she began on Saturday. This morning the service dawdles inexplicably between stops, and she finds herself studying the procession of brick terraces beyond the glass, wondering how many of their occupants are making precisely the same journey.
+
+**60 秒測試。** 找一本正在考慮的書，翻到中間一頁，讀大約 100 個詞，數一數裏面有多少生詞。
+
+- **0–2 個生詞**：接近 98% 覆蓋率。這本書合適，繼續讀。
+- **3–5 個生詞**：大約 95% 覆蓋率。能讀，但要費力，字典放手邊。
+- **6 個以上生詞**：低於 95%。意思會一直斷開。這本書先放一放，降一個難度。
+
+==故事還清楚、又有幾個生詞，這就是合適的難度。==
+
+買書之前，先拿這個辦法測一測；測出級別，再去下一節找這個級別的書。
 
 ---
 

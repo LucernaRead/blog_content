@@ -2,6 +2,7 @@
 title: "Input compréhensible : ce que c'est et comment l'utiliser en lisant"
 excerpt: "L'input compréhensible est une langue que vous comprenez et qui contient un peu de neuf. Ce que le i+1 de Krashen signifie en pratique, quelle part d'un texte vous devez connaître, et comment trouver et utiliser en lisant un input à votre niveau."
 publishedAt: "2026-10-16"
+updatedAt: "2026-11-17"
 draft: false
 cover: cover.jpg
 coverCredit: "Mary Cassatt, Nurse Reading to a Little Girl, 1895 · Metropolitan Museum of Art"
@@ -47,6 +48,28 @@ La recherche sur la lecture donne à la formule un bord numérique approximatif,
 98 % semble sévère jusqu'à la conversion. Sur une page de 250 mots, 98 % de couverture signifie environ cinq mots inconnus. À 95 %, c'est douze ou treize, à peu près un tous les deux phrases, voilà pourquoi 95 % ressemble à du travail et 98 % peut ressembler à de la lecture. Les lectures graduées existent pour vous tenir près du haut de cette fourchette : leur vocabulaire contrôlé est de la couverture, conçue avant que vous ouvriez le livre.
 
 La couverture est un guide, pas une porte. Une histoire familière, un sujet que vous connaissez bien, ou des images et du contexte peuvent vous porter dans un texte au-dessous de ces chiffres, et un texte abstrait peut vous battre au-dessus. Utilisez les chiffres pour juger les échantillons, et c'est là que commence la section suivante.
+
+---
+
+## Essayez : le même passage à trois niveaux
+
+Les chiffres de couverture se sentent mieux qu'ils ne se calculent. Voici le même court passage écrit à trois niveaux. Lisez chacun et remarquez où le message reste clair et où il commence à se brouiller.
+
+Level 1. Anna takes the train to work every morning. She buys a ticket, finds a seat by the window, and reads her book. The train is slow today. She looks out of the window and watches the houses go past.
+
+Level 2. Anna catches the 7:40 train to the city each morning. She buys a weekly ticket from the machine, settles into a window seat, and opens the novel she started last weekend. This morning the train crawls between stations, and she watches rows of brick houses slide past the glass.
+
+Level 3. Anna boards the 7:40 commuter train each weekday, a ritual so fixed she no longer checks the departure board. She taps her season ticket against the reader, claims her usual window seat, and resumes the novel she began on Saturday. This morning the service dawdles inexplicably between stops, and she finds herself studying the procession of brick terraces beyond the glass, wondering how many of their occupants are making precisely the same journey.
+
+**Le test de 60 secondes.** Prenez un livre que vous envisagez, ouvrez une page au milieu et lisez environ 100 mots. Comptez les mots que vous ne connaissez pas.
+
+- **0–2** mots inconnus : près de 98 % de couverture. Le livre convient. Continuez.
+- **3–5** mots inconnus : autour de 95 % de couverture. Lisible, mais avec effort, et un dictionnaire à portée de main.
+- **6 ou plus** de mots inconnus : en dessous de 95 %. Le sens se brise sans cesse. Posez le livre pour l'instant et descendez d'un niveau.
+
+==Si l'histoire reste claire alors que quelques mots restent nouveaux, le niveau est bon.==
+
+Testez un livre avant de l'acheter, puis utilisez la section suivante pour trouver d'autres livres au niveau que le test vous donne.
 
 ---
 

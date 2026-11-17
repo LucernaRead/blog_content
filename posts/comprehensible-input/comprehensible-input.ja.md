@@ -2,6 +2,7 @@
 title: "理解可能なインプット：その意味と、読書での使い方"
 excerpt: "理解可能なインプットとは、理解できて、しかも少しだけ新しい要素を含む言語のこと。Krashen の i+1 が実際には何を意味するのか、文章のどれくらいを知っていればよいのか、自分のレベルに合ったインプットを読書でどう見つけ、どう使うか。"
 publishedAt: "2026-10-16"
+updatedAt: "2026-11-17"
 draft: false
 cover: cover.jpg
 coverCredit: "Mary Cassatt, Nurse Reading to a Little Girl, 1895 · Metropolitan Museum of Art"
@@ -47,6 +48,28 @@ Krashen は目標を **i+1** と書きました。*i* は現在のレベル、*+
 98% は厳しく聞こえますが、換算すれば分かります。250語のページでは、98% は未知語が約5語ということ。95% では12〜13語、つまり文の半分ごとに1語ほどで、95% が作業に感じ、98% が読書に感じられる理由です。グレーデッドリーダーは、あなたをこの範囲の上端近くに保つために存在します。その統制された語彙は、開く前に設計されたカバレッジなのです。
 
 カバレッジは目安であり、関門ではありません。馴染みの物語、よく知る主題、絵や文脈は、これらの数字より低い文章でもあなたを支えますし、抽象的な文章は数字より上でも打ち負かします。これらの数字はサンプルを判断するために使います。次節はそこから始まります。
+
+---
+
+## 試してみよう：同じ文章、3つのレベル
+
+上のカバレッジの数字は、計算するより自分で確かめたほうが分かりやすい。同じ短い文章を3つのレベルで書いた。順に読んで、メッセージがどこまで明確で、どこから崩れ始めるか確かめてほしい。
+
+Level 1. Anna takes the train to work every morning. She buys a ticket, finds a seat by the window, and reads her book. The train is slow today. She looks out of the window and watches the houses go past.
+
+Level 2. Anna catches the 7:40 train to the city each morning. She buys a weekly ticket from the machine, settles into a window seat, and opens the novel she started last weekend. This morning the train crawls between stations, and she watches rows of brick houses slide past the glass.
+
+Level 3. Anna boards the 7:40 commuter train each weekday, a ritual so fixed she no longer checks the departure board. She taps her season ticket against the reader, claims her usual window seat, and resumes the novel she began on Saturday. This morning the service dawdles inexplicably between stops, and she finds herself studying the procession of brick terraces beyond the glass, wondering how many of their occupants are making precisely the same journey.
+
+**60秒テスト。** 気になっている本の真ん中のページを開き、100語ほど読む。分からない単語を数える。
+
+- **0–2語**：98%のカバレッジに近い。この本は合っている。このまま読み進める。
+- **3–5語**：95%のカバレッジ前後。読めるが、努力が要る。辞書をそばに置く。
+- **6語以上**：95%を下回る。意味が途切れ続ける。今は置いて、一段下げる。
+
+==物語がはっきり追えて、少しだけ新しい単語がある。それが合うレベルだ。==
+
+買う前にこのテストを本で試す。レベルが分かれば、次の節でそのレベルの本を探す。
 
 ---
 

@@ -2,6 +2,7 @@
 title: "Input compreensível: o que é e como usá-lo quando você lê"
 excerpt: "Input compreensível é linguagem que você entende e que contém um pouco de novidade. O que o i+1 de Krashen significa na prática, quanto de um texto você precisa conhecer e como encontrar e usar input no seu nível ao ler."
 publishedAt: "2026-10-16"
+updatedAt: "2026-11-17"
 draft: false
 cover: cover.jpg
 coverCredit: "Mary Cassatt, Nurse Reading to a Little Girl, 1895 · Metropolitan Museum of Art"
@@ -47,6 +48,28 @@ A pesquisa sobre leitura dá à fórmula uma borda numérica aproximada, na form
 98% soa severo até você converter. Em uma página de 250 palavras, 98% de cobertura significa cerca de cinco palavras desconhecidas. A 95%, são doze ou treze, mais ou menos uma a cada duas frases, por isso 95% parece trabalho e 98% pode parecer leitura. As leituras graduadas existem para manter você perto do topo dessa faixa: seu vocabulário controlado é cobertura, projetada antes de você abrir o livro.
 
 Cobertura é um guia, não um portão. Uma história familiar, um assunto que você conhece bem, ou imagens e contexto podem carregar você por um texto abaixo desses números, e um texto abstrato pode derrotar você acima deles. Use os números para julgar amostras, e é aí que a próxima seção começa.
+
+---
+
+## Experimente: o mesmo trecho em três níveis
+
+Os números de cobertura são mais fáceis de sentir do que de calcular. Aqui está o mesmo trecho curto escrito em três níveis. Leia cada um e perceba onde a mensagem continua clara e onde começa a se romper.
+
+Level 1. Anna takes the train to work every morning. She buys a ticket, finds a seat by the window, and reads her book. The train is slow today. She looks out of the window and watches the houses go past.
+
+Level 2. Anna catches the 7:40 train to the city each morning. She buys a weekly ticket from the machine, settles into a window seat, and opens the novel she started last weekend. This morning the train crawls between stations, and she watches rows of brick houses slide past the glass.
+
+Level 3. Anna boards the 7:40 commuter train each weekday, a ritual so fixed she no longer checks the departure board. She taps her season ticket against the reader, claims her usual window seat, and resumes the novel she began on Saturday. This morning the service dawdles inexplicably between stops, and she finds herself studying the procession of brick terraces beyond the glass, wondering how many of their occupants are making precisely the same journey.
+
+**O teste de 60 segundos.** Pegue um livro que você está considerando, abra uma página do meio e leia cerca de 100 palavras. Conte as palavras que você não conhece.
+
+- **0–2** palavras desconhecidas: perto de 98% de cobertura. O livro serve. Continue lendo.
+- **3–5** palavras desconhecidas: em torno de 95% de cobertura. Dá para ler, mas exige esforço, e com um dicionário por perto.
+- **6 ou mais** palavras desconhecidas: abaixo de 95%. O sentido fica se rompendo. Deixe o livro de lado por enquanto e desça um nível.
+
+==Se a história continua clara embora algumas palavras continuem novas, o nível está certo.==
+
+Teste um livro antes de comprá-lo e use a próxima seção para encontrar mais livros no nível que o teste indicar.
 
 ---
 

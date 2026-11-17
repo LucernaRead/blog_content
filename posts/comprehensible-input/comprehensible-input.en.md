@@ -2,6 +2,7 @@
 title: "Comprehensible Input: What It Is and How to Use It When You Read"
 excerpt: "Comprehensible input is language you can understand with a little that is new. What Krashen's i+1 means in practice, how much of a text you need to know, and how to find and use input at your level when you read."
 publishedAt: "2026-10-16"
+updatedAt: "2026-11-17"
 draft: false
 cover: cover.jpg
 coverCredit: "Mary Cassatt, Nurse Reading to a Little Girl, 1895 · Metropolitan Museum of Art"
@@ -47,6 +48,28 @@ Reading research gives the formula a rough numerical edge, in the form of **cove
 Ninety eight percent sounds severe until you convert it. On a 250 word page, 98% coverage means about five unknown words. At 95% it means twelve or thirteen, roughly one in every other sentence, which is why 95% feels like work and 98% can feel like reading. Graded readers exist to hold you near the top of that range: their controlled vocabulary is coverage, engineered before you open the book.
 
 Coverage is a guide, not a gate. A familiar story, a subject you know well, or pictures and context can carry you through a text below these numbers, and an abstract text can defeat you above them. Use the figures to judge samples, which is where the next section starts.
+
+---
+
+## Try it: one passage at three levels
+
+The coverage figures above are easier to feel than to calculate. Here is the same short passage written at three levels. Read each one and notice where the message stays clear and where it starts to break.
+
+Level 1. Anna takes the train to work every morning. She buys a ticket, finds a seat by the window, and reads her book. The train is slow today. She looks out of the window and watches the houses go past.
+
+Level 2. Anna catches the 7:40 train to the city each morning. She buys a weekly ticket from the machine, settles into a window seat, and opens the novel she started last weekend. This morning the train crawls between stations, and she watches rows of brick houses slide past the glass.
+
+Level 3. Anna boards the 7:40 commuter train each weekday, a ritual so fixed she no longer checks the departure board. She taps her season ticket against the reader, claims her usual window seat, and resumes the novel she began on Saturday. This morning the service dawdles inexplicably between stops, and she finds herself studying the procession of brick terraces beyond the glass, wondering how many of their occupants are making precisely the same journey.
+
+**The 60-second test.** Take any page from the middle of a book you are considering and read about 100 words. Count the words you do not know.
+
+- **0–2** unknown words: near 98% coverage. The book fits. Read on.
+- **3–5** unknown words: around 95% coverage. Readable, but expect effort and a dictionary nearby.
+- **6 or more** unknown words: below 95%. The message will keep breaking. Put the book aside for now and step down a level.
+
+==If the story stays clear while a few words stay new, the level is right.==
+
+Run the test on a book before you buy it, then use the next section to find more books at the level it gives you.
 
 ---
 

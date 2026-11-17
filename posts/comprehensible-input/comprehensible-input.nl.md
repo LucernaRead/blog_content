@@ -2,6 +2,7 @@
 title: "Begrijpelijke input: wat het is en hoe je het gebruikt bij het lezen"
 excerpt: "Begrijpelijke input is taal die je kunt begrijpen en die een beetje nieuws bevat. Wat Krashens i+1 in de praktijk betekent, hoeveel van een tekst je moet kennen, en hoe je bij het lezen input op je niveau vindt en gebruikt."
 publishedAt: "2026-10-16"
+updatedAt: "2026-11-17"
 draft: false
 cover: cover.jpg
 coverCredit: "Mary Cassatt, Nurse Reading to a Little Girl, 1895 · Metropolitan Museum of Art"
@@ -47,6 +48,28 @@ Leesonderzoek geeft de formule een ruwe numerieke rand, in de vorm van **dekking
 98% klinkt streng totdat je het omrekent. Op een pagina van 250 woorden betekent 98% dekking ongeveer vijf onbekende woorden. Bij 95% zijn het er twaalf of dertien, ongeveer één in elke tweede zin, en daarom voelt 95% als werk en kan 98% als lezen voelen. Graded readers bestaan om je dicht bij de bovenkant van dat bereik te houden: hun gecontroleerde woordenschat is dekking, ontworpen voordat je het boek opent.
 
 Dekking is een gids, geen poort. Een vertrouwd verhaal, een onderwerp dat je goed kent, of beelden en context kunnen je door een tekst onder deze cijfers dragen, en een abstracte tekst kan je erboven verslaan. Gebruik de cijfers om proefstukken te beoordelen, en daar begint het volgende deel.
+
+---
+
+## Probeer het: dezelfde passage in drie niveaus
+
+De dekkingscijfers zijn makkelijker te voelen dan te berekenen. Hier staat dezelfde korte passage in drie niveaus. Lees ze alle drie en let erop waar de boodschap helder blijft en waar ze begint te breken.
+
+Level 1. Anna takes the train to work every morning. She buys a ticket, finds a seat by the window, and reads her book. The train is slow today. She looks out of the window and watches the houses go past.
+
+Level 2. Anna catches the 7:40 train to the city each morning. She buys a weekly ticket from the machine, settles into a window seat, and opens the novel she started last weekend. This morning the train crawls between stations, and she watches rows of brick houses slide past the glass.
+
+Level 3. Anna boards the 7:40 commuter train each weekday, a ritual so fixed she no longer checks the departure board. She taps her season ticket against the reader, claims her usual window seat, and resumes the novel she began on Saturday. This morning the service dawdles inexplicably between stops, and she finds herself studying the procession of brick terraces beyond the glass, wondering how many of their occupants are making precisely the same journey.
+
+**De test van 60 seconden.** Sla een boek dat je overweegt open in het midden en lees ongeveer 100 woorden. Tel de woorden die je niet kent.
+
+- **0–2** onbekende woorden: bijna 98% dekking. Het boek past. Lees door.
+- **3–5** onbekende woorden: rond 95% dekking. Leesbaar, maar met inspanning, en een woordenboek binnen handbereik.
+- **6 of meer** onbekende woorden: onder 95%. De betekenis breekt steeds af. Leg het boek voorlopig weg en ga een niveau lager.
+
+==Als het verhaal helder blijft terwijl een paar woorden nieuw zijn, klopt het niveau.==
+
+Test een boek voor je het koopt en gebruik de volgende sectie om meer boeken te vinden op het niveau dat de test je geeft.
 
 ---
 
