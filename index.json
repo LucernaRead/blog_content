@@ -2,6 +2,90 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "portuguese-graded-readers",
+      "publishedAt": "2026-11-17",
+      "cover": "cover.jpg",
+      "coverCredit": "Joan Blaeu, Brasilia, Atlas Maior, 1667 · British Library",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Brasilia_-_Atlas_Maior,_vol_12,_map_16_-_Joan_Blaeu,_1667_-_BL_114.h(star).12.(16).jpg",
+      "coverFocus": "center 40%",
+      "category": "lists",
+      "locales": {
+        "de": {
+          "slug": "portuguese-graded-readers",
+          "title": "Portugiesisch lesen: das richtige Buch für dein Niveau finden",
+          "excerpt": "Portugiesische graded reader nach Niveau. Worin sich europäisches und brasilianisches Portugiesisch unterscheiden, ein Zehn-Minuten-Test statt Etikett und ein kostenloser Einstieg.",
+          "draft": false
+        },
+        "en": {
+          "slug": "portuguese-graded-readers",
+          "title": "Portuguese Graded Readers: How to Pick the Right Level",
+          "excerpt": "Portuguese graded readers at every level. How European and Brazilian Portuguese differ, a ten-minute sample test that beats the label, and where to start for free.",
+          "draft": false
+        },
+        "es": {
+          "slug": "portuguese-graded-readers",
+          "title": "Lecturas graduadas en portugués: cómo elegir el nivel adecuado",
+          "excerpt": "Lecturas graduadas en portugués, nivel por nivel. Portugués europeo y brasileño, una prueba de diez minutos, y un punto de partida gratuito.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "portuguese-graded-readers",
+          "title": "Lectures graduées en portugais : choisir le bon niveau",
+          "excerpt": "Les lectures graduées en portugais, niveau par niveau. Ce qui distingue le portugais européen du brésilien, un test de dix minutes, et un point de départ gratuit.",
+          "draft": false
+        },
+        "it": {
+          "slug": "portuguese-graded-readers",
+          "title": "Letture graduate in portoghese: come scegliere il livello giusto",
+          "excerpt": "Letture graduate in portoghese, livello per livello. In che cosa si distinguono il portoghese europeo e quello brasiliano, un test di dieci minuti, e un punto di partenza gratuito.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "portuguese-graded-readers",
+          "title": "ポルトガル語の段階別読本、選び方",
+          "excerpt": "ポルトガル語の段階別読本をレベル別に案内。欧州ポルトガル語とブラジルポルトガル語の違い、10分の試し読み法、無料の入り口。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "portuguese-graded-readers",
+          "title": "포르투갈어 단계별 읽기: 수준 고르는 법",
+          "excerpt": "포르투갈어 단계별 읽을거리를 수준별로 안내합니다. 유럽 포르투갈어와 브라질 포르투갈어의 차이, 10분 샘플 테스트, 무료 시작점.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "portuguese-graded-readers",
+          "title": "Portugese graded readers: zo kies je het juiste niveau",
+          "excerpt": "Portugese graded readers, niveau voor niveau. Waarin Europees en Braziliaans Portugees verschillen, een test van tien minuten die meer zegt dan het etiket, en een gratis begin.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "portuguese-graded-readers",
+          "title": "Leituras graduadas em português: como escolher o nível certo",
+          "excerpt": "Leituras graduadas em português, nível a nível. O que distingue o português europeu do brasileiro, um teste de dez minutos, e um ponto de partida gratuito.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "portuguese-graded-readers",
+          "title": "Португальские книги по уровням: как выбрать свой уровень",
+          "excerpt": "Португальские книги по уровням. Чем европейский португальский отличается от бразильского, десятиминутный тест вместо ярлыка и бесплатное начало.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "portuguese-graded-readers",
+          "title": "葡萄牙文分級讀物：如何選對程度",
+          "excerpt": "葡萄牙文分級讀物指南：歐洲葡文與巴西葡文之別、十分鐘抽查法、免費起點。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "portuguese-graded-readers",
+          "title": "葡萄牙语分级读物：怎么挑对级别",
+          "excerpt": "葡萄牙语分级读物分级指南：欧洲葡语与巴西葡语的区别、十分钟抽查法、免费起点。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "short-stories-in-portuguese-for-beginners",
       "publishedAt": "2026-11-16",
       "cover": "cover.jpg",
