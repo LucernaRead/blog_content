@@ -2,6 +2,90 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "learn-portuguese-by-reading",
+      "publishedAt": "2026-11-18",
+      "cover": "cover.jpg",
+      "coverCredit": "Henri Fantin-Latour, A Leitura, 1870 · Museu Calouste Gulbenkian",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Henri_Fantin-Latour_-_A_Leitura,_1870.jpg",
+      "coverFocus": "center 40%",
+      "category": "method",
+      "locales": {
+        "de": {
+          "slug": "learn-portuguese-by-reading",
+          "title": "Portugiesisch lernen durch Lesen",
+          "excerpt": "Eine Lesemethode für das Portugiesische selbst: zwei Varianten, vier Fallen auf der Seite, ein Zehn-Minuten-Test und eine Routine mit Ton.",
+          "draft": false
+        },
+        "en": {
+          "slug": "learn-portuguese-by-reading",
+          "title": "How to Learn Portuguese by Reading",
+          "excerpt": "A reading method built for Portuguese itself: the two-variant choice, four page traps, a ten-minute sample test, and a routine that pairs the page with sound.",
+          "draft": false
+        },
+        "es": {
+          "slug": "learn-portuguese-by-reading",
+          "title": "Aprender portugués leyendo",
+          "excerpt": "Un método de lectura hecho para el portugués: dos variantes, cuatro trampas en la página, una prueba de diez minutos y una rutina que une página y sonido.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "learn-portuguese-by-reading",
+          "title": "Apprendre le portugais par la lecture",
+          "excerpt": "Une méthode de lecture faite pour le portugais : deux variantes, quatre pièges sur la page, un test de dix minutes et une routine qui associe page et son.",
+          "draft": false
+        },
+        "it": {
+          "slug": "learn-portuguese-by-reading",
+          "title": "Imparare il portoghese leggendo",
+          "excerpt": "Un metodo di lettura fatto per il portoghese: due varianti, quattro trappole nella pagina, un test di dieci minuti e una routine che unisce pagina e suono.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "learn-portuguese-by-reading",
+          "title": "読書でポルトガル語を学ぶ方法",
+          "excerpt": "ポルトガル語そのものに合わせた読書法。欧州とブラジルの違い、ページの四つの罠、十分間サンプルテスト、音と組み合わせる毎日の習慣。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "learn-portuguese-by-reading",
+          "title": "읽기로 포르투갈어 배우는 법",
+          "excerpt": "포르투갈어 자체에 맞춘 읽기 방법. 유럽식과 브라질식의 선택, 페이지의 네 가지 함정, 10분 샘플 테스트, 소리와 함께하는 매일의 습관.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "learn-portuguese-by-reading",
+          "title": "Portugees leren door te lezen",
+          "excerpt": "Een leesmethode voor het Portugees zelf: twee varianten, vier vallen op de pagina, een test van tien minuten en een routine die pagina en geluid verbindt.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "learn-portuguese-by-reading",
+          "title": "Aprender português a ler",
+          "excerpt": "Um método de leitura feito para o português: duas variantes, quatro armadilhas na página, um teste de dez minutos e uma rotina que junta página e som.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "learn-portuguese-by-reading",
+          "title": "Как учить португальский чтением",
+          "excerpt": "Метод чтения, построенный для самого португальского: два варианта, четыре ловушки на странице, десятиминутный тест и распорядок, соединяющий страницу и звук.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "learn-portuguese-by-reading",
+          "title": "如何靠閱讀學葡語",
+          "excerpt": "一套為葡語本身寫的方法：兩種葡語怎麼選、書頁四陷阱、十分鐘抽查法、邊讀邊聽的日常流程。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "learn-portuguese-by-reading",
+          "title": "如何靠阅读学葡语",
+          "excerpt": "一套为葡语本身写的方法：两种葡语怎么选、书页四陷阱、十分钟抽查法、边读边听的日常流程。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "portuguese-graded-readers",
       "publishedAt": "2026-11-17",
       "cover": "cover.jpg",
