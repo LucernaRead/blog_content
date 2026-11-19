@@ -2,6 +2,90 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "learn-italian-by-reading",
+      "publishedAt": "2026-11-19",
+      "cover": "cover.jpg",
+      "coverCredit": "Silvestro Lega, Romantic Reading, c. 1870",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Romantic_reading_(c.1870),_by_Silvestro_Lega.jpg",
+      "coverFocus": "center 40%",
+      "category": "method",
+      "locales": {
+        "de": {
+          "slug": "learn-italian-by-reading",
+          "title": "Italienisch lernen durch Lesen: vier Fallen, ein Test, eine Routine",
+          "excerpt": "Eine Lesemethode, die zur italienischen Sprache passt: vier Fallen auf der Seite, ein Zehn-Minuten-Test für die Buchwahl und eine Routine, die Seite und Ton verbindet.",
+          "draft": false
+        },
+        "en": {
+          "slug": "learn-italian-by-reading",
+          "title": "How to Learn Italian by Reading",
+          "excerpt": "A reading method built for Italian itself: four page traps, a ten-minute sample test, and a routine that pairs the page with sound.",
+          "draft": false
+        },
+        "es": {
+          "slug": "learn-italian-by-reading",
+          "title": "Aprender italiano leyendo: cuatro trampas, una prueba y una rutina",
+          "excerpt": "Un método de lectura hecho para el italiano: cuatro trampas de la página, una prueba de diez minutos para elegir libro y una rutina que une la página con el sonido.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "learn-italian-by-reading",
+          "title": "Apprendre l'italien en lisant : quatre pièges, un test, une routine",
+          "excerpt": "Une méthode de lecture faite pour l'italien lui-même : quatre pièges de la page, un test de dix minutes pour choisir un livre, et une routine qui marie la page au son.",
+          "draft": false
+        },
+        "it": {
+          "slug": "learn-italian-by-reading",
+          "title": "Imparare l'italiano leggendo",
+          "excerpt": "Un metodo di lettura costruito sull'italiano stesso: quattro trappole della pagina, una prova di dieci minuti e una routine che unisce pagina e suono.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "learn-italian-by-reading",
+          "title": "読書でイタリア語を学ぶ方法",
+          "excerpt": "イタリア語そのものに合わせた読書法。四つのページの罠、10分の試し読み、文字と音を重ねる毎日の習慣。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "learn-italian-by-reading",
+          "title": "읽기로 이탈리아어 배우는 법",
+          "excerpt": "이탈리아어 자체에 맞춘 읽기 방법. 페이지에 숨어 있는 네 가지 함정, 10분 샘플 테스트, 그리고 글과 소리를 함께 쓰는 일상을 소개합니다.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "learn-italian-by-reading",
+          "title": "Italiaans leren door te lezen",
+          "excerpt": "Een leesmethode op maat van het Italiaans zelf: vier valkuilen op de bladzijde, een test van tien minuten en een routine die lezen koppelt aan luisteren.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "learn-italian-by-reading",
+          "title": "Aprender italiano a ler: quatro armadilhas, um teste e uma rotina",
+          "excerpt": "Um método de leitura feito para o italiano: quatro armadilhas da página, um teste de dez minutos para escolher o livro e uma rotina que une a página ao som.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "learn-italian-by-reading",
+          "title": "Как учить итальянский чтением",
+          "excerpt": "Метод чтения, построенный на самом итальянском: четыре ловушки страницы, десятиминутная проба и распорядок, который соединяет страницу со звуком.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "learn-italian-by-reading",
+          "title": "如何靠閱讀學義大利文",
+          "excerpt": "一套為義大利文本身而寫的方法：四個頁面陷阱、十分鐘試讀，以及把書頁與聲音配對的日常做法。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "learn-italian-by-reading",
+          "title": "如何靠阅读学意大利语",
+          "excerpt": "一套为意大利语本身写的方法：四个页面陷阱、十分钟试读，和把书页与声音配对的日常做法。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "learn-portuguese-by-reading",
       "publishedAt": "2026-11-18",
       "cover": "cover.jpg",
