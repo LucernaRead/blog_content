@@ -2,6 +2,90 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "learn-korean-by-reading",
+      "publishedAt": "2026-11-20",
+      "cover": "cover.jpg",
+      "coverCredit": "Yi Taek-gyun, Books and Scholars' Accoutrements, late 1800s · Cleveland Museum of Art",
+      "coverLicense": "CC0",
+      "coverSource": "https://clevelandart.org/art/2011.37",
+      "coverFocus": "center 40%",
+      "category": "method",
+      "locales": {
+        "de": {
+          "slug": "learn-korean-by-reading",
+          "title": "Koreanisch lernen durch Lesen: vier Fallen, ein Test, eine Routine",
+          "excerpt": "Eine Lesemethode, die zum Koreanischen selbst passt: vier Fallen auf der Seite, ein Zehn-Minuten-Test und eine Routine, die Lesen mit Hören verbindet.",
+          "draft": false
+        },
+        "en": {
+          "slug": "learn-korean-by-reading",
+          "title": "How to Learn Korean by Reading",
+          "excerpt": "A reading method built for Korean itself, with four page traps, a ten-minute sample test, and a routine that pairs the page with sound.",
+          "draft": false
+        },
+        "es": {
+          "slug": "learn-korean-by-reading",
+          "title": "Aprender coreano leyendo: cuatro trampas, una prueba y una rutina",
+          "excerpt": "Un método de lectura adaptado al coreano mismo: cuatro trampas de la página, una prueba de diez minutos y una rutina que une lectura y escucha.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "learn-korean-by-reading",
+          "title": "Apprendre le coréen par la lecture: quatre pièges, un test, une routine",
+          "excerpt": "Une méthode de lecture adaptée au coréen lui-même : quatre pièges de la page, un test de dix minutes et une routine qui associe lecture et écoute.",
+          "draft": false
+        },
+        "it": {
+          "slug": "learn-korean-by-reading",
+          "title": "Imparare il coreano leggendo: quattro trappole, un test, una routine",
+          "excerpt": "Un metodo di lettura adatto al coreano stesso: quattro trappole della pagina, un test di dieci minuti e una routine che unisce lettura e ascolto.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "learn-korean-by-reading",
+          "title": "読書で韓国語を学ぶ：四つの壁と10分テスト",
+          "excerpt": "韓国語そのものに合わせた読書法。四つのつまずき、10分間のサンプルテスト、音と組み合わせる毎日の習慣。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "learn-korean-by-reading",
+          "title": "읽기로 한국어 배우기: 네 가지 함정과 10분 테스트",
+          "excerpt": "한국어 자체에 맞춘 읽기 방법. 네 가지 함정, 10분 샘플 테스트, 듣기와 짝짓는 매일의 습관.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "learn-korean-by-reading",
+          "title": "Koreaans leren door te lezen: vier valkuilen, een test, een routine",
+          "excerpt": "Een leesmethode die past bij het Koreaans zelf: vier valkuilen op de pagina, een test van tien minuten en een routine die lezen met luisteren verbindt.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "learn-korean-by-reading",
+          "title": "Aprender coreano lendo: quatro armadilhas, um teste e uma rotina",
+          "excerpt": "Um método de leitura adaptado ao próprio coreano: quatro armadilhas da página, um teste de dez minutos e uma rotina que une leitura e escuta.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "learn-korean-by-reading",
+          "title": "Учить корейский чтением: четыре ловушки, тест и распорядок",
+          "excerpt": "Метод чтения, подстроенный под сам корейский: четыре ловушки страницы, десятиминутный тест и распорядок, связывающий чтение со слушанием.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "learn-korean-by-reading",
+          "title": "靠閱讀學韓語：四道坎與十分鐘抽查法",
+          "excerpt": "一套為韓語本身寫的閱讀方法：四道書頁難關、十分鐘抽查法，以及把閱讀和聽力配對的日常做法。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "learn-korean-by-reading",
+          "title": "靠阅读学韩语：四道坎与十分钟抽查法",
+          "excerpt": "一套为韩语本身写的阅读方法：四道书页难关、十分钟抽查法，以及把阅读和听力配对的日常做法。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "learn-italian-by-reading",
       "publishedAt": "2026-11-19",
       "cover": "cover.jpg",
