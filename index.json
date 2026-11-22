@@ -2,6 +2,90 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "french-audiobooks-for-beginners",
+      "publishedAt": "2026-11-22",
+      "cover": "cover.jpg",
+      "coverCredit": "Pierre-Auguste Renoir, Luncheon of the Boating Party, 1880–1881 · The Phillips Collection",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Pierre-Auguste_Renoir_-_Luncheon_of_the_Boating_Party_-_Google_Art_Project.jpg",
+      "coverFocus": "center 40%",
+      "category": "lists",
+      "locales": {
+        "de": {
+          "slug": "french-audiobooks-for-beginners",
+          "title": "Französische Hörbücher für Anfänger: Hören und dabei lernen",
+          "excerpt": "Wähle ein französisches Hörbuch auf deinem Niveau, teste es in zehn Minuten und nutze eine Hör-Lese-Hör-Schleife, damit Gehörtes zu Wörtern wird, die bleiben.",
+          "draft": false
+        },
+        "en": {
+          "slug": "french-audiobooks-for-beginners",
+          "title": "French Audiobooks for Beginners: How to Listen and Learn",
+          "excerpt": "Pick a French audiobook at your level, test it in ten minutes, and use a listen-read-listen loop to turn what you hear into words you keep.",
+          "draft": false
+        },
+        "es": {
+          "slug": "french-audiobooks-for-beginners",
+          "title": "Audiolibros en francés para principiantes: escucha y aprende",
+          "excerpt": "Elige un audiolibro en francés de tu nivel, pruébalo en diez minutos y usa un ciclo de escuchar, leer y volver a escuchar para convertir lo que oyes en palabras que se quedan.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "french-audiobooks-for-beginners",
+          "title": "Livres audio en français pour débutants : écouter pour apprendre",
+          "excerpt": "Choisissez un livre audio en français à votre niveau, testez-le en dix minutes, utilisez une boucle écouter-lire-écouter pour transformer ce que vous entendez en mots qui restent.",
+          "draft": false
+        },
+        "it": {
+          "slug": "french-audiobooks-for-beginners",
+          "title": "Audiolibri in francese per principianti: ascoltare e imparare",
+          "excerpt": "Scegli un audiolibro in francese al tuo livello, provalo in dieci minuti e usa il ciclo ascolta-leggi-riascolta per ricordare ciò che ascolti.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "french-audiobooks-for-beginners",
+          "title": "フランス語オーディオブック入門：聴いて学ぶ",
+          "excerpt": "自分のレベルに合ったフランス語のオーディオブックを選び、10分で試して、聴く・読む・聴くの流れで、聞いた言葉を自分のものにする。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "french-audiobooks-for-beginners",
+          "title": "프랑스어 오디오북 입문: 들으며 배우기",
+          "excerpt": "수준에 맞는 프랑스어 오디오북을 고르고 10분간 테스트한 뒤, 듣고 읽고 다시 듣는 방법으로 들은 단어를 내 것으로 만든다.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "french-audiobooks-for-beginners",
+          "title": "Franse luisterboeken voor beginners: luisteren en leren",
+          "excerpt": "Kies een Frans luisterboek op jouw niveau, test het in tien minuten en gebruik de luister-lees-luistercyclus om wat je hoort te onthouden.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "french-audiobooks-for-beginners",
+          "title": "Audiolivros em francês para iniciantes: ouvir e aprender",
+          "excerpt": "Escolha um audiolivro em francês no seu nível, teste-o em dez minutos e use um ciclo de ouvir, ler e ouvir de novo para transformar o que você ouve em palavras que ficam.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "french-audiobooks-for-beginners",
+          "title": "Аудиокниги на французском для начинающих: слушаем и учимся",
+          "excerpt": "Выберите французскую аудиокнигу своего уровня, проверьте её за десять минут и используйте цикл «слушай, читай, слушай снова», чтобы запомнить услышанное.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "french-audiobooks-for-beginners",
+          "title": "法語有聲書入門：邊聽邊學",
+          "excerpt": "先挑一本適合你程度的法語有聲書，用十分鐘測一測，再用聽讀再聽的方法，把聽到的詞留下來。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "french-audiobooks-for-beginners",
+          "title": "法语有声书入门：边听边学",
+          "excerpt": "先挑一本适合你水平的有声书，用十分钟测一测，再用听读再听的方法，把听到的词留下来。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "spanish-audiobooks-for-beginners",
       "publishedAt": "2026-11-21",
       "cover": "cover.jpg",
