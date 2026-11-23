@@ -2,6 +2,7 @@
 title: "German Books for Beginners: The First Books Worth Reading"
 excerpt: "Choose your first German book by kind, not by fame: a learner story set in Berlin, a dual-language safety net, a familiar story, a short-chapter classic and a graded story collection, each checked by edition."
 publishedAt: "2026-10-20"
+updatedAt: "2026-11-23"
 draft: false
 cover: cover.jpg
 coverCredit: "Adolph Menzel, The Balcony Room, 1845 · Alte Nationalgalerie"
@@ -78,7 +79,7 @@ With a compatible file in [Lucerna](https://lucernaread.com/landing/en), you can
 
 ## What to read after your first book
 
-Finish first, then branch by what felt missing. If the learner story felt thin and you want books at a stated level, climb the ladder in our [German graded readers](https://lucernaread.com/landing/blog/german-graded-readers-a1-a2-b1) guide. If Berlin itself was half the pleasure, stay in the city with the shelf in [read like a Berliner](https://lucernaread.com/landing/blog/read-like-a-berliner-7-short-german-books). If a familiar story worked, repeat the trick with another book you already know in translation, and check the public-domain shelf in our [free language learning resources](https://lucernaread.com/landing/blog/free-language-learning-resources) hub before you buy anything.
+Finish first, then branch by what felt missing. If the learner story felt thin and you want books at a stated level, climb the ladder in our [German graded readers](https://lucernaread.com/landing/blog/german-graded-readers-a1-a2-b1) guide. If Berlin itself was half the pleasure, stay in the city with the shelf in [read like a Berliner](https://lucernaread.com/landing/blog/read-like-a-berliner-7-short-german-books). If a familiar story worked, repeat the trick with another book you already know in translation, and check the public-domain shelf in our [free language learning resources](https://lucernaread.com/landing/blog/free-language-learning-resources) hub before you buy anything. If French is your next language, the same choose-by-kind method is worked out for it in our [French books for beginners](https://lucernaread.com/landing/blog/french-books-for-beginners) guide.
 
 The rule that survives every branch: the best German book for a beginner is the one at the meeting point of controlled language, a story that holds you, and a length you can finish this month, not someday.
 

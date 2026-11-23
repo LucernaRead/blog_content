@@ -2,6 +2,7 @@
 title: "French Books for Beginners: The First Books Worth Reading"
 excerpt: "Choose your first French book by kind, not by fame: a guided reader, a dual-language safety net, a familiar story, a short-chapter classic and a comic, each checked by edition."
 publishedAt: "2026-10-19"
+updatedAt: "2026-11-23"
 draft: false
 cover: cover.jpg
 coverCredit: "Édouard Manet, Woman Reading, 1878–79 · Art Institute of Chicago"
@@ -14,6 +15,16 @@ category: "lists"
 Search for French books for beginners and most lists mix everything together: grammar textbooks, verb tables, story collections, children's classics and famous novels, as if one kind of book could do every job. It cannot. A reader written for learners, a book with a translation beside the text, and a famous story you already know in another language ask for three different kinds of effort. The right first book is the one whose effort you can repeat tomorrow.
 
 This is a general first-books guide. It does not repeat the level-by-level ladder in our [French graded readers](https://lucernaread.com/landing/blog/french-graded-readers-a1-a2-b1) guide, and it does not repeat the collections in [short stories in French for beginners](https://lucernaread.com/landing/blog/short-stories-in-french-for-beginners). Those posts go deeper on their own shelves. This one helps you choose which shelf to start on.
+
+The shelf at a glance:
+
+| Book | Kind | Level | Best for |
+|---|---|---|---|
+| *Easy French Reader* by R. de Roussy de Sales | Guided reader | Starts at the beginning; difficulty rises in three parts | A guided climb in one cover |
+| *Short Stories in French*, New Penguin Parallel Text | Dual-language | Real literary stories, harder than their length suggests | Checking yourself against the facing page |
+| *Le Petit Prince* by Antoine de Saint-Exupéry | Familiar story | Best after a learner book feels comfortable | Letting memory carry the plot |
+| *Le Petit Nicolas* by René Goscinny | Short-chapter classic | Fourth on the shelf; real French, not learner French | Short finishes with humour |
+| *Le Lotus bleu* (Tintin) by Hergé | Comic | Pictures carry the plot; sentences stay short | Reading when a sentence escapes you |
 
 ---
 
