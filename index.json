@@ -2877,7 +2877,8 @@
           "slug": "german-books-for-beginners",
           "title": "German Books for Beginners: The First Books Worth Reading",
           "excerpt": "Choose your first German book by kind, not by fame: a learner story set in Berlin, a dual-language safety net, a familiar story, a short-chapter classic and a graded story collection, each checked by edition.",
-          "draft": false
+          "draft": false,
+          "updatedAt": "2026-11-23"
         },
         "es": {
           "slug": "german-books-for-beginners",
@@ -2961,7 +2962,8 @@
           "slug": "french-books-for-beginners",
           "title": "French Books for Beginners: The First Books Worth Reading",
           "excerpt": "Choose your first French book by kind, not by fame: a guided reader, a dual-language safety net, a familiar story, a short-chapter classic and a comic, each checked by edition.",
-          "draft": false
+          "draft": false,
+          "updatedAt": "2026-11-23"
         },
         "es": {
           "slug": "french-books-for-beginners",
@@ -3213,7 +3215,8 @@
           "slug": "dual-language-books",
           "title": "Dual Language Books: A Beginner's Guide to Parallel Texts",
           "excerpt": "A dual language book prints the original and its translation together, so you can check yourself without leaving the story. Which layout to choose, which adult editions are worth starting with, how to read one without leaning on it, and when to graduate to a book with no translation beside it.",
-          "draft": false
+          "draft": false,
+          "updatedAt": "2026-11-23"
         },
         "es": {
           "slug": "dual-language-books",
@@ -3299,7 +3302,7 @@
           "title": "Comprehensible Input: What It Is and How to Use It When You Read",
           "excerpt": "Comprehensible input is language you can understand with a little that is new. What Krashen's i+1 means in practice, how much of a text you need to know, and how to find and use input at your level when you read.",
           "draft": false,
-          "updatedAt": "2026-11-17"
+          "updatedAt": "2026-11-23"
         },
         "es": {
           "slug": "comprehensible-input",
