@@ -2,6 +2,90 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "german-audiobooks-for-beginners",
+      "publishedAt": "2026-11-23",
+      "cover": "cover.jpg",
+      "coverCredit": "Adolph Menzel, Flute Concert of Frederick the Great at Sanssouci, 1850–1852 · Alte Nationalgalerie, Berlin",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Adolph_Menzel_-_Fl%C3%B6tenkonzert_Friedrichs_des_Gro%C3%9Fen_in_Sanssouci_-_Google_Art_Project.jpg",
+      "coverFocus": "center 40%",
+      "category": "lists",
+      "locales": {
+        "de": {
+          "slug": "german-audiobooks-for-beginners",
+          "title": "Deutsche Hörbücher für Anfänger: Hören und lernen",
+          "excerpt": "Finde in zehn Minuten heraus, ob ein Hörbuch zu deinem Niveau passt, und verwandle Gehörtes mit der Hör-Lese-Hör-Schleife in Wörter, die bleiben.",
+          "draft": false
+        },
+        "en": {
+          "slug": "german-audiobooks-for-beginners",
+          "title": "German Audiobooks for Beginners: How to Listen and Learn",
+          "excerpt": "Pick a German audiobook at your level, test it in ten minutes, and use a listen-read-listen loop to turn what you hear into words you keep.",
+          "draft": false
+        },
+        "es": {
+          "slug": "german-audiobooks-for-beginners",
+          "title": "Audiolibros en alemán para principiantes: escucha y aprende",
+          "excerpt": "Elige un audiolibro alemán a tu nivel, pruébalo en diez minutos y convierte lo que escuchas en palabras que se quedan con el ciclo escuchar-leer-escuchar.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "german-audiobooks-for-beginners",
+          "title": "Livres audio allemands pour débutants : écouter pour apprendre",
+          "excerpt": "Choisissez un livre audio allemand à votre niveau, testez-le en dix minutes, et transformez ce que vous entendez en mots retenus grâce à la boucle écouter-lire-écouter.",
+          "draft": false
+        },
+        "it": {
+          "slug": "german-audiobooks-for-beginners",
+          "title": "Audiolibri in tedesco per principianti: ascoltare per imparare",
+          "excerpt": "Scegli un audiolibro in tedesco al tuo livello, provalo in dieci minuti e trasforma ciò che ascolti in parole che restano con il ciclo ascolta-leggi-riascolta.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "german-audiobooks-for-beginners",
+          "title": "ドイツ語オーディオブック入門：聴いて学ぶ",
+          "excerpt": "10分の試聴で自分のレベルに合う本を見分け、聴く・読む・聴くの3ステップで、聴いた単語を自分のものにする方法。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "german-audiobooks-for-beginners",
+          "title": "독일어 오디오북 입문: 들으며 배우기",
+          "excerpt": "10분 청취 테스트로 내 수준에 맞는 오디오북을 고르고, 듣기-읽기-듣기 3단계로 들은 단어를 내 것으로 만드는 방법.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "german-audiobooks-for-beginners",
+          "title": "Duitse luisterboeken voor beginners: luisteren en leren",
+          "excerpt": "Kies een Duits luisterboek op jouw niveau, test het in tien minuten en verander wat je hoort in woorden die blijven met de luister-lees-luistercyclus.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "german-audiobooks-for-beginners",
+          "title": "Audiolivros em alemão para iniciantes: ouvir e aprender",
+          "excerpt": "Escolha um audiolivro em alemão no seu nível, teste-o em dez minutos e transforme o que ouve em palavras que ficam com o ciclo ouvir-ler-ouvir.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "german-audiobooks-for-beginners",
+          "title": "Немецкие аудиокниги для начинающих: слушай и учись",
+          "excerpt": "Выберите немецкую аудиокнигу под свой уровень, проверьте её за десять минут и превратите услышанное в слова, которые останутся, с помощью цикла «слушай — читай — слушай».",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "german-audiobooks-for-beginners",
+          "title": "德語有聲書入門：邊聽邊學",
+          "excerpt": "先花十分鐘試聽，判斷一本有聲書合不合你的水平，再用聽—讀—聽三遍法，把聽到的詞留下來。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "german-audiobooks-for-beginners",
+          "title": "德语有声书入门：边听边学",
+          "excerpt": "先花十分钟试听，判断一本有声书合不合你的水平，再用听—读—听三遍法，把听到的词留下来。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "french-audiobooks-for-beginners",
       "publishedAt": "2026-11-22",
       "cover": "cover.jpg",
