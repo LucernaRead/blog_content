@@ -2,7 +2,7 @@
 title: "Comprehensible Input: What It Is and How to Use It When You Read"
 excerpt: "Comprehensible input is language you can understand with a little that is new. What Krashen's i+1 means in practice, how much of a text you need to know, and how to find and use input at your level when you read."
 publishedAt: "2026-10-16"
-updatedAt: "2026-11-17"
+updatedAt: "2026-11-23"
 draft: false
 cover: cover.jpg
 coverCredit: "Mary Cassatt, Nurse Reading to a Little Girl, 1895 · Metropolitan Museum of Art"
@@ -11,6 +11,8 @@ coverSource: "https://commons.wikimedia.org/wiki/File:Nurse_Reading_to_a_Little_
 coverFocus: "center 30%"
 category: "method"
 ---
+
+**TL;DR.** Comprehensible input is language you can mostly understand, with a little that is new. Krashen's i+1 names the target: input one step beyond your current level, understood as a whole.
 
 You have probably met the advice in some form: stop drilling, start reading and listening to things you can understand, and the language will follow. The name for the material that advice points to is comprehensible input. The term is used loosely online, sometimes for any easy content at all. It has a narrower meaning, and the narrower meaning is the useful one when you choose what to read.
 
