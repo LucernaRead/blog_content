@@ -1,8 +1,8 @@
 ---
-title: "Lecturas graduadas tadoku en japonés: niveles 0–5, libros gratis y por dónde empezar"
-excerpt: "Las lecturas graduadas tadoku en japonés, explicadas: los niveles 0–5 de la NPO con furigana, cuatro series para empezar — incluidos libros PDF gratuitos — y una prueba de diez minutos para encontrar tu nivel."
+title: "Lecturas graduadas en japonés: tu primer libro en el nivel 0, con libros gratis y furigana"
+excerpt: "Lee tu primer libro en japonés solo con hiragana: el nivel 0 usa unas 350 palabras con furigana completo, cuatro series para empezar — incluidos libros PDF gratuitos — y una prueba de muestra de diez minutos que te dice con qué nivel empezar."
 publishedAt: "2026-10-09"
-updatedAt: "2026-10-19"
+updatedAt: "2026-11-23"
 draft: false
 cover: cover.jpg
 coverCredit: "Utagawa Hiroshige, Sudden Shower over Shin-Ōhashi Bridge and Atake, 1857"

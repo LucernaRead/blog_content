@@ -1,8 +1,8 @@
 ---
-title: "Japanische Tadoku Graded Readers: Stufen 0–5, kostenlose Bücher & der Einstieg"
-excerpt: "Tadoku Graded Readers für Japanisch erklärt: die Stufen 0–5 der NPO mit Furigana, vier Startreihen — darunter kostenlose PDF-Bücher — und ein Zehn-Minuten-Test für Ihre Stufe."
+title: "Japanische Graded Readers: Ihr erstes Buch auf Stufe 0 – mit kostenlosen Büchern und Furigana"
+excerpt: "Lesen Sie Ihr erstes japanisches Buch mit nur Hiragana: Stufe 0 nutzt etwa 350 Wörter mit vollständigen Furigana, vier Reihen zum Start — darunter kostenlose PDF-Bücher — und ein zehnminütiger Probetest, der zeigt, welche Stufe Sie zuerst aufschlagen."
 publishedAt: "2026-10-09"
-updatedAt: "2026-10-19"
+updatedAt: "2026-11-23"
 draft: false
 cover: cover.jpg
 coverCredit: "Utagawa Hiroshige, Sudden Shower over Shin-Ōhashi Bridge and Atake, 1857"
