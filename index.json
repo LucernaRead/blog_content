@@ -4141,87 +4141,87 @@
       "locales": {
         "de": {
           "slug": "japanese-graded-readers",
-          "title": "Japanische Tadoku Graded Readers: Stufen 0–5, kostenlose Bücher & der Einstieg",
-          "excerpt": "Tadoku Graded Readers für Japanisch erklärt: die Stufen 0–5 der NPO mit Furigana, vier Startreihen — darunter kostenlose PDF-Bücher — und ein Zehn-Minuten-Test für Ihre Stufe.",
+          "title": "Japanische Graded Readers: Ihr erstes Buch auf Stufe 0 – mit kostenlosen Büchern und Furigana",
+          "excerpt": "Lesen Sie Ihr erstes japanisches Buch mit nur Hiragana: Stufe 0 nutzt etwa 350 Wörter mit vollständigen Furigana, vier Reihen zum Start — darunter kostenlose PDF-Bücher — und ein zehnminütiger Probetest, der zeigt, welche Stufe Sie zuerst aufschlagen.",
           "draft": false,
-          "updatedAt": "2026-10-19"
+          "updatedAt": "2026-11-23"
         },
         "en": {
           "slug": "japanese-graded-readers",
-          "title": "Japanese Tadoku Graded Readers: Levels 0–5, Free Books & Where to Start",
-          "excerpt": "Tadoku graded readers for Japanese, explained: the NPO’s Levels 0–5 with furigana, four series to start with — including free PDF books — and a ten-minute test to find your level.",
+          "title": "Japanese Graded Readers: Your First Book at Level 0, With Free Books and Furigana",
+          "excerpt": "Read your first Japanese book with only hiragana: Level 0 uses about 350 words with full furigana, four series to start with — including free PDF books — and a ten-minute sample test that tells you which level to open first.",
           "draft": false,
-          "updatedAt": "2026-10-19"
+          "updatedAt": "2026-11-23"
         },
         "es": {
           "slug": "japanese-graded-readers",
-          "title": "Lecturas graduadas tadoku en japonés: niveles 0–5, libros gratis y por dónde empezar",
-          "excerpt": "Las lecturas graduadas tadoku en japonés, explicadas: los niveles 0–5 de la NPO con furigana, cuatro series para empezar — incluidos libros PDF gratuitos — y una prueba de diez minutos para encontrar tu nivel.",
+          "title": "Lecturas graduadas en japonés: tu primer libro en el nivel 0, con libros gratis y furigana",
+          "excerpt": "Lee tu primer libro en japonés solo con hiragana: el nivel 0 usa unas 350 palabras con furigana completo, cuatro series para empezar — incluidos libros PDF gratuitos — y una prueba de muestra de diez minutos que te dice con qué nivel empezar.",
           "draft": false,
-          "updatedAt": "2026-10-19"
+          "updatedAt": "2026-11-23"
         },
         "fr": {
           "slug": "japanese-graded-readers",
-          "title": "Lectures graduées tadoku en japonais : niveaux 0 à 5, livres gratuits et par où commencer",
-          "excerpt": "Les lectures graduées tadoku en japonais, expliquées : les niveaux 0 à 5 de la NPO avec furigana, quatre séries pour débuter — dont des livres PDF gratuits — et un test de dix minutes pour trouver votre niveau.",
+          "title": "Lectures graduées en japonais : votre premier livre au niveau 0, avec livres gratuits et furigana",
+          "excerpt": "Lisez votre premier livre en japonais avec seulement les hiragana : le niveau 0 n’utilise qu’environ 350 mots avec furigana complets, quatre séries pour débuter — dont des livres PDF gratuits — et un test d’essai de dix minutes qui indique le niveau par lequel commencer.",
           "draft": false,
-          "updatedAt": "2026-10-19"
+          "updatedAt": "2026-11-23"
         },
         "it": {
           "slug": "japanese-graded-readers",
-          "title": "Letture graduate tadoku in giapponese: livelli 0–5, libri gratuiti e da dove iniziare",
-          "excerpt": "Le letture graduate tadoku in giapponese, spiegate: i livelli 0–5 della NPO con furigana, quattro serie da cui partire — inclusi libri PDF gratuiti — e un test di dieci minuti per trovare il tuo livello.",
+          "title": "Letture graduate in giapponese: il primo libro al livello 0, con libri gratuiti e furigana",
+          "excerpt": "Leggi il tuo primo libro in giapponese con i soli hiragana: il livello 0 usa circa 350 parole con furigana completo, quattro serie da cui partire — inclusi libri PDF gratuiti — e un test di prova di dieci minuti che dice da quale livello cominciare.",
           "draft": false,
-          "updatedAt": "2026-10-19"
+          "updatedAt": "2026-11-23"
         },
         "ja": {
           "slug": "japanese-graded-readers",
-          "title": "日本語多読グレーデッドリーダー：レベル0〜5、無料の本と始め方",
-          "excerpt": "多読（Tadoku）のグレーデッドリーダーを解説します。NPO独自のレベル0〜5、ふりがな、無料PDFの本を含む4つの入門シリーズ、そして自分のレベルが分かる10分サンプルテストを紹介します。",
+          "title": "日本語グレーデッドリーダー：レベル0から最初の一冊を、無料の本とふりがなで",
+          "excerpt": "ひらがなだけで日本語の本を一冊読む。レベル0は約350語でふりがな付き、無料PDFを含む4つの入門シリーズ、そして最初に開くレベルが分かる10分サンプルテストを紹介します。",
           "draft": false,
-          "updatedAt": "2026-10-19"
+          "updatedAt": "2026-11-23"
         },
         "ko": {
           "slug": "japanese-graded-readers",
-          "title": "일본어 다독(Tadoku) 등급별 리더: 레벨 0–5, 무료 책과 시작법",
-          "excerpt": "일본어 다독 등급별 리더를 설명합니다: NPO 자체 레벨 0–5와 후리가나, 무료 PDF 책을 포함한 네 가지 시작 시리즈, 그리고 내 레벨을 찾는 10분 샘플 테스트.",
+          "title": "일본어 등급별 리더: 레벨 0에서 첫 책을, 무료 책과 후리가나와 함께",
+          "excerpt": "히라가나만으로 일본어 책 한 권을 읽으세요. 레벨 0은 약 350단어에 후리가나를 모두 달고, 무료 PDF 책을 포함한 네 가지 시작 시리즈와 처음 펼칠 레벨을 알려주는 10분 샘플 테스트를 소개합니다.",
           "draft": false,
-          "updatedAt": "2026-10-19"
+          "updatedAt": "2026-11-23"
         },
         "nl": {
           "slug": "japanese-graded-readers",
-          "title": "Japanse tadoku graded readers: niveaus 0–5, gratis boeken en waar te beginnen",
-          "excerpt": "Tadoku graded readers voor Japans uitgelegd: de niveaus 0–5 van de NPO met furigana, vier startseries — waaronder gratis pdf-boeken — en een voorbeeldtest van tien minuten om uw niveau te vinden.",
+          "title": "Japanse graded readers: uw eerste boek op niveau 0, met gratis boeken en furigana",
+          "excerpt": "Lees uw eerste Japanse boek met alleen hiragana: niveau 0 gebruikt ongeveer 350 woorden met volledige furigana, vier startseries — waaronder gratis pdf-boeken — en een voorbeeldtest van tien minuten die vertelt op welk niveau u moet beginnen.",
           "draft": false,
-          "updatedAt": "2026-10-19"
+          "updatedAt": "2026-11-23"
         },
         "pt": {
           "slug": "japanese-graded-readers",
-          "title": "Leituras graduadas tadoku em japonês: níveis 0–5, livros gratuitos e por onde começar",
-          "excerpt": "As leituras graduadas tadoku em japonês, explicadas: os níveis 0–5 da NPO com furigana, quatro séries para começar — incluindo livros PDF gratuitos — e um teste de dez minutos para encontrar o seu nível.",
+          "title": "Leituras graduadas em japonês: seu primeiro livro no nível 0, com livros gratuitos e furigana",
+          "excerpt": "Leia seu primeiro livro em japonês só com hiragana: o nível 0 usa cerca de 350 palavras com furigana completo, quatro séries para começar — incluindo livros PDF gratuitos — e um teste de amostra de dez minutos que diz com qual nível começar.",
           "draft": false,
-          "updatedAt": "2026-10-19"
+          "updatedAt": "2026-11-23"
         },
         "ru": {
           "slug": "japanese-graded-readers",
-          "title": "Японские книги тадоку по уровням: уровни 0–5, бесплатные книги и с чего начать",
-          "excerpt": "Книги тадоку для чтения по-японски с объяснениями: собственная шкала NPO от 0 до 5 с фуриганой, четыре стартовые серии — включая бесплатные PDF-книги — и десятиминутный тест, чтобы найти свой уровень.",
+          "title": "Японские книги по уровням: первая книга на уровне 0, с бесплатными книгами и фуриганой",
+          "excerpt": "Прочитайте первую книгу по-японски, зная только хирагану: на уровне 0 — около 350 слов с полной фуриганой, четыре стартовые серии — включая бесплатные PDF-книги — и десятиминутный пробный тест, который покажет, с какого уровня начать.",
           "draft": false,
-          "updatedAt": "2026-10-19"
+          "updatedAt": "2026-11-23"
         },
         "zh-HK": {
           "slug": "japanese-graded-readers",
-          "title": "日語多讀（Tadoku）分級讀物：0–5 級、免費書與入門指南",
-          "excerpt": "日語多讀分級讀物詳解：NPO 自有的 0–5 級與振假名、四個入門系列（包括免費 PDF 書），以及找到自己級別的十分鐘試讀法。",
+          "title": "日語分級讀物：零級讀第一本書，免費書加振假名",
+          "excerpt": "只識平假名就讀到第一本日語書：零級只用約 350 個詞、全文振假名，四個入門系列（包括免費 PDF 書），再加十分鐘試讀法，話你知先開邊一級。",
           "draft": false,
-          "updatedAt": "2026-10-19"
+          "updatedAt": "2026-11-23"
         },
         "zh": {
           "slug": "japanese-graded-readers",
-          "title": "日语多读（Tadoku）分级读物：0–5 级、免费书与入门指南",
-          "excerpt": "日语多读分级读物详解：NPO 自有的 0–5 级与振假名、四个入门系列（包括免费 PDF 书），以及找到自己级别的十分钟试读法。",
+          "title": "日语分级读物：零级读第一本书，免费书加振假名",
+          "excerpt": "只识平假名就读到第一本日语书：零级只用約 350 个词、全文振假名，四个入门系列（包括免费 PDF 书），再加十分钟试读法，告诉你先开哪一级。",
           "draft": false,
-          "updatedAt": "2026-10-19"
+          "updatedAt": "2026-11-23"
         }
       }
     },

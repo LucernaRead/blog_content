@@ -1,8 +1,8 @@
 ---
-title: "日本語多読グレーデッドリーダー：レベル0〜5、無料の本と始め方"
-excerpt: "多読（Tadoku）のグレーデッドリーダーを解説します。NPO独自のレベル0〜5、ふりがな、無料PDFの本を含む4つの入門シリーズ、そして自分のレベルが分かる10分サンプルテストを紹介します。"
+title: "日本語グレーデッドリーダー：レベル0から最初の一冊を、無料の本とふりがなで"
+excerpt: "ひらがなだけで日本語の本を一冊読む。レベル0は約350語でふりがな付き、無料PDFを含む4つの入門シリーズ、そして最初に開くレベルが分かる10分サンプルテストを紹介します。"
 publishedAt: "2026-10-09"
-updatedAt: "2026-10-19"
+updatedAt: "2026-11-23"
 draft: false
 cover: cover.jpg
 coverCredit: "Utagawa Hiroshige, Sudden Shower over Shin-Ōhashi Bridge and Atake, 1857"

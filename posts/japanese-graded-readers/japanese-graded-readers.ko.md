@@ -1,8 +1,8 @@
 ---
-title: "일본어 다독(Tadoku) 등급별 리더: 레벨 0–5, 무료 책과 시작법"
-excerpt: "일본어 다독 등급별 리더를 설명합니다: NPO 자체 레벨 0–5와 후리가나, 무료 PDF 책을 포함한 네 가지 시작 시리즈, 그리고 내 레벨을 찾는 10분 샘플 테스트."
+title: "일본어 등급별 리더: 레벨 0에서 첫 책을, 무료 책과 후리가나와 함께"
+excerpt: "히라가나만으로 일본어 책 한 권을 읽으세요. 레벨 0은 약 350단어에 후리가나를 모두 달고, 무료 PDF 책을 포함한 네 가지 시작 시리즈와 처음 펼칠 레벨을 알려주는 10분 샘플 테스트를 소개합니다."
 publishedAt: "2026-10-09"
-updatedAt: "2026-10-19"
+updatedAt: "2026-11-23"
 draft: false
 cover: cover.jpg
 coverCredit: "Utagawa Hiroshige, Sudden Shower over Shin-Ōhashi Bridge and Atake, 1857"

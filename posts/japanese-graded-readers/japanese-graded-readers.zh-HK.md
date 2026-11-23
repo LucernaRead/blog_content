@@ -1,8 +1,8 @@
 ---
-title: "日語多讀（Tadoku）分級讀物：0–5 級、免費書與入門指南"
-excerpt: "日語多讀分級讀物詳解：NPO 自有的 0–5 級與振假名、四個入門系列（包括免費 PDF 書），以及找到自己級別的十分鐘試讀法。"
+title: "日語分級讀物：零級讀第一本書，免費書加振假名"
+excerpt: "只識平假名就讀到第一本日語書：零級只用約 350 個詞、全文振假名，四個入門系列（包括免費 PDF 書），再加十分鐘試讀法，話你知先開邊一級。"
 publishedAt: "2026-10-09"
-updatedAt: "2026-10-19"
+updatedAt: "2026-11-23"
 draft: false
 cover: cover.jpg
 coverCredit: "Utagawa Hiroshige, Sudden Shower over Shin-Ōhashi Bridge and Atake, 1857"

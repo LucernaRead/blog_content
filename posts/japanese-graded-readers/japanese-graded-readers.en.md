@@ -1,8 +1,8 @@
 ---
-title: "Japanese Tadoku Graded Readers: Levels 0–5, Free Books & Where to Start"
-excerpt: "Tadoku graded readers for Japanese, explained: the NPO’s Levels 0–5 with furigana, four series to start with — including free PDF books — and a ten-minute test to find your level."
+title: "Japanese Graded Readers: Your First Book at Level 0, With Free Books and Furigana"
+excerpt: "Read your first Japanese book with only hiragana: Level 0 uses about 350 words with full furigana, four series to start with — including free PDF books — and a ten-minute sample test that tells you which level to open first."
 publishedAt: "2026-10-09"
-updatedAt: "2026-10-19"
+updatedAt: "2026-11-23"
 draft: false
 cover: cover.jpg
 coverCredit: "Utagawa Hiroshige, Sudden Shower over Shin-Ōhashi Bridge and Atake, 1857"
