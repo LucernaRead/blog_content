@@ -2,6 +2,90 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "portuguese-audiobooks-for-beginners",
+      "publishedAt": "2026-11-24",
+      "cover": "cover.jpg",
+      "coverCredit": "José Ferraz de Almeida Júnior, The Guitar Player (O Violeiro), 1899 · Pinacoteca de São Paulo",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Almeida_J%C3%BAnior_-_The_Guitar_Player_-_Google_Art_Project.jpg",
+      "coverFocus": "center 40%",
+      "category": "lists",
+      "locales": {
+        "de": {
+          "slug": "portuguese-audiobooks-for-beginners",
+          "title": "Portugiesische Hörbücher für Anfänger: Hören und Lernen",
+          "excerpt": "Wähle ein portugiesisches Hörbuch auf deinem Niveau, teste es in zehn Minuten und verwandle Gehörtes mit der Hör-Lese-Hör-Schleife in Wörter, die bleiben.",
+          "draft": false
+        },
+        "en": {
+          "slug": "portuguese-audiobooks-for-beginners",
+          "title": "Portuguese Audiobooks for Beginners: How to Listen and Learn",
+          "excerpt": "Pick a Portuguese audiobook at your level, test it in ten minutes, and use a listen-read-listen loop to turn what you hear into words you keep.",
+          "draft": false
+        },
+        "es": {
+          "slug": "portuguese-audiobooks-for-beginners",
+          "title": "Audiolibros en portugués para principiantes: cómo escuchar y aprender",
+          "excerpt": "Elige un audiolibro en portugués de tu nivel, pruébalo en diez minutos y convierte lo que oyes en palabras que se quedan con el ciclo escuchar-leer-escuchar.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "portuguese-audiobooks-for-beginners",
+          "title": "Livres audio en portugais pour débutants : écouter et apprendre",
+          "excerpt": "Choisis un livre audio portugais à ton niveau, teste-le en dix minutes, puis transforme ce que tu entends en mots qui restent grâce à la boucle écouter-lire-écouter.",
+          "draft": false
+        },
+        "it": {
+          "slug": "portuguese-audiobooks-for-beginners",
+          "title": "Audiolibri in portoghese per principianti: ascoltare e imparare",
+          "excerpt": "Scegli un audiolibro in portoghese al tuo livello, provalo in dieci minuti e trasforma ciò che ascolti in parole che restano con il ciclo ascolta-leggi-ascolta.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "portuguese-audiobooks-for-beginners",
+          "title": "ポルトガル語オーディオブック入門：聴いて学ぶ方法",
+          "excerpt": "レベルに合ったポルトガル語オーディオブックを選び、10分で試聴し、聴く・読む・聴くの循環で聴いた単語を定着させよう。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "portuguese-audiobooks-for-beginners",
+          "title": "포르투갈어 오디오북 입문: 듣고 배우는 방법",
+          "excerpt": "수준에 맞는 포르투갈어 오디오북을 고르고 10분 만에 시험한 뒤, 듣기·읽기·듣기 순환으로 들은 단어를 오래 남기자.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "portuguese-audiobooks-for-beginners",
+          "title": "Portugese luisterboeken voor beginners: luisteren en leren",
+          "excerpt": "Kies een Portugees luisterboek op jouw niveau, test het in tien minuten en verander wat je hoort in woorden die blijven met de luister-lees-luistercyclus.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "portuguese-audiobooks-for-beginners",
+          "title": "Audiolivros em português para iniciantes: como ouvir e aprender",
+          "excerpt": "Escolha um audiolivro em português do seu nível, teste-o em dez minutos e use o ciclo ouvir-ler-ouvir para transformar o que ouve em palavras que ficam.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "portuguese-audiobooks-for-beginners",
+          "title": "Аудиокниги на португальском для начинающих: слушать и учить",
+          "excerpt": "Выберите португальскую аудиокнигу своего уровня, проверьте её за десять минут и превратите услышанное в слова, которые останутся, с циклом «слушать — читать — слушать».",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "portuguese-audiobooks-for-beginners",
+          "title": "葡萄牙語有聲書入門：怎麼聽，怎麼學",
+          "excerpt": "選一本合你程度的葡語有聲書，十分鐘測一測，再用聽-讀-聽循環把聽到的詞留下來。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "portuguese-audiobooks-for-beginners",
+          "title": "葡萄牙语有声书入门：怎么听，怎么学",
+          "excerpt": "选一本合你水平的葡语有声书，十分钟测一测，再用听-读-听循环把听到的词留下来。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "german-audiobooks-for-beginners",
       "publishedAt": "2026-11-23",
       "cover": "cover.jpg",
