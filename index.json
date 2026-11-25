@@ -2,6 +2,90 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "dutch-audiobooks-for-beginners",
+      "publishedAt": "2026-11-25",
+      "cover": "cover.jpg",
+      "coverCredit": "Frans Hals, The Lute Player, c. 1623–24 · Louvre",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:0_Le_Bouffon_au_luth_-_Frans_Hals_-_RF_1984-32_-_Louvre_1.JPG",
+      "coverFocus": "center 40%",
+      "category": "lists",
+      "locales": {
+        "de": {
+          "slug": "dutch-audiobooks-for-beginners",
+          "title": "Niederländische Hörbücher für Anfänger: Hören und Lernen",
+          "excerpt": "Wähle ein niederländisches Hörbuch auf deinem Niveau, teste es in zehn Minuten und verwandle Gehörtes mit der Hör-Lese-Hör-Schleife in Wörter, die bleiben.",
+          "draft": false
+        },
+        "en": {
+          "slug": "dutch-audiobooks-for-beginners",
+          "title": "Dutch Audiobooks for Beginners: How to Listen and Learn",
+          "excerpt": "Pick a Dutch audiobook at your level, test it in ten minutes, and use a listen-read-listen loop to turn what you hear into words you keep.",
+          "draft": false
+        },
+        "es": {
+          "slug": "dutch-audiobooks-for-beginners",
+          "title": "Audiolibros en neerlandés para principiantes: cómo escuchar y aprender",
+          "excerpt": "Elige un audiolibro en neerlandés de tu nivel, pruébalo en diez minutos y convierte lo que oyes en palabras que se quedan con el ciclo escuchar-leer-escuchar.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "dutch-audiobooks-for-beginners",
+          "title": "Livres audio en néerlandais pour débutants : écouter et apprendre",
+          "excerpt": "Choisis un livre audio néerlandais à ton niveau, teste-le en dix minutes, puis transforme ce que tu entends en mots qui restent grâce à la boucle écouter-lire-écouter.",
+          "draft": false
+        },
+        "it": {
+          "slug": "dutch-audiobooks-for-beginners",
+          "title": "Audiolibri in olandese per principianti: ascoltare e imparare",
+          "excerpt": "Scegli un audiolibro in olandese al tuo livello, provalo in dieci minuti e trasforma ciò che ascolti in parole che restano con il ciclo ascolta-leggi-ascolta.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "dutch-audiobooks-for-beginners",
+          "title": "オランダ語オーディオブック入門：聴いて学ぶ方法",
+          "excerpt": "レベルに合ったオランダ語オーディオブックを選び、10分で試聴し、聴く・読む・聴くの循環で聴いた単語を定着させよう。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "dutch-audiobooks-for-beginners",
+          "title": "네덜란드어 오디오북 입문: 듣고 배우는 방법",
+          "excerpt": "수준에 맞는 네덜란드어 오디오북을 고르고 10분 만에 시험한 뒤, 듣기·읽기·듣기 순환으로 들은 단어를 오래 남기자.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "dutch-audiobooks-for-beginners",
+          "title": "Nederlandse luisterboeken voor beginners: luisteren en leren",
+          "excerpt": "Kies een Nederlands luisterboek op jouw niveau, test het in tien minuten en verander wat je hoort in woorden die blijven met de luister-lees-luistercyclus.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "dutch-audiobooks-for-beginners",
+          "title": "Audiolivros em neerlandês para iniciantes: como ouvir e aprender",
+          "excerpt": "Escolha um audiolivro em neerlandês do seu nível, teste-o em dez minutos e use o ciclo ouvir-ler-ouvir para transformar o que ouve em palavras que ficam.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "dutch-audiobooks-for-beginners",
+          "title": "Аудиокниги на нидерландском для начинающих: слушать и учить",
+          "excerpt": "Выберите нидерландскую аудиокнигу своего уровня, проверьте её за десять минут и превратите услышанное в слова, которые останутся, с помощью цикла «слушать — читать — слушать».",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "dutch-audiobooks-for-beginners",
+          "title": "荷蘭語有聲書入門：怎麼聽，怎麼學",
+          "excerpt": "選一本合你程度的荷蘭語有聲書，十分鐘測一測，再用聽-讀-聽循環把聽到的詞留下來。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "dutch-audiobooks-for-beginners",
+          "title": "荷兰语有声书入门：怎么听，怎么学",
+          "excerpt": "选一本合你水平的荷兰语有声书，十分钟测一测，再用听-读-听循环把听到的词留下来。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "portuguese-audiobooks-for-beginners",
       "publishedAt": "2026-11-24",
       "cover": "cover.jpg",
