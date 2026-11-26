@@ -2,6 +2,90 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "italian-audiobooks-for-beginners",
+      "publishedAt": "2026-11-26",
+      "cover": "cover.jpg",
+      "coverCredit": "Caravaggio, The Musicians, 1595 · The Metropolitan Museum of Art",
+      "coverLicense": "CC0",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:The_Musicians_MET_DP-687-001.jpg",
+      "coverFocus": "center 40%",
+      "category": "lists",
+      "locales": {
+        "de": {
+          "slug": "italian-audiobooks-for-beginners",
+          "title": "Italienisch lernen mit Hörbüchern: So geht es für Anfänger",
+          "excerpt": "Such dir ein italienisches Hörbuch auf deinem Niveau, teste es in zehn Minuten und verwandle Gehörtes mit einer Hör-Lese-Hör-Schleife in Wörter, die bleiben.",
+          "draft": false
+        },
+        "en": {
+          "slug": "italian-audiobooks-for-beginners",
+          "title": "Italian Audiobooks for Beginners: How to Listen and Learn",
+          "excerpt": "Pick an Italian audiobook at your level, test it in ten minutes, and use a listen-read-listen loop to turn what you hear into words you keep.",
+          "draft": false
+        },
+        "es": {
+          "slug": "italian-audiobooks-for-beginners",
+          "title": "Audiolibros en italiano para principiantes: cómo escuchar y aprender",
+          "excerpt": "Elige un audiolibro en italiano a tu nivel, pruébalo en diez minutos y convierte lo que escuchas en palabras que se quedan con un ciclo de escuchar-leer-escuchar.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "italian-audiobooks-for-beginners",
+          "title": "Apprendre l'italien avec les livres audio: guide pour débutants",
+          "excerpt": "Choisis un livre audio italien à ton niveau, teste-le en dix minutes, puis transforme ce que tu entends en mots qui restent grâce à la boucle écouter-lire-écouter.",
+          "draft": false
+        },
+        "it": {
+          "slug": "italian-audiobooks-for-beginners",
+          "title": "Audiolibri in italiano per principianti: come ascoltare e imparare",
+          "excerpt": "Scegli un audiolibro in italiano al tuo livello, provalo in dieci minuti e trasforma ciò che ascolti in parole che restano con un ciclo ascolta-leggi-ascolta.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "italian-audiobooks-for-beginners",
+          "title": "初心者のためのイタリア語オーディオブック：聴いて学ぶ方法",
+          "excerpt": "自分のレベルに合ったイタリア語オーディオブックを選び、10分間の試聴テストで確かめ、聴く・読む・聴くの循環で聞いた単語を定着させる方法。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "italian-audiobooks-for-beginners",
+          "title": "초보자를 위한 이탈리아어 오디오북: 듣고 배우는 방법",
+          "excerpt": "자신의 수준에 맞는 이탈리아어 오디오북을 고르고, 10분 듣기 테스트로 확인한 뒤 듣기-읽기-듣기 순환으로 들은 단어를 남기는 방법.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "italian-audiobooks-for-beginners",
+          "title": "Italiaanse luisterboeken voor beginners: luisteren en leren",
+          "excerpt": "Kies een Italiaans luisterboek op jouw niveau, test het in tien minuten en verander wat je hoort in woorden die blijven met een luister-lees-luistercyclus.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "italian-audiobooks-for-beginners",
+          "title": "Audiolivros em italiano para iniciantes: como ouvir e aprender",
+          "excerpt": "Escolha um audiolivro em italiano no seu nível, teste-o em dez minutos e transforme o que ouve em palavras que ficam com um ciclo de ouvir-ler-ouvir.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "italian-audiobooks-for-beginners",
+          "title": "Аудиокниги на итальянском для начинающих: как слушать и учиться",
+          "excerpt": "Выберите аудиокнигу на итальянском по своему уровню, проверьте её за десять минут и превратите услышанное в слова, которые останутся, с циклом «слушать — читать — слушать».",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "italian-audiobooks-for-beginners",
+          "title": "義大利語有聲書入門：怎麼聽，怎麼學",
+          "excerpt": "挑一本合你程度的義大利語有聲書，花十分鐘試聽，再用聽-讀-聽循環把聽到的詞留下來。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "italian-audiobooks-for-beginners",
+          "title": "意大利语有声书入门：怎么听，怎么学",
+          "excerpt": "挑一本合你程度的意大利语有声书，花十分钟试听，再用听-读-听循环把听到的词留下来。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "dutch-audiobooks-for-beginners",
       "publishedAt": "2026-11-25",
       "cover": "cover.jpg",
