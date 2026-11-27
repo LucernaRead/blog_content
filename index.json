@@ -2,6 +2,90 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "japanese-audiobooks-for-beginners",
+      "publishedAt": "2026-11-27",
+      "cover": "cover.jpg",
+      "coverCredit": "Okumura Masanobu and Suzuki Harunobu, Woman Reading a Scroll, 17th century · Los Angeles County Museum of Art",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Woman_Reading_a_Scroll_LACMA_M.2006.136.23.jpg",
+      "coverFocus": "center 40%",
+      "category": "lists",
+      "locales": {
+        "de": {
+          "slug": "japanese-audiobooks-for-beginners",
+          "title": "Japanisch lernen mit Hörbüchern: So geht es für Anfänger",
+          "excerpt": "Ein japanisches Hörbuch finden, das zu deinem Stand passt, mit einem Zehn-Minuten-Hörtest prüfen und mit einem Hören-Lesen-Hören-Kreislauf die gehörten Wörter behalten.",
+          "draft": false
+        },
+        "en": {
+          "slug": "japanese-audiobooks-for-beginners",
+          "title": "Japanese Audiobooks for Beginners: How to Listen and Learn",
+          "excerpt": "Pick a Japanese audiobook at your level, test it in ten minutes, and use a listen-read-listen loop to turn what you hear into words you keep.",
+          "draft": false
+        },
+        "es": {
+          "slug": "japanese-audiobooks-for-beginners",
+          "title": "Audiolibros en japonés para principiantes: cómo escuchar y aprender",
+          "excerpt": "Encontrar un audiolibro japonés a tu nivel, comprobarlo con una prueba de escucha de diez minutos y retener las palabras oídas con el ciclo escuchar-leer-escuchar.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "japanese-audiobooks-for-beginners",
+          "title": "Apprendre le japonais avec les livres audio: guide pour débutants",
+          "excerpt": "Trouver un livre audio japonais à votre niveau, le vérifier avec un test d'écoute de dix minutes, puis retenir les mots entendus grâce au cycle écoute-lecture-écoute.",
+          "draft": false
+        },
+        "it": {
+          "slug": "japanese-audiobooks-for-beginners",
+          "title": "Audiolibri in giapponese per principianti: come ascoltare e imparare",
+          "excerpt": "Trovare un audiolibro giapponese al tuo livello, verificarlo con un test di ascolto di dieci minuti e trattenere le parole ascoltate con il ciclo ascolta-leggi-ascolta.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "japanese-audiobooks-for-beginners",
+          "title": "初心者のための日本語オーディオブック：聴いて学ぶ方法",
+          "excerpt": "自分のレベルに合った日本語オーディオブックを選び、10分間の試聴テストで確かめ、聴く・読む・聴くの循環で聞いた単語を定着させる方法。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "japanese-audiobooks-for-beginners",
+          "title": "초보자를 위한 일본어 오디오북: 듣고 배우는 방법",
+          "excerpt": "자신의 수준에 맞는 일본어 오디오북을 고르고, 10분 듣기 테스트로 확인한 뒤 듣기-읽기-듣기 순환으로 들은 단어를 남기는 방법.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "japanese-audiobooks-for-beginners",
+          "title": "Japanse luisterboeken voor beginners: luisteren en leren",
+          "excerpt": "Een Japans luisterboek vinden dat bij je niveau past, het testen met een tienminutentest en de gehoorde woorden onthouden met de luister-lees-luistercyclus.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "japanese-audiobooks-for-beginners",
+          "title": "Audiolivros em japonês para iniciantes: como ouvir e aprender",
+          "excerpt": "Encontrar um audiolivro japonês no seu nível, testá-lo com um teste de escuta de dez minutos e reter as palavras ouvidas com o ciclo ouvir-ler-ouvir.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "japanese-audiobooks-for-beginners",
+          "title": "Аудиокниги на японском для начинающих: как слушать и учиться",
+          "excerpt": "Найти аудиокнигу на японском под свой уровень, проверить её десятиминутным тестом на слух и сохранить услышанные слова с помощью цикла «слушай — читай — слушай».",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "japanese-audiobooks-for-beginners",
+          "title": "日語有聲書入門：怎麼聽，怎麼學",
+          "excerpt": "挑一本合你程度的日語有聲書，花十分鐘試聽，再用聽-讀-聽循環把聽到的詞留下來。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "japanese-audiobooks-for-beginners",
+          "title": "日语有声书入门：怎么听，怎么学",
+          "excerpt": "挑一本合你程度的日语有声书，花十分钟试听，再用听-读-听循环把听到的词留下来。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "italian-audiobooks-for-beginners",
       "publishedAt": "2026-11-26",
       "cover": "cover.jpg",
