@@ -2,6 +2,90 @@
   "generatedBy": "lint.mjs",
   "posts": [
     {
+      "dir": "chinese-audiobooks-for-beginners",
+      "publishedAt": "2026-11-28",
+      "cover": "cover.jpg",
+      "coverCredit": "Emperor Huizong of Song, Listening to the Qin, 12th century",
+      "coverLicense": "public-domain",
+      "coverSource": "https://commons.wikimedia.org/wiki/File:Songhuizong_cropped_%E8%B5%B5%E4%BD%B6%E5%90%AC%E7%90%B4%E5%9B%BE%E8%BD%B4.jpg",
+      "coverFocus": "center 40%",
+      "category": "lists",
+      "locales": {
+        "de": {
+          "slug": "chinese-audiobooks-for-beginners",
+          "title": "Chinesische Hörbücher für Anfänger: Hören und dabei lernen",
+          "excerpt": "Wähle ein chinesisches Hörbuch auf deinem Niveau, teste es in zehn Minuten und nutze die Hör-Lese-Hör-Schleife, damit aus Gehörtem Wörter werden, die bleiben.",
+          "draft": false
+        },
+        "en": {
+          "slug": "chinese-audiobooks-for-beginners",
+          "title": "Chinese Audiobooks for Beginners: How to Listen and Learn",
+          "excerpt": "Pick a Chinese audiobook at your level, test it in ten minutes, and use a listen-read-listen loop to turn what you hear into words you keep.",
+          "draft": false
+        },
+        "es": {
+          "slug": "chinese-audiobooks-for-beginners",
+          "title": "Audiolibros en chino para principiantes: cómo escuchar y aprender",
+          "excerpt": "Elige un audiolibro en chino a tu nivel, pruébalo en diez minutos y usa un ciclo de escuchar, leer y escuchar para convertir lo que oyes en palabras que se quedan.",
+          "draft": false
+        },
+        "fr": {
+          "slug": "chinese-audiobooks-for-beginners",
+          "title": "Le chinois par l'oreille : livres audio pour débutants",
+          "excerpt": "Choisissez un livre audio chinois à votre niveau, testez-le en dix minutes et suivez la boucle écouter, lire, réécouter pour garder les mots entendus.",
+          "draft": false
+        },
+        "it": {
+          "slug": "chinese-audiobooks-for-beginners",
+          "title": "Audiolibri in cinese per principianti: come ascoltare e imparare",
+          "excerpt": "Scegli un audiolibro in cinese al tuo livello, provalo in dieci minuti e usa il ciclo ascolta-leggi-riascolta per trasformare ciò che senti in parole che restano.",
+          "draft": false
+        },
+        "ja": {
+          "slug": "chinese-audiobooks-for-beginners",
+          "title": "中国語オーディオブック入門：耳で覚える中国語",
+          "excerpt": "レベルに合った中国語オーディオブックを選び、10分の試聴テストで確かめ、聴く・読む・聴くを繰り返して聞き取った語を自分のものにする方法。",
+          "draft": false
+        },
+        "ko": {
+          "slug": "chinese-audiobooks-for-beginners",
+          "title": "중국어 오디오북으로 듣고 배우기",
+          "excerpt": "수준에 맞는 중국어 오디오북을 고르고 10분 테스트로 확인한 뒤, 듣고 읽고 다시 듣는 방법으로 들은 내용을 내 단어로 만드세요.",
+          "draft": false
+        },
+        "nl": {
+          "slug": "chinese-audiobooks-for-beginners",
+          "title": "Chinese luisterboeken voor beginners: zo leer je door te luisteren",
+          "excerpt": "Kies een Chinees luisterboek op jouw niveau, test het in tien minuten en gebruik de luister-lees-luisterlus om wat je hoort om te zetten in woorden die blijven hangen.",
+          "draft": false
+        },
+        "pt": {
+          "slug": "chinese-audiobooks-for-beginners",
+          "title": "Audiolivros em chinês para iniciantes: como ouvir e aprender",
+          "excerpt": "Escolha um audiolivro chinês no seu nível, teste-o em dez minutos e use o ciclo ouvir-ler-ouvir para transformar o que ouve em palavras que ficam.",
+          "draft": false
+        },
+        "ru": {
+          "slug": "chinese-audiobooks-for-beginners",
+          "title": "Аудиокниги на китайском для начинающих: как слушать и учить",
+          "excerpt": "Выберите аудиокнигу на китайском под свой уровень, проверьте её за десять минут и используйте цикл «слушать-читать-слушать», чтобы услышанное стало словами, которые запомнятся.",
+          "draft": false
+        },
+        "zh-HK": {
+          "slug": "chinese-audiobooks-for-beginners",
+          "title": "中文有聲書入門：邊聽邊學",
+          "excerpt": "按自己的程度揀一本中文有聲書，用十分鐘試聽，再靠聽讀循環將聽到的詞留低。",
+          "draft": false
+        },
+        "zh": {
+          "slug": "chinese-audiobooks-for-beginners",
+          "title": "中文有声书入门：听着学",
+          "excerpt": "按自己的水平挑一本中文有声书，十分钟测它合不合适，再用听读循环把听到的词留下来。",
+          "draft": false
+        }
+      }
+    },
+    {
       "dir": "japanese-audiobooks-for-beginners",
       "publishedAt": "2026-11-27",
       "cover": "cover.jpg",
